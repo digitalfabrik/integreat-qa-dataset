@@ -1,0 +1,6 @@
+Q1: What happens after I enter the country?
+A1: 4
+Q2: Where can I register in Germany and where do I get accommodation and food?
+A2: 5
+Q3: Can I work in Germany with a residence permit for temporary protection?
+A3: 10

@@ -1,0 +1,6 @@
+Q1: Have you received a fine?
+A1: 1
+Q2: You can’t pay?
+A2: 2
+Q3: Do you have to do community work as a condition of parole?
+A3: 3
