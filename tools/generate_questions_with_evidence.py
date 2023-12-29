@@ -58,9 +58,6 @@ def generate_questions(slug):
     response_file.write(str(response))
 
 
-# Ideas:
-# - Use multiple user messages, one each for each content
-# - Add multiple paragraphs in one message
 if __name__ == '__main__':
     os.makedirs(get_questions_with_evidence_path([RAW_SLUG]), exist_ok=True)
     os.makedirs(get_questions_with_evidence_path([RESPONSES_SLUG]), exist_ok=True)
@@ -68,6 +65,5 @@ if __name__ == '__main__':
     page_path = get_integreat_pages_path('')
     slugs = os.listdir(page_path)
 
-    # slugs = ['277673.txt', '264450.txt']
-    for slug in slugs[:10]:
+    for slug in slugs[:15]:
         generate_questions(slug)

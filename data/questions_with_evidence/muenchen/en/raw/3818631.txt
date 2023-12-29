@@ -1,0 +1,6 @@
+Q1: Who needs a certificate from the Ausländerbehörde?
+A1: 2
+Q2: Why is the certificate necessary?
+A2: 3
+Q3: When should you go to the Ausländerbehörde?
+A3: 4

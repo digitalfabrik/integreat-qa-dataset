@@ -86,8 +86,7 @@ def preprocess():
         if len(title) + len(parsed) < MIN_CONTENT_LENGTH:
             continue
 
-        filename = get_integreat_pages_path(str(page_id) + '.txt')
-
+        filename = get_integreat_pages_path(f'{page_id}.txt')
         new_file = open(filename, 'w')
         new_file.write(enumerate_lines(title + '\n' + parsed))
 

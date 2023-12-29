@@ -1,0 +1,6 @@
+Q1: What is the role of unions in Germany?
+A1: 2
+Q2: How many unions are there in Germany?
+A2: 3
+Q3: Who is eligible to become a member of a union?
+A3: 9

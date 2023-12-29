@@ -3,7 +3,6 @@ LANGUAGE = 'en'
 
 RESPONSES_SLUG = 'responses'
 RAW_SLUG = 'raw'
-QUESTIONS_SLUG = 'questions'
 PAGES_SLUG = 'pages'
 BASE_SLUG = '../data'
 

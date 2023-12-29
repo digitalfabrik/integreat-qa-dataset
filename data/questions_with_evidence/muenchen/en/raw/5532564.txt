@@ -1,0 +1,6 @@
+Q1: What is the age range for the Arabic Saturday School?
+Q2: How are the children taught in the Saturday school?
+Q3: Are the lessons free of charge?
+A1: 1
+A2: 3
+A3: 10
