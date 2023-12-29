@@ -1,6 +1,0 @@
-Q1: Are language interpreters available?
-A1: 14
-Q2: Can you bring your children with you?
-A2: 15
-Q3: Is the service free?
-A3: 17

@@ -31,18 +31,22 @@ def generate_questions(slug):
     responses_path = get_questions_with_evidence_path([RESPONSES_SLUG, slug])
 
     if os.path.isfile(raw_path):
-        # Skip pages which already have generated questions
         print(f'Skipping {slug}: Already exists')
         return
 
     page_file = open(page_path, 'r')
     content = page_file.read()
 
+    if 'The service is free' in content:
+        # Questions about pages with specific services are most of the time things like 'Is the service free?'
+        print(f'Skipping {slug}: Specific service')
+        return
+
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model='gpt-3.5-turbo',
         messages=[
-            {"role": "system", "content": prompt},
-            {"role": "user", "content": content},
+            {'role': 'system', 'content': prompt},
+            {'role': 'user', 'content': content},
         ]
     )
     print(f'Generated {slug}: {response}')
