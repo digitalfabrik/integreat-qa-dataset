@@ -65,5 +65,5 @@ if __name__ == '__main__':
     page_path = get_integreat_pages_path('')
     slugs = os.listdir(page_path)
 
-    for slug in slugs[:15]:
+    for slug in slugs[:65]:
         generate_questions(slug)

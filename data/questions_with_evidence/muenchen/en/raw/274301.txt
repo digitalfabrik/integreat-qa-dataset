@@ -1,0 +1,6 @@
+Q1: Who is the Munich holiday portal organized by?
+A1: 1
+Q2: What type of information is available at the JIZ?
+A2: 2
+Q3: Who can access the JIZ?
+A3: 6

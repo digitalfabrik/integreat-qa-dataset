@@ -1,0 +1,6 @@
+Q1: Can asylum seekers travel abroad during the asylum procedure?
+A1: 1
+Q2: Can school pupils participate in class trips during the asylum procedure?
+A2: 2, 6
+Q3: What should someone do if their asylum application is rejected?
+A3: 9, 10, 12, 14

@@ -1,0 +1,8 @@
+Q1: Who can seek counselling at Munich's educational counselling centres?
+A1: 10
+
+Q2: What topics do the counselling centres provide support for?
+A2: 2, 3, 4, 5
+
+Q3: Are the counselling services free of charge?
+A3: 12

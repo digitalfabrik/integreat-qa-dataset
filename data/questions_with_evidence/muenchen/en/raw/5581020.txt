@@ -1,0 +1,6 @@
+Q1: What leisure activities are offered for refugee and homeless children and young people?
+A1: 1, 2
+Q2: Who is eligible to participate in the activities?
+A2: 4
+Q3: Are there any specific activities for boys or girls?
+A3: 6

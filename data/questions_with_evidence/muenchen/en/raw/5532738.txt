@@ -1,0 +1,6 @@
+Q1: Where can I find a list of all second-hand shops in Munich?
+A1: 7
+Q2: Where can I find a list of all flea markets in Munich?
+A2: 8
+Q3: Where can I find information about shops and restaurants where I can shop without packaging?
+A3: 21

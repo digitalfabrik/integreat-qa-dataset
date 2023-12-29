@@ -1,0 +1,6 @@
+Q1: Who is WILMA for?
+A1: 8
+Q2: What is the age range for WILMA?
+A2: 9
+Q3: Are there any costs for the events?
+A3: 10

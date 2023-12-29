@@ -1,0 +1,6 @@
+Q1: What are the different forms of all-day tuition at schools in Munich?
+A1: 2
+Q2: What activities are included in the all-day tuition?
+A2: 3, 4, 5, 6
+Q3: What is offered at a cooperative all-day school?
+A3: 8, 9, 10

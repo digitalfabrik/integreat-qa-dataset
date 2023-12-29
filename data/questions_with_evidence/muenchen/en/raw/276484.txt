@@ -1,0 +1,6 @@
+Q1: What is the purpose of this service?
+A1: 1
+Q2: How many different languages is the consultation available in?
+A2: 2
+Q3: Who can use this service?
+A3: 9

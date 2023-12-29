@@ -1,0 +1,6 @@
+Q1: Who is the psychological service for?
+A1: 4, 5, 6
+Q2: What languages are spoken?
+A2: 5
+Q3: How can I make an appointment?
+A3: 8

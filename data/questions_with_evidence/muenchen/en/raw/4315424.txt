@@ -1,0 +1,6 @@
+Q1: What is the emergency number for medical services?
+A1: 1
+Q2: What are the consequences of misusing the emergency number?
+A2: 3
+Q3: Is there a separate emergency service for children and newborn babies?
+A3: Yes, 10

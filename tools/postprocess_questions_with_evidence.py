@@ -16,10 +16,9 @@ def postprocess():
 
     dataset = []
 
-    for slug_with_extension in slugs:
-        slug = slug_with_extension[:slug_with_extension.index('.txt')]
-        raw_path = get_questions_with_evidence_path([RAW_SLUG, slug_with_extension])
-        page_path = get_integreat_pages_path(slug_with_extension)
+    for slug in slugs:
+        raw_path = get_questions_with_evidence_path([RAW_SLUG, slug])
+        page_path = get_integreat_pages_path(slug)
 
         raw_file = open(raw_path, 'r')
         raw_content = raw_file.readlines()
@@ -27,14 +26,17 @@ def postprocess():
         page_file = open(page_path, 'r')
         page_content = page_file.read()
 
-        questions = []
-        for i in [1, 2, 3]:
-            question = extract(raw_content, f'Q{i}')
-            answer = extract(raw_content, f'A{i}')
-            questions.append({'question': question, 'answer': answer})
+        try:
+            questions = []
+            for i in [1, 2, 3]:
+                question = extract(raw_content, f'Q{i}')
+                answer = extract(raw_content, f'A{i}')
+                questions.append({'question': question, 'answer': answer})
 
-        row = json.dumps({'context': page_content, 'questions': questions})
-        dataset.append(row)
+            row = json.dumps({'context': page_content, 'questions': questions})
+            dataset.append(row)
+        except StopIteration:
+            print(f'Failed to process {slug}')
 
     dataset_file = open(dataset_path, 'w')
     dataset_file.write('\n'.join(dataset))
