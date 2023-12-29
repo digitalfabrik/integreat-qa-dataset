@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # Project specific files that can easily be generated
-data/integreat-pages/**/*.txt
+data/integreat_pages/**/*.txt

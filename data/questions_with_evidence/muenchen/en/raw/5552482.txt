@@ -1,0 +1,6 @@
+Q1: What services are offered for people learning German?
+A1: 1, 4, 5
+Q2: Do I need to register to attend these services?
+A2: 3
+Q3: Where can I find more information and dates for these services?
+A3: 7

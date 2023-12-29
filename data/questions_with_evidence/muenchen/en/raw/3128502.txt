@@ -1,0 +1,6 @@
+Q1: What is a residence document?
+A1: 0, 1
+Q2: What is the purpose of an ID card for asylum seekers?
+A2: 14
+Q3: What is a residence permit?
+A3: 20, 21, 22

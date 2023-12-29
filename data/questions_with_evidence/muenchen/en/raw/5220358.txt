@@ -1,0 +1,6 @@
+Q1: What types of advice does the Migrationsberatung provide?
+Q2: What age group does the Migrationsberatung service cater to?
+Q3: Are the appointments at the advice centers in different city districts free?
+A1: 3
+A2: 8
+A3: 9
