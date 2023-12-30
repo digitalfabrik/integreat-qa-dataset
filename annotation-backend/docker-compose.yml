@@ -1,0 +1,19 @@
+version: "3.5"
+services:
+  postgres:
+    image: postgres
+    command: [ "postgres", "-c", "log_statement=all", "-c", "log_destination=stderr" ]
+    environment:
+      - POSTGRES_DB=annotations
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - 127.0.0.1:5432:5432
+    networks:
+      - network
+networks:
+  network:
+    name: network
+volumes:
+  matomo:
+  matomo_db_volume:
