@@ -1,7 +1,5 @@
 package org.tuerantuer.annotation.database
 
-import kotlinx.serialization.encodeToString
-import kotlinx.serialization.json.Json
 import org.jetbrains.exposed.sql.*
 import org.jetbrains.exposed.sql.transactions.transaction
 import org.tuerantuer.annotation.models.Row
@@ -21,12 +19,8 @@ fun insertRows(rows: List<Row>) = transaction {
     }
 }
 
-fun getRows(): String {
-    val rows = transaction {
-        RowEntity.all().map { it.serializable() }
-    }
-
-    return rows.joinToString("\n") { Json.encodeToString(it) }
+fun getRows(): List<Row> = transaction {
+    RowEntity.all().map { it.serializable() }
 }
 
 fun getCities(): List<String> = transaction {

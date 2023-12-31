@@ -8,11 +8,11 @@ import org.jetbrains.exposed.sql.and
 import org.jetbrains.exposed.sql.transactions.transaction
 import org.tuerantuer.annotation.models.Annotation
 
-fun insertAnnotation(questionId: Int, annotation: Annotation): Int = transaction {
+fun insertAnnotation(questionId: Int, annotation: Annotation) = transaction {
     insertAnnotation(QuestionEntity[questionId].id, annotation)
 }
 
-fun insertAnnotation(questionId: EntityID<Int>, annotation: Annotation): Int = transaction {
+fun insertAnnotation(questionId: EntityID<Int>, annotation: Annotation) = transaction {
     // Every user should only be allowed to do one annotation per question
     // If a user does a second annotation for a question, it is to correct the previous one
     val previousAnnotations = AnnotationEntity.find {
@@ -28,8 +28,6 @@ fun insertAnnotation(questionId: EntityID<Int>, annotation: Annotation): Int = t
         created = annotation.created.toJavaInstant()
     }
     previousAnnotations.forEach { it.archived = true }
-
-    annotationEntity.id.value
 }
 
 fun getAnnotationsCount(): Int = transaction {

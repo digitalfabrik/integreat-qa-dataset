@@ -9,6 +9,7 @@ import org.jetbrains.exposed.sql.transactions.transaction
 import org.tuerantuer.annotation.database.*
 import org.tuerantuer.annotation.models.Question
 import org.tuerantuer.annotation.models.Row
+import org.tuerantuer.annotation.models.WithId
 import org.tuerantuer.annotation.models.serializable
 
 fun insertQuestion(rowId: Int, question: Question) = transaction {
@@ -26,7 +27,7 @@ fun insertQuestion(rowId: EntityID<Int>, question: Question) = transaction {
     question.annotations.forEach { insertAnnotation(questionEntity.id, it) }
 }
 
-fun getQuestion(user: String, city: String? = null, language: String? = null, evidence: Boolean? = null): Pair<Int, Row>? =
+fun getQuestion(user: String, city: String? = null, language: String? = null, evidence: Boolean? = null): WithId<Row>? =
     transaction {
         val query = ((Rows innerJoin Questions) leftJoin Annotations)
             .slice(Rows.columns + Questions.columns + Annotations.questionId.count())
@@ -46,7 +47,7 @@ fun getQuestion(user: String, city: String? = null, language: String? = null, ev
             .map {
                 val questionId = it[Questions.id].value
                 val row = RowEntity.wrapRow(it).serializable(listOf(QuestionEntity.wrapRow(it).serializable()))
-                Pair(questionId, row)
+                WithId(questionId, row)
             }
             .randomOrNull()
     }

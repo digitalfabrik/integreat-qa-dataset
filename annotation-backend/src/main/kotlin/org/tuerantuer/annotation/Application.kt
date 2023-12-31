@@ -5,7 +5,6 @@ import io.ktor.server.engine.*
 import io.ktor.server.netty.*
 import org.tuerantuer.annotation.database.Database
 import org.tuerantuer.annotation.database.getRows
-import org.tuerantuer.annotation.plugins.*
 
 fun main() {
     Database.setup()
@@ -18,4 +17,5 @@ fun main() {
 
 fun Application.module() {
     configureRouting()
+    configureSerialization()
 }
