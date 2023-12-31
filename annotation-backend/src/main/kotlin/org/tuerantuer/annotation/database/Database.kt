@@ -3,8 +3,6 @@ package org.tuerantuer.annotation.database
 import org.jetbrains.exposed.sql.Database
 import org.jetbrains.exposed.sql.SchemaUtils
 import org.jetbrains.exposed.sql.transactions.transaction
-import org.tuerantuer.annotation.database.annotations.Annotations
-import org.tuerantuer.annotation.database.questions.Questions
 
 class Database {
     companion object {
@@ -24,5 +22,4 @@ class Database {
             return database
         }
     }
-
 }

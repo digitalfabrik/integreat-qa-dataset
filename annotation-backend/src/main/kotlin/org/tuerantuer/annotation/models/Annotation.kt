@@ -3,16 +3,21 @@ package org.tuerantuer.annotation.models
 import kotlinx.datetime.Instant
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
-import org.tuerantuer.annotation.database.annotations.AnnotationEntity
-import org.tuerantuer.annotation.database.questions.QuestionEntity
+import org.tuerantuer.annotation.database.AnnotationEntity
 
 @Serializable
 data class Annotation(
     val answerLines: List<Int>,
-    val poorQuestion: Boolean,
+    val poor: Boolean,
+    val user: String,
+    val created: Instant,
+    val archived: Boolean = false
 )
 
 fun AnnotationEntity.serializable() = Annotation(
     answerLines = Json.decodeFromString(answerLines),
-    poorQuestion = poorQuestion,
+    poor = poor,
+    user = user,
+    created = Instant.fromEpochMilliseconds(created.toEpochMilli()),
+    archived = archived
 )
