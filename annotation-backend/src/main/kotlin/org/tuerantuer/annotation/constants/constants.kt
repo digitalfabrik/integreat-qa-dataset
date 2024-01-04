@@ -1,3 +1,3 @@
 package org.tuerantuer.annotation.constants
 
-const val MAX_ANNOTATIONS_PER_QUESTION: Long = 3
+const val MAX_ANNOTATIONS_PER_QUESTION: Long = 2

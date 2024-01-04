@@ -1,7 +1,13 @@
 import { FormGroup } from '@mui/material'
 import React, { ReactElement } from 'react'
+import styled from 'styled-components'
 
 import AnswerLine from './AnswerLine'
+
+const Divider = styled.div`
+  height: 1px;
+  border-bottom: 1px solid grey;
+`
 
 type AnswerLinesProps = {
   context: string
@@ -17,7 +23,15 @@ const AnswerLines = ({ context, answerLines, onChange }: AnswerLinesProps): Reac
   return (
     <FormGroup>
       {lines.map((line, index) => (
-        <AnswerLine key={line} text={line} isSelected={answerLines.includes(index)} onToggle={() => onToggle(index)} />
+        <>
+          <AnswerLine
+            key={line}
+            text={line}
+            isSelected={answerLines.includes(index)}
+            onToggle={() => onToggle(index)}
+          />
+          <Divider />
+        </>
       ))}
     </FormGroup>
   )

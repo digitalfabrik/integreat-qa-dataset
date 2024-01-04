@@ -1,6 +1,0 @@
-Q1: What is the purpose of BAMF-NavI?
-A1: 1
-Q2: What information can be found on BAMF-NavI?
-A2: 2
-Q3: What are some of the questions that can be answered on BAMF-NavI?
-A3: 2

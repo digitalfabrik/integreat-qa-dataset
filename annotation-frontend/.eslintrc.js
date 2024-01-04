@@ -23,6 +23,7 @@ module.exports = {
     'import/named': 'off',
     'import/prefer-default-export': 'off',
     'import/no-named-as-default-member': 'off',
+    'no-shadow': 'off',
     'react/require-default-props': 'off',
     'react/sort-comp': 'off',
 

@@ -7,10 +7,7 @@ import org.jetbrains.exposed.dao.id.EntityID
 import org.jetbrains.exposed.sql.*
 import org.jetbrains.exposed.sql.transactions.transaction
 import org.tuerantuer.annotation.constants.MAX_ANNOTATIONS_PER_QUESTION
-import org.tuerantuer.annotation.models.Question
-import org.tuerantuer.annotation.models.Row
-import org.tuerantuer.annotation.models.WithId
-import org.tuerantuer.annotation.models.serializable
+import org.tuerantuer.annotation.models.*
 
 fun insertQuestion(rowId: Int, question: Question) = transaction {
     insertQuestion(QuestionEntity[rowId].id, question)
@@ -27,7 +24,7 @@ fun insertQuestion(rowId: EntityID<Int>, question: Question) = transaction {
     question.annotations.forEach { insertAnnotation(questionEntity.id, it) }
 }
 
-fun getQuestion(user: String, city: String? = null, language: String? = null, evidence: Boolean? = null): WithId<Row>? =
+fun getQuestions(user: String, city: String? = null, language: String? = null, evidence: Boolean? = null): Query =
     transaction {
         val query = ((Rows innerJoin Questions) leftJoin Annotations)
             .slice(Rows.columns + Questions.columns + Annotations.questionId.count())
@@ -42,6 +39,13 @@ fun getQuestion(user: String, city: String? = null, language: String? = null, ev
         language?.let { query.andWhere { Rows.language eq it } }
         evidence?.let { query.andWhere { Questions.answerLines eq "[]" } }
 
+        return@transaction query
+    }
+
+fun getQuestion(user: String, city: String? = null, language: String? = null, evidence: Boolean? = null): WithId<Row>? =
+    transaction {
+        val query = getQuestions(user, city, language, evidence)
+
         val leastAnnotations = query.minOfOrNull { it[Annotations.questionId.count()] } ?: 0
 
         query
@@ -54,6 +58,19 @@ fun getQuestion(user: String, city: String? = null, language: String? = null, ev
             }
             .randomOrNull()
     }
+
+fun getQuestionSelections(user: String): List<QuestionSelection> = transaction {
+    val pairs = getQuestions(user)
+        .filter { it[Annotations.questionId.count()] < MAX_ANNOTATIONS_PER_QUESTION }
+        .map { Pair(it[Rows.city], it[Rows.language]) }
+
+    pairs.toSet().map {
+        QuestionSelection(
+            it.first,
+            it.second,
+            pairs.count { acc -> it.first == acc.first && it.second == acc.second })
+    }
+}
 
 fun archiveQuestion(questionId: Int) = transaction {
     QuestionEntity.findById(questionId)?.archived = true

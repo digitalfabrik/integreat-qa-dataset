@@ -1,6 +1,0 @@
-Q1: Which countries can enter the Schengen area without a visa?
-A1: 2
-Q2: How long can visitors stay in the Schengen area without a visa?
-A2: 4
-Q3: What happens if a visitor exceeds the visa-free stay?
-A3: 17, 18, 19, 20

@@ -1,6 +1,0 @@
-Q1: Where can asylum seekers register in Germany?
-A1: 1, 6
-Q2: What happens after registration?
-A2: 3, 4, 5
-Q3: How long do asylum seekers have to stay in a reception center?
-A3: 10

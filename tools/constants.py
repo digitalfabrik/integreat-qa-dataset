@@ -1,5 +1,5 @@
 CITY = 'muenchen'
-LANGUAGE = 'en'
+LANGUAGE = 'de'
 
 RESPONSES_SLUG = 'responses'
 RAW_SLUG = 'raw'

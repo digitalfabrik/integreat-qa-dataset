@@ -27,18 +27,18 @@ fun Application.configureRouting() {
         }
 
         route("/question") {
-            get("{user}") {
+            get {
+                val user = call.request.queryParameters["user"]
+                    ?: return@get call.respondText("Missing user", status = HttpStatusCode.BadRequest)
+
                 val city = call.request.queryParameters["city"]
                 val language = call.request.queryParameters["language"]
                 val evidence = call.request.queryParameters["evidence"]?.toBoolean()
 
-                val question = getQuestion(call.parameters["user"]!!, city, language, evidence)
+                val question = getQuestion(user, city, language, evidence)
+                    ?: return@get call.respondText("No questions found", status = HttpStatusCode.NotFound)
 
-                if (question == null) {
-                    call.respond(HttpStatusCode.NotFound)
-                } else {
-                    call.respond(question)
-                }
+                call.respond(question)
             }
 
             delete("{id}") {
@@ -63,6 +63,12 @@ fun Application.configureRouting() {
             get("/count") {
                 call.respond(getAnnotationsCount())
             }
+        }
+
+        get("/question-selections") {
+            val user = call.request.queryParameters["user"]
+                ?: return@get call.respondText("Missing user", status = HttpStatusCode.BadRequest)
+            call.respond(getQuestionSelections(user))
         }
 
         get("/cities") {

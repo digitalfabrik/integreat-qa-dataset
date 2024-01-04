@@ -1,6 +1,0 @@
-Q1: What is the goal of the counselling service?
-A1: 5
-Q2: Is the counselling service confidential?
-A2: 3, 4
-Q3: Is there a cost for the counselling service?
-A3: 8

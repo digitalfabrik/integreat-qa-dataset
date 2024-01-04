@@ -1,6 +1,0 @@
-Q1: Where can I find a city map of Munich?
-A1: 1
-Q2: What is public transport in Munich called?
-A2: 2
-Q3: Where can I find detailed bus timetables?
-A3: 9

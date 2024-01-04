@@ -37,13 +37,14 @@ type Return = {
   showNext: () => void
   editAnnotation: (question: Question, annotation: Annotation) => void
   submitAnnotation: () => void
+  isPrevious: boolean
 }
 
 const useLoadQuestion = (
   user: string,
   city: string | null,
   language: string | null,
-  evidence: string | null,
+  evidence: string | null = null,
 ): Return => {
   const [questions, setQuestions] = useState<QuestionStatus[]>([initialQuestion])
   const [currentIndex, setCurrentIndex] = useState(0)
@@ -60,7 +61,8 @@ const useLoadQuestion = (
   const loadNextQuestion = useCallback(
     (currentQuestions: QuestionStatus[]) => {
       // TODO Sanitize
-      const url = new URL(`${BASE_URL}/question/${user}`)
+      const url = new URL(`${BASE_URL}/question`)
+      url.searchParams.append('user', user)
       if (city !== null) {
         url.searchParams.append('city', city)
       }
@@ -99,9 +101,9 @@ const useLoadQuestion = (
   )
 
   useEffect(() => {
+    setQuestions([initialQuestion])
     loadNextQuestion([])
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [])
+  }, [loadNextQuestion])
 
   const showPrevious = useCallback(() => setCurrentIndex(currentIndex > 0 ? currentIndex - 1 : 0), [currentIndex])
   const showNext = useCallback(() => {
@@ -152,8 +154,9 @@ const useLoadQuestion = (
             error: error.message,
           }),
         )
+      showNext()
     }
-  }, [updateQuestion, currentQuestion])
+  }, [updateQuestion, currentQuestion, showNext])
 
   return {
     currentQuestion,
@@ -161,6 +164,7 @@ const useLoadQuestion = (
     showPrevious: currentIndex > 1 ? showPrevious : null,
     editAnnotation,
     submitAnnotation,
+    isPrevious: currentIndex < questions.length - 1,
   }
 }
 

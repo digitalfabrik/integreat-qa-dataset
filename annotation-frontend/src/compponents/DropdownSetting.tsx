@@ -2,28 +2,30 @@ import { FormControl, InputLabel, MenuItem, Select } from '@mui/material'
 import React, { ReactElement } from 'react'
 import { useTranslation } from 'react-i18next'
 
+import { QuestionSelectionWithLabel } from '../hooks/useLoadQuestionSelections'
+
 type DropdownSettingProps = {
-  key: string
   title: string
-  value: string
-  options: string[]
-  onChange: (value: string) => void
+  value: QuestionSelectionWithLabel
+  options: QuestionSelectionWithLabel[]
+  onChange: (value: QuestionSelectionWithLabel) => void
 }
 
-const DropdownSetting = ({ key, title, value, options, onChange }: DropdownSettingProps): ReactElement => {
+const DropdownSetting = ({ title, value, options, onChange }: DropdownSettingProps): ReactElement => {
   const { t } = useTranslation()
   return (
-    <FormControl fullWidth>
-      <InputLabel id={`${key}-label`}>{t(title)}</InputLabel>
+    <FormControl>
+      <InputLabel id='question-selection-label'>{t(title)}</InputLabel>
       <Select
-        id={key}
-        labelId={`${key}-label`}
-        value={value}
-        label={t(title)}
-        onChange={event => onChange(event.target.value)}>
+        id='question-selection'
+        labelId='question-selection-label'
+        value={value.label}
+        label={value.label}
+        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+        onChange={event => onChange(options.find(it => it.label === event.target.value)!)}>
         {options.map(it => (
-          <MenuItem key={it} value={it}>
-            {t(it)}
+          <MenuItem key={it.label} value={it.label}>
+            {it.label}
           </MenuItem>
         ))}
       </Select>

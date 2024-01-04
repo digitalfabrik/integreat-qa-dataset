@@ -1,36 +1,59 @@
 import { Button, CircularProgress } from '@mui/material'
 import React, { ReactElement } from 'react'
 import { useTranslation } from 'react-i18next'
+import styled from 'styled-components'
 
 import AnswerLines from './compponents/AnswerLines'
 import DropdownSetting from './compponents/DropdownSetting'
-import useLoadCities from './hooks/useLoadCities'
-import useLoadLanguages from './hooks/useLoadLanguages'
 import useLoadQuestion from './hooks/useLoadQuestion'
+import useLoadQuestionSelections from './hooks/useLoadQuestionSelections'
 import useSetting from './hooks/useSetting'
-import { fromLabel, RANDOM_LABEL, toLabel } from './utils/settingsLabels'
+
+const Container = styled.div`
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 32px;
+`
+
+const LoadingSpinnerContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`
+
+const Title = styled.h1`
+  margin: 0;
+`
+
+const ButtonContainer = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  gap: 32px;
+`
 
 const AnnotationPage = (): ReactElement => {
   const { value: user } = useSetting<string>('user')
-  // TODO city/language pairs
   const { value: city, update: setCity } = useSetting<string>('city')
   const { value: language, update: setLanguage } = useSetting<string>('language')
-  const { value: evidence, update: setEvidence } = useSetting<string>('evidence')
   const { t } = useTranslation()
 
-  const cities = useLoadCities()
-  const languages = useLoadLanguages()
-  const evidences = ['random', 'withEvidence', 'withoutEvidence']
+  const questionSelections = useLoadQuestionSelections(user ?? 'asdf', t)
 
-  const { currentQuestion, showPrevious, showNext, editAnnotation, submitAnnotation } = useLoadQuestion(
+  const { currentQuestion, showPrevious, showNext, editAnnotation, submitAnnotation, isPrevious } = useLoadQuestion(
     user ?? 'asdf',
     city,
     language,
-    evidence,
   )
 
-  if (currentQuestion.status === 'loading') {
-    return <CircularProgress />
+  // if (currentQuestion.status === 'loading') {
+  if (true) {
+    return (
+      <LoadingSpinnerContainer>
+        <CircularProgress />
+      </LoadingSpinnerContainer>
+    )
   }
 
   if (currentQuestion.status === 'error') {
@@ -43,31 +66,21 @@ const AnnotationPage = (): ReactElement => {
   const edited = answerLines === editedAnswerLines
 
   return (
-    <div>
-      <div>
-        <DropdownSetting
-          key='city-setting'
-          title={t('city')}
-          value={toLabel(city)}
-          options={[RANDOM_LABEL, ...cities]}
-          onChange={label => setCity(fromLabel(label))}
-        />
-        <DropdownSetting
-          key='language-setting'
-          title={t('language')}
-          value={toLabel(language)}
-          options={[RANDOM_LABEL, ...languages]}
-          onChange={label => setLanguage(fromLabel(label))}
-        />
-        <DropdownSetting
-          key='evidence-setting'
-          title={t('questionType')}
-          value={toLabel(evidence)}
-          options={[RANDOM_LABEL, ...evidences]}
-          onChange={label => setEvidence(fromLabel(label))}
-        />
-      </div>
-      {question}
+    <Container>
+      <DropdownSetting
+        title={t('questionSelection')}
+        value={
+          questionSelections.find(it => it.city === city && it.language === language) ??
+          // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+          questionSelections.find(it => it.city === null && it.language === null)!
+        }
+        options={questionSelections}
+        onChange={({ city, language }) => {
+          setCity(city)
+          setLanguage(language)
+        }}
+      />
+      <Title>{question}</Title>
       <AnswerLines
         context={context}
         answerLines={editedAnswerLines}
@@ -78,18 +91,21 @@ const AnnotationPage = (): ReactElement => {
           })
         }
       />
-      {showPrevious && (
-        <Button variant='text' onClick={showPrevious}>
-          {t('showPrevious')}
+
+      <ButtonContainer>
+        {showPrevious && (
+          <Button variant='text' onClick={showPrevious}>
+            {t('previous')}
+          </Button>
+        )}
+        <Button variant='contained' onClick={submitAnnotation} disabled={!edited}>
+          {t('submit')}
         </Button>
-      )}
-      <Button variant='contained' onClick={submitAnnotation} disabled={!edited}>
-        {t('submit')}
-      </Button>
-      <Button variant='text' onClick={showNext}>
-        {t('showNext')}
-      </Button>
-    </div>
+        <Button variant='text' onClick={showNext}>
+          {t(isPrevious ? 'showNext' : 'skip')}
+        </Button>
+      </ButtonContainer>
+    </Container>
   )
 }
 

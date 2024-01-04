@@ -9,7 +9,7 @@ import org.jetbrains.exposed.sql.javatime.timestamp
 
 object Questions : IntIdTable() {
     val rowId = reference("rowId", Rows)
-    val question = varchar("question", 100)
+    val question = varchar("question", 250)
     val answerLines = varchar("answerLines", 50)
     val created = timestamp("created").defaultExpression(CurrentTimestamp())
     val archived = bool("archived").default(false)

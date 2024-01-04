@@ -2,12 +2,12 @@ from openai import OpenAI
 import os
 import os.path
 from dotenv import load_dotenv
-from constants import get_integreat_pages_path, get_questions_with_evidence_path, RAW_SLUG, RESPONSES_SLUG
+from constants import get_integreat_pages_path, get_questions_with_evidence_path, RAW_SLUG, RESPONSES_SLUG, LANGUAGE
 
 load_dotenv()
 client = OpenAI()
 
-prompt = f'''Give three simple and short one-part questions that can be answered with the users message.
+prompt_en = f'''Give three simple and short one-part questions that can be answered with the users message.
 The question should be specific and in easy-to-understand language.
 Bad examples:
 - What services are offered?
@@ -24,6 +24,23 @@ Q3: What does language level B2 mean?
 A3: 6
 """'''
 
+prompt_de = f'''Give three simple and short one-part questions that can be answered with the users message.
+The question should be specific and in easy-to-understand German language.
+Bad examples:
+- Welche Dienstleistungen werden angeboten?
+- Wie viele Menschen leben in Deutschland?
+Respond by giving the questions AND the answers.
+For the answers, only give the line numbers, do not give whole sentences.
+Good example:
+"""
+Q1: Welche Sprachkurse gibt es?
+A1: 3, 4, 5
+Q2: Wie kann ich Sprachkurse finden?
+A2: 7
+Q3: Was bedeutet das Sprachniveau B2?
+A3: 6
+"""'''
+
 
 def generate_questions(slug):
     page_path = get_integreat_pages_path(slug)
@@ -37,15 +54,20 @@ def generate_questions(slug):
     page_file = open(page_path, 'r')
     content = page_file.read()
 
-    if 'The service is free' in content:
+    if ('The service is free' in content) or ('Das Angebot ist kostenfrei' in content):
         # Questions about pages with specific services are most of the time things like 'Is the service free?'
         print(f'Skipping {slug}: Specific service')
+        return
+
+    if len(content) > 5000:
+        # Max context length in the backend is 5000 chars
+        print(f'Skipping {slug}: Context too long')
         return
 
     response = client.chat.completions.create(
         model='gpt-3.5-turbo',
         messages=[
-            {'role': 'system', 'content': prompt},
+            {'role': 'system', 'content': prompt_de if LANGUAGE == 'de' else prompt_en},
             {'role': 'user', 'content': content},
         ]
     )

@@ -77,6 +77,7 @@ def preprocess():
         parsed = parse_html(content, [
             # Remove keyword list
             r'This text contains information about the following search terms',
+            r'Dieser Text enthält Informationen zu folgenden Suchbegriffen',
             # Remove phone numbers, addresses etc.
             r'[0-9]{4,}',
             # Remove non-breaking spaces
