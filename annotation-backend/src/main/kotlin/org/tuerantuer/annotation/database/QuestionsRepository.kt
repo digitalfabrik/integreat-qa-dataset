@@ -1,4 +1,4 @@
-package org.tuerantuer.question.database
+package org.tuerantuer.annotation.database
 
 import kotlinx.datetime.toJavaInstant
 import kotlinx.serialization.encodeToString
@@ -6,7 +6,7 @@ import kotlinx.serialization.json.Json
 import org.jetbrains.exposed.dao.id.EntityID
 import org.jetbrains.exposed.sql.*
 import org.jetbrains.exposed.sql.transactions.transaction
-import org.tuerantuer.annotation.database.*
+import org.tuerantuer.annotation.constants.MAX_ANNOTATIONS_PER_QUESTION
 import org.tuerantuer.annotation.models.Question
 import org.tuerantuer.annotation.models.Row
 import org.tuerantuer.annotation.models.WithId
@@ -31,19 +31,22 @@ fun getQuestion(user: String, city: String? = null, language: String? = null, ev
     transaction {
         val query = ((Rows innerJoin Questions) leftJoin Annotations)
             .slice(Rows.columns + Questions.columns + Annotations.questionId.count())
-            // TODO no questions which the user already annotated
-            .select { (Annotations.user neq user) and (Questions.archived eq false) }
-            .groupBy(Questions.id)
-            .orderBy(Annotations.questionId.count() to SortOrder.ASC)
+            .select {
+                // Exclude questions the user already annotated
+                notExists(Annotations.select { (Annotations.user eq user) and (Annotations.questionId eq Questions.id) }) and
+                        (Questions.archived eq false)
+            }
+            .groupBy(Rows.id, Questions.id)
 
         city?.let { query.andWhere { Rows.city eq it } }
         language?.let { query.andWhere { Rows.language eq it } }
         evidence?.let { query.andWhere { Questions.answerLines eq "[]" } }
 
-        val minimumAnnotations = query.minOfOrNull { it[Annotations.questionId.count()] } ?: 0
+        val leastAnnotations = query.minOfOrNull { it[Annotations.questionId.count()] } ?: 0
 
         query
-            .filter { it[Annotations.questionId.count()] == minimumAnnotations }
+            // Questions which have the least amount of annotations first
+            .filter { (it[Annotations.questionId.count()] == leastAnnotations) and (it[Annotations.questionId.count()] < MAX_ANNOTATIONS_PER_QUESTION) }
             .map {
                 val questionId = it[Questions.id].value
                 val row = RowEntity.wrapRow(it).serializable(listOf(QuestionEntity.wrapRow(it).serializable()))

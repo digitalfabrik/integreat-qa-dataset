@@ -4,7 +4,6 @@ import org.jetbrains.exposed.sql.*
 import org.jetbrains.exposed.sql.transactions.transaction
 import org.tuerantuer.annotation.models.Row
 import org.tuerantuer.annotation.models.serializable
-import org.tuerantuer.question.database.insertQuestion
 
 fun insertRows(rows: List<Row>) = transaction {
     rows.forEach { row ->

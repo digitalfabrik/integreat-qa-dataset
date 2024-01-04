@@ -17,7 +17,7 @@ class Database {
                 }
             )
             transaction {
-                SchemaUtils.create(Questions, Annotations)
+                SchemaUtils.create(Rows, Questions, Annotations)
             }
             return database
         }

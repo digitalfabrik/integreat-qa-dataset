@@ -9,7 +9,7 @@ object Rows : IntIdTable() {
     val pageId = integer("pageId")
     val city = varchar("city", 25)
     val language = varchar("language", 5)
-    val context = varchar("context", 2500)
+    val context = varchar("context", 5000)
 }
 
 class RowEntity(id: EntityID<Int>) : IntEntity(id) {

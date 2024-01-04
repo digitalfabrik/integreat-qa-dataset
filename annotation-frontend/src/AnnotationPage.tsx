@@ -11,7 +11,8 @@ import useSetting from './hooks/useSetting'
 import { fromLabel, RANDOM_LABEL, toLabel } from './utils/settingsLabels'
 
 const AnnotationPage = (): ReactElement => {
-  const { value: user, update: setUser } = useSetting<string>('user')
+  const { value: user } = useSetting<string>('user')
+  // TODO city/language pairs
   const { value: city, update: setCity } = useSetting<string>('city')
   const { value: language, update: setLanguage } = useSetting<string>('language')
   const { value: evidence, update: setEvidence } = useSetting<string>('evidence')
@@ -22,7 +23,7 @@ const AnnotationPage = (): ReactElement => {
   const evidences = ['random', 'withEvidence', 'withoutEvidence']
 
   const { currentQuestion, showPrevious, showNext, editAnnotation, submitAnnotation } = useLoadQuestion(
-    user ?? '',
+    user ?? 'asdf',
     city,
     language,
     evidence,
@@ -36,7 +37,7 @@ const AnnotationPage = (): ReactElement => {
     return <div>currentQuestion.error</div>
   }
 
-  const { context, answerLines, question, poor } = currentQuestion.question
+  const { context, answerLines, question } = currentQuestion.question
   const { answerLines: editedAnswerLines, poor: editedPoor } = currentQuestion.annotation
 
   const edited = answerLines === editedAnswerLines

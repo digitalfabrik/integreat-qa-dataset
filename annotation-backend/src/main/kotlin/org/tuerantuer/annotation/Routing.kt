@@ -8,9 +8,9 @@ import io.ktor.server.routing.*
 import org.tuerantuer.annotation.database.*
 import org.tuerantuer.annotation.models.Row
 import org.tuerantuer.annotation.models.WithId
-import org.tuerantuer.question.database.archiveQuestion
-import org.tuerantuer.question.database.getQuestion
-import org.tuerantuer.question.database.getQuestionsCount
+import org.tuerantuer.annotation.database.archiveQuestion
+import org.tuerantuer.annotation.database.getQuestion
+import org.tuerantuer.annotation.database.getQuestionsCount
 import org.tuerantuer.annotation.models.Annotation
 
 fun Application.configureRouting() {
@@ -35,7 +35,7 @@ fun Application.configureRouting() {
                 val question = getQuestion(call.parameters["user"]!!, city, language, evidence)
 
                 if (question == null) {
-                    call.respond(HttpStatusCode.NotFound, "No question available")
+                    call.respond(HttpStatusCode.NotFound)
                 } else {
                     call.respond(question)
                 }

@@ -1,5 +1,6 @@
 package org.tuerantuer.annotation.models
 
+import kotlinx.datetime.Clock
 import kotlinx.datetime.Instant
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
@@ -12,7 +13,7 @@ data class Question(
     val question: String,
     val answerLines: List<Int>,
     val annotations: List<Annotation> = emptyList(),
-    val created: Instant,
+    val created: Instant = Clock.System.now(),
     val archived: Boolean = false
 )
 

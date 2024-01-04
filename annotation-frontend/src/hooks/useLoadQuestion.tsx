@@ -1,5 +1,6 @@
-import { useCallback, useState } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 
+import { BASE_URL } from '../constants/url'
 import load from '../utils/load'
 import mapToQuestion, { Question } from '../utils/mapToQuestion'
 
@@ -57,9 +58,9 @@ const useLoadQuestion = (
   )
 
   const loadNextQuestion = useCallback(
-    (index: number) => {
-      // TODO Adjust url, sanitize
-      const url = new URL(`https://api.annotations.tuerantuer.org/question/${user}`)
+    (currentQuestions: QuestionStatus[]) => {
+      // TODO Sanitize
+      const url = new URL(`${BASE_URL}/question/${user}`)
       if (city !== null) {
         url.searchParams.append('city', city)
       }
@@ -72,40 +73,45 @@ const useLoadQuestion = (
 
       load(url.toString(), mapToQuestion)
         .then(question =>
-          updateQuestion(
+          setQuestions([
+            ...currentQuestions,
             {
               status: 'ready',
               question,
               annotation: { answerLines: question.answerLines, poor: false },
               error: null,
             },
-            index,
-          ),
+          ]),
         )
         .catch(error =>
-          updateQuestion(
+          setQuestions([
+            ...currentQuestions,
             {
               status: 'error',
               error: error.message,
               question: null,
               annotation: null,
             },
-            index,
-          ),
+          ]),
         )
     },
-    [updateQuestion, user, city, language, evidence],
+    [user, city, language, evidence],
   )
+
+  useEffect(() => {
+    loadNextQuestion([])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   const showPrevious = useCallback(() => setCurrentIndex(currentIndex > 0 ? currentIndex - 1 : 0), [currentIndex])
   const showNext = useCallback(() => {
     const newIndex = currentIndex + 1
-    setCurrentIndex(newIndex)
 
     if (newIndex === questions.length) {
       setQuestions([...questions, initialQuestion])
-      loadNextQuestion(newIndex)
+      loadNextQuestion(questions)
     }
+    setCurrentIndex(newIndex)
   }, [loadNextQuestion, questions, currentIndex])
 
   const editAnnotation = useCallback(
@@ -126,8 +132,7 @@ const useLoadQuestion = (
         ...currentQuestion,
         status: 'submitting',
       })
-      // TODO Submit
-      const url = 'https://api.annotations.tuerantuer.org/annotation'
+      const url = `${BASE_URL}/annotation`
       load(url, () => undefined, JSON.stringify(currentQuestion.annotation))
         .then(() =>
           updateQuestion({
