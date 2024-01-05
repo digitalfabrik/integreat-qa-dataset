@@ -5,17 +5,16 @@ import { useTranslation } from 'react-i18next'
 import { QuestionSelectionWithLabel } from '../hooks/useLoadQuestionSelections'
 
 type DropdownSettingProps = {
-  title: string
   value: QuestionSelectionWithLabel
   options: QuestionSelectionWithLabel[]
   onChange: (value: QuestionSelectionWithLabel) => void
 }
 
-const DropdownSetting = ({ title, value, options, onChange }: DropdownSettingProps): ReactElement => {
+const QuestionSelectionSetting = ({ value, options, onChange }: DropdownSettingProps): ReactElement => {
   const { t } = useTranslation()
   return (
     <FormControl>
-      <InputLabel id='question-selection-label'>{t(title)}</InputLabel>
+      <InputLabel id='question-selection-label'>{t('questionSelection')}</InputLabel>
       <Select
         id='question-selection'
         labelId='question-selection-label'
@@ -33,4 +32,4 @@ const DropdownSetting = ({ title, value, options, onChange }: DropdownSettingPro
   )
 }
 
-export default DropdownSetting
+export default QuestionSelectionSetting

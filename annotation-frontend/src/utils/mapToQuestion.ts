@@ -1,5 +1,6 @@
 export type Question = {
   id: number
+  pageId: number
   context: string
   question: string
   answerLines: number[]
@@ -24,6 +25,7 @@ type QuestionJson = {
 
 const mapToQuestion = (json: QuestionJson): Question => ({
   id: json.id,
+  pageId: json.value.pageId,
   context: json.value.context,
   city: json.value.city,
   language: json.value.language,

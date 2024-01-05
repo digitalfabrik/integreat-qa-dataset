@@ -1,8 +1,7 @@
-import { Checkbox } from '@mui/material'
 import React, { ReactElement } from 'react'
 import styled from 'styled-components'
 
-import StyledFormControlLabel from './StyledFormControlLabel'
+import Checkbox from './Checkbox'
 
 const Container = styled.div`
   vertical-align: center;
@@ -10,19 +9,20 @@ const Container = styled.div`
 `
 
 const StyledCheckbox = styled(Checkbox)`
-  align-self: start;
-  padding: 0;
+  width: 100%;
 `
 
 type AnswerLineProps = {
   text: string
   isSelected: boolean
+  changed: boolean
   onToggle: () => void
+  disabled: boolean
 }
 
-const AnswerLine = ({ text, isSelected, onToggle }: AnswerLineProps): ReactElement => (
+const AnswerLine = ({ text, isSelected, changed, onToggle, disabled }: AnswerLineProps): ReactElement => (
   <Container>
-    <StyledFormControlLabel control={<StyledCheckbox checked={isSelected} onChange={onToggle} />} label={text} />
+    <StyledCheckbox onToggle={onToggle} isSelected={isSelected} disabled={disabled} text={text} changed={changed} />
   </Container>
 )
 

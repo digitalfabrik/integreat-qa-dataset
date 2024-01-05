@@ -15,10 +15,10 @@ const load = async <S, T>(url: string, map: (json: S) => T, body?: string): Prom
 
   const NOT_FOUND = 404
   if (response.status === NOT_FOUND) {
-    throw new Error('not-found')
+    throw new Error('notFound')
   }
-  if (!response.ok || response.status === NOT_FOUND) {
-    throw new Error('error')
+  if (!response.ok) {
+    throw new Error('unknownError')
   }
 
   const json = await response.json()

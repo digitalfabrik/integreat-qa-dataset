@@ -1,5 +1,5 @@
 import i18next from 'i18next'
-import React, { ReactElement } from 'react'
+import React, { ReactElement, useEffect, useState } from 'react'
 import { initReactI18next } from 'react-i18next'
 
 import AnnotationPage from './AnnotationPage'
@@ -12,10 +12,26 @@ i18next.use(initReactI18next).init({
   fallbackLng: 'en',
 })
 
-const App = (): ReactElement => (
-  <div className='App'>
-    <AnnotationPage />
-  </div>
-)
+const App = (): ReactElement => {
+  const [user, setUser] = useState<string>()
+
+  useEffect(() => {
+    const userUuid = window.localStorage.getItem('user')
+
+    if (!userUuid) {
+      const generatedUserUuid = window.self.crypto.randomUUID()
+      window.localStorage.setItem('user', generatedUserUuid)
+      setUser(generatedUserUuid)
+    } else {
+      setUser(userUuid)
+    }
+  }, [])
+
+  if (!user) {
+    return <div />
+  }
+
+  return <AnnotationPage user={user} />
+}
 
 export default App

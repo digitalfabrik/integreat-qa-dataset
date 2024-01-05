@@ -19,6 +19,7 @@ def contains_exclude_patterns(text, exclude_patterns):
 # Use a new line for each sentence
 def add_linebreaks(text):
     # TODO: Remove, this leads to too many merged lines that shouldn't be merged
+    # TODO 1798904.txt (muenchen - de) line 1 missing
     # Remove unnecessary linebreaks
     # fixed_1 = re.sub(r'([^.?:;!])\n', r'\1 ', text)
     # Remove unnecessary whitespaces

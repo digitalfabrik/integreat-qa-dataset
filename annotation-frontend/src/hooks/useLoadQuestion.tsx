@@ -23,7 +23,7 @@ type QuestionStatus =
       error: string
     }
   | {
-      status: 'ready' | 'edited' | 'submitting' | 'submitted'
+      status: 'ready' | 'submitting' | 'submitted'
       question: Question
       annotation: Annotation
       error: string | null
@@ -60,7 +60,6 @@ const useLoadQuestion = (
 
   const loadNextQuestion = useCallback(
     (currentQuestions: QuestionStatus[]) => {
-      // TODO Sanitize
       const url = new URL(`${BASE_URL}/question`)
       url.searchParams.append('user', user)
       if (city !== null) {
@@ -119,8 +118,7 @@ const useLoadQuestion = (
   const editAnnotation = useCallback(
     (question: Question, annotation: Annotation) => {
       updateQuestion({
-        status:
-          question.answerLines === annotation.answerLines && question.poor === annotation.poor ? 'ready' : 'edited',
+        status: 'ready',
         question,
         annotation,
         error: null,
@@ -128,14 +126,19 @@ const useLoadQuestion = (
     },
     [updateQuestion],
   )
+
   const submitAnnotation = useCallback(() => {
-    if (currentQuestion.status === 'edited') {
+    if (currentQuestion.status === 'ready') {
       updateQuestion({
         ...currentQuestion,
         status: 'submitting',
       })
       const url = `${BASE_URL}/annotation`
-      load(url, () => undefined, JSON.stringify(currentQuestion.annotation))
+      const body = JSON.stringify({
+        id: currentQuestion.question.id,
+        value: { ...currentQuestion.annotation, user },
+      })
+      load(url, () => undefined, body)
         .then(() =>
           updateQuestion({
             ...currentQuestion,
@@ -150,13 +153,12 @@ const useLoadQuestion = (
         .catch(error =>
           updateQuestion({
             ...currentQuestion,
-            status: 'edited',
             error: error.message,
           }),
         )
-      showNext()
+        .finally(showNext)
     }
-  }, [updateQuestion, currentQuestion, showNext])
+  }, [updateQuestion, currentQuestion, showNext, user])
 
   return {
     currentQuestion,

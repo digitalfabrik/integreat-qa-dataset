@@ -12,26 +12,33 @@ const Divider = styled.div`
 type AnswerLinesProps = {
   context: string
   answerLines: number[]
+  annotationAnswerLines: number[]
   onChange: (answerLines: number[]) => void
+  disabled: boolean
 }
 
-const AnswerLines = ({ context, answerLines, onChange }: AnswerLinesProps): ReactElement => {
+const AnswerLines = ({ context, answerLines, annotationAnswerLines, onChange, disabled }: AnswerLinesProps): ReactElement => {
   const lines = context.split('\n')
   const onToggle = (index: number) =>
-    onChange(answerLines.includes(index) ? answerLines.filter(it => it !== index) : [...answerLines, index].sort())
+    onChange(
+      annotationAnswerLines.includes(index)
+        ? annotationAnswerLines.filter(it => it !== index)
+        : [...annotationAnswerLines, index].sort(),
+    )
 
   return (
     <FormGroup>
       {lines.map((line, index) => (
-        <>
+        <span key={line}>
           <AnswerLine
-            key={line}
             text={line}
-            isSelected={answerLines.includes(index)}
+            isSelected={annotationAnswerLines.includes(index)}
+            changed={annotationAnswerLines.includes(index) !== answerLines.includes(index)}
             onToggle={() => onToggle(index)}
+            disabled={disabled}
           />
           <Divider />
-        </>
+        </span>
       ))}
     </FormGroup>
   )

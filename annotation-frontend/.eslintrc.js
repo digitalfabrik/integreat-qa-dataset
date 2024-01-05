@@ -35,7 +35,7 @@ module.exports = {
 
     curly: ['error', 'all'],
     'func-names': 'error',
-    'no-console': 'error',
+    'no-console': 'warn',
     'no-magic-numbers': [
       'error',
       {

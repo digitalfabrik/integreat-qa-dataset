@@ -7,9 +7,6 @@
   "bracketSameLine": true,
   "jsxSingleQuote": true,
   "endOfLine": "auto",
-  "importOrder": [
-    "^(?!(\\.)).*",
-    "^(\\.)+(\\/)+"
-  ],
+  "importOrder": ["^(?!(\\.)).*", "^(\\.)+(\\/)+"],
   "importOrderSeparation": true
 }
