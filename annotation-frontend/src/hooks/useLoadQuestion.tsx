@@ -36,7 +36,7 @@ type Return = {
   showPrevious: (() => void) | null
   showNext: () => void
   editAnnotation: (question: Question, annotation: Annotation) => void
-  submitAnnotation: () => void
+  submitAnnotation: () => Promise<void>
   isPrevious: boolean
 }
 
@@ -127,7 +127,7 @@ const useLoadQuestion = (
     [updateQuestion],
   )
 
-  const submitAnnotation = useCallback(() => {
+  const submitAnnotation = useCallback(async () => {
     if (currentQuestion.status === 'ready') {
       updateQuestion({
         ...currentQuestion,
@@ -138,7 +138,7 @@ const useLoadQuestion = (
         id: currentQuestion.question.id,
         value: { ...currentQuestion.annotation, user },
       })
-      load(url, () => undefined, body)
+      await load(url, () => undefined, body)
         .then(() =>
           updateQuestion({
             ...currentQuestion,

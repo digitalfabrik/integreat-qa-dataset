@@ -62,7 +62,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
   const { value: language, update: setLanguage } = useSetting<string>('language')
   const { t } = useTranslation()
 
-  const questionSelections = useLoadQuestionSelections(user, t)
+  const { questionSelections, refresh } = useLoadQuestionSelections(user, t)
 
   const { currentQuestion, showPrevious, showNext, editAnnotation, submitAnnotation, isPrevious } = useLoadQuestion(
     user,
@@ -128,7 +128,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
       <CheckboxContainer>
         <Checkbox
           isSelected={annotationAnswerLines.length === 0}
-          changed={annotationAnswerLines.length !== answerLines.length}
+          changed={(annotationAnswerLines.length === 0) !== (answerLines.length === 0)}
           text={t('noAnswer')}
           disabled={annotatedPoor}
           onToggle={() =>
@@ -157,7 +157,9 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
             {t('previous')}
           </Button>
         )}
-        <Button variant="contained" onClick={submitAnnotation}>
+        <Button variant="contained" onClick={() => {
+          submitAnnotation().then(refresh)
+        }}>
           {t(unchanged ? 'approve' : 'submit')}
         </Button>
         <Button variant="text" onClick={showNext}>

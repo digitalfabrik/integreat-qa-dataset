@@ -1,5 +1,5 @@
 const load = async <S, T>(url: string, map: (json: S) => T, body?: string): Promise<T> => {
-  const headers = typeof body === 'string' ? { headers: { 'Content-Type': 'application/json' } } : {}
+  const headers = body ? { headers: { 'Content-Type': 'application/json' } } : {}
 
   const requestOptions = body
     ? {

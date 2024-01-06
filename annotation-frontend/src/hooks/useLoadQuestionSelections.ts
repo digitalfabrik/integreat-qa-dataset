@@ -18,16 +18,23 @@ export type QuestionSelectionWithLabel = {
   label: string
 }
 
-const useLoadQuestionSelections = (user: string, t: TFunction): QuestionSelectionWithLabel[] => {
+type Return = {
+  questionSelections: QuestionSelectionWithLabel[],
+  refresh: () => void
+}
+
+const useLoadQuestionSelections = (user: string, t: TFunction): Return => {
   const request = useCallback(() => {
     const url = new URL(`${BASE_URL}/question-selections`)
     url.searchParams.append('user', user)
     return load(url.toString(), (response: QuestionSelection[]) => response)
   }, [user])
 
-  const randomLabel: QuestionSelectionWithLabel = { city: null, language: null, count: null, label: t('random') }
-  const data = useLoadAsync(request).data ?? []
+  const { refresh, ...response } = useLoadAsync(request)
+  const data = response.data ?? []
+
   const dataWithLabel = data.map(it => ({ ...it, label: `${it.city} - ${t(it.language)} (${it.count})` }))
+  const randomLabel: QuestionSelectionWithLabel = { city: null, language: null, count: null, label: t('random') }
   const languageLabels = [...new Set(data.map(it => it.language))].map(it => ({
     city: null,
     language: it,
@@ -35,7 +42,7 @@ const useLoadQuestionSelections = (user: string, t: TFunction): QuestionSelectio
     label: t(it),
   }))
 
-  return [randomLabel, ...languageLabels, ...dataWithLabel]
+  return { questionSelections: [randomLabel, ...languageLabels, ...dataWithLabel], refresh }
 }
 
 export default useLoadQuestionSelections

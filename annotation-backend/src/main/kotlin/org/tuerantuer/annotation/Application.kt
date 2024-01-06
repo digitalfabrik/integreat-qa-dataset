@@ -1,5 +1,6 @@
 package org.tuerantuer.annotation
 
+import io.ktor.http.*
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*
@@ -14,6 +15,8 @@ fun main() {
 fun Application.module() {
     install(CORS) {
         // TODO Dev only
+        allowHeader(HttpHeaders.AccessControlAllowOrigin)
+        allowHeader(HttpHeaders.ContentType)
         anyHost()
     }
     configureRouting()

@@ -20,7 +20,7 @@ fun insertAnnotation(questionId: EntityID<Int>, annotation: Annotation) = transa
                 (Annotations.user eq annotation.user) and
                 (Annotations.archived eq false)
     }
-    val annotationEntity = AnnotationEntity.new {
+    AnnotationEntity.new {
         this.questionId = questionId
         answerLines = Json.encodeToString(annotation.answerLines)
         poor = annotation.poor
