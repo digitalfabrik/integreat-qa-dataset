@@ -1,4 +1,4 @@
-const load = async <S, T>(url: string, map: (json: S) => T, body?: string): Promise<T> => {
+const load = async <T>(url: string, json: boolean, body?: string): Promise<T> => {
   const headers = body ? { headers: { 'Content-Type': 'application/json' } } : {}
 
   const requestOptions = body
@@ -21,8 +21,11 @@ const load = async <S, T>(url: string, map: (json: S) => T, body?: string): Prom
     throw new Error('unknownError')
   }
 
-  const json = await response.json()
-  return map(json)
+  if (json) {
+    return response.json()
+  }
+  // @ts-expect-error ignore
+  return undefined
 }
 
 export default load

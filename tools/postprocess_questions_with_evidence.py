@@ -1,7 +1,8 @@
 import json
 import os
 import os.path
-from constants import get_questions_with_evidence_path, get_integreat_pages_path, RAW_SLUG, CITY, LANGUAGE
+from constants import get_questions_with_evidence_path, get_integreat_pages_path, RAW_SLUG, CITY, LANGUAGE, \
+    get_integreat_pages_json_path
 
 
 def extract(raw, key):
@@ -14,6 +15,9 @@ def postprocess():
     dataset_json_lines_path = get_questions_with_evidence_path(['dataset.jsonl'])
     dataset_json_path = get_questions_with_evidence_path(['dataset.json'])
     slugs = os.listdir(raw_dir_path)
+
+    f = open(get_integreat_pages_json_path(), 'r')
+    raw_pages = json.load(f)
 
     dataset = []
     json_lines_dataset = []
@@ -28,6 +32,9 @@ def postprocess():
         page_file = open(page_path, 'r')
         page_content = page_file.read()
 
+        raw_page = next(x for x in raw_pages if x.get("id") == int(slug[:slug.index('.txt')]))
+        page_path = raw_page.get("path")
+
         try:
             questions = []
             for i in [1, 2, 3]:
@@ -40,6 +47,7 @@ def postprocess():
                 'context': page_content,
                 'questions': questions,
                 'pageId': slug[:slug.index('.txt')],
+                'pagePath': page_path,
                 'city': CITY,
                 'language': LANGUAGE
             }

@@ -6,6 +6,7 @@ import org.tuerantuer.annotation.database.*
 @Serializable
 data class Row(
     val pageId: Int,
+    val pagePath: String,
     val city: String,
     val language: String,
     val context: String,
@@ -14,6 +15,7 @@ data class Row(
 
 fun RowEntity.serializable(questions: List<Question>? = null) = Row(
     pageId = pageId,
+    pagePath = pagePath,
     city = city,
     language = language,
     context = context,

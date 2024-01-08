@@ -1,4 +1,4 @@
-import { Button, CircularProgress } from '@mui/material'
+import { Alert, Button, CircularProgress, Link } from '@mui/material'
 import React, { ReactElement } from 'react'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components'
@@ -62,7 +62,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
   const { value: language, update: setLanguage } = useSetting<string>('language')
   const { t } = useTranslation()
 
-  const { questionSelections, refresh } = useLoadQuestionSelections(user, t)
+  const { questionSelections, refresh: refreshQuestionSelections } = useLoadQuestionSelections(user, t)
 
   const { currentQuestion, showPrevious, showNext, editAnnotation, submitAnnotation, isPrevious } = useLoadQuestion(
     user,
@@ -102,7 +102,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
     )
   }
 
-  const { context, answerLines, question, poor } = currentQuestion.question
+  const { context, answerLines, question, poor, pageId, pagePath } = currentQuestion.question
   const { answerLines: annotationAnswerLines, poor: annotatedPoor } = currentQuestion.annotation
 
   const unchanged = equals(annotationAnswerLines, answerLines) && poor === annotatedPoor
@@ -112,13 +112,15 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
       <QuestionSelectionSettingContainer>{RenderedQuestionSelectionSetting}</QuestionSelectionSettingContainer>
 
       <Title>{question}</Title>
+      <Link
+        href={`https://integreat.app${pagePath}`}>{t('openInIntegreat', { name: `${context.slice(0, context.indexOf('\n'))} (${pageId})` })}</Link>
       <AnswerLines
         context={context}
         answerLines={answerLines}
         annotationAnswerLines={annotationAnswerLines}
         disabled={annotatedPoor}
         onChange={newAnswerLines =>
-          editAnnotation(currentQuestion.question, {
+          editAnnotation(currentQuestion, {
             answerLines: newAnswerLines,
             poor: annotatedPoor
           })
@@ -132,7 +134,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
           text={t('noAnswer')}
           disabled={annotatedPoor}
           onToggle={() =>
-            editAnnotation(currentQuestion.question, {
+            editAnnotation(currentQuestion, {
               answerLines: annotationAnswerLines.length === 0 ? answerLines : [],
               poor: annotatedPoor
             })
@@ -144,12 +146,16 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
           text={t('poorQuestion')}
           isDanger
           onToggle={() =>
-            editAnnotation(currentQuestion.question, {
+            editAnnotation(currentQuestion, {
               answerLines: annotationAnswerLines,
               poor: !annotatedPoor
             })}
         />
       </CheckboxContainer>
+
+      {currentQuestion.status === 'submitted' && unchanged && <Alert severity='success'>
+        {t('submitted')}
+      </Alert>}
 
       <ButtonContainer>
         {showPrevious && (
@@ -157,13 +163,13 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
             {t('previous')}
           </Button>
         )}
-        <Button variant="contained" onClick={() => {
-          submitAnnotation().then(refresh)
+        <Button variant="contained" disabled={currentQuestion.status === 'submitted' && unchanged} onClick={() => {
+          submitAnnotation().then(refreshQuestionSelections)
         }}>
           {t(unchanged ? 'approve' : 'submit')}
         </Button>
         <Button variant="text" onClick={showNext}>
-          {t(isPrevious ? 'showNext' : 'skip')}
+          {t(isPrevious ? 'next' : 'skip')}
         </Button>
       </ButtonContainer>
     </Container>

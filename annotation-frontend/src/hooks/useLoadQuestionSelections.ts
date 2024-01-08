@@ -27,7 +27,7 @@ const useLoadQuestionSelections = (user: string, t: TFunction): Return => {
   const request = useCallback(() => {
     const url = new URL(`${BASE_URL}/question-selections`)
     url.searchParams.append('user', user)
-    return load(url.toString(), (response: QuestionSelection[]) => response)
+    return load<QuestionSelection[]>(url.toString(), true)
   }, [user])
 
   const { refresh, ...response } = useLoadAsync(request)

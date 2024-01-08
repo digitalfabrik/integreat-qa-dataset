@@ -4,15 +4,15 @@ import styled from 'styled-components'
 
 import { CHANGED_COLOR, DANGER_COLOR } from '../constants/colors'
 
-const StyledFormControlLabel = styled(FormControlLabel)<{ $changed: boolean; isDanger: boolean; $disabled: boolean }>`
-  color: ${props => !props.disabled && !props.isDanger && props.$changed && CHANGED_COLOR} !important;
-  color: ${props => props.isDanger && DANGER_COLOR} !important;
+const StyledFormControlLabel = styled(FormControlLabel)<{ $changed: boolean; $isDanger: boolean; $disabled: boolean }>`
+  color: ${props => !props.disabled && !props.$isDanger && props.$changed && CHANGED_COLOR} !important;
+  color: ${props => props.$isDanger && DANGER_COLOR} !important;
   margin: 0 !important;
 `
 
-const StyledCheckbox = styled(MaterialCheckbox)<{ $changed: boolean; isDanger: boolean; $disabled: boolean }>`
-  color: ${props => !props.disabled && !props.isDanger && props.$changed && CHANGED_COLOR} !important;
-  color: ${props => props.isDanger && DANGER_COLOR} !important;
+const StyledCheckbox = styled(MaterialCheckbox)<{ $changed: boolean; $isDanger: boolean; $disabled: boolean }>`
+  color: ${props => !props.disabled && !props.$isDanger && props.$changed && CHANGED_COLOR} !important;
+  color: ${props => props.$isDanger && DANGER_COLOR} !important;
   align-self: start;
   padding: 0;
 `
@@ -39,7 +39,7 @@ const Checkbox = ({
   <StyledFormControlLabel
     $changed={changed}
     $disabled={disabled}
-    isDanger={isDanger}
+    $isDanger={isDanger}
     label={text}
     className={className}
     control={
@@ -49,7 +49,7 @@ const Checkbox = ({
         $changed={changed}
         $disabled={disabled}
         disabled={disabled}
-        isDanger={isDanger}
+        $isDanger={isDanger}
       />
     }
   />

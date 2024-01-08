@@ -28,8 +28,10 @@ const AnswerLines = ({ context, answerLines, annotationAnswerLines, onChange, di
 
   return (
     <FormGroup>
+      <Divider />
       {lines.map((line, index) => (
-        <span key={line}>
+        // eslint-disable-next-line react/no-array-index-key
+        <span key={index}>
           <AnswerLine
             text={line}
             isSelected={annotationAnswerLines.includes(index)}

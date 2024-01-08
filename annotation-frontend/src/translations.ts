@@ -22,6 +22,8 @@ const translations = {
         'Vielen Dank für deine Mithilfe. Zu deinen aktuellen Einstellungen gibt es keine weiteren passenden Fragen.\nFalls du willst, ändere gerne den Ort oder die Sprache, um weitere Fragen prüfen zu können.',
       unknownError:
         'Ein unbekannter Fehler ist aufgetreten. Lade die Seite neu und kontaktiere mich bitte unter steffen.kleinle@tuerantuer.org',
+      openInIntegreat: '"{{name}}" Integreat öffnen',
+      submitted: 'Erfolgreich gesendet!'
     },
   },
   en: {
@@ -33,7 +35,7 @@ const translations = {
       random: 'Random',
       questionSelection: 'Question selection',
       previous: 'Previous question',
-      next: 'Nächste Frage',
+      next: 'Next question',
       submit: 'Submit changes',
       approve: 'Approve',
       skip: 'Skip question',
@@ -43,6 +45,8 @@ const translations = {
         'Thank you for your help. There are no further questions matching your current settings.\nIf you wish, please change the location or language to be able to check further questions.',
       unknownError:
         'An unknown error has occurred. Please reload the page and contact me at steffen.kleinle@tuerantuer.org',
+      openInIntegreat: 'Open "{{name}}" in Integreat',
+      submitted: 'Successfully sent!'
     },
   },
 }

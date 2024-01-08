@@ -42,6 +42,16 @@ A3: 6
 """'''
 
 
+# Add line numbers to each line
+def enumerate_lines(text):
+    lines = text.split('\n')
+    numerated_lines = []
+    for index, line in enumerate(lines):
+        numerated_lines.append(str(index) + ' ' + line)
+
+    return '\n'.join(numerated_lines)
+
+
 def generate_questions(slug):
     page_path = get_integreat_pages_path(slug)
     raw_path = get_questions_with_evidence_path([RAW_SLUG, slug])
@@ -68,7 +78,7 @@ def generate_questions(slug):
         model='gpt-3.5-turbo',
         messages=[
             {'role': 'system', 'content': prompt_de if LANGUAGE == 'de' else prompt_en},
-            {'role': 'user', 'content': content},
+            {'role': 'user', 'content': enumerate_lines(content)},
         ]
     )
     print(f'Generated {slug}: {response}')

@@ -9,6 +9,7 @@ fun insertRows(rows: List<Row>) = transaction {
     rows.forEach { row ->
         val rowEntity = RowEntity.new {
             pageId = row.pageId
+            pagePath = row.pagePath
             city = row.city
             language = row.language
             context = row.context

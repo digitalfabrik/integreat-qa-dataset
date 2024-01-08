@@ -7,6 +7,7 @@ import org.jetbrains.exposed.dao.id.IntIdTable
 
 object Rows : IntIdTable() {
     val pageId = integer("pageId")
+    val pagePath = varchar("pagePath", 200)
     val city = varchar("city", 25)
     val language = varchar("language", 5)
     val context = varchar("context", 5000)
@@ -16,6 +17,7 @@ class RowEntity(id: EntityID<Int>) : IntEntity(id) {
     companion object : IntEntityClass<RowEntity>(Rows)
 
     var pageId by Rows.pageId
+    var pagePath by Rows.pagePath
     var city by Rows.city
     var language by Rows.language
     var context by Rows.context
