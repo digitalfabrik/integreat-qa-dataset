@@ -2,10 +2,11 @@ import { Checkbox as MaterialCheckbox, FormControlLabel } from '@mui/material'
 import React, { ReactElement } from 'react'
 import styled from 'styled-components'
 
-import { CHANGED_COLOR, DANGER_COLOR } from '../constants/colors'
+import { CHANGED_COLOR, DANGER_COLOR, SELECTED_COLOR } from '../constants/colors'
 
-const StyledFormControlLabel = styled(FormControlLabel)<{ $changed: boolean; $isDanger: boolean; $disabled: boolean }>`
+const StyledFormControlLabel = styled(FormControlLabel)<{ $changed: boolean; $selected: boolean; $isDanger: boolean; $disabled: boolean }>`
   color: ${props => !props.disabled && !props.$isDanger && props.$changed && CHANGED_COLOR} !important;
+  color: ${props => !props.disabled && !props.$changed && props.$selected && SELECTED_COLOR} !important;
   color: ${props => props.$isDanger && DANGER_COLOR} !important;
   margin: 0 !important;
 `
@@ -38,6 +39,7 @@ const Checkbox = ({
 }: AnswerLineProps): ReactElement => (
   <StyledFormControlLabel
     $changed={changed}
+    $selected={isSelected}
     $disabled={disabled}
     $isDanger={isDanger}
     label={text}

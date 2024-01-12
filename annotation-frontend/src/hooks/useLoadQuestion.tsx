@@ -49,7 +49,6 @@ const useLoadQuestion = (
   const [questions, setQuestions] = useState<QuestionStatus[]>([initialQuestion])
   const [currentIndex, setCurrentIndex] = useState(0)
   const currentQuestion = questions[currentIndex]
-  console.log(questions)
 
   const updateQuestion = useCallback(
     (newQuestion: QuestionStatus, index: number) => {
@@ -96,6 +95,7 @@ const useLoadQuestion = (
   )
 
   useEffect(() => {
+    setCurrentIndex(0)
     setQuestions([initialQuestion])
     loadNextQuestion(0)
   }, [loadNextQuestion])

@@ -31,7 +31,11 @@ const QuestionSelectionSettingContainer = styled.div`
     justify-content: end;
 `
 
-const Title = styled.h1`
+const Question = styled.h1`
+    margin: 0;
+`
+
+const Title = styled.h3`
     margin: 0;
 `
 
@@ -106,14 +110,17 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
   const { answerLines: annotationAnswerLines, poor: annotatedPoor } = currentQuestion.annotation
 
   const unchanged = equals(annotationAnswerLines, answerLines) && poor === annotatedPoor
+  const title = context.slice(0, context.indexOf('\n'))
 
   return (
     <Container>
       <QuestionSelectionSettingContainer>{RenderedQuestionSelectionSetting}</QuestionSelectionSettingContainer>
 
-      <Title>{question}</Title>
+      <Question>{question}</Question>
+      <div>{t(answerLines.length === 0 ? 'descriptionUnselected': 'descriptionSelected')}</div>
+      <Title>{title}</Title>
       <Link
-        href={`https://integreat.app${pagePath}`}>{t('openInIntegreat', { name: `${context.slice(0, context.indexOf('\n'))} (${pageId})` })}</Link>
+        href={`https://integreat.app${pagePath}`}>{t('openInIntegreat', { name: `${title} (${pageId})` })}</Link>
       <AnswerLines
         context={context}
         answerLines={answerLines}

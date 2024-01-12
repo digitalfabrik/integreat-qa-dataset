@@ -1,13 +1,7 @@
 import { FormGroup } from '@mui/material'
 import React, { ReactElement } from 'react'
-import styled from 'styled-components'
 
 import AnswerLine from './AnswerLine'
-
-const Divider = styled.div`
-  height: 1px;
-  border-bottom: 1px solid grey;
-`
 
 type AnswerLinesProps = {
   context: string
@@ -23,24 +17,21 @@ const AnswerLines = ({ context, answerLines, annotationAnswerLines, onChange, di
     onChange(
       annotationAnswerLines.includes(index)
         ? annotationAnswerLines.filter(it => it !== index)
-        : [...annotationAnswerLines, index].sort(),
+        : [...annotationAnswerLines, index].sort()
     )
 
   return (
     <FormGroup>
-      <Divider />
       {lines.map((line, index) => (
-        // eslint-disable-next-line react/no-array-index-key
-        <span key={index}>
-          <AnswerLine
-            text={line}
-            isSelected={annotationAnswerLines.includes(index)}
-            changed={annotationAnswerLines.includes(index) !== answerLines.includes(index)}
-            onToggle={() => onToggle(index)}
-            disabled={disabled}
-          />
-          <Divider />
-        </span>
+        <AnswerLine
+          // eslint-disable-next-line react/no-array-index-key
+          key={index}
+          text={line}
+          isSelected={annotationAnswerLines.includes(index)}
+          changed={annotationAnswerLines.includes(index) !== answerLines.includes(index)}
+          onToggle={() => onToggle(index)}
+          disabled={disabled}
+        />
       ))}
     </FormGroup>
   )
