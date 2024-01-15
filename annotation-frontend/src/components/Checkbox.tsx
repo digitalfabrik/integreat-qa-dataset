@@ -4,7 +4,12 @@ import styled from 'styled-components'
 
 import { CHANGED_COLOR, DANGER_COLOR, SELECTED_COLOR } from '../constants/colors'
 
-const StyledFormControlLabel = styled(FormControlLabel)<{ $changed: boolean; $selected: boolean; $isDanger: boolean; $disabled: boolean }>`
+const StyledFormControlLabel = styled(FormControlLabel)<{
+  $changed: boolean
+  $selected: boolean
+  $isDanger: boolean
+  $disabled: boolean
+}>`
   color: ${props => !props.disabled && !props.$isDanger && props.$changed && CHANGED_COLOR} !important;
   color: ${props => !props.disabled && !props.$changed && props.$selected && SELECTED_COLOR} !important;
   color: ${props => props.$isDanger && DANGER_COLOR} !important;

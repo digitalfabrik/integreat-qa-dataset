@@ -1,8 +1,13 @@
 import { FormControl, InputLabel, MenuItem, Select } from '@mui/material'
 import React, { ReactElement } from 'react'
 import { useTranslation } from 'react-i18next'
+import styled from 'styled-components'
 
 import { QuestionSelectionWithLabel } from '../hooks/useLoadQuestionSelections'
+
+const StyledFormControl = styled(FormControl)`
+  width: 300px;
+`
 
 type DropdownSettingProps = {
   value: QuestionSelectionWithLabel
@@ -13,7 +18,7 @@ type DropdownSettingProps = {
 const QuestionSelectionSetting = ({ value, options, onChange }: DropdownSettingProps): ReactElement => {
   const { t } = useTranslation()
   return (
-    <FormControl>
+    <StyledFormControl>
       <InputLabel id='question-selection-label'>{t('questionSelection')}</InputLabel>
       <Select
         id='question-selection'
@@ -28,7 +33,7 @@ const QuestionSelectionSetting = ({ value, options, onChange }: DropdownSettingP
           </MenuItem>
         ))}
       </Select>
-    </FormControl>
+    </StyledFormControl>
   )
 }
 

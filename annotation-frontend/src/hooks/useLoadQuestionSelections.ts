@@ -19,7 +19,7 @@ export type QuestionSelectionWithLabel = {
 }
 
 type Return = {
-  questionSelections: QuestionSelectionWithLabel[],
+  questionSelections: QuestionSelectionWithLabel[]
   refresh: () => void
 }
 

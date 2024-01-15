@@ -11,28 +11,38 @@ type AnswerLinesProps = {
   disabled: boolean
 }
 
-const AnswerLines = ({ context, answerLines, annotationAnswerLines, onChange, disabled }: AnswerLinesProps): ReactElement => {
+const AnswerLines = ({
+  context,
+  answerLines,
+  annotationAnswerLines,
+  onChange,
+  disabled,
+}: AnswerLinesProps): ReactElement => {
   const lines = context.split('\n')
   const onToggle = (index: number) =>
     onChange(
       annotationAnswerLines.includes(index)
         ? annotationAnswerLines.filter(it => it !== index)
-        : [...annotationAnswerLines, index].sort()
+        : [...annotationAnswerLines, index].sort(),
     )
 
   return (
     <FormGroup>
-      {lines.map((line, index) => (
-        <AnswerLine
-          // eslint-disable-next-line react/no-array-index-key
-          key={index}
-          text={line}
-          isSelected={annotationAnswerLines.includes(index)}
-          changed={annotationAnswerLines.includes(index) !== answerLines.includes(index)}
-          onToggle={() => onToggle(index)}
-          disabled={disabled}
-        />
-      ))}
+      {lines.map(
+        (line, index) =>
+          // Don't show title
+          index !== 0 && (
+            <AnswerLine
+              // eslint-disable-next-line react/no-array-index-key
+              key={index}
+              text={line}
+              isSelected={annotationAnswerLines.includes(index)}
+              changed={annotationAnswerLines.includes(index) !== answerLines.includes(index)}
+              onToggle={() => onToggle(index)}
+              disabled={disabled}
+            />
+          ),
+      )}
     </FormGroup>
   )
 }

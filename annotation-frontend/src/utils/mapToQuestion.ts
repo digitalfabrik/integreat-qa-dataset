@@ -5,7 +5,8 @@ export type Question = {
   context: string
   question: string
   answerLines: number[]
-  poor: boolean
+  noAnswer: boolean
+  comment: string
   city: string
   language: string
 }
@@ -33,8 +34,9 @@ const mapToQuestion = (json: QuestionJson): Question => ({
   city: json.value.city,
   language: json.value.language,
   question: json.value.questions[0].question,
-  answerLines: json.value.questions[0].answerLines,
-  poor: false,
+  answerLines: [],
+  noAnswer: false,
+  comment: '',
 })
 
 export default mapToQuestion

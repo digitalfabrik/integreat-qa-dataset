@@ -6,28 +6,29 @@ import mapToQuestion, { Question, QuestionJson } from '../utils/mapToQuestion'
 
 type Annotation = {
   answerLines: number[]
-  poor: boolean
+  noAnswer: boolean
+  comment: string
 }
 
 type QuestionStatus =
   | {
-  status: 'loading'
-  question: null
-  annotation: null
-  error: null
-}
+      status: 'loading'
+      question: null
+      annotation: null
+      error: null
+    }
   | {
-  status: 'error'
-  question: null
-  annotation: null
-  error: string
-}
+      status: 'error'
+      question: null
+      annotation: null
+      error: string
+    }
   | {
-  status: 'ready' | 'submitting' | 'submitted'
-  question: Question
-  annotation: Annotation
-  error: string | null
-}
+      status: 'ready' | 'submitting' | 'submitted'
+      question: Question
+      annotation: Annotation
+      error: string | null
+    }
 
 const initialQuestion: QuestionStatus = { status: 'loading', question: null, annotation: null, error: null }
 
@@ -44,18 +45,15 @@ const useLoadQuestion = (
   user: string,
   city: string | null,
   language: string | null,
-  evidence: string | null = null
+  evidence: string | null = null,
 ): Return => {
   const [questions, setQuestions] = useState<QuestionStatus[]>([initialQuestion])
   const [currentIndex, setCurrentIndex] = useState(0)
   const currentQuestion = questions[currentIndex]
 
-  const updateQuestion = useCallback(
-    (newQuestion: QuestionStatus, index: number) => {
-      setQuestions(questions => questions.map((it, loopIndex) => (loopIndex === index ? newQuestion : it)))
-    },
-    []
-  )
+  const updateQuestion = useCallback((newQuestion: QuestionStatus, index: number) => {
+    setQuestions(questions => questions.map((it, loopIndex) => (loopIndex === index ? newQuestion : it)))
+  }, [])
 
   const loadNextQuestion = useCallback(
     (currentIndex: number) => {
@@ -73,25 +71,30 @@ const useLoadQuestion = (
 
       load<QuestionJson>(url.toString(), true)
         .then(json => {
-            const question = mapToQuestion(json)
-            updateQuestion({
+          const question = mapToQuestion(json)
+          updateQuestion(
+            {
               status: 'ready',
               question,
-              annotation: { answerLines: question.answerLines, poor: false },
-              error: null
-            }, currentIndex)
-          }
-        )
+              annotation: { answerLines: question.answerLines, noAnswer: false, comment: '' },
+              error: null,
+            },
+            currentIndex,
+          )
+        })
         .catch(error =>
-          updateQuestion({
-            status: 'error',
-            error: error.message,
-            question: null,
-            annotation: null
-          }, currentIndex)
+          updateQuestion(
+            {
+              status: 'error',
+              error: error.message,
+              question: null,
+              annotation: null,
+            },
+            currentIndex,
+          ),
         )
     },
-    [user, city, language, evidence, updateQuestion]
+    [user, city, language, evidence, updateQuestion],
   )
 
   useEffect(() => {
@@ -114,45 +117,57 @@ const useLoadQuestion = (
   const editAnnotation = useCallback(
     (currentQuestion: QuestionStatus, annotation: Annotation) => {
       if (currentQuestion.status === 'ready' || currentQuestion.status === 'submitted') {
-        updateQuestion({
-          ...currentQuestion,
-          annotation,
-        }, currentIndex)
+        updateQuestion(
+          {
+            ...currentQuestion,
+            annotation,
+          },
+          currentIndex,
+        )
       }
     },
-    [updateQuestion, currentIndex]
+    [updateQuestion, currentIndex],
   )
 
   const submitAnnotation = useCallback(async () => {
     if (currentQuestion.status === 'ready' || currentQuestion.status === 'submitted') {
-      updateQuestion({
-        ...currentQuestion,
-        status: 'submitting'
-      }, currentIndex)
+      updateQuestion(
+        {
+          ...currentQuestion,
+          status: 'submitting',
+        },
+        currentIndex,
+      )
       const url = `${BASE_URL}/annotation`
       const body = JSON.stringify({
         id: currentQuestion.question.id,
-        value: { ...currentQuestion.annotation, user }
+        value: { ...currentQuestion.annotation, user },
       })
       await load(url, false, body)
         .then(() =>
-          updateQuestion({
-            ...currentQuestion,
-            status: 'submitted',
-            question: {
-              ...currentQuestion.question,
-              answerLines: currentQuestion.annotation.answerLines,
-              poor: currentQuestion.annotation.poor
-            }
-          }, currentIndex)
+          updateQuestion(
+            {
+              ...currentQuestion,
+              status: 'submitted',
+              question: {
+                ...currentQuestion.question,
+                answerLines: currentQuestion.annotation.answerLines,
+                noAnswer: currentQuestion.annotation.noAnswer,
+              },
+            },
+            currentIndex,
+          ),
         )
         .then(showNext)
         .catch(error => {
           console.log(error)
-          updateQuestion({
-            ...currentQuestion,
-            error: error.message
-          }, currentIndex)
+          updateQuestion(
+            {
+              ...currentQuestion,
+              error: error.message,
+            },
+            currentIndex,
+          )
         })
     }
   }, [updateQuestion, currentQuestion, showNext, user, currentIndex])
@@ -163,7 +178,7 @@ const useLoadQuestion = (
     showPrevious: currentIndex > 0 ? showPrevious : null,
     editAnnotation,
     submitAnnotation,
-    isPrevious: currentIndex < questions.length - 1
+    isPrevious: currentIndex < questions.length - 1,
   }
 }
 
