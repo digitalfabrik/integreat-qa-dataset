@@ -1,3 +1,4 @@
+import InfoIcon from '@mui/icons-material/InfoOutlined'
 import { Alert, Button, CircularProgress, TextField } from '@mui/material'
 import React, { ReactElement } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -5,18 +6,12 @@ import styled from 'styled-components'
 
 import AnswerLines from './components/AnswerLines'
 import Checkbox from './components/Checkbox'
+import Container from './components/Container'
 import QuestionSelectionSetting from './components/QuestionSelectionSetting'
 import useLoadQuestion from './hooks/useLoadQuestion'
 import useLoadQuestionSelections from './hooks/useLoadQuestionSelections'
 import useSetting from './hooks/useSetting'
 import { equals } from './utils/equals'
-
-const Container = styled.div`
-  display: flex;
-  flex-direction: column;
-  gap: 32px;
-  padding: 32px;
-`
 
 const Centered = styled.div`
   height: 100%;
@@ -24,6 +19,15 @@ const Centered = styled.div`
   justify-content: center;
   align-items: center;
   gap: 32px;
+`
+
+const Description = styled.div`
+  display: flex;
+  gap: 8px;
+`
+
+const DescriptionText = styled.span`
+  margin: auto;
 `
 
 const QuestionSelectionSettingContainer = styled.div`
@@ -129,7 +133,10 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
       <QuestionSelectionSettingContainer>{RenderedQuestionSelectionSetting}</QuestionSelectionSettingContainer>
 
       <Question>{question}</Question>
-      <div>{t('instructions')}</div>
+      <Description>
+        <InfoIcon />
+        <DescriptionText>{t('instructions')}</DescriptionText>
+      </Description>
 
       <HighlightBox>
         <Title>{title}</Title>

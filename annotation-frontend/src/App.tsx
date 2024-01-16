@@ -3,6 +3,8 @@ import React, { ReactElement, useEffect, useState } from 'react'
 import { initReactI18next } from 'react-i18next'
 
 import AnnotationPage from './AnnotationPage'
+import LandingPage from './LandingPage'
+import useSetting from './hooks/useSetting'
 import translations from './translations'
 
 i18next.use(initReactI18next).init({
@@ -13,6 +15,7 @@ i18next.use(initReactI18next).init({
 })
 
 const App = (): ReactElement => {
+  const { value: landingPageShown, update } = useSetting<boolean>('LANDING_PAGE_SHOWN')
   const [user, setUser] = useState<string>()
 
   useEffect(() => {
@@ -31,7 +34,11 @@ const App = (): ReactElement => {
     return <div />
   }
 
-  return <AnnotationPage user={user} />
+  return landingPageShown ? (
+    <AnnotationPage user={user} />
+  ) : (
+    <LandingPage user={user} setLandingPageShown={() => update(true)} />
+  )
 }
 
 export default App

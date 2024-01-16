@@ -24,6 +24,8 @@ fun insertAnnotation(questionId: EntityID<Int>, annotation: Annotation) = transa
         this.questionId = questionId
         answerLines = Json.encodeToString(annotation.answerLines)
         poor = annotation.poor
+        noAnswer = annotation.noAnswer
+        comment = annotation.comment
         user = annotation.user
         created = annotation.created.toJavaInstant()
     }
