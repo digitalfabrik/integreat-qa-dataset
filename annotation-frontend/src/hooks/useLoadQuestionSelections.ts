@@ -33,7 +33,7 @@ const useLoadQuestionSelections = (user: string, t: TFunction): Return => {
   const { refresh, ...response } = useLoadAsync(request)
   const data = response.data ?? []
 
-  const dataWithLabel = data.map(it => ({ ...it, label: `${it.city} - ${t(it.language)} (${it.count})` }))
+  const dataWithLabel = data.map(it => ({ ...it, label: `${t(it.city)} - ${t(it.language)} (${it.count})` }))
   const randomLabel: QuestionSelectionWithLabel = { city: null, language: null, count: null, label: t('random') }
   const languageLabels = [...new Set(data.map(it => it.language))].map(it => ({
     city: null,

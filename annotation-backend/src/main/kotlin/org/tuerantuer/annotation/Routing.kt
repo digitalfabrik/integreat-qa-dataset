@@ -6,9 +6,7 @@ import io.ktor.server.request.*
 import io.ktor.server.response.*
 import io.ktor.server.routing.*
 import org.tuerantuer.annotation.database.*
-import org.tuerantuer.annotation.models.Row
 import org.tuerantuer.annotation.models.WithId
-import org.tuerantuer.annotation.database.archiveQuestion
 import org.tuerantuer.annotation.database.getQuestion
 import org.tuerantuer.annotation.database.getQuestionsCount
 import org.tuerantuer.annotation.models.Annotation
@@ -20,10 +18,10 @@ fun Application.configureRouting() {
                 call.respond(getRows())
             }
 
-            post {
-                val rows = call.receive<List<Row>>()
-                insertRows(rows)
-            }
+//            post {
+//                val rows = call.receive<List<Row>>()
+//                insertRows(rows)
+//            }
         }
 
         route("/question") {
@@ -41,10 +39,10 @@ fun Application.configureRouting() {
                 call.respond(question)
             }
 
-            delete("{id}") {
-                archiveQuestion(call.parameters["id"]?.toInt()!!)
-                call.respond(HttpStatusCode.OK)
-            }
+//            delete("{id}") {
+//                archiveQuestion(call.parameters["id"]?.toInt()!!)
+//                call.respond(HttpStatusCode.OK)
+//            }
 
             route("/count") {
                 get {
@@ -77,6 +75,10 @@ fun Application.configureRouting() {
 
         get("/languages") {
             call.respond(getLanguages())
+        }
+
+        get("/check") {
+
         }
     }
 }

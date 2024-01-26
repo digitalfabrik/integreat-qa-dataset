@@ -11,6 +11,7 @@ data class Annotation(
     val answerLines: List<Int>,
     val poor: Boolean,
     val noAnswer: Boolean,
+    val skipped: Boolean,
     val comment: String,
     val user: String,
     val created: Instant = Clock.System.now(),
@@ -20,6 +21,7 @@ data class Annotation(
 fun AnnotationEntity.serializable() = Annotation(
     answerLines = Json.decodeFromString(answerLines),
     poor = poor,
+    skipped = skipped,
     noAnswer = noAnswer,
     comment = comment,
     user = user,

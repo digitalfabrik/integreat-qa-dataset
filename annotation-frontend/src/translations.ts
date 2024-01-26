@@ -27,7 +27,7 @@ const translations = {
       ourGoal: 'Unser Ziel: ',
       goal: 'Wir wollen die Informationsarmut unter Neuzugewanderten und Geflüchteten überwinden und ihnen helfen, die Informationen zu finden, die sie in Deutschland benötigen.',
       ourIdea: 'Unsere Idee: ',
-      idea: 'Wir kombinieren KI-generierte Antworten mit denen von Migrationsberatungsexperten und beseitigen die Sprachbarriere durch maschinelle Übersetzungen.',
+      idea: 'Wir kombinieren KI-unterstützte Antworten mit denen von Migrationsberatungsexperten und beseitigen die Sprachbarriere durch maschinelle Übersetzungen.',
       yourHelp: 'Ihre Hilfe: ',
       help: 'Für das Training unserer KI benötigen wir qualitativ hochwertige Fragen und Antworten. Dafür brauchen wir IHRE Hilfe, um mögliche Fragen mit ihren Antworten zu verbinden.',
       omos: 'OMoS – Online-Migrationsberatung ohne Sprachbarrieren',
@@ -51,6 +51,12 @@ const translations = {
       consent:
         'Ich stimme der Verarbeitung und Veröffentlichung meiner Anmerkungen und deren Verwendung für maschinelles Lernen zu. Alle Annotationen und eingegebenen Informationen werden anonym gespeichert und verarbeitet.',
       continue: 'Weiter',
+      muenchen: 'München',
+      augsburg: 'Augsburg',
+      contactTitle: 'Hilfe & Kontakt',
+      contactDescription:
+        'Wenn etwas nicht funktioniert, keinen Sinn ergibt oder Sie Fragen haben, zögern Sie bitte nicht, mich zu kontaktieren:',
+      questionId: 'Frage: {{questionId}}',
     },
   },
   en: {
@@ -81,7 +87,7 @@ const translations = {
       ourGoal: 'Our goal: ',
       goal: 'We want to overcome the information poverty among newcomers and refugees and help them finding the information they need in Germany.',
       ourIdea: 'Our idea: ',
-      idea: 'We combine AI-generated answers with those of migration consulting experts and remove the language barrier through machine translation.',
+      idea: 'We combine AI-supported answers with those of migration consulting experts and remove the language barrier through machine translation.',
       yourHelp: 'Your help: ',
       help: 'We need high-quality questions and answers to train our AI. Therefore we need YOUR help to connect possible questions with their answers.',
       helpDescription:
@@ -98,14 +104,20 @@ const translations = {
       moreInformationIdeaContent:
         'The OMoS project (Online Migration Advice without Language Barriers) focuses on improving advice for newcomers through AI and simplifying the answering of basic questions through a chatbot. If the questions are too complex, those seeking advice are referred to human counseling experts. This pilot initiative aims to simplify and improve the traditionally resource-intensive migration advice process through resource-efficient AI. OMoS was awarded the "AI for the Common Good" prize in the CIP Ideas Competition 2023 for its social significance. The project will initially be piloted with the Technical University of Dortmund and the City of Munich.',
       blogLink: 'To our blog article about OMoS',
-      moreInformationResearchTitle: 'More about the scientific assistance',
+      moreInformationResearchTitle: 'More about me and my master thesis',
       moreInformationResearchContent:
-        "With the support of Tür an Tür Digitalfabrik and under the supervision of Prof. Dr. Annemarie Friedrich from the Chair of Natural Language Understanding at the University of Augsburg, I am writing my master's thesis on the project and the development of OMoS. This means that not only the project itself is dependent on your help, but also I personally for the success of my master's thesis. Thank you for your help!",
+        'I am Steffen, a Computer Science student at the University of Augsburg. I am currently writing my master thesis about the project and the development of OMoS. This means that not only the project itself is dependent on your help, but also I personally need your support for the success of my thesis. Thank you for your help! Steffen',
       questionSelectionDescription:
         'You can select here for which region and language you want to annotate questions. This can be changed at any point later as well.',
       consent:
         'I agree to the processing and publication of my annotations and their use for machine learning. All annotations and information entered will be stored and processed anonymously.',
       continue: 'Continue',
+      muenchen: 'München',
+      augsburg: 'Augsburg',
+      contactTitle: 'Help & Contact',
+      contactDescription:
+        "If something is not working, doesn't make sense or you have any questions, please do not hesitate to contact me:",
+      questionId: 'Question: {{questionId}}',
     },
   },
 }

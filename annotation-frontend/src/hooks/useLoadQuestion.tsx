@@ -35,9 +35,9 @@ const initialQuestion: QuestionStatus = { status: 'loading', question: null, ann
 type Return = {
   currentQuestion: QuestionStatus
   showPrevious: (() => void) | null
-  showNext: () => void
   editAnnotation: (currentQuestion: QuestionStatus, annotation: Annotation) => void
   submitAnnotation: () => Promise<void>
+  skip: () => Promise<void>
   isPrevious: boolean
 }
 
@@ -129,55 +129,59 @@ const useLoadQuestion = (
     [updateQuestion, currentIndex],
   )
 
-  const submitAnnotation = useCallback(async () => {
-    if (currentQuestion.status === 'ready' || currentQuestion.status === 'submitted') {
-      updateQuestion(
-        {
-          ...currentQuestion,
-          status: 'submitting',
-        },
-        currentIndex,
-      )
-      const url = `${BASE_URL}/annotation`
-      const body = JSON.stringify({
-        id: currentQuestion.question.id,
-        value: { ...currentQuestion.annotation, user },
-      })
-      await load(url, false, body)
-        .then(() =>
-          updateQuestion(
-            {
-              ...currentQuestion,
-              status: 'submitted',
-              question: {
-                ...currentQuestion.question,
-                answerLines: currentQuestion.annotation.answerLines,
-                noAnswer: currentQuestion.annotation.noAnswer,
-              },
-            },
-            currentIndex,
-          ),
+  const submitAnnotation = useCallback(
+    async (skipped = false) => {
+      if (currentQuestion.status === 'ready' || currentQuestion.status === 'submitted') {
+        updateQuestion(
+          {
+            ...currentQuestion,
+            status: 'submitting',
+          },
+          currentIndex,
         )
-        .then(showNext)
-        .catch(error => {
-          console.log(error)
-          updateQuestion(
-            {
-              ...currentQuestion,
-              error: error.message,
-            },
-            currentIndex,
-          )
+        const url = `${BASE_URL}/annotation`
+        const body = JSON.stringify({
+          id: currentQuestion.question.id,
+          value: { ...currentQuestion.annotation, user, poor: false, skipped },
         })
-    }
-  }, [updateQuestion, currentQuestion, showNext, user, currentIndex])
+        await load(url, false, body)
+          .then(() =>
+            updateQuestion(
+              {
+                ...currentQuestion,
+                status: skipped ? 'ready' : 'submitted',
+                question: {
+                  ...currentQuestion.question,
+                  answerLines: currentQuestion.annotation.answerLines,
+                  noAnswer: currentQuestion.annotation.noAnswer,
+                  comment: currentQuestion.annotation.comment,
+                },
+              },
+              currentIndex,
+            ),
+          )
+          .then(showNext)
+          .catch(error => {
+            console.log(error)
+            updateQuestion(
+              {
+                ...currentQuestion,
+                error: error.message,
+              },
+              currentIndex,
+            )
+          })
+      }
+    },
+    [updateQuestion, currentQuestion, showNext, user, currentIndex],
+  )
 
   return {
     currentQuestion,
-    showNext,
     showPrevious: currentIndex > 0 ? showPrevious : null,
     editAnnotation,
     submitAnnotation,
+    skip: () => submitAnnotation(true),
     isPrevious: currentIndex < questions.length - 1,
   }
 }

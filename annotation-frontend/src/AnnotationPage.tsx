@@ -1,9 +1,12 @@
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
+import HelpIcon from '@mui/icons-material/HelpOutline'
 import InfoIcon from '@mui/icons-material/InfoOutlined'
-import { Alert, Button, CircularProgress, TextField } from '@mui/material'
+import { Accordion, AccordionSummary, Alert, Button, CircularProgress, TextField } from '@mui/material'
 import React, { ReactElement } from 'react'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components'
 
+import { AccordionSummaryContent, AccordionTitle, StyledAccordionDetails } from './LandingPage'
 import AnswerLines from './components/AnswerLines'
 import Checkbox from './components/Checkbox'
 import Container from './components/Container'
@@ -27,7 +30,7 @@ const Description = styled.div`
 `
 
 const DescriptionText = styled.span`
-  margin: auto;
+  margin-vertical: auto;
 `
 
 const QuestionSelectionSettingContainer = styled.div`
@@ -68,6 +71,13 @@ const ButtonContainer = styled.div`
   gap: 32px;
 `
 
+const StyledAccordion = styled(Accordion)`
+  ::before {
+    height: 0 !important;
+  }
+  box-shadow: none !important;
+`
+
 type AnnotationPageProps = {
   user: string
 }
@@ -79,7 +89,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
 
   const { questionSelections, refresh: refreshQuestionSelections } = useLoadQuestionSelections(user, t)
 
-  const { currentQuestion, showPrevious, showNext, editAnnotation, submitAnnotation, isPrevious } = useLoadQuestion(
+  const { currentQuestion, showPrevious, skip, editAnnotation, submitAnnotation, isPrevious } = useLoadQuestion(
     user,
     city,
     language,
@@ -92,6 +102,26 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
       </Centered>
     )
   }
+
+  const questionId = currentQuestion.question?.id
+  const subject = questionId !== undefined ? `Question:%20${questionId}%20|%20${user}` : `|%20${user}`
+  const ContactInformation = (
+    <StyledAccordion>
+      <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+        <AccordionSummaryContent>
+          <HelpIcon />
+          <AccordionTitle>{t('contactTitle')}</AccordionTitle>
+        </AccordionSummaryContent>
+      </AccordionSummary>
+
+      <StyledAccordionDetails>
+        {t('contactDescription')}
+        <a href={`mailto:steffen.kleinle@uni-a.de?subject=${subject}`}>steffen.kleinle@uni-a.de</a>
+        {questionId !== undefined && <span>{t('questionId', { questionId })}</span>}
+        <span>{user}</span>
+      </StyledAccordionDetails>
+    </StyledAccordion>
+  )
 
   const RenderedQuestionSelectionSetting = (
     <QuestionSelectionSetting
@@ -113,6 +143,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
       <Centered>
         {currentQuestion.error === 'notFound' && RenderedQuestionSelectionSetting}
         {t(currentQuestion.error)}
+        {ContactInformation}
       </Centered>
     )
   }
@@ -199,10 +230,12 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
           }}>
           {t('submit')}
         </Button>
-        <Button variant='text' onClick={showNext}>
+        <Button variant='text' onClick={skip}>
           {t(isPrevious ? 'next' : 'skip')}
         </Button>
       </ButtonContainer>
+
+      {ContactInformation}
     </Container>
   )
 }

@@ -1,17 +1,17 @@
-from openai import OpenAI
+from llama_cpp import Llama
 import os
 import os.path
-from dotenv import load_dotenv
 from constants import get_integreat_pages_path, get_questions_with_evidence_path, RAW_SLUG, RESPONSES_SLUG, LANGUAGE
 
-load_dotenv()
-client = OpenAI()
+MODEL = "/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-chat-dataset/models/mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf"
+llm = Llama(model_path=MODEL, chat_format="llama-2", n_threads=8, n_ctx=6144)
 
 prompt_en = f'''Give three simple and short one-part questions that can be answered with the users message.
 The question should be specific and in easy-to-understand language.
 Bad examples:
 - What services are offered?
 - How many people live in Germany?
+- Does the user...?
 Respond by giving the questions AND the answers.
 For the answers, only give the line numbers, do not give whole sentences.
 Good example:
@@ -55,9 +55,9 @@ def enumerate_lines(text):
 def generate_questions(slug):
     page_path = get_integreat_pages_path(slug)
     raw_path = get_questions_with_evidence_path([RAW_SLUG, slug])
-    responses_path = get_questions_with_evidence_path([RESPONSES_SLUG, slug])
+    response_path = get_questions_with_evidence_path([RESPONSES_SLUG, slug])
 
-    if os.path.isfile(raw_path):
+    if os.path.isfile(response_path):
         print(f'Skipping {slug}: Already exists')
         return
 
@@ -74,8 +74,7 @@ def generate_questions(slug):
         print(f'Skipping {slug}: Context too long')
         return
 
-    response = client.chat.completions.create(
-        model='gpt-3.5-turbo',
+    response = llm.create_chat_completion(
         messages=[
             {'role': 'system', 'content': prompt_de if LANGUAGE == 'de' else prompt_en},
             {'role': 'user', 'content': enumerate_lines(content)},
@@ -83,10 +82,11 @@ def generate_questions(slug):
     )
     print(f'Generated {slug}: {response}')
 
-    raw_file = open(raw_path, 'w')
-    raw_file.write(response.choices[0].message.content)
+    raw_path = get_questions_with_evidence_path([RAW_SLUG, slug])
+    # raw_file = open(raw_path, 'w')
+    # raw_file.write(response.choices[0].message.content)
 
-    response_file = open(responses_path, 'w')
+    response_file = open(response_path, 'w')
     response_file.write(str(response))
 
 
@@ -97,5 +97,5 @@ if __name__ == '__main__':
     page_path = get_integreat_pages_path('')
     slugs = os.listdir(page_path)
 
-    for slug in slugs[:65]:
+    for slug in slugs:
         generate_questions(slug)

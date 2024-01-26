@@ -10,7 +10,8 @@ data class Row(
     val city: String,
     val language: String,
     val context: String,
-    val questions: List<Question>
+    val questions: List<Question>,
+    val model: String
 )
 
 fun RowEntity.serializable(questions: List<Question>? = null) = Row(
@@ -19,5 +20,6 @@ fun RowEntity.serializable(questions: List<Question>? = null) = Row(
     city = city,
     language = language,
     context = context,
+    model = model,
     questions = questions ?: QuestionEntity.find { Questions.rowId eq this@serializable.id }.map { it.serializable() }
 )

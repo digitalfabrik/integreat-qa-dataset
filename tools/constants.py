@@ -1,5 +1,6 @@
 CITY = 'muenchen'
-LANGUAGE = 'de'
+LANGUAGE = 'en'
+MODEL = 'mixtral-8x7B-Instruct-v0.1.Q5_K_M.gguf'
 
 RESPONSES_SLUG = 'responses'
 RAW_SLUG = 'raw'
@@ -16,4 +17,4 @@ def get_integreat_pages_path(slug):
 
 
 def get_questions_with_evidence_path(slugs):
-    return f'{BASE_SLUG}/questions_with_evidence/{CITY}/{LANGUAGE}/{"/".join(slugs)}'
+    return f'{BASE_SLUG}/questions_with_evidence_{MODEL}/{CITY}/{LANGUAGE}/{"/".join(slugs)}'

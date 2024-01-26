@@ -53,16 +53,16 @@ const ButtonContainer = styled.div`
   gap: 32px;
 `
 
-const AccordionSummaryContent = styled.div`
+export const AccordionSummaryContent = styled.div`
   display: flex;
   gap: 8px;
 `
 
-const AccordionTitle = styled.span`
+export const AccordionTitle = styled.span`
   margin: auto;
 `
 
-const StyledAccordionDetails = styled(AccordionDetails)`
+export const StyledAccordionDetails = styled(AccordionDetails)`
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -82,7 +82,7 @@ const LandingPage = ({ setLandingPageShown, user }: LandingPageProps): ReactElem
   const { value: city, update: setCity } = useSetting<string>('city')
   const { value: language, update: setLanguage } = useSetting<string>('language')
   const { t } = useTranslation()
-  const { questionSelections, refresh: refreshQuestionSelections } = useLoadQuestionSelections(user, t)
+  const { questionSelections } = useLoadQuestionSelections(user, t)
 
   return (
     <Container>

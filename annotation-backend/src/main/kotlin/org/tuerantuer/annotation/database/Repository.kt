@@ -7,15 +7,20 @@ import org.tuerantuer.annotation.models.serializable
 
 fun insertRows(rows: List<Row>) = transaction {
     rows.forEach { row ->
-        val rowEntity = RowEntity.new {
-            pageId = row.pageId
-            pagePath = row.pagePath
-            city = row.city
-            language = row.language
-            context = row.context
-        }
+        val previous =
+            RowEntity.find { (Rows.model eq row.model) and (Rows.pageId eq row.pageId) and (Rows.city eq row.city) and (Rows.language eq row.language) }
+        if (previous.empty()) {
+            val rowEntity = RowEntity.new {
+                pageId = row.pageId
+                pagePath = row.pagePath
+                city = row.city
+                language = row.language
+                context = row.context
+                model = row.model
+            }
 
-        row.questions.forEach { insertQuestion(rowEntity.id, it) }
+            row.questions.forEach { insertQuestion(rowEntity.id, it) }
+        }
     }
 }
 

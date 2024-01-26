@@ -11,6 +11,7 @@ object Rows : IntIdTable() {
     val city = varchar("city", 25)
     val language = varchar("language", 5)
     val context = varchar("context", 5000)
+    val model = varchar("model", 200)
 }
 
 class RowEntity(id: EntityID<Int>) : IntEntity(id) {
@@ -21,4 +22,5 @@ class RowEntity(id: EntityID<Int>) : IntEntity(id) {
     var city by Rows.city
     var language by Rows.language
     var context by Rows.context
+    var model by Rows.model
 }
