@@ -5,6 +5,7 @@ import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import org.jetbrains.exposed.dao.id.EntityID
 import org.jetbrains.exposed.sql.and
+import org.jetbrains.exposed.sql.deleteAll
 import org.jetbrains.exposed.sql.transactions.transaction
 import org.tuerantuer.annotation.models.Annotation
 
@@ -20,6 +21,8 @@ fun insertAnnotation(questionId: EntityID<Int>, annotation: Annotation) = transa
                 (Annotations.user eq annotation.user) and
                 (Annotations.archived eq false)
     }
+    previousAnnotations.forEach { it.archived = true }
+
     AnnotationEntity.new {
         this.questionId = questionId
         answerLines = Json.encodeToString(annotation.answerLines)
@@ -30,9 +33,12 @@ fun insertAnnotation(questionId: EntityID<Int>, annotation: Annotation) = transa
         user = annotation.user
         created = annotation.created.toJavaInstant()
     }
-    previousAnnotations.forEach { it.archived = true }
 }
 
 fun getAnnotationsCount(): Int = transaction {
     return@transaction AnnotationEntity.find { Annotations.archived eq false }.count().toInt()
+}
+
+fun deleteAnnotations() = transaction {
+    Annotations.deleteAll()
 }

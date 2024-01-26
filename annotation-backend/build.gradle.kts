@@ -14,10 +14,7 @@ group = "org.tuerantuer.annotation"
 version = "0.0.1"
 
 application {
-    mainClass.set("org.tuerantuer.annotation.ApplicationKt")
-
-    val isDevelopment: Boolean = project.ext.has("development")
-    applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
+    mainClass.set("org.tuerantuer.annotation.EntryKt")
 }
 
 repositories {
@@ -25,6 +22,7 @@ repositories {
 }
 
 dependencies {
+    // Backend
     implementation("io.ktor:ktor-server-core-jvm")
     implementation("io.ktor:ktor-server-netty-jvm")
     implementation("io.ktor:ktor-serialization-kotlinx-json-jvm")
@@ -44,4 +42,7 @@ dependencies {
     implementation("com.kohlschutter.junixsocket:junixsocket-core:2.7.0")
     implementation("com.kohlschutter.junixsocket:junixsocket-common:2.7.0")
     implementation("net.postgis:postgis-jdbc:2021.1.0")
+
+    // Utils
+    implementation("com.github.ajalt.clikt:clikt:4.2.2")
 }

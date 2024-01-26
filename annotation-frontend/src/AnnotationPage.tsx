@@ -19,9 +19,11 @@ import { equals } from './utils/equals'
 const Centered = styled.div`
   height: 100%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 32px;
+  padding: 32px;
 `
 
 const Description = styled.div`
