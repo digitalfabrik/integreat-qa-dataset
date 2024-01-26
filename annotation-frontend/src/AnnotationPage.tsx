@@ -159,6 +159,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
 
   const unchanged =
     equals(annotatedAnswerLines, answerLines) && noAnswer === annotatedNoAnswer && comment === annotatedComment
+  const emptyAnnotation = annotatedAnswerLines.length === 0 && !annotatedNoAnswer && annotatedComment.length === 0
   const title = context.slice(0, context.indexOf('\n'))
 
   return (
@@ -226,7 +227,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
         )}
         <Button
           variant='contained'
-          disabled={unchanged}
+          disabled={unchanged || emptyAnnotation}
           onClick={() => {
             submitAnnotation().then(refreshQuestionSelections)
           }}>

@@ -36,7 +36,7 @@ class Import : CliktCommand(help = "Import questions") {
     }
 }
 
-class ArchiveQuestions : CliktCommand(help = "Archive question") {
+class ArchiveQuestion : CliktCommand(help = "Archive question") {
 
     private val questionId by argument().int()
 
@@ -46,12 +46,14 @@ class ArchiveQuestions : CliktCommand(help = "Archive question") {
     }
 }
 
-class DeleteAnnotations : CliktCommand(help = "Archive question") {
+class DeleteAnnotations : CliktCommand(help = "Delete annotations") {
+    private val user by option()
+
     override fun run() {
         Database.setup()
-        deleteAnnotations()
+        deleteAnnotations(user)
     }
 }
 
 fun main(args: Array<String>) =
-    Backend().subcommands(Run(), Import(), ArchiveQuestions(), DeleteAnnotations()).main(args)
+    Backend().subcommands(Run(), Import(), ArchiveQuestion(), DeleteAnnotations()).main(args)

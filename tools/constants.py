@@ -4,6 +4,7 @@ MODEL = 'mixtral-8x7B-Instruct-v0.1.Q5_K_M.gguf'
 
 RESPONSES_SLUG = 'responses'
 RAW_SLUG = 'raw'
+READY_SLUG = 'ready'
 PAGES_SLUG = 'pages'
 BASE_SLUG = '../data'
 

@@ -4,8 +4,10 @@ import kotlinx.datetime.toJavaInstant
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import org.jetbrains.exposed.dao.id.EntityID
+import org.jetbrains.exposed.sql.SqlExpressionBuilder.eq
 import org.jetbrains.exposed.sql.and
 import org.jetbrains.exposed.sql.deleteAll
+import org.jetbrains.exposed.sql.deleteWhere
 import org.jetbrains.exposed.sql.transactions.transaction
 import org.tuerantuer.annotation.models.Annotation
 
@@ -39,6 +41,10 @@ fun getAnnotationsCount(): Int = transaction {
     return@transaction AnnotationEntity.find { Annotations.archived eq false }.count().toInt()
 }
 
-fun deleteAnnotations() = transaction {
-    Annotations.deleteAll()
+fun deleteAnnotations(user: String? = null) = transaction {
+    if (user == null) {
+        Annotations.deleteAll()
+    } else {
+        Annotations.deleteWhere { Annotations.user eq user }
+    }
 }
