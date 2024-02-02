@@ -45,4 +45,5 @@ dependencies {
 
     // Utils
     implementation("com.github.ajalt.clikt:clikt:4.2.2")
+    implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
 }

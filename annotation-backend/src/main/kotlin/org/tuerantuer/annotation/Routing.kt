@@ -17,11 +17,6 @@ fun Application.configureRouting() {
             get {
                 call.respond(getRows())
             }
-
-//            post {
-//                val rows = call.receive<List<Row>>()
-//                insertRows(rows)
-//            }
         }
 
         route("/question") {
@@ -38,11 +33,6 @@ fun Application.configureRouting() {
 
                 call.respond(question)
             }
-
-//            delete("{id}") {
-//                archiveQuestion(call.parameters["id"]?.toInt()!!)
-//                call.respond(HttpStatusCode.OK)
-//            }
 
             route("/count") {
                 get {

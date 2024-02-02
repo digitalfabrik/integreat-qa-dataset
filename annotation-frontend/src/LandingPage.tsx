@@ -24,7 +24,13 @@ const ImageRow = styled.div`
 `
 
 const Image = styled.img`
-  height: 48px;
+  height: 16px;
+  @media only screen and (min-width: 350px) {
+    height: 24px;
+  }
+  @media only screen and (min-width: 768px) {
+    height: 48px;
+  }
 `
 
 const Title = styled.h1`

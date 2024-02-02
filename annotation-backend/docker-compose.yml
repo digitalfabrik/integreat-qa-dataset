@@ -14,6 +14,3 @@ services:
 networks:
   network:
     name: network
-volumes:
-  matomo:
-  matomo_db_volume:

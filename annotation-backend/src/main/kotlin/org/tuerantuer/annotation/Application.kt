@@ -9,18 +9,18 @@ import org.tuerantuer.annotation.database.Database
 
 fun start(dev: Boolean) {
     Database.setup()
-    embeddedServer(Netty, port = 8080, host = "0.0.0.0") {
+    embeddedServer(Netty, port = 3000, host = "127.0.0.1") {
         module(dev)
     }.start(wait = true)
 }
 
 fun Application.module(dev: Boolean) {
-    if (dev) {
-        install(CORS) {
-            allowHeader(HttpHeaders.AccessControlAllowOrigin)
-            allowHeader(HttpHeaders.ContentType)
-            anyHost()
-        }
+    install(CORS) {
+        allowHeader(HttpHeaders.AccessControlAllowOrigin)
+        allowHeader(HttpHeaders.ContentType)
+        anyHost()
+
+        allowNonSimpleContentTypes = true
     }
     configureRouting()
     configureSerialization()

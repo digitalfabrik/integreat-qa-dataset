@@ -27,11 +27,12 @@ fun insertQuestion(rowId: EntityID<Int>, question: Question) = transaction {
 fun getQuestions(user: String, city: String? = null, language: String? = null, evidence: Boolean? = null): Query =
     transaction {
         val query = ((Rows innerJoin Questions) leftJoin Annotations)
-            .slice(Rows.columns + Questions.columns + Annotations.questionId.count())
+            .slice(Rows.columns + Questions.columns)
             .select {
                 // Exclude questions the user already annotated
                 notExists(Annotations.select { (Annotations.user eq user) and (Annotations.questionId eq Questions.id) }) and
-                        (Questions.archived eq false)
+                        (Questions.archived eq false) and
+                        (Questions.annotationCount less MAX_ANNOTATIONS_PER_QUESTION)
             }
             .groupBy(Rows.id, Questions.id)
 
@@ -46,11 +47,11 @@ fun getQuestion(user: String, city: String? = null, language: String? = null, ev
     transaction {
         val query = getQuestions(user, city, language, evidence)
 
-        val leastAnnotations = query.minOfOrNull { it[Annotations.questionId.count()] } ?: 0
+        val leastAnnotations = query.minOfOrNull { it[Questions.annotationCount] } ?: 0
 
         query
             // Questions which have the least amount of annotations first
-            .filter { (it[Annotations.questionId.count()] == leastAnnotations) and (it[Annotations.questionId.count()] < MAX_ANNOTATIONS_PER_QUESTION) }
+            .filter { it[Questions.annotationCount] == leastAnnotations }
             .map {
                 val questionId = it[Questions.id].value
                 val row = RowEntity.wrapRow(it).serializable(listOf(QuestionEntity.wrapRow(it).serializable()))
@@ -61,7 +62,7 @@ fun getQuestion(user: String, city: String? = null, language: String? = null, ev
 
 fun getQuestionSelections(user: String): List<QuestionSelection> = transaction {
     val pairs = getQuestions(user)
-        .filter { it[Annotations.questionId.count()] < MAX_ANNOTATIONS_PER_QUESTION }
+        .filter { it[Questions.annotationCount] < MAX_ANNOTATIONS_PER_QUESTION }
         .map { Pair(it[Rows.city], it[Rows.language]) }
 
     pairs.toSet().map {

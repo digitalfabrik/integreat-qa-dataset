@@ -162,7 +162,6 @@ const useLoadQuestion = (
           )
           .then(showNext)
           .catch(error => {
-            console.log(error)
             updateQuestion(
               {
                 ...currentQuestion,

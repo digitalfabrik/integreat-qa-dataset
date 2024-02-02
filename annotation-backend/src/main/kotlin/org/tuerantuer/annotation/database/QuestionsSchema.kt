@@ -13,6 +13,7 @@ object Questions : IntIdTable() {
     val answerLines = varchar("answerLines", 50)
     val created = timestamp("created").defaultExpression(CurrentTimestamp())
     val archived = bool("archived").default(false)
+    val annotationCount = integer("annotationCount").default(0)
 }
 
 class QuestionEntity(id: EntityID<Int>) : IntEntity(id) {
@@ -22,5 +23,6 @@ class QuestionEntity(id: EntityID<Int>) : IntEntity(id) {
     var question by Questions.question
     var answerLines by Questions.answerLines
     var created by Questions.created
-    var archived by Annotations.archived
+    var archived by Questions.archived
+    var annotationCount by Questions.annotationCount
 }

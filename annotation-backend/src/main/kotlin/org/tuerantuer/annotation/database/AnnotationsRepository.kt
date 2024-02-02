@@ -21,9 +21,12 @@ fun insertAnnotation(questionId: EntityID<Int>, annotation: Annotation) = transa
     val previousAnnotations = AnnotationEntity.find {
         (Annotations.questionId eq questionId) and
                 (Annotations.user eq annotation.user) and
-                (Annotations.archived eq false)
+                (Annotations.skipped eq false)
     }
     previousAnnotations.forEach { it.archived = true }
+    if (previousAnnotations.count() == 0L && !annotation.skipped) {
+        QuestionEntity[questionId].annotationCount += 1
+    }
 
     AnnotationEntity.new {
         this.questionId = questionId
