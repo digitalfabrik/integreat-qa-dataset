@@ -92,5 +92,5 @@ def preprocess():
 
 if __name__ == '__main__':
     # Uncomment to load data initially
-    # load_data()
+    load_data()
     preprocess()

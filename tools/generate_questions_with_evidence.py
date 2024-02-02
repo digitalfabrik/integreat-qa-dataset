@@ -1,45 +1,10 @@
-from llama_cpp import Llama
 import os
 import os.path
-from constants import get_integreat_pages_path, get_questions_with_evidence_path, RAW_SLUG, RESPONSES_SLUG, LANGUAGE
+from constants import get_integreat_pages_path, get_questions_with_evidence_path, RAW_SLUG, RESPONSES_SLUG, LANGUAGE, prompt_w_evidence_de, prompt_w_evidence_en
+from llama_cpp import Llama
 
-MODEL = "/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-chat-dataset/models/mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf"
+MODEL = '/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-chat-dataset/models/mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf'
 llm = Llama(model_path=MODEL, chat_format="llama-2", n_threads=8, n_ctx=6144)
-
-prompt_en = f'''Give three simple and short one-part questions that can be answered with the users message.
-The question should be specific and in easy-to-understand language.
-Bad examples:
-- What services are offered?
-- How many people live in Germany?
-- Does the user...?
-Respond by giving the questions AND the answers.
-For the answers, only give the line numbers, do not give whole sentences.
-Good example:
-"""
-Q1: What language courses are available?
-A1: 3, 4, 5
-Q2: How can I find language courses?
-A2: 7
-Q3: What does language level B2 mean?
-A3: 6
-"""'''
-
-prompt_de = f'''Give three simple and short one-part questions that can be answered with the users message.
-The question should be specific and in easy-to-understand German language.
-Bad examples:
-- Welche Dienstleistungen werden angeboten?
-- Wie viele Menschen leben in Deutschland?
-Respond by giving the questions AND the answers.
-For the answers, only give the line numbers, do not give whole sentences.
-Good example:
-"""
-Q1: Welche Sprachkurse gibt es?
-A1: 3, 4, 5
-Q2: Wie kann ich Sprachkurse finden?
-A2: 7
-Q3: Was bedeutet das Sprachniveau B2?
-A3: 6
-"""'''
 
 
 # Add line numbers to each line
@@ -76,15 +41,15 @@ def generate_questions(slug):
 
     response = llm.create_chat_completion(
         messages=[
-            {'role': 'system', 'content': prompt_de if LANGUAGE == 'de' else prompt_en},
+            {'role': 'system', 'content': prompt_w_evidence_de if LANGUAGE == 'de' else prompt_w_evidence_en},
             {'role': 'user', 'content': enumerate_lines(content)},
         ]
     )
-    print(f'Generated {slug}: {response}')
 
-    raw_path = get_questions_with_evidence_path([RAW_SLUG, slug])
-    # raw_file = open(raw_path, 'w')
-    # raw_file.write(response.choices[0].message.content)
+    raw = response['choices'][0]['message']['content']
+    raw_file = open(raw_path, 'w')
+    raw_file.write(raw)
+    print(f'Generated {slug}: {raw}')
 
     response_file = open(response_path, 'w')
     response_file.write(str(response))
