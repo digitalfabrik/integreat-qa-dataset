@@ -1,6 +1,0 @@
-Q1: What discounts and offers are included in the Munich Holiday Pass?
-A1: 1
-Q2: Who is the Munich Holiday Pass for?
-A2: 5, 6
-Q3: How much does the Munich Holiday Pass cost?
-A3: 8, 9

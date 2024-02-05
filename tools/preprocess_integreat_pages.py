@@ -18,24 +18,12 @@ def contains_exclude_patterns(text, exclude_patterns):
 
 # Use a new line for each sentence
 def add_linebreaks(text):
-    # TODO: Remove, this leads to too many merged lines that shouldn't be merged
-    # Remove unnecessary linebreaks
+    # Remove unnecessary linebreaks (remove because it leads to too many merged lines)
     # fixed_1 = re.sub(r'([^.?:;!])\n', r'\1 ', text)
     # Remove unnecessary whitespaces
     trimmed = re.sub(r'\n\s', r'\n', text)
     # Split sentences and avoid splitting on abbreviations or enumerations (e.g., e. V., 1., ...)
     return re.sub(r'([^\s.].[.?:;!])\s', r'\1\n', trimmed)
-
-
-# Add line numbers to each line
-def enumerate_lines(text):
-    lines = text.split('\n')
-    numerated_lines = []
-    for index, line in enumerate(lines):
-        if len(line) != 0:
-            numerated_lines.append(str(index) + ' ' + line)
-
-    return '\n'.join(numerated_lines)
 
 
 # Parse html and filter out paragraphs matching any of the exclude patterns
@@ -46,7 +34,10 @@ def parse_html(html, exclude_patterns):
         if not contains_exclude_patterns(parsed_paragraph, exclude_patterns):
             parsed_paragraphs.append(parsed_paragraph)
 
-    return add_linebreaks('\n'.join(parsed_paragraphs))
+    text = add_linebreaks('\n'.join(parsed_paragraphs))
+    lines = [line for line in text.split('\n') if len(line) != 0]
+
+    return '\n'.join(lines)
 
 
 # Fetch pages from cms.integreat-app.de
@@ -76,7 +67,8 @@ def preprocess():
 
         parsed = parse_html(content, [
             # Remove keyword list
-            r'This text contains information about the following search terms',
+            r'This text contains information',
+            r'Dieser Text enthält Informationen',
             # Remove phone numbers, addresses etc.
             r'[0-9]{4,}',
             # Remove non-breaking spaces
@@ -88,7 +80,7 @@ def preprocess():
 
         filename = get_integreat_pages_path(f'{page_id}.txt')
         new_file = open(filename, 'w')
-        new_file.write(enumerate_lines(title + '\n' + parsed))
+        new_file.write(title + '\n' + parsed)
 
         chars += len(parsed)
 
@@ -100,5 +92,5 @@ def preprocess():
 
 if __name__ == '__main__':
     # Uncomment to load data initially
-    # load_data()
+    load_data()
     preprocess()

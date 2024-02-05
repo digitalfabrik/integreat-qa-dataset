@@ -1,6 +1,0 @@
-Q1: Who is the validation procedure for?
-A1: 7
-Q2: What are the prerequisites for the validation procedure?
-A2: 9
-Q3: How long does a validation procedure typically take?
-A3: 11, 12

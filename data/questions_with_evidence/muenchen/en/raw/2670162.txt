@@ -1,6 +1,0 @@
-Q1: Who can use the database of "Münchner Sportjugend"?
-Q2: What criteria can you search by in the database?
-Q3: What types of disabilities are the sports offers open to?
-A1: 2
-A2: 3
-A3: 5

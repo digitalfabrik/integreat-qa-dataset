@@ -1,0 +1,30 @@
+{
+  "short_name": "Annotations",
+  "name": "Integreat Q&A Annotations",
+  "icons": [
+    {
+      "src": "favicon-16x16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "favicon-48x48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "favicon-96x96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "favicon-192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

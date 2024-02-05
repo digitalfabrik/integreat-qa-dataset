@@ -1,6 +1,0 @@
-Q1: What services can the health meetings provide?
-A1: 10
-Q2: What is the composition of the team at the health meetings?
-A2: 3
-Q3: Are the services provided by the health meetings free?
-A3: 13

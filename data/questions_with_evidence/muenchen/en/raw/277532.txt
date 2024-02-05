@@ -1,6 +1,0 @@
-Q1: Who can attend the self-assertion and self-defence courses?
-A1: 5
-Q2: Where are the courses offered?
-A2: 2
-Q3: How much do the courses cost?
-A3: 8
