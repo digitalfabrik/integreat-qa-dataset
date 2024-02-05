@@ -27,7 +27,7 @@ const translations = {
       ourGoal: 'Unser Ziel: ',
       goal: 'Wir wollen die Informationsarmut unter Neuzugewanderten und Geflüchteten überwinden und ihnen helfen, die Informationen zu finden, die sie in Deutschland benötigen.',
       ourIdea: 'Unsere Idee: ',
-      idea: 'Wir kombinieren KI-unterstützte Antworten mit denen von Migrationsberatungsexperten und beseitigen die Sprachbarriere durch maschinelle Übersetzungen.',
+      idea: 'Wir kombinieren KI-unterstützte Antworten mit denen von Migrationsberatungsexperten.',
       yourHelp: 'Ihre Hilfe: ',
       help: 'Für das Training unserer KI benötigen wir qualitativ hochwertige Fragen und Antworten. Dafür brauchen wir IHRE Hilfe, um mögliche Fragen mit ihren Antworten zu verbinden.',
       omos: 'OMoS – Online-Migrationsberatung ohne Sprachbarrieren',
@@ -47,12 +47,13 @@ const translations = {
       moreInformationResearchContent:
         'Mit Unterstützung der Tür an Tür Digitalfabrik und mit Betreuung von Prof. Dr. Annemarie Friedrich vom Lehrstuhl für Natural Language Understanding der Universität Augsburg schreibe ich meine Masterarbeit über das Projekt und die Entwicklung von OMoS. Nicht nur das Projekt an sich ist somit auf Ihre Mithilfe angewiesen, sondern auch ich persönlich für den Erfolg meiner Masterarbeit. Danke für Ihre Hilfe!',
       questionSelectionDescription:
-        'Sie können hier auswählen, für welche Region und Sprache Sie Fragen annotieren möchten. Dies kann auch später noch jederzeit geändert werden.',
+        'Wählen sie hier Ihre Sprache und optional einen Fragenkatalog. Dies kann auch später noch jederzeit geändert werden.',
       consent:
         'Ich stimme der Verarbeitung und Veröffentlichung meiner Anmerkungen und deren Verwendung für maschinelles Lernen zu. Alle Annotationen und eingegebenen Informationen werden anonym gespeichert und verarbeitet.',
       continue: 'Weiter',
       muenchen: 'München',
-      augsburg: 'Augsburg',
+      lkaugsburg: 'Landkreis Augsburg',
+      'rems-murr-kreis': 'Rems-Murr-Kreis',
       contactTitle: 'Hilfe & Kontakt',
       contactDescription:
         'Wenn etwas nicht funktioniert, keinen Sinn ergibt oder Sie Fragen haben, zögern Sie bitte nicht, mich zu kontaktieren:',
@@ -87,7 +88,7 @@ const translations = {
       ourGoal: 'Our goal: ',
       goal: 'We want to overcome the information poverty among newcomers and refugees and help them finding the information they need in Germany.',
       ourIdea: 'Our idea: ',
-      idea: 'We combine AI-supported answers with those of migration consulting experts and remove the language barrier through machine translation.',
+      idea: 'We combine AI-supported answers with those of migration consulting experts.',
       yourHelp: 'Your help: ',
       help: 'We need high-quality questions and answers to train our AI. Therefore we need YOUR help to connect possible questions with their answers.',
       helpDescription:
@@ -108,12 +109,13 @@ const translations = {
       moreInformationResearchContent:
         'I am Steffen, a Computer Science student at the University of Augsburg. I am currently writing my master thesis about the project and the development of OMoS. This means that not only the project itself is dependent on your help, but also I personally need your support for the success of my thesis. Thank you for your help! Steffen',
       questionSelectionDescription:
-        'You can select here for which region and language you want to annotate questions. This can be changed at any point later as well.',
+        'Select your language and an optional questionnaire. This can be changed at any point later as well.',
       consent:
         'I agree to the processing and publication of my annotations and their use for machine learning. All annotations and information entered will be stored and processed anonymously.',
       continue: 'Continue',
       muenchen: 'München',
-      augsburg: 'Augsburg',
+      lkaugsburg: 'Landkreis Augsburg',
+      'rems-murr-kreis': 'Rems-Murr-Kreis',
       contactTitle: 'Help & Contact',
       contactDescription:
         "If something is not working, doesn't make sense or you have any questions, please do not hesitate to contact me:",

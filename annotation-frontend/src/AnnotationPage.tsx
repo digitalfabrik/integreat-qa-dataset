@@ -2,7 +2,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
 import HelpIcon from '@mui/icons-material/HelpOutline'
 import InfoIcon from '@mui/icons-material/InfoOutlined'
 import { Accordion, AccordionSummary, Alert, Button, CircularProgress, TextField } from '@mui/material'
-import React, { ReactElement } from 'react'
+import React, { ReactElement, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components'
 
@@ -77,6 +77,7 @@ const StyledAccordion = styled(Accordion)`
   ::before {
     height: 0 !important;
   }
+
   box-shadow: none !important;
 `
 
@@ -96,6 +97,8 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
     city,
     language,
   )
+
+  useEffect(() => window.scrollTo({ top: 0, behavior: 'smooth' }), [currentQuestion.question?.id])
 
   if (currentQuestion.status === 'loading') {
     return (
