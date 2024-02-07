@@ -17,7 +17,7 @@ fun insertQuestion(rowId: EntityID<Int>, question: Question) = transaction {
     val questionEntity = QuestionEntity.new {
         this.rowId = rowId
         this.question = question.question
-        answerLines = Json.encodeToString(question.answerLines)
+        answerLines = Json.encodeToString(emptyList<Int>())
         created = question.created.toJavaInstant()
     }
 

@@ -3,8 +3,9 @@ import requests
 import json
 import re
 from bs4 import BeautifulSoup
+from bs4.element import Comment
 from constants import get_integreat_pages_path, get_integreat_pages_json_path, CITY, LANGUAGE
-
+from tools.postprocess_with_context import postprocess
 
 MIN_CONTENT_LENGTH = 500
 
@@ -16,6 +17,13 @@ def contains_exclude_patterns(text, exclude_patterns):
     return False
 
 
+def strip_patterns(text, remove_patterns):
+    processed = text
+    for pattern in remove_patterns:
+        processed = re.sub(pattern, '', processed)
+    return processed
+
+
 # Use a new line for each sentence
 def add_linebreaks(text):
     # Remove unnecessary linebreaks (remove because it leads to too many merged lines)
@@ -23,19 +31,35 @@ def add_linebreaks(text):
     # Remove unnecessary whitespaces
     trimmed = re.sub(r'\n\s', r'\n', text)
     # Split sentences and avoid splitting on abbreviations or enumerations (e.g., e. V., 1., ...)
-    return re.sub(r'([^\s.].[.?:;!])\s', r'\1\n', trimmed)
+    return re.sub(r'([^\s.].[.?;!]"?)(\s|[A-Z][a-z])', r'\1\n\2', trimmed)
 
 
 # Parse html and filter out paragraphs matching any of the exclude patterns
 def parse_html(html, exclude_patterns):
-    parsed_paragraphs = []
-    for paragraph in BeautifulSoup(html, 'html.parser').findAll('p'):
-        parsed_paragraph = paragraph.text
-        if not contains_exclude_patterns(parsed_paragraph, exclude_patterns):
-            parsed_paragraphs.append(parsed_paragraph)
+    soup = BeautifulSoup(html, features="html.parser")
 
-    text = add_linebreaks('\n'.join(parsed_paragraphs))
-    lines = [line for line in text.split('\n') if len(line) != 0]
+    for script in soup(["script", "style"]):
+        script.extract()
+
+    for br in soup.find_all('br'):
+        br.replace_with('\n')
+
+    text = soup.get_text()
+
+    lines = (line.strip() for line in text.splitlines())
+    chunks = (phrase.strip() for line in lines for phrase in line.split('  '))
+    text = add_linebreaks('\n'.join(chunk for chunk in chunks if chunk))
+    lines = [re.sub(r' ', '', line).strip() for line in text.split('\n') if len(line) != 0 and not contains_exclude_patterns(line, exclude_patterns)]
+
+    # parsed_paragraphs = []
+    # # for paragraph in BeautifulSoup(html, 'html.parser').findAll('p'):
+    # for paragraph in filter(tag_visible, BeautifulSoup(html, 'html.parser').findAll(text=True)):
+    #     parsed_paragraph = paragraph
+    #     if len(parsed_paragraph) != 0 and not contains_exclude_patterns(parsed_paragraph, exclude_patterns):
+    #         parsed_paragraphs.append(re.sub(r' ', ' ', strip_patterns()))
+    #
+    # text = add_linebreaks('\n'.join(parsed_paragraphs))
+    # lines = [line for line in text.split('\n') if len(line) != 0]
 
     return '\n'.join(lines)
 
@@ -67,12 +91,11 @@ def preprocess():
 
         parsed = parse_html(content, [
             # Remove keyword list
-            r'This text contains information',
-            r'Dieser Text enthält Informationen',
+            r'This text contains',
+            r'Dieser Text enthält',
+            r'Schlagworte:',
             # Remove phone numbers, addresses etc.
             r'[0-9]{4,}',
-            # Remove non-breaking spaces
-            r' '
         ]).replace('  ', ' ')
 
         if len(title) + len(parsed) < MIN_CONTENT_LENGTH:
@@ -92,5 +115,6 @@ def preprocess():
 
 if __name__ == '__main__':
     # Uncomment to load data initially
-    load_data()
+    # load_data()
     preprocess()
+    postprocess()

@@ -51,7 +51,7 @@ def add_context():
                 try:
                     answer_lines = [int(x.strip()) for x in answer.split(",")]
                 except Exception:
-                    answer_lines = [int(x.strip()) for x in input(answer).split(",")]
+                    answer_lines = [-1]
 
                 confirmed_question = confirm_question(slug, page_content.split('\n')[0], question, answer_lines)
                 if confirmed_question is not None:

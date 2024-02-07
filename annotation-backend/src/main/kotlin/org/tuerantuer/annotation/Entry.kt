@@ -9,10 +9,8 @@ import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.types.file
 import com.github.ajalt.clikt.parameters.types.int
 import kotlinx.serialization.json.Json
-import org.tuerantuer.annotation.database.Database
-import org.tuerantuer.annotation.database.archiveQuestion
-import org.tuerantuer.annotation.database.deleteAnnotations
-import org.tuerantuer.annotation.database.insertRows
+import org.jetbrains.exposed.sql.SchemaUtils
+import org.tuerantuer.annotation.database.*
 import org.tuerantuer.annotation.models.Row
 
 class Backend : CliktCommand() {
@@ -55,5 +53,12 @@ class DeleteAnnotations : CliktCommand(help = "Delete annotations") {
     }
 }
 
+class Drop : CliktCommand(help = "Drop all tables") {
+    override fun run() {
+        Database.setup()
+        drop()
+    }
+}
+
 fun main(args: Array<String>) =
-    Backend().subcommands(Run(), Import(), ArchiveQuestion(), DeleteAnnotations()).main(args)
+    Backend().subcommands(Run(), Import(), ArchiveQuestion(), DeleteAnnotations(), Drop()).main(args)

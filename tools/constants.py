@@ -1,6 +1,6 @@
-CITY = 'muenchen'
-LANGUAGE = 'de'
-MODEL = 'mixtral-8x7B-Instruct-v0.1.Q5_K_M.gguf'
+CITY = 'lkaugsburg'
+LANGUAGE = 'en'
+MODEL = 'Mixtral-8x7B-Instruct-v0.1.Q5_K_M.gguf'
 
 RESPONSES_SLUG = 'responses'
 RAW_SLUG = 'raw'
@@ -19,6 +19,10 @@ def get_integreat_pages_path(slug):
 
 def get_questions_with_evidence_path(slugs):
     return f'{BASE_SLUG}/questions_with_evidence_{MODEL}/{CITY}/{LANGUAGE}/{"/".join(slugs)}'
+
+
+def get_dataset_path(extension):
+    return f'{BASE_SLUG}/questions_with_evidence_{MODEL}/dataset_{CITY}_{LANGUAGE}.{extension}'
 
 
 prompt_w_evidence_en = f'''Give three simple and short one-part questions that can be answered with the users message.

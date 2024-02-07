@@ -35,3 +35,7 @@ fun getCities(): List<String> = transaction {
 fun getLanguages(): List<String> = transaction {
     Rows.slice(Rows.language).selectAll().groupBy(Rows.language).map { it[Rows.language] }
 }
+
+fun drop() = transaction {
+    SchemaUtils.drop(Annotations, Questions, Rows)
+}

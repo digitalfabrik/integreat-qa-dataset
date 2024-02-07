@@ -10,7 +10,7 @@ object Rows : IntIdTable() {
     val pagePath = varchar("pagePath", 200)
     val city = varchar("city", 25)
     val language = varchar("language", 5)
-    val context = varchar("context", 5000)
+    val context = varchar("context", 8192)
     val model = varchar("model", 200)
 }
 

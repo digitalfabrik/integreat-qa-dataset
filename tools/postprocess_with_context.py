@@ -2,7 +2,7 @@ import json
 import os
 import os.path
 from constants import get_questions_with_evidence_path, get_integreat_pages_path, CITY, LANGUAGE, \
-    get_integreat_pages_json_path, MODEL, READY_SLUG
+    get_integreat_pages_json_path, MODEL, READY_SLUG, get_dataset_path
 
 
 def extract(raw, key):
@@ -12,8 +12,8 @@ def extract(raw, key):
 
 def postprocess():
     ready_dir_path = get_questions_with_evidence_path([READY_SLUG])
-    dataset_json_lines_path = get_questions_with_evidence_path(['dataset.jsonl'])
-    dataset_json_path = get_questions_with_evidence_path(['dataset.json'])
+    dataset_json_lines_path = get_dataset_path('jsonl')
+    dataset_json_path = get_dataset_path('json')
     slugs = os.listdir(ready_dir_path)
 
     f = open(get_integreat_pages_json_path(), 'r')
@@ -22,7 +22,7 @@ def postprocess():
     dataset = []
     json_lines_dataset = []
 
-    for slug in slugs:
+    for slug in slugs[:50]:
         ready_path = get_questions_with_evidence_path([READY_SLUG, slug])
         page_path = get_integreat_pages_path(slug)
 

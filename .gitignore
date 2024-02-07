@@ -162,4 +162,4 @@ cython_debug/
 # Project specific files that can easily be generated
 data/integreat_pages/**/*.txt
 data/questions_with_evidence*/**/*.txt
-data/questions_with_evidence*/**/dataset.json
+data/questions_with_evidence*/**/dataset*.json
