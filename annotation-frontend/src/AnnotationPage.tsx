@@ -37,7 +37,6 @@ const DescriptionText = styled.span`
 
 const QuestionSelectionSettingContainer = styled.div`
   display: flex;
-  justify-content: end;
 `
 
 const Question = styled.h1`
@@ -108,6 +107,21 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
     )
   }
 
+  const RenderedQuestionSelectionSetting = (
+    <QuestionSelectionSetting
+      value={
+        questionSelections.find(it => it.city === city && it.language === language) ??
+        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+        questionSelections.find(it => it.city === null && it.language === null)!
+      }
+      options={questionSelections}
+      onChange={({ city, language }) => {
+        setCity(city)
+        setLanguage(language)
+      }}
+    />
+  )
+
   const questionId = currentQuestion.question?.id
   const subject = questionId !== undefined ? `Question:%20${questionId}%20|%20${user}` : `|%20${user}`
   const ContactInformation = (
@@ -124,23 +138,12 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
         <a href={`mailto:steffen.kleinle@uni-a.de?subject=${subject}`}>steffen.kleinle@uni-a.de</a>
         {questionId !== undefined && <span>{t('questionId', { questionId })}</span>}
         <span>{user}</span>
+
+        {currentQuestion.status !== 'error' && (
+          <QuestionSelectionSettingContainer>{RenderedQuestionSelectionSetting}</QuestionSelectionSettingContainer>
+        )}
       </StyledAccordionDetails>
     </StyledAccordion>
-  )
-
-  const RenderedQuestionSelectionSetting = (
-    <QuestionSelectionSetting
-      value={
-        questionSelections.find(it => it.city === city && it.language === language) ??
-        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-        questionSelections.find(it => it.city === null && it.language === null)!
-      }
-      options={questionSelections}
-      onChange={({ city, language }) => {
-        setCity(city)
-        setLanguage(language)
-      }}
-    />
   )
 
   if (currentQuestion.status === 'error') {
@@ -167,8 +170,6 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
 
   return (
     <Container>
-      <QuestionSelectionSettingContainer>{RenderedQuestionSelectionSetting}</QuestionSelectionSettingContainer>
-
       <Question>{question}</Question>
       <Description>
         <InfoIcon />
@@ -241,7 +242,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
         </Button>
       </ButtonContainer>
 
-      {ContactInformation}
+      <div>{ContactInformation}</div>
     </Container>
   )
 }

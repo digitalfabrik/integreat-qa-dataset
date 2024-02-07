@@ -2,13 +2,13 @@ const translations = {
   de: {
     translation: {
       instructions:
-        'Bitte lesen Sie den folgenden Text und markieren Sie alle Sätze, die die obige Frage beantworten.\nWenn der Text keine Antwort enthält, markieren Sie bitte das entsprechende Kästchen.',
+        'Bitte lesen Sie den folgenden Text und markieren Sie die Antwort(en) auf die obige Frage. Markieren Sie nur Sätze, die einen wichtigen Hinweis für die Antwort enthalten. Wenn der Text keine Antwort enthält, markieren Sie bitte das entsprechende Kästchen.',
       city: 'Region',
       language: 'Sprache',
       de: 'Deutsch',
       en: 'English',
       random: 'Zufall',
-      questionSelection: 'Fragenauswahl',
+      questionSelection: 'Sprache',
       comment: 'Anmerkung (max. 1000 Zeichen)',
       previous: 'Vorherige Frage',
       next: 'Nächste Frage',
@@ -18,7 +18,7 @@ const translations = {
       noAnswer: 'Die Frage hat keine Antwort im Text',
       poorQuestion: 'Die Frage ist schlecht',
       notFound:
-        'Vielen Dank für deine Mithilfe. Zu Ihren aktuellen Einstellungen gibt es keine weiteren passenden Fragen.\nFalls Sie wollen, können Sie gerne den Ort oder die Sprache ändern, um weitere Fragen prüfen zu können.',
+        'Vielen Dank für deine Mithilfe. Zu Ihren aktuellen Einstellungen gibt es keine weiteren passenden Fragen. Falls Sie wollen, können Sie gerne den Ort oder die Sprache ändern, um weitere Fragen prüfen zu können.',
       unknownError:
         'Ein unbekannter Fehler ist aufgetreten. Lade die Seite neu und kontaktiere mich bitte unter steffen.kleinle@tuerantuer.org',
       openInIntegreat: '"{{name}}" in Integreat anschauen',
@@ -29,7 +29,7 @@ const translations = {
       ourIdea: 'Unsere Idee: ',
       idea: 'Wir kombinieren KI-unterstützte Antworten mit denen von Migrationsberatungsexperten.',
       yourHelp: 'Ihre Hilfe: ',
-      help: 'Für das Training unserer KI benötigen wir qualitativ hochwertige Fragen und Antworten. Dafür brauchen wir IHRE Hilfe, um mögliche Fragen mit ihren Antworten zu verbinden.',
+      help: 'Für das Training unserer KI benötigen wir qualitativ hochwertige Fragen und Antworten. Dafür brauchen wir IHRE Hilfe, um mögliche Fragen mit ihren Antworten zu verbinden. Markieren Sie dafür einfach in Texten aus der Integreat-App die Antworten auf mögliche Fragen.',
       omos: 'OMoS – Online-Migrationsberatung ohne Sprachbarrieren',
       cooperation: 'Eine Kooperation von TU Dortmund, Universität Augsburg und der Tür an Tür Digitalfabrik.',
       moreInformation: 'Mehr Informationen',
@@ -47,14 +47,14 @@ const translations = {
       moreInformationResearchContent:
         'Mit Unterstützung der Tür an Tür Digitalfabrik und mit Betreuung von Prof. Dr. Annemarie Friedrich vom Lehrstuhl für Natural Language Understanding der Universität Augsburg schreibe ich meine Masterarbeit über das Projekt und die Entwicklung von OMoS. Nicht nur das Projekt an sich ist somit auf Ihre Mithilfe angewiesen, sondern auch ich persönlich für den Erfolg meiner Masterarbeit. Danke für Ihre Hilfe!',
       questionSelectionDescription:
-        'Wählen sie hier Ihre Sprache und optional einen Fragenkatalog. Dies kann auch später noch jederzeit geändert werden.',
+        'Wählen Sie hier Ihre Sprache oder lassen Sie sie zufällig. Dies kann auch später jederzeit geändert werden.',
       consent:
         'Ich stimme der Verarbeitung und Veröffentlichung meiner Anmerkungen und deren Verwendung für maschinelles Lernen zu. Alle Annotationen und eingegebenen Informationen werden anonym gespeichert und verarbeitet.',
       continue: 'Weiter',
       muenchen: 'München',
       lkaugsburg: 'Landkreis Augsburg',
       'rems-murr-kreis': 'Rems-Murr-Kreis',
-      contactTitle: 'Hilfe & Kontakt',
+      contactTitle: 'Hilfe, Kontakt & Sprache',
       contactDescription:
         'Wenn etwas nicht funktioniert, keinen Sinn ergibt oder Sie Fragen haben, zögern Sie bitte nicht, mich zu kontaktieren:',
       questionId: 'Frage: {{questionId}}',
@@ -63,13 +63,13 @@ const translations = {
   en: {
     translation: {
       instructions:
-        'Please read the following text and mark all sentences answering the above question.\nIf the text does not contain an answer, please mark the corresponding checkbox.',
+        'Please read the following text and mark the answer(s) to the above question. Only mark sentences that contain an important clue to the answer. If the text does not contain an answer, please mark the corresponding box.',
       city: 'City',
       language: 'Language',
       de: 'Deutsch',
       en: 'English',
       random: 'Random',
-      questionSelection: 'Question selection',
+      questionSelection: 'Language',
       comment: 'Comment (max. 1000 characters)',
       previous: 'Previous question',
       next: 'Next question',
@@ -90,7 +90,7 @@ const translations = {
       ourIdea: 'Our idea: ',
       idea: 'We combine AI-supported answers with those of migration consulting experts.',
       yourHelp: 'Your help: ',
-      help: 'We need high-quality questions and answers to train our AI. Therefore we need YOUR help to connect possible questions with their answers.',
+      help: 'We need high-quality questions and answers to train our AI. Therefore we need YOUR help to connect possible questions with their answers. Simply mark the answers to possible questions in texts from the Integreat app.',
       helpDescription:
         'We want to overcome the information poverty among newcomers and help them finding the information they need in Germany. Your help is crucial to achieving this goal. Thank you for sharing questions from people seeking advice and the answers in Integreat. By providing us with your donation of example data, you help us refine the information search for newcomers with automated responses. This allows us to enhance advice for information seekers, freeing up your time to concentrate on other meaningful tasks. Thank you!',
       omos: 'OMoS – Online Migration Advice without Language Barriers',
@@ -109,14 +109,14 @@ const translations = {
       moreInformationResearchContent:
         'I am Steffen, a Computer Science student at the University of Augsburg. I am currently writing my master thesis about the project and the development of OMoS. This means that not only the project itself is dependent on your help, but also I personally need your support for the success of my thesis. Thank you for your help! Steffen',
       questionSelectionDescription:
-        'Select your language and an optional questionnaire. This can be changed at any point later as well.',
+        'Select your language or keep it random. This can be changed at any point later as well.',
       consent:
         'I agree to the processing and publication of my annotations and their use for machine learning. All annotations and information entered will be stored and processed anonymously.',
       continue: 'Continue',
       muenchen: 'München',
       lkaugsburg: 'Landkreis Augsburg',
       'rems-murr-kreis': 'Rems-Murr-Kreis',
-      contactTitle: 'Help & Contact',
+      contactTitle: 'Help, Contact & Language',
       contactDescription:
         "If something is not working, doesn't make sense or you have any questions, please do not hesitate to contact me:",
       questionId: 'Question: {{questionId}}',
