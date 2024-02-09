@@ -1,6 +1,7 @@
 import os
 import os.path
-from constants import get_integreat_pages_path, get_questions_with_evidence_path, RAW_SLUG, RESPONSES_SLUG, LANGUAGE, prompt_w_evidence_de, prompt_w_evidence_en
+from constants import get_integreat_pages_path, get_questions_wo_evidence_path, RAW_SLUG, SUMMARIES_SLUG, \
+    prompt_wo_evidence_en, LANGUAGE, prompt_wo_evidence_de
 from transformers import pipeline
 from torch import bfloat16
 
@@ -11,7 +12,8 @@ generate_text = pipeline(
     model=MODEL,
     return_full_text=False,
     torch_dtype=bfloat16,
-    device_map='auto'
+    device_map='auto',
+    max_new_tokens=512
 )
 
 
@@ -29,12 +31,12 @@ def enumerate_lines(text):
     return '\n'.join(numerated_lines)
 
 
-def generate_questions(slug):
+def summarize(slug):
     page_path = get_integreat_pages_path(slug)
-    raw_path = get_questions_with_evidence_path([RAW_SLUG, slug])
-    response_path = get_questions_with_evidence_path([RESPONSES_SLUG, slug])
+    summary_path = get_questions_wo_evidence_path([SUMMARIES_SLUG, slug])
+    raw_path = get_questions_wo_evidence_path([RAW_SLUG, slug])
 
-    if os.path.isfile(response_path):
+    if os.path.isfile(raw_path):
         print(f'Skipping {slug}: Already exists')
         return
 
@@ -43,7 +45,7 @@ def generate_questions(slug):
 
     if ('The service is free' in content) or ('Das Angebot ist kostenfrei' in content):
         # Questions about pages with specific services are most of the time things like 'Is the service free?'
-        print(f'Skipping {slug}: Specific service')
+        # print(f'Skipping {slug}: Specific service')
         return
 
     if len(content) > 8000:
@@ -51,28 +53,33 @@ def generate_questions(slug):
         print(f'Skipping {slug}: Context too long')
         return
 
-    input_prompt = instruction_format(
-        prompt_w_evidence_de if LANGUAGE == 'de' else prompt_w_evidence_en,
+    summary_response = generate_text(instruction_format(
+        'Give the topic of the text using max. 3 words.',
         enumerate_lines(content)
-    )
-    response = generate_text(input_prompt)
-    raw = response[0]['generated_text']
+    ))
+    summary = summary_response[0]['generated_text'].strip()
+    print(f'Summarized {slug}: {summary}')
+
+    summary_file = open(summary_path, 'w')
+    summary_file.write(summary)
+
+    response = generate_text(instruction_format(
+        prompt_wo_evidence_de if LANGUAGE == 'de' else prompt_wo_evidence_en,
+        summary
+    ))
+    raw = response[0]['generated_text'].strip()
     print(f'Generated {slug}: {raw}')
 
     raw_file = open(raw_path, 'w')
     raw_file.write(raw)
 
-    response_file = open(response_path, 'w')
-    response_file.write(str(response))
-
 
 if __name__ == '__main__':
-    os.makedirs(get_questions_with_evidence_path([RAW_SLUG]), exist_ok=True)
-    os.makedirs(get_questions_with_evidence_path([RESPONSES_SLUG]), exist_ok=True)
+    os.makedirs(get_questions_wo_evidence_path([RAW_SLUG]), exist_ok=True)
+    os.makedirs(get_questions_wo_evidence_path([SUMMARIES_SLUG]), exist_ok=True)
 
     page_path = get_integreat_pages_path('')
     slugs = os.listdir(page_path)
 
-    for slug in slugs[:5]:
-        generate_questions(slug)
-
+    for slug in slugs:
+        summarize(slug)

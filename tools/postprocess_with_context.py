@@ -22,7 +22,7 @@ def postprocess():
     dataset = []
     json_lines_dataset = []
 
-    for slug in slugs[:50]:
+    for slug in slugs:
         ready_path = get_questions_with_evidence_path([READY_SLUG, slug])
         page_path = get_integreat_pages_path(slug)
 

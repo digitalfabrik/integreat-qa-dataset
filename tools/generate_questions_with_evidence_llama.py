@@ -1,22 +1,10 @@
 import os
 import os.path
 from constants import get_integreat_pages_path, get_questions_with_evidence_path, RAW_SLUG, RESPONSES_SLUG, LANGUAGE, prompt_w_evidence_de, prompt_w_evidence_en
-from transformers import pipeline
-from torch import bfloat16
+from llama_cpp import Llama
 
-MODEL = '/hpc/gpfs2/scratch/g/coling/models/mistralai/Mixtral-8x7B-Instruct-v0.1'
-
-generate_text = pipeline(
-    'text-generation',
-    model=MODEL,
-    return_full_text=False,
-    torch_dtype=bfloat16,
-    device_map='auto'
-)
-
-
-def instruction_format(instructions, query):
-    return f'<s> [INST] {instructions} [/INST\nUser: {query}]\nAssistant: '
+MODEL = '/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-chat-dataset/models/mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf'
+llm = Llama(model_path=MODEL, chat_format="llama-2", n_threads=8, n_ctx=6144)
 
 
 # Add line numbers to each line
@@ -46,21 +34,22 @@ def generate_questions(slug):
         print(f'Skipping {slug}: Specific service')
         return
 
-    if len(content) > 8000:
-        # Max context length in the backend is 8000 chars
+    if len(content) > 5000:
+        # Max context length in the backend is 5000 chars
         print(f'Skipping {slug}: Context too long')
         return
 
-    input_prompt = instruction_format(
-        prompt_w_evidence_de if LANGUAGE == 'de' else prompt_w_evidence_en,
-        enumerate_lines(content)
+    response = llm.create_chat_completion(
+        messages=[
+            {'role': 'system', 'content': prompt_w_evidence_de if LANGUAGE == 'de' else prompt_w_evidence_en},
+            {'role': 'user', 'content': enumerate_lines(content)},
+        ]
     )
-    response = generate_text(input_prompt)
-    raw = response[0]['generated_text']
-    print(f'Generated {slug}: {raw}')
 
+    raw = response['choices'][0]['message']['content']
     raw_file = open(raw_path, 'w')
     raw_file.write(raw)
+    print(f'Generated {slug}: {raw}')
 
     response_file = open(response_path, 'w')
     response_file.write(str(response))
@@ -73,6 +62,5 @@ if __name__ == '__main__':
     page_path = get_integreat_pages_path('')
     slugs = os.listdir(page_path)
 
-    for slug in slugs[:5]:
+    for slug in slugs:
         generate_questions(slug)
-

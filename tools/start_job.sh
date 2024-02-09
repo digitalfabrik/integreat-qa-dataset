@@ -2,10 +2,11 @@
 #SBATCH --job-name=generate_questions
 #SBATCH --mail-type=END,INVALID_DEPEND
 #SBATCH --mail-user=steffen.kleinle@uni-a.de
-#SBATCH --output=logs/%x.%j.log
+#SBATCH --output=logs/%x_%j.log
 #SBATCH --time=1-0
 
-#SBATCH --partition=epyc
+#SBATCH --partition=epyc-gpu
 #SBATCH --mem-per-cpu=50G
-#SBATCH --cpus-per-task=8
-python3 generate_questions_with_evidence.py
+#SBATCH --cpus-per-task=2
+#SBATCH --gpus=a100:2
+python3 generate_questions_wo_evidence.py
