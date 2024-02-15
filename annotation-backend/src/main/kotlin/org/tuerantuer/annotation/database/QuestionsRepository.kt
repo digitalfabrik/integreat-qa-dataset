@@ -51,7 +51,9 @@ fun getQuestion(user: String, city: String? = null, language: String? = null, ev
 
         query
             // Questions which have the least amount of annotations first
-            .filter { it[Questions.annotationCount] == leastAnnotations }
+            // TODO: Revert, first get two annotations per question
+//            .filter { it[Questions.annotationCount] == leastAnnotations }
+            .filter { it[Questions.annotationCount] == 1 }
             .map {
                 val questionId = it[Questions.id].value
                 val row = RowEntity.wrapRow(it).serializable(listOf(QuestionEntity.wrapRow(it).serializable()))

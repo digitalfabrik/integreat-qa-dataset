@@ -177,7 +177,7 @@ const AnnotationPage = ({ user }: AnnotationPageProps): ReactElement => {
       </Description>
 
       <HighlightBox>
-        <Title>{title}</Title>
+        <Title>{title.trim().endsWith('?') ? t('title', { title }) : title}</Title>
         <AnswerLines
           context={context}
           answerLines={answerLines}

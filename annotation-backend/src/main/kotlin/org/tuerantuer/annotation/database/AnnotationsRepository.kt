@@ -41,7 +41,7 @@ fun insertAnnotation(questionId: EntityID<Int>, annotation: Annotation) = transa
 }
 
 fun getAnnotationsCount(): Int = transaction {
-    return@transaction AnnotationEntity.find { Annotations.archived eq false }.count().toInt()
+    return@transaction AnnotationEntity.find { (Annotations.archived eq false) and (Annotations.skipped eq false) }.count().toInt()
 }
 
 fun deleteAnnotations(user: String? = null) = transaction {

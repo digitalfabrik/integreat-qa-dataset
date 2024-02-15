@@ -13,6 +13,7 @@ const StyledFormControlLabel = styled(FormControlLabel)<{
   color: ${props => !props.disabled && !props.$isDanger && props.$changed && CHANGED_COLOR} !important;
   color: ${props => !props.disabled && !props.$changed && props.$selected && SELECTED_COLOR} !important;
   color: ${props => props.$isDanger && DANGER_COLOR} !important;
+  width: 100%;
   margin: 0 !important;
 `
 

@@ -9,7 +9,7 @@ import org.jetbrains.exposed.sql.javatime.timestamp
 
 object Annotations : IntIdTable() {
     val questionId = reference("questionId", Questions)
-    val answerLines = varchar("answerLines", 50)
+    val answerLines = text("answerLines")
     val poor = bool("poorQuestion")
     val skipped = bool("skipped")
     val noAnswer = bool("noAnswer")

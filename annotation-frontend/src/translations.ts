@@ -2,8 +2,7 @@ const translations = {
   de: {
     translation: {
       instructions:
-        'Bitte lesen Sie den folgenden Text und markieren Sie die Antwort(en) auf die obige Frage. Markieren Sie nur Sätze, die einen wichtigen Hinweis für die Antwort enthalten. Wenn der Text keine Antwort enthält, markieren Sie bitte das entsprechende Kästchen.',
-      city: 'Region',
+        'Stellen Sie sich vor, Sie sind auf der Suche nach Hilfe und haben die obige Frage. Lesen Sie den folgenden Text und markieren Sie alle Sätze, die Ihnen helfen würden, die Frage zu beantworten. Es ist nicht notwendig, die Richtigkeit der Antworten zu überprüfen. Wenn der Text keine Antwort enthält, kreuzen Sie bitte das entsprechende Kästchen an.',
       language: 'Sprache',
       de: 'Deutsch',
       en: 'English',
@@ -58,12 +57,13 @@ const translations = {
       contactDescription:
         'Wenn etwas nicht funktioniert, keinen Sinn ergibt oder Sie Fragen haben, zögern Sie bitte nicht, mich zu kontaktieren:',
       questionId: 'Frage: {{questionId}}',
+      title: 'Titel: {{title}}',
     },
   },
   en: {
     translation: {
       instructions:
-        'Please read the following text and mark the answer(s) to the above question. Only mark sentences that contain an important clue to the answer. If the text does not contain an answer, please mark the corresponding box.',
+        'Imagine you are looking for help and have the above question. Read the following text and mark all sentences that would help you to answer the question. It is not necessary to verify the accuracy of the answers. If the text does not contain an answer, please mark the corresponding box.',
       city: 'City',
       language: 'Language',
       de: 'Deutsch',
@@ -120,6 +120,7 @@ const translations = {
       contactDescription:
         "If something is not working, doesn't make sense or you have any questions, please do not hesitate to contact me:",
       questionId: 'Question: {{questionId}}',
+      title: 'Title: {{title}}',
     },
   },
 }
