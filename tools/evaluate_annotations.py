@@ -1,6 +1,6 @@
 import json
 
-PATH = '/home/st/Documents/Uni/Masterarbeit/Data/2024-02-21_rows.json'
+PATH = '/home/st/Documents/Uni/Masterarbeit/Data/2024-02-26_rows.json'
 
 if __name__ == '__main__':
     rows = json.load(open(PATH, 'r'))
@@ -13,6 +13,8 @@ if __name__ == '__main__':
     total_complete_agreement = 0
     one_sided = 0
     overlap = 0
+    no_agreement = 0
+    no_agreement_answer = 0
 
     total_spans = 0
     total_selected = 0
@@ -57,6 +59,10 @@ if __name__ == '__main__':
                     one_sided += 1
                 elif len(list(set(annotation_0).intersection(annotation_0))) > 0:
                     overlap += 1
+                else:
+                    if (len(annotation_0) == 0) != (len(annotation_1) == 0):
+                        no_agreement_answer += 1
+                    no_agreement += 1
 
                 if len(diff_0) != 0 and len(diff_1) != 0:
                     print(sorted(annotation_0))
@@ -74,17 +80,17 @@ if __name__ == '__main__':
                 if annotation['comment'] != "":
                     print(annotation['comment'], annotation['user'])
 
-    no_agreement = double_annotations - total_complete_agreement - one_sided - overlap
     print('total annotations:', total_annotations)
     print('total annotations de:', total_annotations_de)
     print('total annotations en:', total_annotations_en)
     print('double annotations:', double_annotations)
     print('double annotations de:', double_annotations_de)
     print('double annotations en:', double_annotations_en)
-    print('complete agreement:', total_complete_agreement, ' | ', round(total_complete_agreement/double_annotations, 2))
-    print('one sided:', one_sided, ' | ', round(one_sided/double_annotations, 2))
-    print('overlap:', overlap, ' | ', round(overlap/double_annotations, 2))
-    print('no agreement:', no_agreement, ' | ', round(no_agreement/double_annotations, 2))
+    print('complete agreement:', total_complete_agreement, ' | ', total_complete_agreement/double_annotations, 2)
+    print('one sided:', one_sided, ' | ', one_sided/double_annotations, 2)
+    print('overlap:', overlap, ' | ', overlap/double_annotations, 2)
+    print('no agreement:', no_agreement, ' | ', no_agreement/double_annotations, 2)
+    print('no agreement answer:', no_agreement_answer, ' | ', no_agreement_answer / double_annotations, 2)
     #
     # print('total span:', total_spans)
     # print('total selected:', total_selected)
