@@ -2,6 +2,7 @@ import i18next from 'i18next'
 import React, { ReactElement, useEffect, useState } from 'react'
 import { initReactI18next } from 'react-i18next'
 
+import AgreementPage from './AgreementPage'
 import AnnotationPage from './AnnotationPage'
 import LandingPage from './LandingPage'
 import useSetting from './hooks/useSetting'
@@ -32,6 +33,10 @@ const App = (): ReactElement => {
 
   if (!user) {
     return <div />
+  }
+
+  if (window.location.pathname === '/agreement') {
+    return <AgreementPage user={user} />
   }
 
   return landingPageShown ? (

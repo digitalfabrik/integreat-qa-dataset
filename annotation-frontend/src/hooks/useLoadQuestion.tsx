@@ -2,13 +2,7 @@ import { useCallback, useEffect, useState } from 'react'
 
 import { BASE_URL } from '../constants/url'
 import load from '../utils/load'
-import mapToQuestion, { Question, QuestionJson } from '../utils/mapToQuestion'
-
-type Annotation = {
-  answerLines: number[]
-  noAnswer: boolean
-  comment: string
-}
+import mapToQuestion, { Annotation, Question, QuestionJson } from '../utils/mapToQuestion'
 
 type QuestionStatus =
   | {

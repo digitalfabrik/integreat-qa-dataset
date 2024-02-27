@@ -1,6 +1,6 @@
 import json
 
-PATH = '/home/st/Documents/Uni/Masterarbeit/Data/2024-02-26_rows.json'
+PATH = '/home/st/Documents/Uni/Masterarbeit/Data/2024-02-27_rows.json'
 
 if __name__ == '__main__':
     rows = json.load(open(PATH, 'r'))
@@ -57,7 +57,7 @@ if __name__ == '__main__':
                     total_complete_agreement += 1
                 elif (len(diff_0) == 0 or len(diff_1) == 0) and not len(annotation_0) == 0 and not len(annotation_1) == 0:
                     one_sided += 1
-                elif len(list(set(annotation_0).intersection(annotation_0))) > 0:
+                elif len(list(set(annotation_0).intersection(annotation_1))) > 0:
                     overlap += 1
                 else:
                     if (len(annotation_0) == 0) != (len(annotation_1) == 0):
