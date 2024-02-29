@@ -1,6 +1,6 @@
 import json
 
-PATH = '/home/st/Documents/Uni/Masterarbeit/Data/2024-02-27_rows.json'
+PATH = '/home/st/Documents/Uni/Masterarbeit/Data/2024-02-29_rows.json'
 
 if __name__ == '__main__':
     rows = json.load(open(PATH, 'r'))
