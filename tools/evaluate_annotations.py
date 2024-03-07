@@ -1,6 +1,6 @@
 import json
 
-PATH = '/home/st/Documents/Uni/Masterarbeit/Data/2024-02-29_rows.json'
+PATH = '/home/st/Documents/Uni/Masterarbeit/Data/2024-03-05_rows.json'
 
 if __name__ == '__main__':
     rows = json.load(open(PATH, 'r'))
@@ -30,12 +30,12 @@ if __name__ == '__main__':
         for question in row['questions']:
             annotations = [question for question in question['annotations'] if not question['skipped'] and not question['archived']]
             annotations_length = len(annotations)
-            total_annotations += annotations_length
+            total_annotations += min(1, annotations_length)
 
             if row['language'] == 'de':
-                total_annotations_de += annotations_length
+                total_annotations_de += min(1, annotations_length)
             elif row['language'] == 'en':
-                total_annotations_en += annotations_length
+                total_annotations_en += min(1, annotations_length)
 
             if annotations_length == 2:
                 annotation_0 = annotations[0]['answerLines']
@@ -80,7 +80,7 @@ if __name__ == '__main__':
                 if annotation['comment'] != "":
                     print(annotation['comment'], annotation['user'])
 
-    print('total annotations:', total_annotations)
+    print('total annotations:', total_annotations, double_annotations, total_annotations - double_annotations)
     print('total annotations de:', total_annotations_de)
     print('total annotations en:', total_annotations_en)
     print('double annotations:', double_annotations)
