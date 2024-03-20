@@ -20,7 +20,9 @@ data class Question(
 fun QuestionEntity.serializable() = Question(
     question = question,
     answerLines = Json.decodeFromString(answerLines),
-    annotations = AnnotationEntity.find { Annotations.questionId eq this@serializable.id }.map { it.serializable() },
+    annotations = AnnotationEntity.find { Annotations.questionId eq this@serializable.id }
+        .map { it.serializable() }
+        .filter { !it.skipped && !it.archived },
     created = Instant.fromEpochMilliseconds(created.toEpochMilli()),
     archived = false
 )
