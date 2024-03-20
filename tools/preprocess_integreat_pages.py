@@ -3,7 +3,6 @@ import requests
 import json
 import re
 from bs4 import BeautifulSoup
-from bs4.element import Comment
 from constants import get_integreat_pages_path, get_integreat_pages_json_path, CITY, LANGUAGE
 from tools.postprocess_with_context import postprocess
 

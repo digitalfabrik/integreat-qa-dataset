@@ -1,6 +1,7 @@
 import json
+import datetime
 
-PATH = '/home/st/Documents/Uni/Masterarbeit/Data/2024-03-05_rows.json'
+PATH = f'/home/st/Documents/Uni/Masterarbeit/Data/{datetime.datetime.utcnow().date().isoformat()}_rows.json'
 
 if __name__ == '__main__':
     rows = json.load(open(PATH, 'r'))
