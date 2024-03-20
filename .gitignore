@@ -163,3 +163,4 @@ cython_debug/
 data/integreat_pages/**/*.txt
 data/**/*.txt
 data/**/dataset*.json
+rows/**
