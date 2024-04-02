@@ -26,6 +26,10 @@ def get_questions_wo_evidence_path(slugs):
     return f'{BASE_SLUG}/questions_wo_evidence_{MODEL}/{CITY}/{LANGUAGE}/{"/".join(slugs)}'
 
 
+def get_answers_path(slugs):
+    return f'{BASE_SLUG}/answers_{MODEL}/{"/".join(slugs)}'
+
+
 def get_dataset_path(extension, with_evidence=True):
     if with_evidence:
         return f'{BASE_SLUG}/questions_with_evidence_{MODEL}/dataset_{CITY}_{LANGUAGE}.{extension}'
@@ -100,3 +104,32 @@ Q3: Was bedeutet das Sprachniveau B2?
 prompt_summarize_en = 'Give the topic of the text using max. 3 words.'
 
 prompt_summarize_de = 'Give the topic of the text using max. 3 words using German language.'
+
+
+def get_prompt_answer_lines(text):
+    return f'''
+You are a helpful assistant trying to help refugees and newcomers in Germany to find answers to their questions in a given text.
+Respond to the users question with ONLY the comma-separated line numbers of the answers in the following text.
+If there is no answer in the text, respond with '-1'.
+Do NOT add any text or explanation.
+Bad examples:
+- '3-5'
+- '7,8 (the answer is not in the text)'
+- 'The answers can be found in line 19 and 20'
+Given Text:
+"""{text}"""
+'''
+
+
+def get_prompt_format_w_answers(question, context):
+    return f'''
+Question: {question}
+
+Context: {context}
+
+Instruction: Given the question and context above, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {{answer}} ## Numbers: {{comma separated sentence numbers}}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+'''
+
+
