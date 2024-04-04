@@ -1,13 +1,14 @@
 import json
 import datetime
 import os
+from statistics import median
 
 from transformers import pipeline
 
 
 model_name = "roberta-base-squad2"
 full_model_name = f'deepset/{model_name}'
-DATASET_PATH = f'../datasets/{datetime.datetime.utcnow().date().isoformat()}_dataset_en.json'
+DATASET_PATH = f'../datasets/2024-04-01_dataset.json'
 PREDICTIONS_PATH = f'predictions/{model_name}_predictions.json'
 
 if __name__ == '__main__':
@@ -27,18 +28,19 @@ if __name__ == '__main__':
     answer_count = 0
     correct_no_answer = 0
     no_answer = 0
+    print(median([prediction['score'] for prediction in predictions]))
 
     for index, prediction in enumerate(predictions):
         question = questions[index]
 
         if prediction['score'] > 0.8:
             answer_count += 1
-            # Answer found
             lines = question['context'].split('\n')
             answer = ' '.join([lines[line] for line in question['answers']])
             print(question['question'], prediction['answer'], ' | ', answer, ' | ', prediction['score'])
-            predicted_line_number = question['context'][:prediction['start']].count('\n')
-            predicted_in_annotated = predicted_line_number in question['answers']
+            predicted_start_line_number = question['context'][:prediction['start']].count('\n')
+            predicted_end_line_number = question['context'][prediction['end']:].count('\n') + 1
+            predicted_in_annotated = predicted_start_line_number in question['answers']
             if predicted_in_annotated:
                 correct_answer += 1
         else:

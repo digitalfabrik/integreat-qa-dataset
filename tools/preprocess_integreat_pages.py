@@ -35,9 +35,9 @@ def add_linebreaks(text):
 
 # Parse html and filter out paragraphs matching any of the exclude patterns
 def parse_html(html, exclude_patterns):
-    soup = BeautifulSoup(html, features="html.parser")
+    soup = BeautifulSoup(html, features='html.parser')
 
-    for script in soup(["script", "style"]):
+    for script in soup(['script', 'style', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']):
         script.extract()
 
     for br in soup.find_all('br'):
@@ -72,6 +72,7 @@ def load_data():
 
 
 def preprocess():
+    os.makedirs(get_integreat_pages_path(''), exist_ok=True)
     f = open(get_integreat_pages_json_path(), 'r')
     data = json.load(f)
     chars = 0
@@ -85,8 +86,8 @@ def preprocess():
     for title, value in page_dict.items():
         page_id = value[0]
         content = value[1]
-        if len(title) + len(content) < MIN_CONTENT_LENGTH:
-            continue
+        # if len(title) + len(content) < MIN_CONTENT_LENGTH:
+        #     continue
 
         parsed = parse_html(content, [
             # Remove keyword list
@@ -97,8 +98,8 @@ def preprocess():
             r'[0-9]{4,}',
         ]).replace('  ', ' ')
 
-        if len(title) + len(parsed) < MIN_CONTENT_LENGTH:
-            continue
+        # if len(title) + len(parsed) < MIN_CONTENT_LENGTH:
+        #     continue
 
         filename = get_integreat_pages_path(f'{page_id}.txt')
         new_file = open(filename, 'w')
@@ -116,4 +117,4 @@ if __name__ == '__main__':
     # Uncomment to load data initially
     # load_data()
     preprocess()
-    postprocess()
+    # postprocess()

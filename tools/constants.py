@@ -1,5 +1,5 @@
-CITY = 'muenchen'
-LANGUAGE = 'en'
+CITY = 'rems-murr-kreis'
+LANGUAGE = 'de'
 MODEL = 'Mixtral-8x7B-Instruct-v0.1'
 
 RESPONSES_SLUG = 'responses'
@@ -15,7 +15,7 @@ def get_integreat_pages_json_path():
 
 
 def get_integreat_pages_path(slug):
-    return f'{BASE_SLUG}/integreat_pages/{CITY}/{LANGUAGE}/{PAGES_SLUG}/{slug}'
+    return f'{BASE_SLUG}/integreat_pages/{CITY}/{LANGUAGE}/{PAGES_SLUG}_no_h/{slug}'
 
 
 def get_questions_with_evidence_path(slugs):
