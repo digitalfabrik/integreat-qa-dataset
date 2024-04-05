@@ -63,7 +63,8 @@ type AnnotationPageProps = {
 const AgreementPage = ({}: AnnotationPageProps): ReactElement => {
   const [index, setIndex] = useState(0)
   const [agreement, setAgreement] = useState<AgreementType>('random')
-  const { questions } = useLoadRows({ agreement })
+  const { questions: data } = useLoadRows({ agreement })
+  const questions = data.filter(it => it.adjacent0.length > 2 || it.adjacent1.length > 2)
   const currentQuestion = questions[index]
   const { t } = useTranslation()
 
@@ -79,7 +80,9 @@ const AgreementPage = ({}: AnnotationPageProps): ReactElement => {
 
   console.log(agreement, questions.length)
 
-  const { context, question, annotations } = currentQuestion
+  const { context, question, annotations, adjacent0, adjacent1 } = currentQuestion
+
+  console.log(adjacent0, adjacent1)
   const title = context.slice(0, context.indexOf('\n'))
   const annotation0 = annotations[0]!
   const annotation1 = annotations[1]!
@@ -110,7 +113,11 @@ const AgreementPage = ({}: AnnotationPageProps): ReactElement => {
 
       <HighlightBox>
         <Title>{title.trim().endsWith('?') ? t('title', { title }) : title}</Title>
-        <AgreementAnswerLines context={context} answerLines={[annotation0.answerLines, annotation1.answerLines]} />
+        <AgreementAnswerLines
+          context={context}
+          answerLines={[annotation0.answerLines, annotation1.answerLines]}
+          adjacent={[adjacent0, adjacent1]}
+        />
       </HighlightBox>
     </Container>
   )

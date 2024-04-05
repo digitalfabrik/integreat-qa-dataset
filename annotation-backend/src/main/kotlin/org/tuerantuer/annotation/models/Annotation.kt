@@ -8,6 +8,7 @@ import org.tuerantuer.annotation.database.AnnotationEntity
 
 @Serializable
 data class Annotation(
+    val id: Int? = null,
     val answerLines: List<Int>,
     val poor: Boolean,
     val noAnswer: Boolean,
@@ -19,6 +20,7 @@ data class Annotation(
 )
 
 fun AnnotationEntity.serializable() = Annotation(
+    id = id.value,
     answerLines = Json.decodeFromString(answerLines),
     poor = poor,
     skipped = skipped,

@@ -10,6 +10,7 @@ import org.tuerantuer.annotation.database.QuestionEntity
 
 @Serializable
 data class Question(
+    val id: Int? = null,
     val question: String,
     val answerLines: List<Int>,
     val annotations: List<Annotation> = emptyList(),
@@ -18,6 +19,7 @@ data class Question(
 )
 
 fun QuestionEntity.serializable() = Question(
+    id = id.value,
     question = question,
     answerLines = Json.decodeFromString(answerLines),
     annotations = AnnotationEntity.find { Annotations.questionId eq this@serializable.id }

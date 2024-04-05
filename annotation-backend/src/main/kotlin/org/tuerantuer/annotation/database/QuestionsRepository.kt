@@ -47,10 +47,10 @@ fun getQuestion(user: String, city: String? = null, language: String? = null, ev
     transaction {
         val query = getQuestions(user, city, language, evidence)
 
-        val leastAnnotations = query.minOfOrNull { it[Questions.annotationCount] } ?: 0
+        val singleAnnotatedCount = query.count { it[Questions.annotationCount] == 1 }
 
         query
-            .filter { it[Questions.annotationCount] == 1 }
+            .filter { it[Questions.annotationCount] == if (singleAnnotatedCount > 10) 1 else 0 }
             .map {
                 val questionId = it[Questions.id].value
                 val row = RowEntity.wrapRow(it).serializable(listOf(QuestionEntity.wrapRow(it).serializable()))
