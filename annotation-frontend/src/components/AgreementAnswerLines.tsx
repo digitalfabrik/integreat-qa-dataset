@@ -6,9 +6,10 @@ import AgreementAnswerLine from './AgreementAnswerLine'
 type AgreementAnswerLinesProps = {
   context: string
   answerLines: number[][]
+  adjacent: number[][]
 }
 
-const AgreementAnswerLines = ({ context, answerLines }: AgreementAnswerLinesProps): ReactElement => {
+const AgreementAnswerLines = ({ context, answerLines, adjacent }: AgreementAnswerLinesProps): ReactElement => {
   const lines = context.split('\n')
 
   return (
@@ -23,6 +24,8 @@ const AgreementAnswerLines = ({ context, answerLines }: AgreementAnswerLinesProp
               text={line}
               isSelected0={answerLines[0].includes(index)}
               isSelected1={answerLines[1].includes(index)}
+              isAdjacent0={adjacent[0].includes(index)}
+              isAdjacent1={adjacent[1].includes(index)}
             />
           ),
       )}
