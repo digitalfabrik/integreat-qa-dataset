@@ -62,7 +62,8 @@ if __name__ == '__main__':
     print(train.answers.str.len().mean(), dev.answers.str.len().mean(), test.answers.str.len().mean())
     print(train.context.str.len().mean(), dev.context.str.len().mean(), test.context.str.len().mean())
 
-    def write_dataset(df, suffix=''):
+
+    def write_dataset(df, suffix='', language=language):
         df_file = open(f'../datasets/splits/{language}/{suffix}_{language}.json', 'w')
         df_file.write(df.to_json(orient='records'))
         df_file = open(f'../datasets/splits/{language}/{suffix}_{language}.jsonl', 'w')
@@ -72,6 +73,18 @@ if __name__ == '__main__':
     write_dataset(train, 'train')
     write_dataset(dev, 'dev')
     write_dataset(test, 'test')
+
+    other_languages = ['en']
+    for language in other_languages:
+        dataset = json.load(open(f'../datasets/dataset_{language}.json', 'r'))
+        train = pd.DataFrame([next(x for x in dataset if x['id'] == row['id']) for _, row in train.iterrows()])
+        dev = pd.DataFrame([next(x for x in dataset if x['id'] == row['id']) for _, row in dev.iterrows()])
+        test = pd.DataFrame([next(x for x in dataset if x['id'] == row['id']) for _, row in test.iterrows()])
+
+        write_dataset(train, 'train', language)
+        write_dataset(dev, 'dev', language)
+        write_dataset(test, 'test', language)
+
 
     # for partition in [train, dev, test]:
     #     no_answer_source_language_num = []
