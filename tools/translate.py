@@ -12,14 +12,15 @@ translator = deepl.Translator(DEEPL_API_KEY)
 
 
 if __name__ == '__main__':
-    source_language = 'de'
-    target_language = 'en'
+    source_language = 'en'
+    target_language = 'de'
     questions = json.load(open(DATASET_PATH, 'r'))
-    questions_source = [question for question in questions if question['language'] == source_language]
-    questions_target = [question for question in questions if question['language'] == target_language]
+    questions_source = [question for question in questions if question['language'] == source_language and next((x for x in questions if x['id'] == question['id']), None) is not None]
+    questions_target = [question for question in questions if question['language'] == target_language and next((x for x in questions if x['id'] == question['id']), None) is not None]
 
     target_dataset_path = f'../datasets/dataset_{target_language}.json'
-    target_dataset = json.load(open(target_dataset_path, 'r')) if os.path.exists(target_dataset_path) else questions_target
+    raw_target_dataset = json.load(open(target_dataset_path, 'r')) if os.path.exists(target_dataset_path) else questions_target
+    target_dataset = [question for question in raw_target_dataset if next((x for x in questions if x['id'] == question['id']), None) is not None]
     translated_questions = len(target_dataset) - len(questions_target)
 
     deepl_target = 'en-us' if target_language == 'en' else target_language
