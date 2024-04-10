@@ -45,10 +45,10 @@ if __name__ == '__main__':
             else:
                 other_answer_translated.append(row)
 
-    print(len(no_answer_source_language) + len(no_answer_translated))
-    print(len(one_answer_source_language) + len(one_answer_translated))
-    print(len(divided_answer_source_language) + len(divided_answer_translated))
-    print(len(other_answer_source_language) + len(other_answer_translated))
+    print(len(no_answer_source_language), len(no_answer_translated))
+    print(len(one_answer_source_language), len(one_answer_translated))
+    print(len(divided_answer_source_language), len(divided_answer_translated))
+    print(len(other_answer_source_language), len(other_answer_translated))
 
     partitions = [no_answer_source_language, no_answer_translated, one_answer_source_language, one_answer_translated, divided_answer_source_language, divided_answer_translated, other_answer_source_language, other_answer_translated]
 
@@ -86,45 +86,53 @@ if __name__ == '__main__':
         write_dataset(test, 'test', language)
 
 
-    # for partition in [train, dev, test]:
-    #     no_answer_source_language_num = []
-    #     no_answer_translated_num = []
-    #     one_answer_source_language_num = []
-    #     one_answer_translated_num = []
-    #     divided_answer_source_language_num = []
-    #     divided_answer_translated_num = []
-    #     other_answer_source_language_num = []
-    #     other_answer_translated_num = []
-    #
-    #     for _, row in partition.iterrows():
-    #         answers = row['answers']
-    #         if len(answers) == 0:
-    #             if row['source_language'] is None:
-    #                 no_answer_source_language_num.append(row)
-    #             else:
-    #                 no_answer_translated_num.append(row)
-    #         elif len(answers) == 1:
-    #             if row['source_language'] is None:
-    #                 one_answer_source_language_num.append(row)
-    #             else:
-    #                 one_answer_translated_num.append(row)
-    #         elif len(answers) > 0 and len(answers) != len(range(answers[0], answers[-1] + 1)):
-    #             if row['source_language'] is None:
-    #                 divided_answer_source_language_num.append(row)
-    #             else:
-    #                 divided_answer_translated_num.append(row)
-    #         else:
-    #             if row['source_language'] is None:
-    #                 other_answer_source_language_num.append(row)
-    #             else:
-    #                 other_answer_translated_num.append(row)
-    #
-    #     print(print_w_percentage(no_answer_source_language_num, no_answer_source_language), print_w_percentage(no_answer_translated_num, no_answer_translated))
-    #     print(pd.DataFrame(no_answer_source_language_num).jaccard.mean(), pd.DataFrame(no_answer_translated_num).jaccard.mean())
-    #     print(print_w_percentage(one_answer_source_language_num, one_answer_source_language), print_w_percentage(one_answer_translated_num, one_answer_translated))
-    #     print(pd.DataFrame(one_answer_source_language_num).jaccard.mean(), pd.DataFrame(one_answer_translated_num).jaccard.mean())
-    #     print(print_w_percentage(divided_answer_source_language_num, divided_answer_source_language), print_w_percentage(divided_answer_translated_num, divided_answer_translated))
-    #     print(pd.DataFrame(divided_answer_source_language_num).jaccard.mean(), pd.DataFrame(divided_answer_translated_num).jaccard.mean())
-    #     print(print_w_percentage(other_answer_source_language_num, other_answer_source_language), print_w_percentage(other_answer_translated_num, other_answer_translated))
-    #     print(pd.DataFrame(other_answer_source_language_num).jaccard.mean(), pd.DataFrame(other_answer_translated_num).jaccard.mean())
+    for partition in [train, dev, test]:
+        no_answer_source_language_num = []
+        no_answer_translated_num = []
+        one_answer_source_language_num = []
+        one_answer_translated_num = []
+        divided_answer_source_language_num = []
+        divided_answer_translated_num = []
+        other_answer_source_language_num = []
+        other_answer_translated_num = []
+
+        for _, row in partition.iterrows():
+            answers = row['answers']
+            if len(answers) == 0:
+                if row['source_language'] is None:
+                    no_answer_source_language_num.append(row)
+                else:
+                    no_answer_translated_num.append(row)
+            elif len(answers) == 1:
+                if row['source_language'] is None:
+                    one_answer_source_language_num.append(row)
+                else:
+                    one_answer_translated_num.append(row)
+            elif len(answers) > 0 and len(answers) != len(range(answers[0], answers[-1] + 1)):
+                if row['source_language'] is None:
+                    divided_answer_source_language_num.append(row)
+                else:
+                    divided_answer_translated_num.append(row)
+            else:
+                if row['source_language'] is None:
+                    other_answer_source_language_num.append(row)
+                else:
+                    other_answer_translated_num.append(row)
+
+        # print(len(no_answer_source_language_num) + len(no_answer_translated_num))
+        # print(len(divided_answer_source_language_num) + len(divided_answer_translated_num))
+        # print(len(other_answer_source_language_num) + len(other_answer_translated_num) + len(one_answer_source_language_num) + len(one_answer_translated_num))
+        # print(len([x for _, x in partition.iterrows() if x['source_language'] is None]))
+        # print(len([x for _, x in partition.iterrows() if x['source_language'] == 'de']))
+        print(len(no_answer_source_language_num), len(no_answer_translated_num))
+        print(len(divided_answer_source_language_num), len(divided_answer_translated_num))
+
+        # print(no_answer_source_language_num, no_answer_source_language), print_w_percentage(no_answer_translated_num, no_answer_translated))
+        # print(pd.DataFrame(no_answer_source_language_num).jaccard.mean(), pd.DataFrame(no_answer_translated_num).jaccard.mean())
+        # print(print_w_percentage(one_answer_source_language_num, one_answer_source_language), print_w_percentage(one_answer_translated_num, one_answer_translated))
+        # print(pd.DataFrame(one_answer_source_language_num).jaccard.mean(), pd.DataFrame(one_answer_translated_num).jaccard.mean())
+        # print(print_w_percentage(divided_answer_source_language_num, divided_answer_source_language), print_w_percentage(divided_answer_translated_num, divided_answer_translated))
+        # print(pd.DataFrame(divided_answer_source_language_num).jaccard.mean(), pd.DataFrame(divided_answer_translated_num).jaccard.mean())
+        # print(print_w_percentage(other_answer_source_language_num, other_answer_source_language), print_w_percentage(other_answer_translated_num, other_answer_translated))
+        # print(pd.DataFrame(other_answer_source_language_num).jaccard.mean(), pd.DataFrame(other_answer_translated_num).jaccard.mean())
 
