@@ -12,10 +12,10 @@ translator = deepl.Translator(DEEPL_API_KEY)
 
 
 if __name__ == '__main__':
-    source_language = 'de'
+    sourceLanguage = 'de'
     target_language = 'en'
     questions = json.load(open(DATASET_PATH, 'r'))
-    questions_source = [question for question in questions if question['language'] == source_language]
+    questions_source = [question for question in questions if question['language'] == sourceLanguage]
     questions_target = [question for question in questions if question['language'] == target_language]
 
     target_dataset_path = f'../datasets/dataset_{target_language}.json'
@@ -34,18 +34,18 @@ if __name__ == '__main__':
             new.append(translated)
         else:
             try:
-                question_tr = translator.translate_text(question['question'], target_lang=deepl_target, source_lang=source_language).text
+                question_tr = translator.translate_text(question['question'], target_lang=deepl_target, source_lang=sourceLanguage).text
                 print(question['question'], '|', question_tr)
                 context_lines_tr = []
                 context_lines = question['context'].split('\n')
                 for context_line in context_lines:
-                    line_tr = translator.translate_text(context_line, target_lang=deepl_target, source_lang=source_language).text
+                    line_tr = translator.translate_text(context_line, target_lang=deepl_target, source_lang=sourceLanguage).text
                     context_lines_tr.append(line_tr)
                     print(context_line, '|', line_tr)
                 context_tr = '\n'.join(context_lines_tr)
                 new.append({
                     **question,
-                    'source_language': source_language,
+                    'sourceLanguage': sourceLanguage,
                     'language': target_language,
                     'question': question_tr,
                     'context': context_tr
