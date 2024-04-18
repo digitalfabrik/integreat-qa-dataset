@@ -37,10 +37,9 @@ def get_answer_lines(text):
         return
 
 
-def postprocess():
-    questions = json.load(open(DATASET_PATH, 'r'))
-    raw_dir_path = get_answers_path(['format_w_sentences', RAW_SLUG])
-    predicted_path = get_answers_path(['format_w_sentences', 'predicted.json'])
+def postprocess_llm_answers(path, questions):
+    raw_dir_path = f'{path}/{RAW_SLUG}'
+    predicted_path = f'{path}/predicted.json'
     slugs = os.listdir(raw_dir_path)
 
     predicted = {}
@@ -53,7 +52,7 @@ def postprocess():
 
     for slug in slugs:
         raw_slug = slug.split('.txt')[0]
-        raw_path = get_answers_path(['format_w_sentences', RAW_SLUG, slug])
+        raw_path = f'{raw_dir_path}/{slug}'
         raw_file = open(raw_path, 'r')
         raw_content = raw_file.readline()
 
@@ -100,4 +99,4 @@ def postprocess():
 
 
 if __name__ == '__main__':
-    postprocess()
+    postprocess_llm_answers('', [])

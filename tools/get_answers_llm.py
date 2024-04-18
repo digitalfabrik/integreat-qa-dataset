@@ -1,17 +1,23 @@
 import json
 import os
 import os.path
-
-from constants import RAW_SLUG, get_answers_path, get_prompt_format_w_answers
 from transformers import pipeline
 from torch import bfloat16
 
-MODEL = '/hpc/gpfs2/scratch/g/coling/models/mistralai/Mixtral-8x7B-Instruct-v0.1'
-DATASET_PATH = f'/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-chat-dataset/datasets/2024-04-01_dataset.json'
+from constants import RAW_SLUG
+from evaluate_answers import postprocess_llm_answers
+from get_answer_prompt import get_answer_prompt
+
+MIXTRAL = 'mistralai/Mixtral-8x7B-Instruct-v0.1'
+
+PROMPT_VERSION = 'v1'
+MODEL = MIXTRAL
+MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
+DATASET_PATH = '../datasets/splits'
 
 generate_text = pipeline(
     'text-generation',
-    model=MODEL,
+    model=MODEL_PATH,
     return_full_text=False,
     torch_dtype=bfloat16,
     device_map='auto',
@@ -34,16 +40,37 @@ def enumerate_lines(text):
     return '\n'.join(numerated_lines)
 
 
-def get_answers(question):
+def instruction_generator(questions):
+    for question in questions:
+        context = enumerate_lines(question['context'])
+        instruction = instruction_format(get_answer_prompt(question['question'], context, PROMPT_VERSION))
+
+        yield instruction
+
+
+def get_all_answers(questions, path):
+    counter = 0
+    for response in generate_text(instruction_generator(questions)):
+        question = questions[counter]
+        question_id = question['id']
+        raw_answer_path = f'{path}/{question_id}.txt'
+        raw = response[0]['generated_text'].strip()
+        print(f'Generated {question_id}: {raw}')
+
+        raw_file = open(raw_answer_path, 'w')
+        raw_file.write(raw)
+
+
+def get_answers(question, path):
     question_id = question['id']
-    raw_answer_path = get_answers_path(['format_w_sentences', RAW_SLUG, f'{question_id}.txt'])
+    raw_answer_path = f'{path}/{question_id}.txt'
 
     if os.path.isfile(raw_answer_path):
         print(f'Skipping {question_id}: Already exists')
         return
 
     context = enumerate_lines(question['context'])
-    instruction = instruction_format(get_prompt_format_w_answers(question['question'], context))
+    instruction = instruction_format(get_answer_prompt(question['question'], context, PROMPT_VERSION))
     print(instruction)
     response = generate_text(instruction)
     raw = response[0]['generated_text'].strip()
@@ -54,9 +81,16 @@ def get_answers(question):
 
 
 if __name__ == '__main__':
-    os.makedirs(get_answers_path(['format_w_sentences', RAW_SLUG]), exist_ok=True)
-    questions = json.load(open(DATASET_PATH, 'r'))
+    languages = ['de', 'en']
 
-    for question in questions:
-        get_answers(question)
+    for language in languages:
+        base_answer_path = f'../answers/{MODEL}/{PROMPT_VERSION}/{language}'
+        answer_path = f'{base_answer_path}/{RAW_SLUG}'
+        os.makedirs(answer_path, exist_ok=True)
+        dataset_path = f'{DATASET_PATH}/{language}/dev_{language}.json'
+        questions = json.load(open(dataset_path, 'r'))
 
+        for question in questions:
+            get_answers(question, answer_path)
+
+        postprocess_llm_answers(base_answer_path, questions)
