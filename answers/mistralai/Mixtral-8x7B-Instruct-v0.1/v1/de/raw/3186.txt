@@ -1,0 +1,7 @@
+## Answer: Die Stromkosten und Internettkosten müssen von Ihrem eigenen Geld bezahlt werden. ## Numbers: 3, 14 ##
+
+## Answer: Das Jobcenter bietet keine Übernahme von Strom- und Internettkosten an. ## Numbers: -1 ##
+
+## Answer: Es gibt Tipps und Beratung zum Stromverbrauch durch das Team Stromsparcheck - SKM Augsburg. ## Numbers: 11 ##
+
+## Answer: Es gibt die Möglichkeit, verschiedene Stromanbieter zu vergleichen und den Anbieter zu wechseln. ## Numbers: 4, 6, 8, 9 ##

@@ -1,0 +1,17 @@
+## Answer: Je höher das Einkommen ist, desto mehr muss gezahlt werden. ## Numbers: 5, 6, 7
+
+## Answer: Dieses Geld soll der Staat für das Wohlergehen der in Deutschland lebenden Menschen ausgeben. ## Numbers: 8
+
+## Answer: Der Staat sorgt dafür, dass die Steuern auch für den Ausgleich von sozialer Gerechtigkeit und zur Hilfe in Notsituationen (zum Beispiel für geflüchtete Menschen) verwendet werden. ## Numbers: 15
+
+## Answer: Alle Menschen in Deutschland, die Geld verdienen, zahlen einen Teil ihres Lohns an den Staat (Steuern). ## Numbers: 5
+
+## Answer: Wenn jemand das nicht schafft, kann Hilfe durch den Staat in Anspruch genommen werden. ## Numbers: 14
+
+## Answer: Der Staat unterstützt Eltern finanziell, zum Beispiel durch Kindergeld. ## Numbers: 16
+
+## Answer: None. ## Numbers: -1
+
+## Answer: Steuerbetrug, zum Beispiel weniger Steuern zu zahlen, als vorgeschrieben ist. ## Numbers: 18
+
+## Answer: Staatliche Leistungen zu beziehen, obwohl keine Ansprüche darauf bestehen. ## Numbers: 19

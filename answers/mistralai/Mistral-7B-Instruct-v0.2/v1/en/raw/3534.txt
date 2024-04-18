@@ -1,0 +1,2 @@
+## Answer: The German healthcare system offers outpatient medical care by doctors and pharmacies, as well as inpatient medical care through acute care in hospitals. ## Numbers: 4, 5, 6, 10, 11, 23, 24, 25, 26, 27, 28, 29, 30, 35, 36, 39, 40
+## Answer: There is no specific mention of health insurance policies in the context. ## Numbers: -1

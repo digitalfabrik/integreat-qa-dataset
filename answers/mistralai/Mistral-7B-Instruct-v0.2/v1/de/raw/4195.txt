@@ -1,0 +1,7 @@
+## Answer: Sie können sich an das Fair Mobility Advice Centre (Für EU-Bürger) oder Fair Integration Advice Centre (Für Nicht-EU-Bürger) wenden. ## Numbers: 12, 13
+
+## Answer: Es gibt Unterstützung gegen Ausbeutung von Arbeitskräften, z.B. durch das Fair Mobility Advice Centre (Für EU-Bürger) oder Fair Integration Advice Centre (Für Nicht-EU-Bürger). ## Numbers: 1, 2, 12, 13
+
+## Answer: None. ## Numbers: -1
+
+Explanation: The question asks for ways to receive support against the exploitation of labor. The context provides information about exploitation of labor (Numbers 1-5), the illegality of certain forms of exploitation in Germany (Numbers 6-8), and resources for EU and non-EU workers to receive advice and support (Numbers 12 and 13). Based on this information, the answers provided above are the most appropriate.

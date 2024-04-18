@@ -1,0 +1,17 @@
+## Answer: Um ein Integrationskurs teilnehmen zu können, benötigst Du entweder eine Genehmigung (Berechtigungsschein) vom Bundesamt für Migration und Flüchtlinge (BAMF) oder bist Du verpflichtet vom Amt für Ausländerwesen und Integration. ## Numbers: 13, 15, 17, 21, 22
+
+## Answer: Wenn Du den Integrationskurs freiwillig besuchen möchtest und kein Berechtigungsschein hast, musst Du die Kosten selbst tragen. ## Numbers: 35, 36
+
+## Answer: Integrationskurse bietet das Bundesamt für Migration und Flüchtlinge (BAMF) an. ## Number: 2
+
+## Answer: In einem Integrationskurs lernst Du Deutsch und viele Dinge über Deutschland. ## Number: 3
+
+## Answer: Zum Beispiel zu Themen wie Arbeit und Beruf, Aus- und Weiterbildung, Betreuung und Erziehung von Kindern, Einkaufen, Wohnen, Rechte und Pflichten in Deutschland. ## Numbers: 5, 6, 7, 8, 9, 10
+
+## Answer: Um einen Integrationskurs zu besuchen, musst Du entweder eine Genehmigung vom Bundesamt für Migration und Flüchtlinge (BAMF) haben oder verpflichtet sein vom Amt für Ausländerwesen und Integration. ## Numbers: 11, 15, 17, 21
+
+## Answer: Ein Integrationskurs dauert mehrere Monate und besteht aus einem Sprachkurs mit 600 Unterrichtseinheiten (UE) und einem Orientierungskurs zum Leben in Deutschland mit 100 UE. ## Numbers: 24, 25, 26, 27
+
+## Answer: Ziel des Allgemeinen Integrationskurses ist es, bei Abschluss des Kurses das Sprachniveau B1 zu erreichen. ## Numbers: 26, 27
+
+## Answer: Das Z

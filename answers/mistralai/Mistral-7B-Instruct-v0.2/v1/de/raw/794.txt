@@ -1,0 +1,11 @@
+## Answer: These Arbeitsschutzvorschriften gewährleisten die Sicherheit und Gesundheit aller Arbeitnehmer. ## Numbers: 6
+## Answer: Für Arbeitsplätze, die für Arbeitnehmer gefährlich sind, sind genaue Präventionsmaßnahmen festgelegt. ## Numbers: 7
+## Answer: Die Arbeitgeber müssen die Schutzmaßnahmen einhalten und für ihre Einhaltung und Umsetzung verantwortlich sein. ## Numbers: 8
+## Answer: Die Arbeitnehmer müssen regelmäßig über die Schutzmaßnahmen informiert werden. ## Numbers: 9
+## Answer: Die Beschäftigten müssen die Schutzmaßnahmen einhalten, dürfen bei ihrer Arbeit andere nicht gefährden und müssen Mängel melden. ## Numbers: 10
+## Answer: The Arbeitsschutzgesetz (ArbSchG) legt für alle Arten von Arbeiten fest: Die Arbeitsschutzvorschriften für Arbeitgeber. ## Numbers: 3
+## Answer: The Arbeitsschutzgesetz (ArbSchG) legt für alle Arten von Arbeiten fest: Welche Pflichten und Rechte Sie als Arbeitnehmer haben. ## Numbers: 4
+## Answer: Wie die gesetzlichen Vorschriften überwacht werden. ## Numbers: 5
+## Answer: None. ## Numbers: -1 (There is no sentence in the context that directly answers the question "Was ist der Zweck von Arbeitsschutzvorschriften?")
+
+Explanation: The question asks for the purpose of workplace safety regulations. The context provides several sentences about the existence and content of these regulations, as well as the responsibilities of employers and employees regarding their implementation. However, none of the sentences directly state the purpose of these regulations, which is to ensure the safety and health of all workers. Therefore, the answer is derived from an inference based on the information provided in the context.

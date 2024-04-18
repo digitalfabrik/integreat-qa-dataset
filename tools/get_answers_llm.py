@@ -9,9 +9,11 @@ from evaluate_answers import postprocess_llm_answers
 from get_answer_prompt import get_answer_prompt
 
 MIXTRAL = 'mistralai/Mixtral-8x7B-Instruct-v0.1'
+MISTRAL = 'mistralai/Mistral-7B-Instruct-v0.2'
+LLAMA2 = 'meta-llama/Llama-2-7b-hf'
 
 PROMPT_VERSION = 'v1'
-MODEL = MIXTRAL
+MODEL = LLAMA2
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 DATASET_PATH = '../datasets/splits'
 
@@ -43,7 +45,8 @@ def enumerate_lines(text):
 def instruction_generator(questions):
     for question in questions:
         context = enumerate_lines(question['context'])
-        instruction = instruction_format(get_answer_prompt(question['question'], context, PROMPT_VERSION))
+        # instruction = instruction_format(get_answer_prompt(question['question'], context, PROMPT_VERSION))
+        instruction = get_answer_prompt(question['question'], context, PROMPT_VERSION)
 
         yield instruction
 
@@ -59,6 +62,7 @@ def get_all_answers(questions, path):
 
         raw_file = open(raw_answer_path, 'w')
         raw_file.write(raw)
+        counter += 1
 
 
 def get_answers(question, path):
@@ -90,7 +94,6 @@ if __name__ == '__main__':
         dataset_path = f'{DATASET_PATH}/{language}/dev_{language}.json'
         questions = json.load(open(dataset_path, 'r'))
 
-        for question in questions:
-            get_answers(question, answer_path)
+        get_all_answers(questions, answer_path)
 
         postprocess_llm_answers(base_answer_path, questions)

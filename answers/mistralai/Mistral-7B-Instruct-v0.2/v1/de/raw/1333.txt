@@ -1,0 +1,3 @@
+## Answer: Der Patient geht nach der Versorgung nach Hause. ## Numbers: 4, 5
+
+This answer is based on the context sentences 4 and 5, which define "ambulant" as a type of medical care where the patient goes home after the treatment.

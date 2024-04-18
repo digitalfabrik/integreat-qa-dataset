@@ -1,0 +1,5 @@
+## Answer: The Erststimme, or first vote, is used to directly elect a representative for a specific electoral district in a German election. ## Numbers: 24, 25
+
+## Answer: The Zweitstimme, or second vote, is used to vote for a political party in a German election, which in turn determines the proportion of seats each party gets in the parliament. ## Numbers: 10, 24, 25
+
+## Answer: The Erststimme and Zweitstimme are the two types of votes used in German elections, with the Erststimme used to elect a local representative and the Zweitstimme used to determine the proportion of seats for each party in the parliament. ## Numbers: 10, 24, 25, 28, 29

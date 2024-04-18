@@ -1,0 +1,9 @@
+## Answer: Fachschulen sind für Personen geeignet, die eine Berufsausbildung abgeschlossen haben und Berufserfahrung vorzuweisen haben. ## Numbers: 1, 2, 3, 4
+
+## Answer: Die Fachschule bietet eine vertiefte berufliche Fortbildung. ## Numbers: 2, 6
+
+## Answer: Die Dauer der Fachschule beträgt in Vollzeit bis zu zwei Jahre und in Teilzeit oder berufsbegleitend bis zu 4 Jahre. ## Numbers: 10, 11, 12
+
+## Answer: Absolvierende der Fachschule können eine staatliche Abschlussprüfung oder Meisterprüfung, den mittleren Schulabschluss, die allgemeine Hochschulreife oder die Fachhochschulreife (nach einer Ergänzungsprüfung) erwerben. ## Numbers: 13, 14, 15, 16, 17
+
+## Answer: Es gibt verschiedene Arten von Fachschulen wie Technikerfachschulen, Meisterschulen, kaufmännische Fachschulen, hauswirtschaftliche und sozialpflegerische Fachschulen, weitere Fachschulen und eine land- und forstwirtschaftliche Fachschule. ## Numbers: 18, 19, 26, 35, 36, 41, 47, 53

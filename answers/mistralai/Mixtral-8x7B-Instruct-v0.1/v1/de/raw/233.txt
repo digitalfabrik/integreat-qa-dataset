@@ -1,0 +1,9 @@
+## Answer: Das Angebot richtet sich an Eltern, deren krankes Kind mindestens 6 Monate und höchstens 12 Jahre alt ist. ## Numbers: 4, 7 ##
+
+## Answer: Eltern, die erwerbstätig sind oder sich in Ausbildung befinden, können diesen Dienst in Anspruch nehmen. ## Numbers: 4, 8 ##
+
+## Answer: Die Betreuung wird für mindestens 3 und maximal 6 Stunden am Tag angeboten. ## Numbers: 9 ##
+
+## Answer: Jede Betreuungsstunde kostet 6,50 Euro, zusätzlich zu den MVG-Fahrtkosten. ## Numbers: 10, 11 ##
+
+## Answer: Bei finanziellen Engpässen können die Kosten aus Spendenmitteln finanziert werden. ## Numbers: 12 ##

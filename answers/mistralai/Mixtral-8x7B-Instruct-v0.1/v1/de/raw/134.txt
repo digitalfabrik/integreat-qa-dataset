@@ -1,0 +1,4 @@
+## Answer: Eine Anmeldung ist nicht notwendig. ## Numbers: 6
+## Answer: Die Beratung erfolgt nach dem Motto „wer zuerst kommt, wird zuerst beraten“. ## Numbers: 7
+
+Explanation: The context contains two sentences that answer the question. Sentence 6 explicitly states that an registration is not required, and sentence 7 explains the alternative approach of "first come, first served" for the consultation.

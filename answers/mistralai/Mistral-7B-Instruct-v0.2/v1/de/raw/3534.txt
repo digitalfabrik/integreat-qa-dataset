@@ -1,0 +1,28 @@
+## Answer: In Deutschland gibt es Krankenkassen (health insurance funds) und das Gesundheitsamt (public health service).
+## Numbers: 1, 12, 14, 17, 19, 20, 21
+
+## Answer: Krankenkassen bieten ambulante und stationäre Versorgung an.
+## Numbers: 2, 4, 5, 10
+
+## Answer: Das Gesundheitsamt bietet präventive Angebote an.
+## Numbers: 3, 14, 15, 16, 17, 18, 19, 20, 21
+
+## Answer: Jeder Mensch kann den Arzt, die Ärztin oder die Einrichtung frei wählen.
+## Numbers: 11
+
+## Answer: Bei Notfällen gehen Sie ins Krankenhaus, bei leichteren Verletzungen oder Krankheiten geht man in eine Arztpraxis.
+## Numbers: 23, 25, 26, 28, 29
+
+## Answer: Für den ärztlichen Bereitschaftsdienst, den Zahnärztlichen Notdienst und den Apothekennotdienst gibt es spezielle Telefonnummern.
+## Numbers: 28, 30, 31, 33, 36, 37, 38, 39
+
+## Answer: Die Broschüre „Gesundheit für alle – Ein Wegweiser durch das deutsche Gesundheitswesen" enthält wichtige Informationen in 14 Sprachen.
+## Numbers: 40
+
+## Answer: Krankenhäuser behandeln schwer kranke und lebensbedrohliche Fälle.
+## Numbers: 23, 24
+
+## Answer: Für leichtere Verletzungen oder Krankheiten gibt es den ärztlichen Bereitschaftsdienst.
+## Numbers: 28, 29, 30
+
+## Answer: Für Notfälle außerhalb der Arztpra

@@ -1,0 +1,10 @@
+## Answer: The MVG-App is recommended for Munich as it shows you how to get from one place to another and how long it takes, and also provides information on public transportation tickets.
+## Numbers: 17, 18, 19, 33, 41, 42, 43, 44, 45, 46, 47, 48, 49
+## Answer: MAPS.ME is also a good option as it offers offline navigation and a city map for Munich.
+## Numbers: 22, 23, 24, 25, 26, 29, 30
+## Answer: To purchase a ticket, you can use either the MVV-App or MVG-App, which offer digital tickets that can be purchased bargain-free using a credit card or lastschriftverfahren.
+## Numbers: 41, 42, 43, 45, 46, 47, 48
+## Answer: None.
+## Numbers: -1
+## Answer: Remember that traveling without a valid ticket is subject to a fine of 60 €.
+## Numbers: 51, 52, 53, 54, 55, 56

@@ -1,0 +1,9 @@
+## Answer: In Deutschland gibt es zwei Arten von Ausbildungen: schulische Ausbildung an einer Berufsfachschule und das Duale System. ## Numbers: 4, 5, 7 ##
+
+## Answer: In der dualen Ausbildung lernen Schülerinnen und Schüler sowohl in der Berufsschule als auch in einem Ausbildungsbetrieb. ## Numbers: 8 ##
+
+## Answer: Im Dualen System verdienen Schülerinnen und Schüler ein festes monatliches Gehalt. ## Numbers: 10 ##
+
+## Answer: Die Duale Ausbildung findet man meistens bei kaufmännischen Berufen und gewerblich-technischen Berufen. ## Numbers: 19 ##
+
+## Answer: Die Handwerkskammer für München und Oberbayern (HWK) ist zuständig für handwerkliche Berufe, und die Industrie- und Handelskammer für München und Oberbayern (IHK) ist zuständig für kaufmännische und technische Berufe. ## Numbers: 22, 31 ##

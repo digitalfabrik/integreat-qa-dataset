@@ -1,0 +1,7 @@
+## Answer: The BildungsLokale centers provide advice on early childhood education, starting school, learning support, vacation offers, transition from school to work, further education for adults, catching up on school-leaving qualifications, language courses, literacy courses, starting a career after a family break or immigration. They also provide sports and leisure activities in the district. ## Numbers: 3,4,5,6,7 ##
+
+## Answer: The open learning workshop is a cooperative project with the Munich Adult Education Center (MVHS) where adults can learn to read, write, count and speak German at their own pace, without pressure, in a pleasant atmosphere. It prepares you for attending a course. ## Numbers: 12,13,14,16,18 ##
+
+## Answer: The language café is a service offered by the local educational advisory service where adults can practise speaking German in a relaxed atmosphere. They also learn about life in Germany and there are speakers on important topics and excursions. ## Numbers: 20,21,22,23,24,25 ##
+
+## Answer: None. ## Numbers: -1 ## (There is no information about learn alphabet, repeat language level A1-B1, accompaniment, culture, language support, career entry in the context.)

@@ -1,0 +1,1 @@
+## Answer: Primary Care refers to the initial point of contact in the healthcare system, usually a general practitioner or family doctor, who provides basic medical care and refers patients to specialists if necessary. ## Numbers: 0, 1, 3, 9, 11, 13, 14, 16, 17, 18, -1

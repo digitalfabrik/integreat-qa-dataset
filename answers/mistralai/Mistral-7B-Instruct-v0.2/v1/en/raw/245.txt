@@ -1,0 +1,4 @@
+## Answer: 4, 5
+## Numbers: 2, 4, 5, 6, 7.
+
+Explanation: The context mentions that Serlo ABC is a free app for learning the Latin alphabet and also teaches language skills. It is an officially recognized textbook for use in literacy courses and second language courses. Therefore, it is the app that enables learning the Latin alphabet as mentioned in the question.

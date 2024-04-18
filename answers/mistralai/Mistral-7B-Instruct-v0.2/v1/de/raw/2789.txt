@@ -1,0 +1,12 @@
+## Answer: Hausärzte sind Ihre erste Kontaktstelle bei Krankheiten und führen wichtige Untersuchungen durch. ## Numbers: 9, 16
+## Answer: Sie können Ihren Hausarzt selbst wählen und den Hausarzt selber wechseln, wenn Sie wollen. ## Numbers: 5, 6
+## Answer: Hausärzte entscheiden über notwendige Medikamente und darüber, ob eine fachärztliche Untersuchung notwendig ist. ## Numbers: 16, 18
+## Answer: Manchmal können die Kosten für professionelle Dolmetscher übernommen werden. ## Numbers: 22
+## Answer: Wenn Sie einen speziellen Arzt brauchen, überweisst der Hausarzt Sie zu einer Fachärztin oder einem Facharzt. ## Numbers: 32, 33
+## Answer: Der Urologe und die Urologin sind unter anderem für Krankheiten der Geschlechtsorgane des Mannes und für Vorsorgeuntersuchungen zuständig. ## Numbers: 44, 45
+## Answer: Wenn Sie Zahnschmerzen haben, gehen Sie zu einer Zahnärztin oder einem Zahnarzt. ## Numbers: 47
+## Answer: Für Ihre Zahngesundheit sind regelmäßige Vorsorgeuntersuchungen beim Zahnarzt wichtig. ## Numbers: 48, 49
+
+## Answer: Was versteht man unter "Primary Care"? ## Numbers: 1, 3, 9, 16, 32, 44, 47, 48
+
+## Answer: Primary Care refers to the first point of contact for individuals seeking healthcare services. Hausärzte, Kinderärzte, and Fachärzte are all part of the Primary Care system. Hausärzte are general practitioners who work in private practices and are the first point of contact for individuals with health concerns. They conduct important examinations, make decisions about necessary medications, and refer patients to specialists when needed. Similarly, Urologen and Urologinnen are specialists in charge of men's health and Vorsorgeuntersuchungen (preventive

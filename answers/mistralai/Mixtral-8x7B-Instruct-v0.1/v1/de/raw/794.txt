@@ -1,0 +1,5 @@
+## Answer: Arbeitsschutzvorschriften gewährleisten die Sicherheit und Gesundheit aller Arbeitnehmer. ## Numbers: 6
+## Answer: Für Arbeitsplätze, die für Arbeitnehmer gefährlich sind, sind genaue Präventionsmaßnahmen festgelegt. ## Numbers: 7
+## Answer: Für die Einhaltung und Umsetzung dieser Maßnahmen sind die Arbeitgeber verantwortlich. ## Numbers: 8
+## Answer: Die Arbeitnehmer müssen regelmäßig über die Schutzmaßnahmen informiert werden. ## Numbers: 9
+## Answer: Die Beschäftigten müssen die Schutzmaßnahmen einhalten, dürfen bei ihrer Arbeit andere nicht gefährden und müssen Mängel, die eine Gefahr darstellen können, melden. ## Numbers: 10

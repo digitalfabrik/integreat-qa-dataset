@@ -1,0 +1,3 @@
+## Answer: For navigating in Munich, the MVG-App is recommended as it shows the best route and travel time, and also offers digital tickets for public transportation. ## Numbers: 17, 42, 43, 45, 46, 48, 49 ##
+## Answer: Another option is MAPS.ME, a free app that offers offline navigation and can be used without an internet connection. ## Numbers: 22, 24, 25, 26, 27, 29, 30 ##
+## Answer: To purchase tickets for public transportation, you can use the MVG-App, buy them at U- and S-Bahn stations, on trams or buses, or from ticket machines. ## Numbers: 34, 45, 46, 50, 51, 54, 56, 57 ##

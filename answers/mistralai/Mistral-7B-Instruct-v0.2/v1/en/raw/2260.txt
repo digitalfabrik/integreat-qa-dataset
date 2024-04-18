@@ -1,0 +1,4 @@
+## Answer: 4
+## Numbers: 1, 2, 3, 5, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25-38
+
+In the context, the emergency number for the fire brigade in Germany is given as 112. The context also provides information on what types of emergencies to call 112 for, and what information to have ready when making an emergency call.

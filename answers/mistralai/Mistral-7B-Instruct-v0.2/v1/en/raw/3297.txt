@@ -1,0 +1,25 @@
+## Answer: The main difference between asylum and refugee status is that asylum is the process of applying for protection from persecution or harm in a new country, while refugee status is the legal designation granted to individuals who have been granted protection under international law.
+## Numbers: 3, 71
+
+## Answer: During the asylum procedure, individuals apply for protection from their home country's embassy or consulate, or directly to the country they are seeking asylum in. Refugee status, on the other hand, is granted to individuals who have already been recognized as refugees under international law.
+## Numbers: 3, 71
+
+## Answer: Asylum seekers are individuals who have applied for asylum but have not yet been granted refugee status. Refugees, on the other hand, have already been granted refugee status.
+## Numbers: 3, 71
+
+## Answer: The refugee and integration advice service helps with both questions and problems regarding the asylum procedure (numbers 3 and 4) and with integration after a positive asylum procedure (number 4).
+## Numbers: 1, 2, 4
+
+## Answer: None. ## Numbers: -1
+
+## Answer: The asylum procedure involves various steps, including the initial application, an interview with the immigration authorities, and potentially an appeal process if the application is denied.
+## Numbers: 71
+
+## Answer: Refugees are individuals who have been forced to leave their home country due to war, persecution, or other forms of violence or danger, and who have been granted protection under international law.
+## Numbers: 3, 71
+
+## Answer: The refugee and integration advice service can help individuals with questions and problems related to the asylum procedure (numbers 3 and 4) and with integration after a positive asylum procedure (number 4). They can also provide advice on immigration to Germany (number 5).
+## Numbers: 1, 2, 4, 5
+
+## Answer: Asylum seekers and refugees may face various challenges during the integration process, including language barriers, cultural differences, and difficulties finding employment. The refugee and integration advice service can provide support and guidance in these areas.
+## Numbers:

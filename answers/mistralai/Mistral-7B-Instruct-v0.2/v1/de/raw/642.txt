@@ -1,0 +1,8 @@
+## Answer: Numbers: 11, 12, 15, 19, 28
+##
+
+Donna Mobile offers Fahrradkurse (bicycle courses) in the following languages: Deutsch (German), Türkisch (Turkish), Russisch (Russian), Kroatisch (Croatian), and Englisch (English).
+
+## Answer: None. ## Numbers: -1
+
+Donna Mobile does not explicitly state that they offer Fahrradkurse (bicycle courses) in Spanish in the context provided.

@@ -1,0 +1,9 @@
+## Answer: Sie können sich an die Fachstelle zur Vermeidung von Wohnungslosigkeit wenden. ## Numbers: 2, 4
+
+## Answer: Es ist wichtig, dass Sie sich so bald wie möglich mit dem Amt in Verbindung setzen. ## Numbers: 5
+
+## Answer: Die Fachstelle zur Vermeidung von Wohnungslosigkeit berät Sie zu den folgenden Themen: [Overnahme von Mietrückständen, Rechtmäßigkeit der Räumung, Mögliche wirtschaftliche Hilfe, Anspruch auf Wohngeld oder andere Wohnungsbeihilfen, Persönliche Hilfe (Schuldnerberatung, sozialpädagogische Hilfe)] ## Numbers: 6
+
+## Answer: Für eine Beratung beim Amt müssen Sie einen Termin mit dem für Sie zuständigen Sachbearbeiter im Sozialbürgerhaus vereinbaren. ## Numbers: 13
+
+## Answer: None. ## Numbers: 0, 1, 7, 8, 9, 10, 11, 12

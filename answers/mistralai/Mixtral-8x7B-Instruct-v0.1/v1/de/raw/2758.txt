@@ -1,0 +1,7 @@
+## Answer: In Deutschland, Müll Trennung bedeutet, dass der Müll in unterschiedliche Tonnen für Plastik, Papier und Pappe, Essensreste (Bioabfälle) und anderen Müll entsorgt wird. ## Numbers: 2, 4
+
+## Answer: Müll Trennung ist wichtig für den Umweltschutz, da ein großer Teil des Abfalls weiterverwendet wird. ## Numbers: 3
+
+## Answer: Informationen zur Müll Trennung, einschließlich Abfallkalender und Fremdsprachige Informationen, finden Sie auf der Website der Abfallwirtschaft Rems-Murr-Kreis und in der Abfall-App. ## Numbers: 7, 8, 10, 11, 12
+
+## Answer: None. ## Numbers: -1 (There is no information provided about where to find the waste-sorting facilities or when the bins are emptied)

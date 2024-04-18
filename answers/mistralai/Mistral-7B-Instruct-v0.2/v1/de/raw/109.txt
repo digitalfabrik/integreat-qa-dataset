@@ -1,0 +1,30 @@
+## Answer: Kinder werden üblicherweise von Kinderärztinnen und Kinderärzten untersucht. ## Numbers: 13
+
+## Answer: Regelmäßige Vorsorgeuntersuchungen und Impfungen sind für die Gesundheit jedes Kindes wichtig. ## Numbers: 14
+
+## Answer: Kinderärzte
+## Numbers: 12, 13
+
+## Answer: Sie entscheiden auch über notwendige Medikamente und ob eine fachärztliche Untersuchung notwendig ist. ## Numbers: 10
+
+## Answer: Sie werden bei Bedarf an eine fachärztliche Praxis überwiesen, in der spezielle Untersuchungen durchgeführt werden können. ## Numbers: 11
+
+## Answer: Regelmäßige Vorsorgeuntersuchungen und Impfungen sind in Bayern per Gesetz vorgeschrieben und verpflichtend. ## Numbers: 15, 16, 17
+
+## Answer: Sie finden zu einem bestimmten Zeitpunkt statt und sind immer kostenfrei. ## Numbers: 15, 16
+
+## Answer: Es ist wichtig, dass Frauen regelmäßig von einer Gynäkologin oder einem Gynäkologen untersucht werden. ## Numbers: 19
+
+## Answer: Bei solchen Vorsorgeuntersuchungen können Krankheiten rechtzeitig erkannt werden. ## Numbers: 20
+
+## Answer: Sie können dort auch das Thema Verhütung besprechen. ## Numbers: 21
+
+## Answer: None. ## Numbers: -1 (for the question)
+
+## Answer: Wenn Sie Zahnschmerzen haben, gehen Sie zu einer Zahnärztin oder einem Zahnarzt. ## Numbers: 23
+
+## Answer: Die Kosten von Zahnbehandlungen werden von der Krankenkasse bezahlt. ## Numbers: 31
+
+## Answer: Muss ein Zahn erneuert oder ersetzt werden, müssen Sie einen Teil selber bezahlen. ## Numbers: 32
+
+## Answer: Die Kosten für eine

@@ -1,0 +1,29 @@
+## Answer: There are various methods of contraception available, such as barrier methods like condoms and methods with hormones like the pill.
+## Numbers: 15, 16
+
+## Answer: The morning-after pill can be taken if you have had sexual intercourse without contraception or if contraception failed, to prevent pregnancy.
+## Numbers: 22, 23, 25, 26, 27, 28, 29
+
+## Answer: You can buy the morning-after pill without a prescription from a pharmacy.
+## Numbers: 28
+
+## Answer: A condom protects against sexually transmitted diseases such as HIV.
+## Numbers: 20, 21
+
+## Answer: You can find out about contraceptive methods from a gynecologist.
+## Numbers: 21
+
+## Answer: Multilingual information on contraception can be found at www.zanzu.de and www.profamilia.de.
+## Numbers: 17, 18, 19
+
+## Answer: In sexual counseling, you can talk about your sexuality in a protected environment and get information on contraception.
+## Numbers: 8, 10, 17, 18
+
+## Answer: Everyone decides for themselves how and with whom sexuality is lived and has the right to family planning and sexual self-determination.
+## Numbers: 2, 3, 4
+
+## Answer: There is no information on free contraception in the context.
+## Numbers: -1
+
+## Answer: The context does not provide information on long-term contraceptive methods such as IUDs or implants.
+## Numbers: -1

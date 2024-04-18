@@ -1,0 +1,6 @@
+## Answer: Sie lassen sich nur im Rahahmen der geltenden Kündigungsfrist beenden. ## Numbers: 7, 8, 13
+## Answer: Wenn Sie nicht sicher sind, ob Sie die Kosten bezahlen können oder ob Sie wirklich alles richtig verstanden haben, schließen Sie keinen Vertrag ab. ## Numbers: 9, 10
+## Answer: Entstehen Kosten für Sie. ## Numbers: 12
+## Answer: Unterschreiben Sie nichts, was Sie nicht verstehen oder lesen können. ## Numbers: 9, 10
+
+Explanation: The question asks about costs that can arise when one signs something that one cannot read. The context provides several sentences about contracts and their implications, including their binding nature, potential monthly costs, and the difficulty of terminating them. The answer sentences are those that directly address the possibility of incurring costs due to signing an agreement without fully understanding it. Sentences 7, 8, and 13 discuss the binding nature and termination of contracts, while sentences 9 and 10 advise against signing agreements without understanding them. Sentence 12 states that signing an agreement can result in costs.

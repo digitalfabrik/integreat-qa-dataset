@@ -1,0 +1,27 @@
+## Answer: In Apotheken können Sie rezeptfreie Medikamente ohne Rezept kaufen. ## Numbers: 1, 4, 14, 15, 16
+
+## Answer: Wenn Sie dringend ein rezeptpflichtiges Medikament außerhalb der Apothekenöffnungszeiten benötigen, können Sie an der Apotheke, die für den Notdienst geöffnet hat, dieses Medikament erhalten. ## Numbers: 1, 7
+
+## Answer: Medikamente gegen Erkältungen und viele Medikamente gegen Schmerzen sind rezeptfrei. ## Numbers: 11, 13, 16
+
+## Answer: In Apotheken finden Sie Medikamente. ## Numbers: 0, 1, 10
+
+## Answer: Apotheken sind am roten A erkennbar. ## Numbers: 4
+
+## Answer: Apotheken haben von Montag bis Samstag geöffnet. ## Numbers: 5
+
+## Answer: Es gibt rezeptpflichtige und rezeptfreie Medikamente. ## Numbers: 11, 12, 13, 14, 15
+
+## Answer: Gesetzliche Krankenversicherung: Medikamente (rosa Rezept) werden teilweise von der Krankenkasse bezahlt. ## Numbers: 27, 28, 29
+
+## Answer: Medikamente, die nicht rezeptpflichtig sind, müssen Sie selbst bezahlen. ## Numbers: 30
+
+## Answer: In Apotheken suchen Sie Medikamente. ## Numbers: 0, 1
+
+## Answer: Apotheken-Notdienst suchen Sie, wenn Sie dringend ein rezeptpflichtiges Medikament außerhalb der Apothekenöffnungszeiten benötigen. ## Numbers: 7
+
+## Answer: Apotheken in Ihrer Nähe suchen. ## Numbers: 8
+
+## Answer: None. ## Numbers: -1
+
+## Answer: In anderen Geschäften oder in der Arztpraxis be

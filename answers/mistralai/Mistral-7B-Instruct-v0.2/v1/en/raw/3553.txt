@@ -1,0 +1,13 @@
+## Answer: After entering Germany, you must apply for a residence permit at the Foreigners' Registration Office for family reunification.
+## Numbers: 5, 7
+
+## Answer: For your future stay in Germany, you will be allowed to work with a residence permit for family reunification.
+## Numbers: 15, 17, 18, 19, 20
+
+## Answer: Spouses who have been living together for at least 3 years can receive an independent right of residence.
+## Numbers: 21, 23
+
+## Answer: In certain cases, an independent right of residence can be granted earlier for victims of violence.
+## Numbers: 25, 26, 27
+
+## Answer: None. ## Numbers: 1-4, 9, 11-14

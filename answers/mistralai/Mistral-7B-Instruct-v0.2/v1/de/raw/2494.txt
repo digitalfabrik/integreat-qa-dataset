@@ -1,0 +1,11 @@
+## Answer: Das Chancen-Aufenthaltsgesetz ist ein neues Gesetz, das Menschen, die seit vielen Jahren in Deutschland gelebt haben, schneller ein dauerhaftes Bleiberecht erhalten lässt. ## Numbers: 1, 2
+
+## Answer: Die Voraussetzungen für das Chancen-Aufenthaltsrecht sind: Besitz einer Duldung, Keine Straftaten, Keine falschen Angaben oder Täuschung über Identität, Bekennung zur freiheitlichen demokratischen Grundordnung, Achtung: Der Chancenaufenthalt wird nur für 18 Monate erteilt und ist nicht verlängerbar. ## Numbers: 3, 8, 9
+
+## Answer: In der Zeit des Chancen-Aufenthalts bekommen die Betroffenen die Chance, die Voraussetzungen für ein dauerhaftes Bleiberecht in Deutschland zu erfüllen. Dazu ist es erforderlich, dass sie ihren Lebensunterhalt durch eine Erwerbstätigkeit überwiegend sichern können, einen Identitätsnachweis besitzen und gute Kenntnisse der deutschen Sprache nachweisen können. ## Numbers: 11, 13, 14-16
+
+## Answer: Wer Fragen zum Chancen-Aufenthaltsgesetz hat, soll sich an die für ihn zuständige Ausländerbehörde wenden. ## Numbers: 18
+
+## Answer: Weitere Informationen zur Bundesregierung finden Sie hier. ## Numbers: 19
+
+## Answer: None. ## Numbers: 0, 10, 17, 18, 19 (Handbook Germany) are not directly related to the answer of the question.

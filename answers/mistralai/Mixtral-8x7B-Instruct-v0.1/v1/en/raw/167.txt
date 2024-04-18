@@ -1,0 +1,3 @@
+## Answer: Some offers at Musenkuss München are free of charge. ## Numbers: 15, 16
+
+Explanation: The context states that "Some offers cost something, others are free of charge" and "you can filter the offers by 'free of charge'". This implies that there are indeed free offers available at Musenkuss München.

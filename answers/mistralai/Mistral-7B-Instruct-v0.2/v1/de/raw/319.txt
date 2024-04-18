@@ -1,0 +1,14 @@
+## Answer: Die Duale Ausbildung und die Schulische Ausbildung sind die zwei Arten von Ausbildungen in Deutschland.
+## Numbers: 4, 5, 6, 7, 8, 9, 10, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36
+##
+## Answer: In der dualen Ausbildung lernen Schüler*innen sowohl in der Berufsschule als auch in einem Ausbildungsbetrieb.
+## Numbers: 1, 7, 8, 9, 10
+##
+## Answer: In der Schulischen Ausbildung besuchen Schüler*innen nur die Schule und lernen alles dort.
+## Numbers: 5, 6
+##
+## Answer: Für handwerkliche Berufe ist die Handwerkskammer zuständig, für kaufmännische und technische Berufe die Industrie- und Handelskammer.
+## Numbers: 20, 21, 22, 31
+##
+## Answer: None.
+## Numbers: 11, 12-18, 19, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42

@@ -1,0 +1,5 @@
+## Answer: You can complain about child abuse by contacting the Child Protection Agency in your area. ## Numbers: 36, 37, 39, 40, 41 ##
+
+## Answer: Child abuse is not permitted in Germany. It includes neglect, physical or mental abuse, and sexual acts on children. ## Numbers: 26, 27, 28, 32, 33, -1 ##
+
+## Answer: If you are under the age of 18 and have a problem, such as conflicts with your parents or school, you can contact the Child Protection Agency for help. ## Numbers: 36, 37, -1, -1, -1, -1 ##

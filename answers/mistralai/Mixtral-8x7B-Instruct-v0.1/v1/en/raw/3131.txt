@@ -1,0 +1,17 @@
+## Answer: Citizens of a third country require a permit for permanent residence in Germany, which is called a "residence permit" and includes access to the labor market. ## Numbers: 19, 20, 22
+
+## Answer: Refugees with a residence permit are allowed to work, and access to the labor market is normally unrestricted for them. ## Numbers: 24, 26
+
+## Answer: Asylum seekers in ongoing proceedings are not allowed to work for nine months if they live in AnkER facilities. After nine months, they are entitled to a work permit if they come from a safe country of origin or their asylum application has been accepted by the BAMF. ## Numbers: 30, 31, 32, 33
+
+## Answer: After three months, asylum seekers from unsafe countries of origin who do not live in AnkER facilities can apply for a work permit at the immigration office. ## Numbers: 40, 41, 53, 54
+
+## Answer: Tolerated persons in AnkER facilities can apply for a work permit after six months of toleration if they come from a safe country of origin. ## Numbers: 45, 46
+
+## Answer: Tolerated persons outside AnkER facilities can apply for a work permit after three months if they come from an unsafe country of origin. ## Numbers: 52, 53, 54
+
+## Answer: Persons with a tolerated stay permit due to unclear identity (§ 60b AufenthG) are always prohibited from working, both in and outside AnkER facilities. ## Numbers: 51, 59
+
+## Answer: The employment agency checks the working conditions, but there is no priority check (checking whether the position can be filled by a person registered as a jobseeker in Germany) for asylum seekers, tolerated persons, and persons with a residence permit. ## Numbers: 34, 35, 48, 49, 56, 57
+
+## Answer: You can obtain a work permit from the Office for Immigration and Integration by submitting an application. ## Numbers: 37, 38

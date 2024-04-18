@@ -1,0 +1,2 @@
+## Answer: The context discusses health insurance (number 3) which is a compulsory insurance (number 5) in Germany, and liability insurance (number 17) which is not compulsory (number 26). The context does not provide information about the difference between private and statutory health insurance.
+## Numbers: 3, 5, 17, 26, 29.

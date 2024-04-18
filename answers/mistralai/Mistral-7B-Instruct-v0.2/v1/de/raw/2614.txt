@@ -1,0 +1,9 @@
+## Answer: Es gibt Einzelfahrkarten, Tagesfahrkarten, Wochenkarten oder Monatskarten. ## Numbers: 7, 8, 9
+
+## Answer: Es gibt auch Fahrkarten für Kinder, Schüler, Studierende und Familien/Gruppen. ## Numbers: 11, 12, 13, 14
+
+## Answer: Um die günstigsten Fahrkarten zu finden, schauen Sie genau nach und entscheiden, was am besten für Sie ist. ## Numbers: 4, 5
+
+## Answer: Es gibt Internetseiten und Apps für den öffentlichen Verkehr in Rems-Murr-Kreis, Baden-Württemberg und bei Deutschen Bahn. ## Numbers: 15, 16, 17, 18
+
+## Answer: Ohne gültige Fahrkarte fahren Sie eine hohe Geldstrafe riskieren. ## Numbers: 19, 20, 21

@@ -1,0 +1,23 @@
+## Answer: Das Dublin-Verfahren bestimmt, welches Land für die Durchführung Ihres Asylverfahrens zuständig ist. ## Numbers: 3
+
+## Answer: In der Regel ist es das Land, in dem Sie zum ersten mal registriert wurden. ## Numbers: 4
+
+## Answer: Es geschieht mit einem elektronischen Datenabgleich. ## Numbers: 5
+
+## Answer: Wenn Sie mit dieser Entscheidung nicht einverstanden sind, können Sie sich beraten lassen. ## Numbers: 8, 9
+
+## Answer: Es ist möglich, dass Deutschland für die Durchführung Ihres Asylverfahrens nicht zuständig ist. ## Numbers: 6
+
+## Answer: Wenn Sie in das für Sie zuständige Land zurückgeschickt werden, werden Sie dort das Asylverfahren durchführen müssen. ## Numbers: 7
+
+## Answer: Sie können eine professionelle Rechtsberatung in Anspruch nehmen, um zu prüfen, ob es sinnvoll ist, eine Klage beim Verwaltungsgericht einzureichen. ## Numbers: 9
+
+## Answer: Das Dublin-Verfahren gilt für die 28 EU-Mitgliedstaaten sowie für Norwegen, Island, Liechtenstein und die Schweiz. ## Numbers: 2
+
+## Answer: Weitere Informationen zum Dublin-Abkommen auf Deutsch und Englisch. ## Numbers: 10
+
+## Answer: Stichworte: Dublin-Verfahren, Asylverfahren, Beratung, Durchführung des Asylverfahrens. ## Numbers: 11
+
+## Answer: Was wird im Dublin-Verfahren ermittelt?, Im Dublin-Verfahren wird ermittelt, welches Land für die Durchführung Ihres Asylverfahrens zuständig ist. ## Numbers: 3, 4
+
+## Answer: None. ## Numbers: -1

@@ -1,0 +1,5 @@
+## Answer: The Dublin procedure determines which country is responsible for carrying out your asylum procedure. ## Numbers: 3, 4
+
+## Answer: It is determined by the Dublin procedure which country is in charge of your asylum application. ## Numbers: 0 (This is a paraphrased version of answer 1 and accepted by the instruction)
+
+## Answer: None. ## Numbers: -1 (The question asks specifically about the Dublin procedure, but the context does not provide any information about what is determined by the Dublin Agreement itself, only the process of determining the responsible country)

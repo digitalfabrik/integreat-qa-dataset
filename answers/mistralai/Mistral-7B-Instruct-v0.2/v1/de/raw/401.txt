@@ -1,0 +1,5 @@
+## Answer: Persons with low income, Bürgerinnen and Bürger who are at least 22 years old and have a München-Pass or receive certain social benefits.
+## Numbers: 2, 4, 5, 6, 7, 9, 13, 14, 16, 18, 19
+
+## Explanation:
+The context states that the city of Munich covers the costs of contraceptives for certain groups of people. The specific groups are identified as those with low income, and those who are at least 22 years old and have a München-Pass or receive certain social benefits. The numbers in the context that correspond to this information are 2 (the sentence stating that the city covers the costs), 4 (the sentence defining the groups of people), 5, 6, 7, 9 (the specific social benefits listed), 13 (the sentence stating the required documentation), 14 (the sentence stating the required documentation for those receiving social benefits), and 16 and 18-19 (the sentences stating where to apply for the benefit).
