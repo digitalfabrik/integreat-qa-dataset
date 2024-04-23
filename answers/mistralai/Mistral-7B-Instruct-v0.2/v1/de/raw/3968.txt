@@ -1,9 +1,0 @@
-## Answer: Die Europäische Union, und damit auch Deutschland, hilft den Flüchtlingen aus der Ukraine schnell und unbürokratisch. ## Numbers: 1
-
-## Answer: Unmittelbarer Schutz in der EU für ein bis drei Jahre, Zulassung ohne Asylverfahren, Unterkunft, Sozialleistungen, Zugang zum Arbeitsmarkt, Recht auf Bildung und Schulbesuch, Schutz für unbegleitete Kinder und Jugendliche. ## Numbers: 3, 4, 6, 7, 8, 9, 10
-
-## Answer: vertriebene ukrainische Bürger und ihre Familien, nicht-ukrainische Staatsangehörige und Staatenlose, die in der Ukraine Schutzstatus haben (und ihre Familien), nicht-ukrainische Staatsbürger und Staatenlose, die ein dauerhaftes Aufenthaltsrecht in der Ukraine haben und nicht in ihr Heimatland zurückkehren können. ## Numbers: 12, 13, 14
-
-## Answer: unmittelbarer Schutz in der EU für ein bis drei Jahre, zulassung ohne asylverfahren, krankenversicherung und medizinische versorgung. ## Numbers: 3, 4, 5
-
-## Answer: None. ## Numbers: -1 (There is no answer for the question about what kind of support Germany specifically offers for refugees from Ukraine.)

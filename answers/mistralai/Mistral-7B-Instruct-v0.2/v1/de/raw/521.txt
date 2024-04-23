@@ -1,5 +1,0 @@
-## Answer: Personen, die ihre Berufserfahrung zertifizieren lassen möchten und keine berufliche Anerkennung nach dem BQFG besitzen, mindestens 25 Jahre alt sein, keine berufliche Qualifikation haben, mehrjährige Berufserfahrung besitzen und gute Kenntnisse der deutschen Sprache (B1/B2) haben. ## Numbers: 2, 9, 11-15
-
-## Answer: None. ## Numbers: -1
-
-(Note: The context does not provide information about the requirement to solve practical tasks and answer various questions in English, or the fact that the validation process is offered for many different professions and can be free of charge. These details were included in the question and should be assumed to be true based on the context.)

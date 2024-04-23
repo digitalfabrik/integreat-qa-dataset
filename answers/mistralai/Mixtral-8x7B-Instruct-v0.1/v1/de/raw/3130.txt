@@ -1,9 +1,0 @@
-## Answer: Für Asylsuchende im laufenden Verfahren, die in AnkER-Einrichtungen leben, kann eine Arbeitserlaubnis nach neun Monaten beantragt werden, wenn sie aus einem sicheren Herkunftsland kommen oder ihr Asylantrag vom BAMF akzeptiert wurde. ## Numbers: 27, 29, 30, 31, 32, 33
-
-## Answer: Nach drei Monaten können Personen, die nicht in AnkER-Einrichtungen leben und aus unsicheren Herkunftsländern kommen, eine Arbeitserlaubnis beantragen. ## Numbers: 40, 41, 54
-
-## Answer: Geduldete können nach sechs Monaten Duldungsdauer eine Arbeitserlaubnis beantragen, wenn sie aus sicheren Herkunftsländern kommen. ## Numbers: 45, 46
-
-## Answer: Personen mit einer Duldung wegen ungeklärter Identität (§ 60b AufenthG) haben immer ein Arbeitsverbot. ## Numbers: 51, 59
-
-## Answer: Der Antrag auf Arbeitserlaubnis muss beim Amt für Ausländerwesen und Integration gestellt werden. ## Numbers: 37, 43, 47, 56, 58

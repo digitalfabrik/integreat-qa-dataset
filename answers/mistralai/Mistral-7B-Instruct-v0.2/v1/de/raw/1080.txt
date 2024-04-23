@@ -1,9 +1,0 @@
-## Answer: Jede Person kann ein freiwilliges Praktikum machen – ob Schülerinnen und Schüler, Studierende oder Erwachsene. ## Numbers: 36, 63
-
-## Answer: Die Dauer wird gemeinsam mit dem Betrieb oder Unternehmen festgelegt. ## Numbers: 38, 43
-
-## Answer: Praktikanten und Praktikantinnen haben einen Anspruch auf Bezahlung, wenn das Praktikum länger als drei Monate dauert und freiwillig ist. ## Numbers: 44, 45, 46, 47
-
-## Answer: None. ## Numbers: -1
-
-The context does not provide any specific information about who can do a voluntary internship based on the given sentence numbers. However, it is mentioned that anyone can do a voluntary internship (sentence 36 in the context).

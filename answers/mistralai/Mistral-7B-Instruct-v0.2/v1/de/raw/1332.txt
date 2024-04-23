@@ -1,2 +1,0 @@
-Answer: Die drei Bereiche des deutschen Gesundheitssystems sind: 1. Ambulante medizinische Versorgung, 2. Stationäre medizinische Versorgung, 3. Gesundheitsschutz der Bevölkerung.
-Numbers: 3, 4, 5, 6, 7, 8, 12, 14, 15, 16, 17, 18, 19, 20, 21.

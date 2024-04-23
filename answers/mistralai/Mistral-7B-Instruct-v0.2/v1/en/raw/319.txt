@@ -1,9 +1,0 @@
-## Answer: The two types of training in Germany are School-based training and Dual system. ## Numbers: 4, 5, 6, 8, 9, 10, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31
-
-## Answer: School-based training is learning everything at a vocational college, while Dual system is learning both at vocational school and in a training company. ## Numbers: 5, 6, 8, 9
-
-## Answer: None. ## Numbers: -1
-
-## Answer: Dual training is mostly found in commercial and industrial-technical professions. ## Numbers: 19, 30, 31
-
-## Answer: For commercial and technical professions, contact the Chamber of Industry and Commerce, and for skilled trades, contact the Chamber of Crafts. ## Numbers: 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31

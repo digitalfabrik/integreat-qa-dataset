@@ -1,7 +1,0 @@
-## Answer: Für Kinder und Jugendliche, die sich in einer wirtschaftlichen oder sozialen Notlage befinden, ist das Mittagessen in der Schule oder Kindertagesstätte kostenlos. ## Numbers: 2, 8, 9 ##
-
-## Answer: Sie stellen einen Antrag an das Sozialbürgerhaus: "Antrag auf Gewährung eines freiwilligen Zuschusses für die Mittagsversorgung von Schulkindern in sonstiger finanzieller oder sozialer Notlage". ## Numbers: 4, 5 ##
-
-## Answer: Im Falle eines finanziellen Härtefalls: Nachweis von Einkommen, Vermögen, Miete usw. ## Numbers: 11 ##
-
-## Answer: Soziale Zentren ## Numbers: 14 ##

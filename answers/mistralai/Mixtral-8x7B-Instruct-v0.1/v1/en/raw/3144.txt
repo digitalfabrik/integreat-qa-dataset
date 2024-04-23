@@ -1,9 +1,0 @@
-## Answer: The technical college offers in-depth vocational training in approximately 26 training directions such as ophthalmic optics, metal construction technology, and vehicle technology and electromobility. ## Numbers: 6, 21-23
-
-## Answer: Graduates of the technical college would like to take on management tasks in the future or set up their own business or self-employment. ## Numbers: 7, 8
-
-## Answer: The duration of the technical college can be full-time for up to two years or part-time or part-time for up to 4 years. ## Numbers: 11, 12
-
-## Answer: The technical college offers degrees such as state final examination or master craftsman examination, secondary school leaving certificate, general higher education entrance qualification, and Fachhochschulreife (after a supplementary examination). ## Numbers: 14-17
-
-## Answer: None. ## Numbers: -1 (There is no information about specific educational courses offered by the technical college in the context.)

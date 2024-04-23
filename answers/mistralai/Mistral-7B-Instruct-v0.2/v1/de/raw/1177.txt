@@ -1,7 +1,0 @@
-## Answer: Inklusion heißt: Jeder Mensch gehört ganz natürlich dazu und kann an allen Aktivitäten des Lebens teilhaben, vor allem auch für Menschen mit Behinderung. ## Numbers: 4,5
-## Answer: Es ist normal verschieden zu sein. Jeder ist willkommen. ## Numbers: 1,2
-## Answer: Die Idee der Inklusion ist dem Landkreis Augsburg sehr wichtig. ## Numbers: 6
-## Answer: Es gibt zahlreiche Angebote für Menschen mit Behinderung. ## Numbers: 7
-## Answer: Inklusion heißt, dass jedes Person natürlich Teilhaberecht an allen Lebensaktivitäten hat, besonders auch für Menschen mit Behinderung. ## Numbers: 4
-
-Note: The answers are identical due to the repetition of the definition of inclusion in the context.

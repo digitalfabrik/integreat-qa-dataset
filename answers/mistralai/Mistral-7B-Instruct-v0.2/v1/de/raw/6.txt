@@ -1,6 +1,0 @@
-## Answer: 12, 13, 18, 20
-## Numbers: 11, 12
-
-Answer: You can buy tickets for the performances of the Münchner Kammerspiele online or contact the theater box office via email or phone.
-
-Explanation: The context mentions that there is a limited number of seats in the performance venues (number 11), but there is no limitation to the number of users who can access online offerings (number 12). The contact information for the theater box office is provided (numbers 12, 18), and the website is mentioned as a place to purchase tickets (number 20). Therefore, the answer is that you can buy tickets online or contact the box office to purchase them. The specific numbers in the context that support this answer are 11, 12, 18, and 20.

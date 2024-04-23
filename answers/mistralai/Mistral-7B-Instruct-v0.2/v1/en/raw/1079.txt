@@ -1,9 +1,0 @@
-## Answer: Interns get to know professions and fields of activity, see which job is right for them, get to know companies and businesses, and make contacts that can be helpful when entering working life. ## Numbers: 6, 7, 11, 12, 13, 15, 16, 21, 25
-## Answer: An internship can be useful for pupils, students, people about to enter working life, and people who want to make a career change. ## Numbers: 21, 23, 24, 25
-## Answer: Employers look at where applicants have already completed internships when hiring new employees. ## Numbers: 20
-## Answer: Anyone can do a voluntary internship - pupils, students or adults. ## Numbers: 36
-## Answer: Interns are entitled to payment if the internship lasts longer than three months and is voluntary. ## Numbers: 41, 44, 45
-## Answer: The most important types of internships are compulsory internship, student internship, and voluntary internship. ## Numbers: 27, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48
-## Answer: Find out about the internship company before the internship, be polite, punctual and reliable, show interest and motivation, ask if you want to know something or if something is unclear, address problems directly, stay friendly, accept criticism and learn from it, and make new contacts. ## Numbers: 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61
-## Answer: The internship certificate can be helpful later when looking for a job. ## Numbers: 61
-## Answer: None. ## Numbers: -1 (for the question "Why is an internship helpful before starting work?" as it is answered in the context)

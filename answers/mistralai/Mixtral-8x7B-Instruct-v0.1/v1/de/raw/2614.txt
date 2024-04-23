@@ -1,4 +1,0 @@
-## Answer: Es gibt Einzelfahrkarten, Tagesfahrkarten, Wochenkarten oder Monatskarten. Außerdem gibt es Fahrkarten für Kinder, für Schüler, für Studierende, für Familien und Gruppen. ## Numbers: 6-9, 11-14
-## Answer: Es gibt Apps und Internetseiten für den öffentlichen Verkehr, wie die VVS Internetseite und VVS App, bwegt Internetseite und bwegt App, DB Internetseite und DB Navigator App. ## Numbers: 15-18
-## Answer: Ohne Ticket fahren wird bestraft! Für jede Fahrt benötigen Sie unbedingt eine gültige Fahrkarte. Ansonsten zahlen Sie eine hohe Geldstrafe. ## Numbers: 19-21
-## Answer: None. ## Numbers: -1 (This answer is not explicitly stated in the context, but it is implied in the instructions given in the context.)

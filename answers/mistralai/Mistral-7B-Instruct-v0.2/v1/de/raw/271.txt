@@ -1,7 +1,0 @@
-## Answer: The Aufenthalt ist nicht erlaubt (the stay is not permitted). ## Numbers: 6, 9, 10, 16
-
-## Answer: Die Ausländerbehörde kann den Aufenthalt beenden. ## Numbers: 16, 17
-
-## Answer: Es kann auch zu einem gerichtlichen Strafverfahren kommen. ## Numbers: 16, 19
-
-## Answer: None. ## Numbers: 1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 15

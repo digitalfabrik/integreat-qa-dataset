@@ -1,5 +1,0 @@
-## Answer: In Deutschland sind Krankenversicherung, für Autofahrende Kfz-Haftpflichtversicherung und für Arbeitnehmende Gesetzliche Rentenversicherung Pflicht. ## Numbers: 3, 4, 5
-
-Additionally, although not a legal requirement, the text strongly recommends getting a private Haftpflichtversicherung (liability insurance). ## Answer: Es wird empfohlen, eine private Haftpflichtversicherung abzuschließen. ## Numbers: 28
-
-The text also mentions that some landlords may require tenants to have a liability insurance, but it is not a general rule. ## Answer: None. ## Numbers: -1

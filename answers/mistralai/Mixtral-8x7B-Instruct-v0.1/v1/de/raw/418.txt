@@ -1,7 +1,0 @@
-## Answer: Das ist ein Bahnhof für Busverbindungen. ## Numbers: 20
-
-## Answer: Er ist ein wichtiger Verkehrsknotenpunkt für nationale und internationale Verbindungen von München aus. ## Numbers: 21
-
-## Answer: Mit 29 Busterminals und vielen Verkaufsflächen hat der ZOB einen flughafenähnlichen Charakter. ## Numbers: 22
-
-The context does not provide information on what specific buses depart from the ZOB or their destinations.

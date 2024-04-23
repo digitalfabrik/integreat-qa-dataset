@@ -1,7 +1,0 @@
-## Answer: Die unbezahlten Pausen sind die mindestens 30 Minuten Pause ab der 6. Stunde Arbeit, während bezahlte Pausen in Ausnahmefällen möglich sind, die länger als 8 Stunden Arbeit in einem Tag umfassen. ## Numbers: 4, 5, 6
-
-## Explanation:
-
-The context states that there is a legal requirement for a minimum break of 30 minutes after working for 6 hours (sentences 4 and 6), and a minimum break of 45 minutes after working for 9 hours (sentences 5 and 7). These breaks are referred to as "unbezahlte Pausen" in German, which translates to "unpaid breaks" in English.
-
-Additionally, the context mentions that in exceptional cases, the working day can be extended to up to 10 hours, but the average working time per day should not exceed 8 hours in a 6-month period (sentences 2 and 3). If such an exception is made, the employee may be entitled to a paid break, but this is not explicitly stated in the context. Therefore, the answer refers to the unpaid breaks as the minimum required by law.

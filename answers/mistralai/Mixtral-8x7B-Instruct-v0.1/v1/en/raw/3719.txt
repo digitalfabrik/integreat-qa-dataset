@@ -1,9 +1,0 @@
-## Answer: If you have a driving license from a country outside the EU, such as Syria, Iraq, or Afghanistan, you will likely need to take the theoretical and practical driving exam again in Germany. ## Numbers: 12, 13 ##
-
-## Answer: The theoretical exam can be taken in several languages, including Arabic, Turkish, Spanish, French, Russian, Polish, Romanian, Italian, Portuguese, and English. ## Numbers: 14 ##
-
-## Answer: You should contact the driver licensing authority to get more information about converting your foreign driving license. ## Numbers: 15-18 ##
-
-## Answer: If you want to ride a moped, you need to take lessons and pass a test, even if you already have a driving license from another country. ## Numbers: 19-21 ##
-
-## Answer: None. ## Numbers: -1 ## (There is no information in the context about converting a driving license from an EU country to a German one.)

@@ -1,7 +1,0 @@
-## Answer: Children aged 7 - 15 years ## Numbers: 9
-
-## Answer: This project space is a workshop for children, teenagers and young adults. ## Numbers: 2
-
-## Answer: Who for: Children aged 7 - 15 years ## Numbers: 9,11
-
-Therefore, the answer is: ## Answer: Children aged 7 - 15 years ## Numbers: 2, 9, 11.

@@ -1,5 +1,0 @@
-## Answer: Es gibt S-Bahn, U-Bahn, Regionalzug, Straßenbahn und Bus in München. ## Numbers: 3, 13, 14, 15, 10
-
-## Answer: None. ## Numbers: -1
-
-(Note: The context does not provide specific information about obtaining a public transportation map or app for München.)

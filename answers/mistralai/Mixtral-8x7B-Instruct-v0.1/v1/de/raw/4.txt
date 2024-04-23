@@ -1,3 +1,0 @@
-## Answer: Die Münchner Kammerspiele sind das Theater der Stadt. ## Numbers: 2
-
-Explanation: The context states that "Die Münchner Kammerspiele sind das Theater der Stadt" which directly answers the question "Wie heißt das Theater der Stadt München?"

@@ -1,6 +1,24 @@
+MIXTRAL = 'mistralai/Mixtral-8x7B-Instruct-v0.1'
+MISTRAL = 'mistralai/Mistral-7B-Instruct-v0.2'
+LLAMA2 = 'meta-llama/Llama-2-7b-hf'
+LLAMA3 = 'meta-llama/Llama-3-8B-Instruct'
+IGEL = 'instruct-igel-001'
+MODELS = [MIXTRAL, MISTRAL, LLAMA2, LLAMA3, IGEL]
+
+PROMPT_v1 = 'v1'
+PROMPTS = [PROMPT_v1]
+
+# Temperature = 1
+RUN_0 = 0
+# Temperature = 0.75
+RUN_1 = 1
+RUNS = [RUN_0, RUN_1, 2]
+
 CITY = 'rems-murr-kreis'
 LANGUAGE = 'de'
 MODEL = 'Mixtral-8x7B-Instruct-v0.1'
+
+P_SELECTED_AGREEMENT = 0.03488382343589578
 
 RESPONSES_SLUG = 'responses'
 SUMMARIES_SLUG = 'summaries'

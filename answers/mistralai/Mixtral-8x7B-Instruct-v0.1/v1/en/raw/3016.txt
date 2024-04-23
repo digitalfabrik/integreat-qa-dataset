@@ -1,7 +1,0 @@
-## Answer: Paid breaks are compensated, while unpaid breaks are not. ## Numbers: -1
-
-## Answer: Paid breaks are considered working hours, while unpaid breaks are not. ## Numbers: -1
-
-## Answer: The context does not provide information about whether breaks are paid or unpaid. ## Numbers: -1
-
-## Answer: The right to breaks after working for a certain number of hours is required by law, regardless of whether they are paid or unpaid. ## Numbers: 3, 4, 5, 6, 7

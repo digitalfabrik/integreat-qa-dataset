@@ -1,9 +1,0 @@
-## Answer: Die Fachschule bietet eine vertiefte berufliche Fortbildung. ## Numbers: 6
-## Answer: Absolvierende der Fachschule möchten künftig Führungsaufgaben übernehmen oder sich ein eigenes Unternehmen oder eine eigene Selbständigkeit aufbauen. ## Numbers: 7, 8
-## Answer: Dauer: in Vollzeit bis zu zwei Jahren. ## Numbers: 11
-## Answer: Abschlüsse: Staatliche Abschlussprüfung oder Meisterprüfung. ## Numbers: 14, 15
-## Answer: Ausbildungsrichtungen z. B.: Augenoptik, Metallbautechnik, Fahrzeugtechnik und Elektromobilität. ## Numbers: 21, 23, 24
-## Answer: Ausbildungsrichtungen z. B.: Bauhandwerker, Friseur, Gas- und Wasserinstallateur, Konditor, Maler- und Lackierer. ## Numbers: 26, 29, 30, 31, 32
-## Answer: Ausbildungsrichtungen z. B.: Blumenkunst, Produktdesign, Produktdesign Glas, Werklehrer im sozialen Bereich. ## Numbers: 47, 48, 50, 51
-## Answer: Land- und forstwirtschaftliche Fachschule. ## Numbers: 52
-## Answer: None. ## Numbers: -1 (for the question "Welche Bildungskurse bietet die Fachschule an?" as it is not explicitly stated in the context.)

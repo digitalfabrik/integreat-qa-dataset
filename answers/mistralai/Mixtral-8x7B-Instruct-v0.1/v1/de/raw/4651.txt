@@ -1,9 +1,0 @@
-## Answer: Kinder können in der Regel ab einem Alter von 10 oder 11 Jahren ein Gymnasium in Deutschland besuchen, da die 5. Klasse in der Regel das erste Jahr am Gymnasium ist. ## Numbers: 4, 2 ##
-
-## Answer: Für neu zugewanderte Kinder und Jugendliche gibt es spezielle Programme wie Sprachvorbereitungsklassen und Intensivunterricht in Deutsch, um sie auf den Besuch eines Gymnasiums vorzubereiten. ## Numbers: 4, 5, 6 ##
-
-## Answer: Ausländische Kinder, die nicht ab der ersten Klasse eine deutsche Grundschule besucht haben, können mit einem Notendurchschnitt von bis zu 3,33 auch eine Realschule oder ein Gymnasium besuchen. ## Numbers: 8 ##
-
-## Answer: None. ## Numbers: -1 ##
-
-Anmerkung: Die Antwort hängt von der individuellen Situation des Kindes ab, insbesondere ob es bereits eine deutsche Schule besucht hat oder nicht.

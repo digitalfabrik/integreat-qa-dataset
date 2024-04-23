@@ -1,9 +1,0 @@
-## Answer: In Germany, you have the right to vote and stand for election in various elections if you have a German passport and are 18 years or older.
-## Numbers: 1, 18, 19, 21, 23, 24, 25, 26, 27, 28, 29, 32, 33, 35-39, 41
-## Answer: You can vote in municipal, European, and other elections, and you can stand for election and let others vote for you in municipal and European elections.
-## Numbers: 23, 24, 25, 26, 28, 32, 33, 35-39, 41
-## Answer: None. ## Numbers: -1
-## Answer: The first vote is the right to vote in various elections, and the second vote is the right to stand for election and let others vote for you in municipal and European elections.
-## Numbers: 17, 18, 19, 21, 23, 24, 25, 26, 28, 32, 33, 35-39, 41
-## Answer: You have the right to vote in Bundestag, state parliament, municipal, mayoral, and senior citizens' council elections, and you have the right to stand for election and let others vote for you in municipal and European elections.
-## Numbers: 1, 18, 19, 21, 23-29, 32, 33, 35-39, 41

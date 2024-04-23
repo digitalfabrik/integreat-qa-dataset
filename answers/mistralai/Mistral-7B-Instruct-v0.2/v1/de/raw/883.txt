@@ -1,8 +1,0 @@
-Answer: Jeder, der in Deutschland lebt, muss sich an das Grundgesetz der politischen und rechtlichen Ordnung halten.
-Numbers: 2, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 39, 41, 43, 44, 51, 54, 55, 56, 57, 58, 59, 60, 61
-
-Answer: Alle Menschen müssen sich an das Grundgesetz halten.
-Numbers: 2, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 39, 41, 43, 44, 51, 54, 55, 56, 57, 58, 59, 60, 61
-
-Answer: Das Grundgesetz schützt die Menschenwürde und die persönliche Freiheit.
-Numbers: 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 39, 41,

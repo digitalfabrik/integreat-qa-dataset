@@ -1,8 +1,0 @@
-## Answer: The offer is aimed at parents who are employed or in training. ## Numbers: 4
-## Answer: The child must be at least 6 months and a maximum of 12 years old. ## Numbers: 7
-## Answer: Parents need caregiving for a minimum of 3 and a maximum of 6 hours a day. ## Numbers: 9
-## Answer: The cost per hour is 6.50 Euro. ## Numbers: 10
-## Answer: There are additional MVG transportation costs. ## Numbers: 11
-## Answer: Financial assistance is available through donations. ## Numbers: 12
-## Answer: None. ## Numbers: -1
-## Answer: The question does not correspond to any information in the context. ## Numbers: -1

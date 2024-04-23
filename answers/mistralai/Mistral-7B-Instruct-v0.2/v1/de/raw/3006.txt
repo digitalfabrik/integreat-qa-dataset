@@ -1,9 +1,0 @@
-## Answer: Sie können sich bei den Vereinen direkt anmelden und genauere Informationen über die Anmeldung und Mitgliedsbeiträge erhalten. ## Numbers: 1, 4, 5, 7
-
-## Answer: Informieren Sie sich in Ihrer Kommune, um zu erfahren, welche Vereine im Rems-Murr-Kreis es gibt. ## Numbers: 9
-
-## Answer: Bei niedrigen Einkommen können Zuschüsse zu Mitgliederbeiträfen in Vereinen für Kinder und Jugendliche gewährt werden. ## Numbers: 8
-
-## Answer: Normalerweise muss ein jährlicher Mitgliedsbeitrag bezahlt werden, um Mitglied zu sein. ## Numbers: 6
-
-## Answer: Es gibt auch Musikvereine und andere Hobbyvereine neben den Sportvereinen. ## Numbers: 5

@@ -1,1 +1,0 @@
-## Answer: Eine Werkstudententätigkeit ist eine Anstellung bei einem Unternehmen, bei der man erste Berufserfahrungen sammeln und nebenbei Geld verdienen kann. ## Numbers: 18,19,20,21,22 ## or ## Answer: Werkstudententätigkeit bedeutet, dass man bei einem Unternehmen angestellt ist und nebenbei Geld verdienen kann. ## Numbers: 18,19,21,22 ##

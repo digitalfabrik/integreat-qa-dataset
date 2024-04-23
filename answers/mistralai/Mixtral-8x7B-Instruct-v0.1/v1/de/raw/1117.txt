@@ -1,7 +1,0 @@
-## Answer: In Deutschland gibt es zahlreiche Angebote der Kindertagesbetreuung in Kindertageseinrichtungen und Kindertagespflege. ## Numbers: 2
-
-## Answer: Deine Kinder erlernen vor allem auch sehr schnell die deutsche Sprache. ## Numbers: 6
-
-## Answer: Du kannst auch sehen, wie die Kinder in ihren ersten Lebensjahren am besten lernen und spielen. ## Numbers: 12
-
-## Answer: Weitere Informationen zur Kinderbetreuung in Deutschland findest Du auf den Webseiten www.kita.bayern.de und www.bvktp.de/themen/kinder-mit-fluchthintergrund. ## Numbers: -1 (This answer is not directly in the text, but can be inferred from sentence 14 and 15)
