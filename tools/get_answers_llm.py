@@ -6,12 +6,12 @@ import re
 from transformers import pipeline, PretrainedConfig
 from torch import bfloat16
 
-from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, PROMPT_v1, PROMPT_v2, IGEL, MIXTRAL, MISTRAL, GPT
+from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, PROMPT_v1, PROMPT_v2, IGEL, MIXTRAL, MISTRAL, GPT, RESPONSES_SLUG
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
 from tools.prompt_gpt import prompt_gpt
 
-MODEL = IGEL
+MODEL = GPT
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
 PROMPT_VERSION = PROMPT_v2
@@ -120,7 +120,7 @@ def get_all_answers(questions, path):
 
 
 def get_all_answers_gpt(questions, path):
-    for question in questions[:5]:
+    for question in questions:
         question_id = question['id']
         prompt_gpt(get_instruction(question), question_id, path)
 
@@ -137,6 +137,7 @@ if __name__ == '__main__':
         questions = json.load(open(dataset_path, 'r'))
 
         if MODEL == GPT:
+            os.makedirs(f'{base_answer_path}/{RESPONSES_SLUG}', exist_ok=True)
             get_all_answers_gpt(questions, base_answer_path)
         else:
             get_all_answers(questions, answer_path)
