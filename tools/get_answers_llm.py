@@ -6,15 +6,16 @@ import re
 from transformers import pipeline, PretrainedConfig
 from torch import bfloat16
 
-from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, PROMPT_v1, PROMPT_v2, IGEL, MIXTRAL, MISTRAL, GPT, RESPONSES_SLUG
+from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, PROMPT_v1, PROMPT_v2, IGEL, MIXTRAL8x7B, MISTRAL, GPT, \
+    RESPONSES_SLUG, PROMPT_v3
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
 from tools.prompt_gpt import prompt_gpt
 
-MODEL = GPT
+MODEL = MIXTRAL8x7B
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
-PROMPT_VERSION = PROMPT_v2
+PROMPT_VERSION = PROMPT_v3
 RUN = 0
 
 DATASET_PATH = '../datasets/splits'
@@ -81,21 +82,21 @@ def enumerate_lines(text):
     return '\n'.join(numerated_lines)
 
 
-def get_instruction(question):
+def get_instruction(question, language):
     context = enumerate_lines(question['context'])
-    prompt = get_answer_prompt(question['question'], context, PROMPT_VERSION)
-    instruction = instruction_format(prompt)
-    # instruction = prompt
+    prompt = get_answer_prompt(question['question'], context, PROMPT_VERSION, language)
+    # instruction = instruction_format(prompt)
+    instruction = prompt
     return instruction
 
 
-def instruction_generator(questions):
-    for question in questions:
-        instruction = get_instruction(question)
+def instruction_generator(questions, language):
+    for question in questions[:5]:
+        instruction = get_instruction(question, language)
         yield instruction
 
 
-def get_all_answers(questions, path):
+def get_all_answers(questions, path, language):
     counter = 0
 
     generate_text = pipeline(
@@ -108,7 +109,7 @@ def get_all_answers(questions, path):
         max_new_tokens=512
     )
 
-    for response in generate_text(instruction_generator(questions)):
+    for response in generate_text(instruction_generator(questions, language)):
         question = questions[counter]
         question_id = question['id']
         raw_answer_path = f'{path}/{question_id}.txt'
@@ -119,10 +120,11 @@ def get_all_answers(questions, path):
         counter += 1
 
 
-def get_all_answers_gpt(questions, path):
+def get_all_answers_gpt(questions, path, language):
     for question in questions:
         question_id = question['id']
-        prompt_gpt(get_instruction(question), question_id, path)
+        # TODO prompt is now array
+        prompt_gpt(get_instruction(question, language), question_id, path)
 
 
 if __name__ == '__main__':
@@ -138,9 +140,9 @@ if __name__ == '__main__':
 
         if MODEL == GPT:
             os.makedirs(f'{base_answer_path}/{RESPONSES_SLUG}', exist_ok=True)
-            get_all_answers_gpt(questions, base_answer_path)
+            get_all_answers_gpt(questions, base_answer_path, language)
         else:
-            get_all_answers(questions, answer_path)
+            get_all_answers(questions, answer_path, language)
 
         predictions = postprocess_llm_answers(base_answer_path)
-        evaluate(questions, predictions, MODEL, prompt_run, language)
+        evaluate(questions, predictions, MODEL, language)
