@@ -6,32 +6,22 @@ import re
 from transformers import pipeline, PretrainedConfig
 from torch import bfloat16
 
-from constants import RAW_SLUG, LLAMA2, LLAMA3, PROMPT_v1, IGEL, MIXTRAL, MISTRAL
+from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, PROMPT_v1, PROMPT_v2, IGEL, MIXTRAL, MISTRAL, GPT
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
+from tools.prompt_gpt import prompt_gpt
 
-MODEL = MIXTRAL
+MODEL = IGEL
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
-PROMPT_VERSION = PROMPT_v1
-RUN = 2
+PROMPT_VERSION = PROMPT_v2
+RUN = 0
 
 DATASET_PATH = '../datasets/splits'
 
-generate_text = pipeline(
-    'text-generation',
-    model=MODEL_PATH,
-    config=PretrainedConfig(temperature=0.75),
-    return_full_text=False,
-    torch_dtype=bfloat16,
-    device_map='auto',
-    max_new_tokens=512
-)
-
-
 def extract_answer(line):
     try:
-        return line.split('## Numbers:')[1].split('##')[0].strip()
+        return line.split('Sentence numbers:')[1].split('\n')[0].strip()
     except Exception:
         return ''
 
@@ -66,7 +56,7 @@ def postprocess_llm_answers(path):
         raw_slug = slug.split('.txt')[0]
         raw_path = f'{raw_dir_path}/{slug}'
         raw_file = open(raw_path, 'r')
-        raw_content = raw_file.readline()
+        raw_content = raw_file.read()
 
         raw_answer = extract_answer(raw_content)
         answer_lines = get_answer_lines(raw_answer)
@@ -78,7 +68,6 @@ def postprocess_llm_answers(path):
 
 
 def instruction_format(instructions):
-    # return f'<s> [INST] {instructions} [/INST]\nUser: {query}\nAssistant: '
     return f'<s> [INST] {instructions} [/INST]'
 
 
@@ -92,17 +81,33 @@ def enumerate_lines(text):
     return '\n'.join(numerated_lines)
 
 
+def get_instruction(question):
+    context = enumerate_lines(question['context'])
+    prompt = get_answer_prompt(question['question'], context, PROMPT_VERSION)
+    instruction = instruction_format(prompt)
+    # instruction = prompt
+    return instruction
+
+
 def instruction_generator(questions):
     for question in questions:
-        context = enumerate_lines(question['context'])
-        instruction = instruction_format(get_answer_prompt(question['question'], context, PROMPT_VERSION))
-        # instruction = get_answer_prompt(question['question'], context, PROMPT_VERSION)
-
+        instruction = get_instruction(question)
         yield instruction
 
 
 def get_all_answers(questions, path):
     counter = 0
+
+    generate_text = pipeline(
+        'text-generation',
+        model=MODEL_PATH,
+        config=PretrainedConfig(temperature=0.75),
+        return_full_text=False,
+        torch_dtype=bfloat16,
+        device_map='auto',
+        max_new_tokens=512
+    )
+
     for response in generate_text(instruction_generator(questions)):
         question = questions[counter]
         question_id = question['id']
@@ -112,6 +117,12 @@ def get_all_answers(questions, path):
         raw_file = open(raw_answer_path, 'w')
         raw_file.write(raw)
         counter += 1
+
+
+def get_all_answers_gpt(questions, path):
+    for question in questions[:5]:
+        question_id = question['id']
+        prompt_gpt(get_instruction(question), question_id, path)
 
 
 if __name__ == '__main__':
@@ -125,7 +136,10 @@ if __name__ == '__main__':
         dataset_path = f'{DATASET_PATH}/{language}/dev_{language}.json'
         questions = json.load(open(dataset_path, 'r'))
 
-        get_all_answers(questions, answer_path)
+        if MODEL == GPT:
+            get_all_answers_gpt(questions, base_answer_path)
+        else:
+            get_all_answers(questions, answer_path)
 
         predictions = postprocess_llm_answers(base_answer_path)
         evaluate(questions, predictions, MODEL, prompt_run, language)

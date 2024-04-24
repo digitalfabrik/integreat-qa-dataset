@@ -1,16 +1,18 @@
 MIXTRAL = 'mistralai/Mixtral-8x7B-Instruct-v0.1'
 MISTRAL = 'mistralai/Mistral-7B-Instruct-v0.2'
 LLAMA2 = 'meta-llama/Llama-2-7b-hf'
-LLAMA3 = 'meta-llama/Llama-3-8B-Instruct'
+LLAMA3_8B = 'meta-llama/Llama-3-8B-Instruct'
+LLAMA3_70B = 'meta-llama/Llama-3-70B-Instruct'
 IGEL = 'instruct-igel-001'
-MODELS = [MIXTRAL, MISTRAL, LLAMA2, LLAMA3, IGEL]
+GPT = 'gpt-3.5-turbo'
+MODELS = [MIXTRAL, MISTRAL, LLAMA3_8B, LLAMA3_70B, IGEL, GPT]
 
 PROMPT_v1 = 'v1'
-PROMPTS = [PROMPT_v1]
+PROMPT_v2 = 'v2'
+PROMPTS = [PROMPT_v1, PROMPT_v2]
 
-# Temperature = 1
-RUN_0 = 0
 # Temperature = 0.75
+RUN_0 = 0
 RUN_1 = 1
 RUNS = [RUN_0, RUN_1, 2]
 

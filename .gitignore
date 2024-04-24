@@ -166,3 +166,4 @@ data/**/*.txt
 answers/**/*.txt
 data/**/dataset*.json
 rows/**
+train/**

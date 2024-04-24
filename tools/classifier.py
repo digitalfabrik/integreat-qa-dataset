@@ -8,11 +8,12 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trai
 
 MAX_LEN = 512
 model_name = 'google-bert/bert-base-uncased'
+MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{model_name}'
 
-tokenizer = AutoTokenizer.from_pretrained(model_name, do_lower_case=True)
-model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=2)
-training_arguments = TrainingArguments(output_dir=f'{model_name}_train', evaluation_strategy='epoch')
-metric = evaluate.load('precision')
+tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH, do_lower_case=True)
+model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH, num_labels=2)
+training_arguments = TrainingArguments(output_dir=f'/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/train/{model_name}', evaluation_strategy='epoch')
+metric = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/f1')
 
 
 def tokenize(data):
