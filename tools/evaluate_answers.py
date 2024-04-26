@@ -25,7 +25,7 @@ def add_latex_table_row(values, table):
     table.append(f"{indentation} {' & '.join([f'{it}' for it in values])} \\\\")
 
 
-def print_mean_std_stat(columns):
+def print_mean_std_stat(columns, language):
     full_language = 'German' if language == 'de' else 'English' if language is not None else 'All'
     values = [[column.mean(), column.std()] for column in columns[2:-2]]
     print_row_rounded(columns)
@@ -51,7 +51,7 @@ def evaluate(questions, predictions, model, language):
     model_name = model_name_parts[-1] if language == 'de' else ''
     all = pd.DataFrame(prepare_evaluation(questions, predictions))
     dataset_df = all[all.answers.str.len() > 0]
-    print_mean_std_stat([model_name, language, dataset_df.precision, dataset_df.recall, dataset_df.f1, dataset_df.jaccard, dataset_df[dataset_df.predicted.str.len() > 0].predicted.str.len(), len(dataset_df[dataset_df.predicted.str.len() == 0]) / len(dataset_df)])
+    print_mean_std_stat([model_name, language, dataset_df.precision, dataset_df.recall, dataset_df.f1, dataset_df.jaccard, dataset_df[dataset_df.predicted.str.len() > 0].predicted.str.len(), len(dataset_df[dataset_df.predicted.str.len() == 0]) / len(dataset_df)], language)
 
 
 def evaluate_no_answer(questions, predictions, model, language):

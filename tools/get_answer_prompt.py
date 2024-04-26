@@ -1,7 +1,6 @@
 import json
 
-from constants import PROMPT_v1, PROMPT_v2, PROMPT_v3
-
+from constants import PROMPT_v1, PROMPT_v2, PROMPT_v3, PROMPT_v4
 
 def v1(question, context):
     return f'''
@@ -69,7 +68,7 @@ few_shot_examples_en = [
     },
     {
         'id': 207,
-        'question': 'What topics are covered in the initial orientation courses?',
+        'question': 'What is a fictitious certificate?',
         'answers': [2],
         'context': '[0] Residence with fictitious certificate\n[1] Departure with a fictitious certificate\n[2] With a fictitious certificate, you have a temporary right of residence.\n[3] There are different types of fictitious certificate.\n[4]Please note:\n[5] Re-entry into the federal territory is only possible with a fictitious certificate in accordance with § 81 para.4 AufenthG possible.',
     },
@@ -95,8 +94,7 @@ few_shot_examples_en = [
 
 
 def v3_user(question, context):
-    return {'role': 'user', 'content': f'''
-Given the question and document below, select the sentences from the document that answer the question.
+    return {'role': 'user', 'content': f'''Given the question and document below, select the sentences from the document that answer the question.
 It may also be the case that none of the sentences answers the question.
 In the document, each sentence is marked with an ID.
 Output the IDs of the relevant sentences as a list, e.g., "[1,2,3]", and output "[]" if no sentence is relevant.
@@ -109,7 +107,7 @@ Document: {context}
 
 
 def v3_assistant(answers):
-    return {'role': 'user', 'content': json.dumps(answers)}
+    return {'role': 'assistant', 'content': json.dumps(answers)}
 
 
 def v3(question, context, language, num_shots=5):
@@ -129,6 +127,8 @@ def get_answer_prompt(question, context, version, language='de'):
         return v2(question, context)
     elif version == PROMPT_v3:
         return v3(question, context, language)
+    elif version == PROMPT_v4:
+        return v3(question, context, language, 0)
     # elif version == PROMPT_v4:
     #     return v2(question, context)
 

@@ -6,6 +6,7 @@ LLAMA3_8B = 'meta-llama/Llama-3-8B-Instruct'
 LLAMA3_70B = 'meta-llama/Llama-3-70B-Instruct'
 IGEL = 'instruct-igel-001'
 GPT = 'gpt-3.5-turbo'
+MISTRAL_MODELS = [MIXTRAL8x22B, MIXTRAL8x7B, MISTRAL]
 MODELS = [MIXTRAL8x7B, MISTRAL, LLAMA3_8B, LLAMA3_70B, GPT]
 
 PROMPT_v1 = 'v1'
@@ -13,9 +14,9 @@ PROMPT_v1 = 'v1'
 PROMPT_v2 = 'v2'
 # Few shot w/o. explanations
 PROMPT_v3 = 'v3'
-# Few shot w. explanations
+# Zero shot
 PROMPT_v4 = 'v4'
-PROMPTS = [PROMPT_v2, PROMPT_v3]
+PROMPTS = [PROMPT_v2, PROMPT_v3, PROMPT_v4]
 
 # Temperature = 0.75
 RUN_0 = 0

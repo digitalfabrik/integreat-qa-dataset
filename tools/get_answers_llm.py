@@ -3,32 +3,37 @@ import os
 import os.path
 import re
 
-from transformers import pipeline, PretrainedConfig
+from transformers import pipeline, PretrainedConfig, AutoTokenizer
 from torch import bfloat16
 
 from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, PROMPT_v1, PROMPT_v2, IGEL, MIXTRAL8x7B, MISTRAL, GPT, \
-    RESPONSES_SLUG, PROMPT_v3
+    RESPONSES_SLUG, PROMPT_v3, MISTRAL_MODELS, PROMPT_v4
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
-from tools.prompt_gpt import prompt_gpt
 
 MODEL = MIXTRAL8x7B
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
-PROMPT_VERSION = PROMPT_v3
+PROMPT_VERSION = PROMPT_v4
 RUN = 0
 
 DATASET_PATH = '../datasets/splits'
 
+
 def extract_answer(line):
     try:
-        return line.split('Sentence numbers:')[1].split('\n')[0].strip()
+        # return line.split('Sentence numbers:')[1].split('\n')[0].strip()
+        return line
     except Exception:
         return ''
 
 
 def get_answer_lines(text):
     try:
+        print(text)
+        if '[' in text and ']' in text:
+            return json.loads(f'[{text.split('[')[1].split(']')[0]}]')
+
         lines = []
         parts = [it.strip() for it in text.split(',')]
 
@@ -43,7 +48,7 @@ def get_answer_lines(text):
 
         return lines
     except Exception:
-        return
+        return []
 
 
 def postprocess_llm_answers(path):
@@ -68,10 +73,6 @@ def postprocess_llm_answers(path):
     return predicted
 
 
-def instruction_format(instructions):
-    return f'<s> [INST] {instructions} [/INST]'
-
-
 # Add line numbers to each line
 def enumerate_lines(text):
     lines = text.split('\n')
@@ -85,15 +86,25 @@ def enumerate_lines(text):
 def get_instruction(question, language):
     context = enumerate_lines(question['context'])
     prompt = get_answer_prompt(question['question'], context, PROMPT_VERSION, language)
-    # instruction = instruction_format(prompt)
-    instruction = prompt
-    return instruction
+
+    # mistralai models don't support the system role
+    if MODEL in MISTRAL_MODELS:
+        prompt = prompt[1:]
+
+    return prompt
 
 
 def instruction_generator(questions, language):
-    for question in questions[:5]:
+    tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
+    for question in questions:
         instruction = get_instruction(question, language)
-        yield instruction
+
+        prompt = tokenizer.apply_chat_template(
+            instruction,
+            tokenize=False,
+            add_generation_prompt=True
+        )
+        yield prompt
 
 
 def get_all_answers(questions, path, language):
@@ -106,7 +117,7 @@ def get_all_answers(questions, path, language):
         return_full_text=False,
         torch_dtype=bfloat16,
         device_map='auto',
-        max_new_tokens=512
+        max_new_tokens=64
     )
 
     for response in generate_text(instruction_generator(questions, language)):
@@ -124,11 +135,11 @@ def get_all_answers_gpt(questions, path, language):
     for question in questions:
         question_id = question['id']
         # TODO prompt is now array
-        prompt_gpt(get_instruction(question, language), question_id, path)
+        # prompt_gpt(get_instruction(question, language), question_id, path)
 
 
 if __name__ == '__main__':
-    languages = ['de', 'en']
+    languages = ['en']
     prompt_run = f'{PROMPT_VERSION}_{RUN}'
 
     for language in languages:

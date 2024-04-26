@@ -167,3 +167,4 @@ answers/**/*.txt
 data/**/dataset*.json
 rows/**
 train/**
+evaluate/**
