@@ -11,10 +11,10 @@ from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, PROMPT_v1, PROMPT_v2, IGE
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
 
-MODEL = MIXTRAL8x7B
+MODEL = LLAMA3_70B
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
-PROMPT_VERSION = PROMPT_v4
+PROMPT_VERSION = PROMPT_v3
 RUN = 0
 
 DATASET_PATH = '../datasets/splits'
