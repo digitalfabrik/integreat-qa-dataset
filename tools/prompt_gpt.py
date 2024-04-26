@@ -17,9 +17,7 @@ def prompt_gpt(prompt, id, path):
 
     response = client.chat.completions.create(
         model=GPT,
-        messages=[
-            {'role': 'system', 'content': prompt},
-        ]
+        messages=prompt
     )
 
     raw_file = open(raw_path, 'w')

@@ -32,7 +32,7 @@ def get_answer_lines(text):
     try:
         print(text)
         if '[' in text and ']' in text:
-            return json.loads(f'[{text.split('[')[1].split(']')[0]}]')
+            return json.loads(f'[{text.split("[")[1].split("]")[0]}]')
 
         lines = []
         parts = [it.strip() for it in text.split(',')]
@@ -139,7 +139,7 @@ def get_all_answers_gpt(questions, path, language):
 
 
 if __name__ == '__main__':
-    languages = ['en']
+    languages = ['de', 'en']
     prompt_run = f'{PROMPT_VERSION}_{RUN}'
 
     for language in languages:

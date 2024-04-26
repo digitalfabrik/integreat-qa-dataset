@@ -3,14 +3,11 @@ import os.path
 
 import pandas as pd
 
-from constants import P_SELECTED_AGREEMENT, MODELS, PROMPTS, RUNS
+from constants import P_SELECTED_AGREEMENT, MODELS, PROMPTS, RUNS, PROMPT_v3, PROMPT_v4
 
 FIRST_COLUMN_WIDTH = 45
 COLUMN_WIDTH = 15
 
-
-answers_table = []
-no_answers_table = []
 
 def print_row(values):
     print(f'{values[0]:^{FIRST_COLUMN_WIDTH}} |', ' | '.join([f'{it:^{COLUMN_WIDTH}}' for it in values[1:]]))
@@ -18,19 +15,6 @@ def print_row(values):
 
 def print_row_rounded(values):
     print_row(values[:2] + [f'{it.mean():.2f} ({it.std():.2f})' if isinstance(it, pd.Series) else f'{it:.2f}' for it in values[2:]])
-
-
-def add_latex_table_row(values, table):
-    indentation = ''
-    table.append(f"{indentation} {' & '.join([f'{it}' for it in values])} \\\\")
-
-
-def print_mean_std_stat(columns, language):
-    full_language = 'German' if language == 'de' else 'English' if language is not None else 'All'
-    values = [[column.mean(), column.std()] for column in columns[2:-2]]
-    print_row_rounded(columns)
-    rounded_latex = [f'{value[0]:.2f} \\textcolor{{gray}}{{\scriptsize $\pm$ {value[1]:.2f}}}' for value in values]
-    add_latex_table_row([columns[0], full_language] + rounded_latex, table=answers_table)
 
 
 def prepare_evaluation(questions, predictions):
@@ -51,7 +35,7 @@ def evaluate(questions, predictions, model, language):
     model_name = model_name_parts[-1] if language == 'de' else ''
     all = pd.DataFrame(prepare_evaluation(questions, predictions))
     dataset_df = all[all.answers.str.len() > 0]
-    print_mean_std_stat([model_name, language, dataset_df.precision, dataset_df.recall, dataset_df.f1, dataset_df.jaccard, dataset_df[dataset_df.predicted.str.len() > 0].predicted.str.len(), len(dataset_df[dataset_df.predicted.str.len() == 0]) / len(dataset_df)], language)
+    print_row_rounded([model_name, language, dataset_df.precision, dataset_df.recall, dataset_df.f1, dataset_df.jaccard, dataset_df[dataset_df.predicted.str.len() > 0].predicted.str.len(), len(dataset_df[dataset_df.predicted.str.len() == 0]) / len(dataset_df)])
 
 
 def evaluate_no_answer(questions, predictions, model, language):
@@ -63,23 +47,17 @@ def evaluate_no_answer(questions, predictions, model, language):
     recall = len(true_positives) / len(relevant)
     f1 = 2 * (precision * recall) / (precision + recall)
     print_row_rounded([model, language, precision, recall, f1])
-    model_name_parts = model.split('/')
-    model_name = model_name_parts[-1] if language == 'de' else ''
-    full_language = 'German' if language == 'de' else 'English' if language is not None else 'All'
-    add_latex_table_row([model_name, full_language, f'{precision:.2f}', f'{recall:.2f}', f'{f1:.2f}'], no_answers_table)
 
 
 if __name__ == '__main__':
-    answers_table.append('\\toprule')
+    prompts = [PROMPT_v4, PROMPT_v3]
     columns = ['model', 'language', 'precision', 'recall', 'f1', 'jaccard', 'predictions', 'invalid/no answer']
-    add_latex_table_row(columns[:-2], answers_table)
     print_row(columns)
     row_length = FIRST_COLUMN_WIDTH + (len(columns) - 1) * (COLUMN_WIDTH + 3)
     print('-' * row_length)
-    answers_table.append('\\midrule')
 
     for model in MODELS:
-        for prompt in PROMPTS:
+        for prompt in prompts:
             for run in RUNS:
                 prompt_run = f'{prompt}_{run}'
                 for language in ['de', 'en']:
@@ -91,17 +69,13 @@ if __name__ == '__main__':
                         evaluate(questions, predictions, model, language)
         print('-' * row_length)
 
-    answers_table.append('\\bottomrule')
 
     print('')
     print('')
-    no_answers_table.append('\\toprule')
     columns = ['model', 'language', 'precision', 'recall', 'f1']
-    add_latex_table_row(columns, no_answers_table)
     print_row(columns)
     row_length = FIRST_COLUMN_WIDTH + (len(columns) - 1) * (COLUMN_WIDTH + 3)
     print('-' * row_length)
-    no_answers_table.append('\\midrule')
 
     for model in MODELS:
         for prompt in PROMPTS:
@@ -115,11 +89,3 @@ if __name__ == '__main__':
                         questions = json.load(open(dataset_path, 'r'))
                         evaluate_no_answer(questions, predictions, model, language)
         print('-' * row_length)
-
-    no_answers_table.append('\\bottomrule')
-
-    table_file = open('./resources/answers.txt', 'w')
-    table_file.write('\n'.join(answers_table))
-
-    table_file = open('./resources/no_answers.txt', 'w')
-    table_file.write('\n'.join(no_answers_table))
