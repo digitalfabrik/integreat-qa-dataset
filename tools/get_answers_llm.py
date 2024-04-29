@@ -14,7 +14,7 @@ from evaluate_answers import evaluate
 MODEL = LLAMA3_70B
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
-PROMPT_VERSION = PROMPT_v3
+PROMPT_VERSION = PROMPT_v4
 RUN = 0
 
 DATASET_PATH = '../datasets/splits'
@@ -143,11 +143,20 @@ if __name__ == '__main__':
     prompt_run = f'{PROMPT_VERSION}_{RUN}'
 
     for language in languages:
-        base_answer_path = f'../answers/{MODEL}/{prompt_run}/{language}'
+        CROSS_LANGUAGE = True
+        question_language = 'de' if language == 'en' else 'en'
+        language_slug = f'{language}_{question_language}' if CROSS_LANGUAGE else language
+        base_answer_path = f'../answers/{MODEL}/{prompt_run}/{language_slug}'
         answer_path = f'{base_answer_path}/{RAW_SLUG}'
         os.makedirs(answer_path, exist_ok=True)
+
         dataset_path = f'{DATASET_PATH}/{language}/dev_{language}.json'
         questions = json.load(open(dataset_path, 'r'))
+
+        if CROSS_LANGUAGE:
+            translated_dataset_path = f'{DATASET_PATH}/{question_language}/dev_{question_language}.json'
+            translated_dataset = json.load(open(translated_dataset_path, 'r'))
+            questions = [{**question, 'question': next(translated['question'] for translated in translated_dataset if translated['id'] == question['id'])} for question in questions]
 
         if MODEL == GPT:
             os.makedirs(f'{base_answer_path}/{RESPONSES_SLUG}', exist_ok=True)
