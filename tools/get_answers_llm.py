@@ -10,6 +10,7 @@ from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, PROMPT_v1, PROMPT_v2, IGE
     RESPONSES_SLUG, PROMPT_v3, MISTRAL_MODELS, PROMPT_v4
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
+from prompt_gpt import prompt_gpt
 
 MODEL = LLAMA3_70B
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
@@ -134,8 +135,7 @@ def get_all_answers(questions, path, language):
 def get_all_answers_gpt(questions, path, language):
     for question in questions:
         question_id = question['id']
-        # TODO prompt is now array
-        # prompt_gpt(get_instruction(question, language), question_id, path)
+        prompt_gpt(get_instruction(question, language), question_id, path)
 
 
 if __name__ == '__main__':

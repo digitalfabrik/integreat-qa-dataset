@@ -3,7 +3,7 @@ import os.path
 
 import pandas as pd
 
-from constants import P_SELECTED_AGREEMENT, MODELS, PROMPTS, RUNS, PROMPT_v3, PROMPT_v4
+from constants import P_SELECTED_AGREEMENT, MODELS, PROMPTS, RUNS, PROMPT_v3, PROMPT_v4, LLAMA3_70B
 
 FIRST_COLUMN_WIDTH = 45
 COLUMN_WIDTH = 15
@@ -19,6 +19,7 @@ def print_row_rounded(values):
 
 def prepare_evaluation(questions, predictions):
     df = pd.DataFrame(questions)
+    df['answer_count'] = df.apply(lambda row: len(row.answers), axis=1)
     df['predicted'] = df.apply(lambda row: predictions[str(row.id)], axis=1)
     df['intersection'] = df.apply(lambda x: list(set(x.answers).intersection(set(x.predicted))), axis=1)
     df['union'] = df.apply(lambda x: list(set(x.answers).union(set(x.predicted))), axis=1)

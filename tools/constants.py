@@ -37,6 +37,20 @@ PAGES_SLUG = 'pages'
 BASE_SLUG = '../data'
 
 
+def get_model_name(model):
+    if model == MIXTRAL8x7B:
+        return 'Mixtral-8x7B'
+    elif model == MISTRAL:
+        return 'Mistral-7B'
+    elif model == LLAMA3_8B:
+        return 'Llama-3-8B'
+    elif model == LLAMA3_70B:
+        return 'Llama-3-70B'
+    elif model == GPT:
+        return 'GPT-3.5-Turbo'
+
+
+
 def get_integreat_pages_json_path():
     return f'{BASE_SLUG}/integreat_pages/{CITY}/{LANGUAGE}/{PAGES_SLUG}.json'
 

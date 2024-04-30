@@ -16,7 +16,7 @@ def prompt_gpt(prompt, id, path):
         return
 
     response = client.chat.completions.create(
-        model=GPT,
+        model=f'{GPT}-0125',
         messages=prompt
     )
 
