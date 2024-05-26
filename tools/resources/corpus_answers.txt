@@ -1,0 +1,36 @@
+\toprule
+  &  & train & dev & test & total \\
+\midrule
+ German & Questions & 338 & 143 & 185 & 666 \\
+  & \hspace{1em}No Answer & 63 \textcolor{gray}{\scriptsize (19\%)} & 30 \textcolor{gray}{\scriptsize (21\%)} & 43 \textcolor{gray}{\scriptsize (23\%)} & 136 \textcolor{gray}{\scriptsize (20\%)} \\
+  & \hspace{1em}Contiguous Answer & 209 \textcolor{gray}{\scriptsize (62\%)} & 86 \textcolor{gray}{\scriptsize (60\%)} & 104 \textcolor{gray}{\scriptsize (56\%)} & 399 \textcolor{gray}{\scriptsize (60\%)} \\
+  & \hspace{1em}Non-Contiguous Answer & 66 \textcolor{gray}{\scriptsize (20\%)} & 27 \textcolor{gray}{\scriptsize (19\%)} & 38 \textcolor{gray}{\scriptsize (21\%)} & 131 \textcolor{gray}{\scriptsize (20\%)} \\
+  & Documents & 205 & 90 & 117 & 412 \\
+  & Questions/Document & 1.65 & 1.59 & 1.58 & 1.62 \\
+  & Sentences/Document & 27.16 \textcolor{gray}{\scriptsize $\pm$ 20.11} & 27.96 \textcolor{gray}{\scriptsize $\pm$ 15.87} & 26.91 \textcolor{gray}{\scriptsize $\pm$ 17.88} & 27.26 \textcolor{gray}{\scriptsize $\pm$ 18.59} \\
+  & Chars/Sentence & 58.62 \textcolor{gray}{\scriptsize $\pm$ 15.93} & 61.74 \textcolor{gray}{\scriptsize $\pm$ 16.32} & 61.96 \textcolor{gray}{\scriptsize $\pm$ 17.25} & 60.25 \textcolor{gray}{\scriptsize $\pm$ 16.44} \\
+  & Chars/Question & 57.85 \textcolor{gray}{\scriptsize $\pm$ 15.68} & 58.91 \textcolor{gray}{\scriptsize $\pm$ 17.21} & 59.61 \textcolor{gray}{\scriptsize $\pm$ 16.45} & 58.56 \textcolor{gray}{\scriptsize $\pm$ 16.23} \\
+  & Agreement (Jaccard) & 0.60 \textcolor{gray}{\scriptsize $\pm$ 0.33} & 0.59 \textcolor{gray}{\scriptsize $\pm$ 0.33} & 0.60 \textcolor{gray}{\scriptsize $\pm$ 0.34} & 0.60 \textcolor{gray}{\scriptsize $\pm$ 0.33} \\
+  & with adjacent sentences & 0.86 \textcolor{gray}{\scriptsize $\pm$ 0.19} & 0.85 \textcolor{gray}{\scriptsize $\pm$ 0.18} & 0.86 \textcolor{gray}{\scriptsize $\pm$ 0.19} & 0.86 \textcolor{gray}{\scriptsize $\pm$ 0.19} \\
+  & Answer Sentences/Question & 5.37 \textcolor{gray}{\scriptsize $\pm$ 6.09} & 5.57 \textcolor{gray}{\scriptsize $\pm$ 5.89} & 5.29 \textcolor{gray}{\scriptsize $\pm$ 6.84} & 5.39 \textcolor{gray}{\scriptsize $\pm$ 6.26} \\
+  & Answers Sentences/Total Sentences & 0.28 \textcolor{gray}{\scriptsize $\pm$ 0.29} & 0.25 \textcolor{gray}{\scriptsize $\pm$ 0.27} & 0.27 \textcolor{gray}{\scriptsize $\pm$ 0.28} & 0.27 \textcolor{gray}{\scriptsize $\pm$ 0.28} \\
+\midrule
+ English & Questions & 123 & 50 & 67 & 240 \\
+  & \hspace{1em}No Answer & 18 \textcolor{gray}{\scriptsize (15\%)} & 8 \textcolor{gray}{\scriptsize (16\%)} & 12 \textcolor{gray}{\scriptsize (18\%)} & 38 \textcolor{gray}{\scriptsize (16\%)} \\
+  & \hspace{1em}Contiguous Answer & 95 \textcolor{gray}{\scriptsize (77\%)} & 38 \textcolor{gray}{\scriptsize (76\%)} & 49 \textcolor{gray}{\scriptsize (73\%)} & 182 \textcolor{gray}{\scriptsize (76\%)} \\
+  & \hspace{1em}Non-Contiguous Answer & 10 \textcolor{gray}{\scriptsize (8\%)} & 4 \textcolor{gray}{\scriptsize (8\%)} & 6 \textcolor{gray}{\scriptsize (9\%)} & 20 \textcolor{gray}{\scriptsize (8\%)} \\
+  & Documents & 103 & 43 & 59 & 205 \\
+  & Questions/Document & 1.19 & 1.16 & 1.14 & 1.17 \\
+  & Sentences/Document & 23.51 \textcolor{gray}{\scriptsize $\pm$ 13.30} & 25.58 \textcolor{gray}{\scriptsize $\pm$ 16.68} & 25.49 \textcolor{gray}{\scriptsize $\pm$ 13.68} & 24.52 \textcolor{gray}{\scriptsize $\pm$ 14.14} \\
+  & Chars/Sentence & 65.28 \textcolor{gray}{\scriptsize $\pm$ 18.22} & 61.74 \textcolor{gray}{\scriptsize $\pm$ 12.72} & 60.48 \textcolor{gray}{\scriptsize $\pm$ 15.30} & 63.16 \textcolor{gray}{\scriptsize $\pm$ 16.45} \\
+  & Chars/Question & 59.46 \textcolor{gray}{\scriptsize $\pm$ 15.98} & 56.48 \textcolor{gray}{\scriptsize $\pm$ 13.22} & 56.51 \textcolor{gray}{\scriptsize $\pm$ 14.72} & 58.01 \textcolor{gray}{\scriptsize $\pm$ 15.11} \\
+  & Agreement (Jaccard) & 0.58 \textcolor{gray}{\scriptsize $\pm$ 0.34} & 0.59 \textcolor{gray}{\scriptsize $\pm$ 0.32} & 0.56 \textcolor{gray}{\scriptsize $\pm$ 0.34} & 0.58 \textcolor{gray}{\scriptsize $\pm$ 0.34} \\
+  & with adjacent sentences & 0.86 \textcolor{gray}{\scriptsize $\pm$ 0.20} & 0.84 \textcolor{gray}{\scriptsize $\pm$ 0.19} & 0.86 \textcolor{gray}{\scriptsize $\pm$ 0.20} & 0.86 \textcolor{gray}{\scriptsize $\pm$ 0.19} \\
+  & Answer Sentences/Question & 4.41 \textcolor{gray}{\scriptsize $\pm$ 4.98} & 3.90 \textcolor{gray}{\scriptsize $\pm$ 3.62} & 4.19 \textcolor{gray}{\scriptsize $\pm$ 4.39} & 4.24 \textcolor{gray}{\scriptsize $\pm$ 4.55} \\
+  & Answers Sentences/Total Sentences & 0.23 \textcolor{gray}{\scriptsize $\pm$ 0.23} & 0.20 \textcolor{gray}{\scriptsize $\pm$ 0.21} & 0.22 \textcolor{gray}{\scriptsize $\pm$ 0.24} & 0.22 \textcolor{gray}{\scriptsize $\pm$ 0.23} \\
+\midrule
+ All & Questions & 461 & 193 & 252 & 906 \\
+  & \hspace{1em}No Answer & 81 \textcolor{gray}{\scriptsize (18\%)} & 38 \textcolor{gray}{\scriptsize (20\%)} & 55 \textcolor{gray}{\scriptsize (22\%)} & 174 \textcolor{gray}{\scriptsize (19\%)} \\
+  & \hspace{1em}Contiguous Answer & 304 \textcolor{gray}{\scriptsize (66\%)} & 124 \textcolor{gray}{\scriptsize (64\%)} & 153 \textcolor{gray}{\scriptsize (61\%)} & 581 \textcolor{gray}{\scriptsize (64\%)} \\
+  & \hspace{1em}Non-Contiguous Answer & 76 \textcolor{gray}{\scriptsize (16\%)} & 31 \textcolor{gray}{\scriptsize (16\%)} & 44 \textcolor{gray}{\scriptsize (17\%)} & 151 \textcolor{gray}{\scriptsize (17\%)} \\
+\bottomrule
