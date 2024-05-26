@@ -1,6 +1,33 @@
+MIXTRAL8x7B = 'mistralai/Mixtral-8x7B-Instruct-v0.1'
+MIXTRAL8x22B = 'mistralai/Mixtral-8x22B-Instruct-v0.1'
+MISTRAL = 'mistralai/Mistral-7B-Instruct-v0.2'
+LLAMA2 = 'meta-llama/Llama-2-7b-hf'
+LLAMA3_8B = 'meta-llama/Llama-3-8B-Instruct'
+LLAMA3_70B = 'meta-llama/Llama-3-70B-Instruct'
+IGEL = 'instruct-igel-001'
+GPT = 'gpt-3.5-turbo'
+MISTRAL_MODELS = [MIXTRAL8x22B, MIXTRAL8x7B, MISTRAL]
+MODELS = [MIXTRAL8x7B, MISTRAL, LLAMA3_8B, LLAMA3_70B, GPT]
+
+PROMPT_v1 = 'v1'
+# Improvements in wording, order
+PROMPT_v2 = 'v2'
+# Few shot w/o. explanations
+PROMPT_v3 = 'v3'
+# Zero shot
+PROMPT_v4 = 'v4'
+PROMPTS = [PROMPT_v2, PROMPT_v3, PROMPT_v4]
+
+# Temperature = 0.75
+RUN_0 = 0
+RUN_1 = 1
+RUNS = [RUN_0, RUN_1, 2]
+
 CITY = 'rems-murr-kreis'
 LANGUAGE = 'de'
 MODEL = 'Mixtral-8x7B-Instruct-v0.1'
+
+P_SELECTED_AGREEMENT = 0.03488382343589578
 
 RESPONSES_SLUG = 'responses'
 SUMMARIES_SLUG = 'summaries'
@@ -8,6 +35,20 @@ RAW_SLUG = 'raw'
 READY_SLUG = 'ready'
 PAGES_SLUG = 'pages'
 BASE_SLUG = '../data'
+
+
+def get_model_name(model):
+    if model == MIXTRAL8x7B:
+        return 'Mixtral-8x7B'
+    elif model == MISTRAL:
+        return 'Mistral-7B'
+    elif model == LLAMA3_8B:
+        return 'Llama-3-8B'
+    elif model == LLAMA3_70B:
+        return 'Llama-3-70B'
+    elif model == GPT:
+        return 'GPT-3.5-Turbo'
+
 
 
 def get_integreat_pages_json_path():

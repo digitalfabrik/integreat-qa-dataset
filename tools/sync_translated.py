@@ -3,7 +3,7 @@ import json
 DATASET_PATH = f'../datasets/dataset.json'
 
 if __name__ == '__main__':
-    language = 'de'
+    language = 'en'
     source_questions = json.load(open(DATASET_PATH, 'r'))
     target_path = f'../datasets/dataset_{language}.json'
     target_questions = json.load(open(target_path, 'r'))

@@ -9,4 +9,4 @@
 #SBATCH --mem-per-cpu=50G
 #SBATCH --cpus-per-task=2
 #SBATCH --gpus=a100:2
-python3 generate_questions_wo_evidence.py
+python3 get_answers_llm.py

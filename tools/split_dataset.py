@@ -18,7 +18,7 @@ def other_filter(row):
 
 
 if __name__ == '__main__':
-    language = 'de'
+    language = 'en'
     dataset_df = pd.DataFrame(json.load(open(f'../datasets/dataset_{language}.json', 'r')))
     train = pd.DataFrame()
     dev = pd.DataFrame()

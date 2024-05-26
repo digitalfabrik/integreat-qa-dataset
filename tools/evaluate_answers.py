@@ -1,103 +1,92 @@
 import json
-import os
 import os.path
-import re
-from constants import RAW_SLUG, get_answers_path
 
-DATASET_PATH = f'../datasets/2024-04-01_dataset.json'
+import pandas as pd
 
+from constants import P_SELECTED_AGREEMENT, MODELS, PROMPTS, RUNS, PROMPT_v3, PROMPT_v4, LLAMA3_70B
 
-def extract_answer(line):
-    try:
-        return line.split('## Numbers:')[1].split('##')[0].strip()
-    except Exception:
-        print(line)
-        return ''
+FIRST_COLUMN_WIDTH = 45
+COLUMN_WIDTH = 15
 
 
-def get_answer_lines(text):
-    try:
-        lines = []
-        parts = [it.strip() for it in text.split(',')]
-
-        for part in parts:
-            if part.isdigit():
-                lines.append(int(part))
-            elif re.match(r'[0-9]+\s*-\s*[0-9]+', part):
-                sub_parts = [it.strip() for it in part.split('-')]
-                if sub_parts[0].isdigit() and sub_parts[1].isdigit():
-                    for i in range(int(sub_parts[0]), int(sub_parts[1]) + 1):
-                        lines.append(i)
-
-        if -1 in lines or len(lines) == 0:
-            print(text)
-        return lines
-    except Exception:
-        print(text)
-        return
+def print_row(values):
+    print(f'{values[0]:^{FIRST_COLUMN_WIDTH}} |', ' | '.join([f'{it:^{COLUMN_WIDTH}}' for it in values[1:]]))
 
 
-def postprocess():
-    questions = json.load(open(DATASET_PATH, 'r'))
-    raw_dir_path = get_answers_path(['format_w_sentences', RAW_SLUG])
-    predicted_path = get_answers_path(['format_w_sentences', 'predicted.json'])
-    slugs = os.listdir(raw_dir_path)
+def print_row_rounded(values):
+    print_row(values[:2] + [f'{it.mean():.2f} ({it.std():.2f})' if isinstance(it, pd.Series) else f'{it:.2f}' for it in values[2:]])
 
-    predicted = {}
 
-    correct_answer = 0
-    answer_count = 0
-    correct_no_answer = 0
-    no_answer = 0
-    no_answer_2 = 0
+def prepare_evaluation(questions, predictions):
+    df = pd.DataFrame(questions)
+    df['answer_count'] = df.apply(lambda row: len(row.answers), axis=1)
+    df['predicted'] = df.apply(lambda row: predictions[str(row.id)], axis=1)
+    df['intersection'] = df.apply(lambda x: list(set(x.answers).intersection(set(x.predicted))), axis=1)
+    df['union'] = df.apply(lambda x: list(set(x.answers).union(set(x.predicted))), axis=1)
+    df['jaccard'] = df.apply(lambda x: len(x.intersection) / len(x.union) if len(x.union) > 0 else 1, axis=1)
+    df['jaccard_cc'] = df.apply(lambda x: (x.jaccard - P_SELECTED_AGREEMENT) / (1 - P_SELECTED_AGREEMENT), axis=1)
+    df['precision'] = df.apply(lambda x: len(x.intersection) / len(x.predicted) if len(x.predicted) > 0 else 1, axis=1)
+    df['recall'] = df.apply(lambda x: len(x.intersection) / len(x.answers) if len(x.answers) > 0 else 1, axis=1)
+    df['f1'] = df.apply(lambda x: 2 * (x.precision * x.recall) / (x.precision + x.recall) if x.precision + x.recall > 0 else 0, axis=1)
+    return df
 
-    for slug in slugs:
-        raw_slug = slug.split('.txt')[0]
-        raw_path = get_answers_path(['format_w_sentences', RAW_SLUG, slug])
-        raw_file = open(raw_path, 'r')
-        raw_content = raw_file.readline()
 
-        question = next(x for x in questions if x['id'] == int(raw_slug))
+def evaluate(questions, predictions, model, language):
+    model_name_parts = model.split('/')
+    model_name = model_name_parts[-1] if language == 'de' else ''
+    all = pd.DataFrame(prepare_evaluation(questions, predictions))
+    dataset_df = all[all.answers.str.len() > 0]
+    print_row_rounded([model_name, language, dataset_df.precision, dataset_df.recall, dataset_df.f1, dataset_df.jaccard, dataset_df[dataset_df.predicted.str.len() > 0].predicted.str.len(), len(dataset_df[dataset_df.predicted.str.len() == 0]) / len(dataset_df)])
 
-        raw_answer = extract_answer(raw_content)
-        answer_lines = get_answer_lines(raw_answer)
-        predicted[raw_slug] = answer_lines
 
-        lines = question['context'].split('\n')
-        answer = '\n'.join([f'[{line}] {lines[line]}' for line in answer_lines if line < len(lines)])
-
-        if len(question['answers']) != 0:
-            if len(answer) == 0:
-                no_answer_2 += 1
-            answer_count += 1
-            # print(question['question'])
-            # print(answer)
-            # print('\n')
-            # predicted_line_number = question['context'][:prediction['start']].count('\n')
-            # predicted_in_annotated = predicted_line_number in question['answers']
-            # if predicted_in_annotated:
-            #     correct_answer += 1
-        else:
-            print(question['question'])
-            print(answer if len(answer) > 0 else '---')
-            if len(answer) == 0:
-                no_answer_2 += 1
-            print('\n')
-            no_answer += 1
-            if len(answer_lines) == 0:
-                correct_no_answer += 1
-
-    # print(correct_answer, answer_count, correct_answer / answer_count)
-    # print(correct_no_answer, no_answer, correct_no_answer / no_answer)
-    # print((correct_answer + correct_no_answer) / len(questions))
-    print(no_answer_2, no_answer)
-    print(len(questions) - no_answer_2)
-    print(len(questions))
-    print(predicted)
-
-    dataset_json_file = open(predicted_path, 'w')
-    dataset_json_file.write(json.dumps(predicted))
+def evaluate_no_answer(questions, predictions, model, language):
+    dataset_df = pd.DataFrame(prepare_evaluation(questions, predictions))
+    true_positives = dataset_df[(dataset_df.answers.str.len() == 0) & (dataset_df.predicted.str.len() == 0)]
+    retrieved = dataset_df[dataset_df.predicted.str.len() == 0]
+    relevant = dataset_df[dataset_df.answers.str.len() == 0]
+    precision = len(true_positives) / len(retrieved)
+    recall = len(true_positives) / len(relevant)
+    f1 = 2 * (precision * recall) / (precision + recall)
+    print_row_rounded([model, language, precision, recall, f1])
 
 
 if __name__ == '__main__':
-    postprocess()
+    prompts = [PROMPT_v4, PROMPT_v3]
+    columns = ['model', 'language', 'precision', 'recall', 'f1', 'jaccard', 'predictions', 'invalid/no answer']
+    print_row(columns)
+    row_length = FIRST_COLUMN_WIDTH + (len(columns) - 1) * (COLUMN_WIDTH + 3)
+    print('-' * row_length)
+
+    for model in MODELS:
+        for prompt in prompts:
+            for run in RUNS:
+                prompt_run = f'{prompt}_{run}'
+                for language in ['de', 'en']:
+                    predictions_path = f'../answers/{model}/{prompt_run}/{language}/predicted.json'
+                    if os.path.exists(predictions_path):
+                        predictions = json.load(open(predictions_path, 'r'))
+                        dataset_path = f'../datasets/splits/{language}/dev_{language}.json'
+                        questions = json.load(open(dataset_path, 'r'))
+                        evaluate(questions, predictions, model, language)
+        print('-' * row_length)
+
+
+    print('')
+    print('')
+    columns = ['model', 'language', 'precision', 'recall', 'f1']
+    print_row(columns)
+    row_length = FIRST_COLUMN_WIDTH + (len(columns) - 1) * (COLUMN_WIDTH + 3)
+    print('-' * row_length)
+
+    for model in MODELS:
+        for prompt in PROMPTS:
+            for run in RUNS:
+                prompt_run = f'{prompt}_{run}'
+                for language in ['de', 'en']:
+                    predictions_path = f'../answers/{model}/{prompt_run}/{language}/predicted.json'
+                    if os.path.exists(predictions_path):
+                        predictions = json.load(open(predictions_path, 'r'))
+                        dataset_path = f'../datasets/splits/{language}/dev_{language}.json'
+                        questions = json.load(open(dataset_path, 'r'))
+                        evaluate_no_answer(questions, predictions, model, language)
+        print('-' * row_length)
