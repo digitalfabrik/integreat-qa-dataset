@@ -3,7 +3,7 @@ import os.path
 
 import pandas as pd
 
-from constants import P_SELECTED_AGREEMENT, MODELS, PROMPTS, RUNS, PROMPT_v3, PROMPT_v4, LLAMA3_70B
+from constants import P_SELECTED_AGREEMENT, MODELS, PROMPTS, RUNS, PROMPT_v3, PROMPT_v4, LLAMA3_70B, ORIGINAL
 
 FIRST_COLUMN_WIDTH = 45
 COLUMN_WIDTH = 15
@@ -58,16 +58,25 @@ if __name__ == '__main__':
     print('-' * row_length)
 
     for model in MODELS:
-        for prompt in prompts:
-            for run in RUNS:
-                prompt_run = f'{prompt}_{run}'
-                for language in ['de', 'en']:
-                    predictions_path = f'../answers/{model}/{prompt_run}/{language}/predicted.json'
-                    if os.path.exists(predictions_path):
-                        predictions = json.load(open(predictions_path, 'r'))
-                        dataset_path = f'../datasets/splits/{language}/dev_{language}.json'
-                        questions = json.load(open(dataset_path, 'r'))
-                        evaluate(questions, predictions, model, language)
+        if model == ORIGINAL:
+            predictions_path = f'../answers/{model}/predicted.json'
+            if os.path.exists(predictions_path):
+                predictions = json.load(open(predictions_path, 'r'))
+                dataset_path = f'../datasets/dataset.json'
+                questions = json.load(open(dataset_path, 'r'))
+                questions = [question for question in questions if question['id'] in predictions.keys()]
+                evaluate(questions, predictions, model, '-')
+        else:
+            for prompt in prompts:
+                for run in RUNS:
+                    prompt_run = f'{prompt}_{run}'
+                    for language in ['de', 'en']:
+                        predictions_path = f'../answers/{model}/{prompt_run}/{language}/predicted.json'
+                        if os.path.exists(predictions_path):
+                            predictions = json.load(open(predictions_path, 'r'))
+                            dataset_path = f'../datasets/splits/{language}/dev_{language}.json'
+                            questions = json.load(open(dataset_path, 'r'))
+                            evaluate(questions, predictions, model, language)
         print('-' * row_length)
 
 

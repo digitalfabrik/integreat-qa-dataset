@@ -12,10 +12,11 @@ translator = deepl.Translator(DEEPL_API_KEY)
 
 
 if __name__ == '__main__':
-    sourceLanguage = 'de'
-    target_language = 'en'
+    questions_only = True
+    sourceLanguage = 'fr'
+    target_language = 'de'
     questions = json.load(open(DATASET_PATH, 'r'))
-    questions_source = [question for question in questions if question['language'] == sourceLanguage]
+    questions_source = [question for question in questions if question['language'] != target_language]
     questions_target = [question for question in questions if question['language'] == target_language]
 
     target_dataset_path = f'../datasets/dataset_{target_language}.json'
@@ -28,7 +29,7 @@ if __name__ == '__main__':
     new = questions_target
 
     print(translated_questions, len(questions_source))
-    for question in questions_source:
+    for question in questions_source[:10]:
         translated = next((x for x in target_dataset if x['id'] == question['id']), None)
         if translated is not None:
             new.append(translated)

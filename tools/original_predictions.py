@@ -58,4 +58,5 @@ if __name__ == '__main__':
             except:
                 continue
 
-    
+    original_answer_lines_file = open(f'../answers/original/predicted.json', 'w')
+    original_answer_lines_file.write(json.dumps(original_answer_lines))

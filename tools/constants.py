@@ -6,8 +6,9 @@ LLAMA3_8B = 'meta-llama/Llama-3-8B-Instruct'
 LLAMA3_70B = 'meta-llama/Llama-3-70B-Instruct'
 IGEL = 'instruct-igel-001'
 GPT = 'gpt-3.5-turbo'
+ORIGINAL = 'original'
 MISTRAL_MODELS = [MIXTRAL8x22B, MIXTRAL8x7B, MISTRAL]
-MODELS = [MIXTRAL8x7B, MISTRAL, LLAMA3_8B, LLAMA3_70B, GPT]
+MODELS = [MIXTRAL8x7B, MISTRAL, LLAMA3_8B, LLAMA3_70B, GPT, ORIGINAL]
 
 PROMPT_v1 = 'v1'
 # Improvements in wording, order
