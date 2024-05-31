@@ -1,14 +1,14 @@
 MIXTRAL8x7B = 'mistralai/Mixtral-8x7B-Instruct-v0.1'
 MIXTRAL8x22B = 'mistralai/Mixtral-8x22B-Instruct-v0.1'
 MISTRAL = 'mistralai/Mistral-7B-Instruct-v0.2'
-LLAMA2 = 'meta-llama/Llama-2-7b-hf'
+LLAMA2_7B = 'meta-llama/Llama-2-7b-hf'
 LLAMA3_8B = 'meta-llama/Llama-3-8B-Instruct'
 LLAMA3_70B = 'meta-llama/Llama-3-70B-Instruct'
 IGEL = 'instruct-igel-001'
 GPT = 'gpt-3.5-turbo'
 ORIGINAL = 'original'
 MISTRAL_MODELS = [MIXTRAL8x22B, MIXTRAL8x7B, MISTRAL]
-MODELS = [MIXTRAL8x7B, MISTRAL, LLAMA3_8B, LLAMA3_70B, GPT, ORIGINAL]
+MODELS = [MIXTRAL8x7B, MISTRAL, LLAMA2_7B, LLAMA3_8B, LLAMA3_70B, GPT, ORIGINAL]
 
 PROMPT_v1 = 'v1'
 # Improvements in wording, order

@@ -6,13 +6,20 @@ from datasets import Dataset
 
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer
 
-MAX_LEN = 512
-model_name = 'google-bert/bert-base-uncased'
+BERT = 'google-bert/bert-base-uncased'
+DEBERTA = 'deberta-v3-large'
+model_name = DEBERTA
+
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{model_name}'
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH, do_lower_case=True)
 model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH, num_labels=2)
-training_arguments = TrainingArguments(output_dir=f'/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/train/{model_name}', evaluation_strategy='epoch')
+training_arguments = TrainingArguments(
+    output_dir=f'/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/train/{model_name}',
+    evaluation_strategy='steps',
+    per_device_train_batch_size=8,
+    do_train=True,
+)
 metric = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/f1')
 
 

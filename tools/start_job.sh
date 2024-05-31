@@ -8,5 +8,5 @@
 #SBATCH --partition=epyc-gpu
 #SBATCH --mem-per-cpu=50G
 #SBATCH --cpus-per-task=2
-#SBATCH --gpus=a100:2
-python3 get_answers_llm.py
+#SBATCH --gpus=a100:1
+python3 classifier.py
