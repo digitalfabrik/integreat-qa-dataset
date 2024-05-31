@@ -20,6 +20,10 @@ def other_filter(row):
 if __name__ == '__main__':
     language = 'de'
     dataset_df = pd.DataFrame(json.load(open(f'../datasets/dataset_{language}.json', 'r')))
+    # dataset_df['question_word'] = dataset_df.apply(lambda x: x.question.split(' ')[0], axis=1)
+    # print('Question words')
+    # print('\n'.join([f'{key}: {value}' for key, value in dataset_df.question_word.value_counts()[dataset_df.question_word.value_counts() > 5].items()]))
+    # print(f'Other {dataset_df.question_word.value_counts()[dataset_df.question_word.value_counts() <= 5].sum()}')
     train = pd.DataFrame()
     dev = pd.DataFrame()
     test = pd.DataFrame()

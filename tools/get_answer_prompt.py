@@ -129,7 +129,5 @@ def get_answer_prompt(question, context, version, language='de'):
         return v3(question, context, language)
     elif version == PROMPT_v4:
         return v3(question, context, language, 0)
-    # elif version == PROMPT_v4:
-    #     return v2(question, context)
 
 

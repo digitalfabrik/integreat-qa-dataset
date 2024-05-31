@@ -9,3 +9,5 @@ torch
 openai
 jupyter
 protobuf
+deepl
+python-dotenv
