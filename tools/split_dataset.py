@@ -78,7 +78,7 @@ if __name__ == '__main__':
     write_dataset(dev, 'dev')
     write_dataset(test, 'test')
 
-    other_languages = ['en', 'fr', 'ar']
+    other_languages = ['en', 'fr', 'ar', 'de_retranslated_ar', 'de_retranslated_fr']
     for language in other_languages:
         dataset = json.load(open(f'../datasets/dataset_{language}.json', 'r'))
         train = pd.DataFrame([next(x for x in dataset if x['id'] == row['id']) for _, row in train.iterrows()])
