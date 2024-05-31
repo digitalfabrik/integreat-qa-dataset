@@ -18,13 +18,13 @@ data class Question(
     val archived: Boolean = false
 )
 
-fun QuestionEntity.serializable() = Question(
+fun QuestionEntity.serializable(all: Boolean = false) = Question(
     id = id.value,
     question = question,
     answerLines = Json.decodeFromString(answerLines),
     annotations = AnnotationEntity.find { Annotations.questionId eq this@serializable.id }
         .map { it.serializable() }
-        .filter { !it.skipped && !it.archived },
+        .filter { all || (!it.skipped && !it.archived) },
     created = Instant.fromEpochMilliseconds(created.toEpochMilli()),
     archived = false
 )

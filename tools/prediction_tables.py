@@ -26,6 +26,7 @@ def evaluate(questions, predictions):
     dataset_df = all[all.answers.str.len() > 0]
     # columns = [dataset_df.precision, dataset_df.recall, dataset_df.f1, dataset_df.jaccard]
     columns = [dataset_df.precision, dataset_df.recall, dataset_df.f1]
+    # print(dataset_df.f1.mean(), dataset_df.jaccard.mean())
     return [column.mean() for column in columns], [column.std() for column in columns]
 
 
@@ -45,7 +46,8 @@ if __name__ == '__main__':
     prompts = [PROMPT_v4, PROMPT_v3]
     languages = ['de', 'en']
     simple_metrics = ['P', 'R', 'F']
-    metrics = simple_metrics  # + ['jaccard']
+    metrics = simple_metrics
+    # metrics = simple_metrics + ['jaccard']
 
     add_latex_table_row(['Model', 'Setting'] + 4 * metrics, answers_table)
     # answers_table.append('\\midrule')

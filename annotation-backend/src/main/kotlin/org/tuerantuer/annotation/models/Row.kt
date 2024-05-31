@@ -14,7 +14,7 @@ data class Row(
     val model: String
 )
 
-fun RowEntity.serializable(questions: List<Question>? = null) = Row(
+fun RowEntity.serializable(questions: List<Question>? = null, all: Boolean = false) = Row(
     pageId = pageId,
     pagePath = pagePath,
     city = city,
@@ -22,6 +22,6 @@ fun RowEntity.serializable(questions: List<Question>? = null) = Row(
     context = context,
     model = model,
     questions = questions ?: QuestionEntity.find { Questions.rowId eq this@serializable.id }
-        .map { it.serializable() }
+        .map { it.serializable(all) }
         .filter { !it.archived }
 )

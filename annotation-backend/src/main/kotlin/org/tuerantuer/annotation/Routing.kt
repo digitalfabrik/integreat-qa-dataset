@@ -19,6 +19,12 @@ fun Application.configureRouting() {
             }
         }
 
+        route("/all") {
+            get {
+                call.respond(getRows(true))
+            }
+        }
+
         route("/question") {
             get {
                 val user = call.request.queryParameters["user"]

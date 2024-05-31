@@ -33,7 +33,7 @@ if __name__ == '__main__':
         rems_df = partition0[partition0.city == 'rems-murr-kreis']
 
         for partition1 in [munich_df, augsburg_df, rems_df]:
-            single_questions_df = partition1[partition1.duplicated(keep=False, subset=['pageId']) == False]
+            single_questions_df = partition1[partition1.duplicated(keep=False, subset=['pageId']) is False]
             no_answers_df = single_questions_df[single_questions_df.answers.str.len() == 0]
             divided_answers_df = single_questions_df[single_questions_df.apply(separated_filter, axis=1)]
             other_answers_df = single_questions_df[single_questions_df.apply(other_filter, axis=1)]

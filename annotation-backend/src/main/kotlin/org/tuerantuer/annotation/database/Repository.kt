@@ -24,8 +24,8 @@ fun insertRows(rows: List<Row>) = transaction {
     }
 }
 
-fun getRows(): List<Row> = transaction {
-    RowEntity.all().map { it.serializable() }
+fun getRows(all: Boolean = false): List<Row> = transaction {
+    RowEntity.all().map { it.serializable(all=all) }
 }
 
 fun getCities(): List<String> = transaction {
