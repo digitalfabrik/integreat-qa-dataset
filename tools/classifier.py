@@ -10,6 +10,8 @@ BERT = 'google-bert/bert-base-uncased'
 DEBERTA = 'deberta-v3-large'
 model_name = DEBERTA
 
+max_length = 512
+
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{model_name}'
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH, do_lower_case=True)
@@ -24,7 +26,7 @@ metric = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-datase
 
 
 def tokenize(data):
-    return tokenizer(data['text'], padding='max_length', truncation=True)
+    return tokenizer(data['text'], padding='max_length', truncation=True, max_length=max_length)
 
 
 def prepare_split(path):
