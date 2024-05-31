@@ -13,7 +13,7 @@ translator = deepl.Translator(DEEPL_API_KEY)
 
 if __name__ == '__main__':
     questions_only = True
-    source_language = 'ar'
+    source_language = 'uk'
     target_language = 'de'
     questions = json.load(open(f'../datasets/dataset_{source_language}.json')) # if questions_only else DATASET_PATH, 'r'))
     questions_source = [question for question in questions if question['language'] != target_language]
