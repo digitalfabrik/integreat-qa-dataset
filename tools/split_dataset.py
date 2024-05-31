@@ -18,7 +18,7 @@ def other_filter(row):
 
 
 if __name__ == '__main__':
-    language = 'en'
+    language = 'de'
     dataset_df = pd.DataFrame(json.load(open(f'../datasets/dataset_{language}.json', 'r')))
     train = pd.DataFrame()
     dev = pd.DataFrame()
@@ -33,7 +33,7 @@ if __name__ == '__main__':
         rems_df = partition0[partition0.city == 'rems-murr-kreis']
 
         for partition1 in [munich_df, augsburg_df, rems_df]:
-            single_questions_df = partition1[partition1.duplicated(keep=False, subset=['pageId']) is False]
+            single_questions_df = partition1[partition1.duplicated(keep=False, subset=['pageId']) == False]
             no_answers_df = single_questions_df[single_questions_df.answers.str.len() == 0]
             divided_answers_df = single_questions_df[single_questions_df.apply(separated_filter, axis=1)]
             other_answers_df = single_questions_df[single_questions_df.apply(other_filter, axis=1)]
@@ -74,7 +74,7 @@ if __name__ == '__main__':
     write_dataset(dev, 'dev')
     write_dataset(test, 'test')
 
-    other_languages = ['en']
+    other_languages = ['en', 'fr']
     for language in other_languages:
         dataset = json.load(open(f'../datasets/dataset_{language}.json', 'r'))
         train = pd.DataFrame([next(x for x in dataset if x['id'] == row['id']) for _, row in train.iterrows()])
