@@ -1,0 +1,6 @@
+The relevant sentences from the document that answer the question are:
+
+[1, 9, 15]
+
+Sentence 1 describes the career opportunities with the city of Munich.
+Sentence 9 talks about the attractive opportunities for training and development offered by the city of Munich.

@@ -1,0 +1,9 @@
+The question is: Wie läuft der Integrationskurs ab?
+
+The relevant sentences from the document are:
+
+9 Wenn Sie Hilfe oder Unterstützung benötigen, rufen Sie an und vereinbaren Sie einen Termin.
+
+The ID of the relevant sentence is: [9]
+
+Output: [9]

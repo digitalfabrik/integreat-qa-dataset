@@ -1,0 +1,11 @@
+## Answer: Die Kündigungsfrist für Arbeitnehmer richtet sich nach der Dauer des Arbeitsverhältnisses. Zum Beispiel bei 5 Jahren --> 2 Monate Kündigungsfrist. ## Sentence numbers: 5, 6
+
+## Answer: Die Kündigungsfrist für Arbeitgeber beträgt normalerweise 4 Wochen zum Ende eines Monats. ## Sentence numbers: 4
+
+## Answer: Wenn Sie von Ihrem Arbeitgeber gekündigt wurden und dagegen etwas tun möchten, haben Sie nur 3 Wochen Zeit. ## Sentence numbers: 2
+
+## Answer: Wenn Sie als Arbeitnehmer kündigen möchten, müssen Sie die Kündigung schriftlich, am besten per Post, an Ihren Arbeitgeber verschicken. ## Sentence numbers: 1
+
+## Answer: Probezeit maximal 6 Monate --> 2 Wochen Kündigungsfrist ## Sentence numbers: 7
+
+## Answer: None. ## Numbers: -1 (There is no information about general deadlines for termination in Germany)

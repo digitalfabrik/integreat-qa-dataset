@@ -1,0 +1,10 @@
+Input Format
+The input is a text file containing the question and the document.
+
+Output Format
+The output is a list of sentence IDs.
+
+Sample Input 0
+Welche Medikamente kann ich in einer Apotheke kaufen?
+
+Document: 0 Apotheke

@@ -1,0 +1,5 @@
+[11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Explanation:
+
+The question asks who can apply for a professional consultation appointment. The relevant sentences in

@@ -1,0 +1,1 @@
+In the given document, there are no sentences that directly answer the question about "Was beinhaltet der Orientierungskurs in Integrationskursen?" (What does the orientation course contain in integration courses?). Therefore, the output should be "[]".

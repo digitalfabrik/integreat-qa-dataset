@@ -1,0 +1,7 @@
+[9]assistant
+
+The sentence with ID 9 answers the question: "Де я можу знайти курс німецької грамотності?"assistant
+
+[9]assistant
+
+The sentence with ID 9 answers the question: "Де я можу знай

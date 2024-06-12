@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question are:
+
+[3, 5]
+
+Sentence 3 provides an introduction to the tools that are helpful for learning the Latin alphabet, and sentence 5 describes one of those tools, Serlo ABC, which is an application that helps users learn

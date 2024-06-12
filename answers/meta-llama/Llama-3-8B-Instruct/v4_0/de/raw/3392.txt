@@ -1,0 +1,7 @@
+[1, 23, 24, 26]assistant
+
+The question is "Welche Unterlagen werden für die Registrierung benötigt?" which translates to "What documents are required for registration?".
+
+The relevant sentences from the document are:
+
+* 23: Reisepass und

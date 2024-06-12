@@ -1,0 +1,3 @@
+[5, 6, 8-11, 14-16]
+
+Explanation: The question asks for the requirements (Voraussetzungen) for an apprenticeship with tolerance (Ausbildungsduldung). The document provides a list of conditions for

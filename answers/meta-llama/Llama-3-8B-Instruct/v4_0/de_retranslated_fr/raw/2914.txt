@@ -1,0 +1,7 @@
+[12, 13, 14, 15, 16, 17, 18, 19, 20, 21]assistant
+
+The sentences that answer the question are:
+
+12. Öffnungszeiten:
+13. Montag:
+14. 08:00 -

@@ -1,0 +1,11 @@
+Question: На якій сторінці у Facebook можна знайти квартири в районі Аугсбурга?
+
+Document:...
+
+Answer: [19]assistant
+
+Question: На якій сторінці у Facebook можна знайти квартири в районі Аугсбурга?
+
+Document:...
+
+Answer:

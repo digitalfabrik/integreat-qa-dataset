@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "Wie sind die Öffnungszeiten des Rathauses in Schwachheim?" and the relevant sentences are:
+
+12 Öffnungszeiten:
+13 Montag: 08:00 - 12:00 Uhr
+14 08:00 - 12

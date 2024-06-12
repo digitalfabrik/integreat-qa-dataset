@@ -1,0 +1,6 @@
+Question: Que signifie "ambulatoire" dans le contexte du système de santé allemand?
+
+Document: 0 Le système de santé allemand
+1 Système de santé allemand
+2 En Allemagne, de nombreux établissements font partie du système de santé.
+3 Le système de

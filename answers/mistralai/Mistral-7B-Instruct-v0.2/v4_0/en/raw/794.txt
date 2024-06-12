@@ -1,0 +1,3 @@
+[6, 8-10]
+
+Explanation: Sentences 6, 8-10 provide information about the purpose of occupational safety regulations, which is to guarantee the safety and health of all workers, and the responsibilities of both employers and employees in ensuring compliance with these regulations

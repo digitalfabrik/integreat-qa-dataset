@@ -1,0 +1,7 @@
+## Answer: Children between 6 months and 12 years old. ## Sentence numbers: 7
+
+The context states that the offer is aimed at children who are at least 6 months and at most 12 years old. Therefore, the answer is children between 6 months and 12 years old.
+
+## Answer: None. ## Numbers: -1
+
+There is no information in the context about the specific age group of children that Zu Hause Gesund Werden is primarily aimed at beyond the stated age range. Therefore, there is no answer to the question as it is asked.

@@ -1,0 +1,7 @@
+Question: Від чого роблять щеплення одночасно зі щепленням від кору?
+
+Document:...assistant
+
+[15]assistant
+
+The sentence with ID 15 answers the question: "Вакцинація проти кору проводиться в комплексі з щеплення

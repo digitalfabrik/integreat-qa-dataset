@@ -1,0 +1,62 @@
+30 Youth Migration Service Waiblingen
+31 Waiblingen
+32 jmd-wb@kdv-rmk.de
+33 Youth Migration Service Fellbach
+34 Fellbach
+35 jmd-fb@kdv-rmk.de
+36 Youth Migration Service Backnang
+37 Backnang
+38 jmd-bn@kdv-rmk.de
+39 Youth Migration Service Schwäbisch Gmünd
+40 Schwäbisch Gmünd
+41 jmd-sgm@kdv-rmk.de
+42 Youth Migration Service Göppingen
+43 Göppingen
+44 jmd-gp@kdv-rmk.de
+45 Youth Migration Service Eislingen
+46 Eislingen
+47 jmd-el@kdv-rmk.de
+48 Youth Migration Service Geislingen
+49 Geislingen
+50 jmd-gs@kdv-rmk.de
+51 Youth Migration Service Leutkirch
+52 Leutkirch
+53 jmd-lk@kdv-rmk.de
+54 Youth Migration Service Rottenburg
+55 Rottenburg
+56 jmd-rt@kdv-rmk.de
+57 Youth Migration Service Tübingen
+58 Tübingen
+59 jmd-tb@kdv-rmk.de
+60 Youth Migration Service Reutlingen
+61 Reutlingen
+62 jmd-rl@kdv-rmk.de
+63 Youth Migration Service Ulm
+64 Ulm
+65 jmd-ul@kdv-rmk.de
+66 Youth Migration Service Biberach
+67 Biberach
+68 jmd-bi@kdv-rmk.de
+69 Youth Migration Service Ravensburg
+70 Ravensburg
+71 jmd-rv@kdv-rmk.de
+72 Youth Migration Service Friedrichshafen
+73 Friedrichshafen
+74 jmd-fn@kdv-rmk.de
+75 Youth Migration Service Sigmaringen
+76 Sigmaringen
+77 jmd-sg@kdv-rmk.de
+78 Youth Migration Service Heidenheim
+79 Heidenheim
+80 jmd-hd@kdv-rmk.de
+81 Youth Migration Service Dillingen
+82 Dillingen
+83 jmd-di@kdv-rmk.de
+84 Youth Migration Service Günzburg
+85 Günzburg
+86 jmd-gz@kdv-rmk.de
+87 Youth Migration Service Neu-Ulm
+88 Neu-Ulm
+89 jmd-nu@kdv-rmk.de
+90 Youth Migration Service Kaufbeuren
+91 Kaufbe

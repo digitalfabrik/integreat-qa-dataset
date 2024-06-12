@@ -1,0 +1,4 @@
+Answer: Some public Grundschulen offer German instruction for children.
+Sentence numbers: 4, 7, 12, 19, 20, 21, 22
+
+Explanation: The context mentions that parents must enroll their children in a public Grundschule (sentence 4), and provides information on how to do so (sentence 7). It also mentions that after leaving Grundschule, children can attend Mittelschule, Realschule, Gymnasium, Orientierungsstufe, or Gesamtschule (sentences 16-22). These schools are public and offer German instruction, making them options for children who need to learn German. The context also mentions that these schools differ in the subjects they teach and the level of instruction they provide (sentence 19).

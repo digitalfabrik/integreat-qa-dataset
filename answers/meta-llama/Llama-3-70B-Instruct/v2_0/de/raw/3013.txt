@@ -1,0 +1,14 @@
+44 Sie haben ein Wahl-Recht.
+45 Aber Sie haben kein deutsches Wahl-Recht.
+46 Sie haben ein EU-Wahl-Recht.
+47 Die Erststimme und die Zweitstimme sind wichtig bei der Bundestags-Wahl.
+48 Die Erststimme ist für den Direkt-Kandidaten.
+49 Der Direkt-Kandidat ist ein Politiker oder eine Politikerin.
+50 Der Direkt-Kandidat wird direkt in den Bundestag gewählt.
+51 Die Zweitstimme ist für die Partei.
+52 Die Partei ist eine Gruppe von Politikern und Politikerinnen.
+53 Die Partei hat ein Programm.
+54 Das Programm sagt, was die Partei will.
+55 Die Zweitstimme entscheidet, wie viele Sitze die Partei im Bundestag bekommt.
+
+## Answer: Die Erststimme ist für den Direkt-Kandidaten. Die Zweitstimme ist für die Partei. ## Sentence numbers: 48, 51

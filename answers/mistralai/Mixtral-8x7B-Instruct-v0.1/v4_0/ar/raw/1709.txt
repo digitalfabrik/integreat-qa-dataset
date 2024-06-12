@@ -1,0 +1,5 @@
+The relevant sentence IDs are:
+
+[1, 2, 11, 17]
+
+These sentences provide information on how to find an apartment. Sentence 1 suggests searching for an apartment, sentence 2 provides a general search location, sentence 11 lists some local newspapers

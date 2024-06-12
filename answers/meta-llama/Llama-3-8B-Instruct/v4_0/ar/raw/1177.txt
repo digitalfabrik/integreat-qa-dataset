@@ -1,0 +1,9 @@
+[]assistant
+
+The question is "ماذا يعني "التضمين"؟" which translates to "What does 'inclusion' mean?".
+
+After reviewing the document, I found that none of the sentences directly answer this question. Therefore, the output is:
+
+[]assistant
+
+You

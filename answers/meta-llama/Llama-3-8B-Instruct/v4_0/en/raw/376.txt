@@ -1,0 +1,6 @@
+[4, 5, 6, 7, 8, 9]assistant
+
+The sentences that answer the question "What topics does 'Offene Hilfe' advise on?" are:
+
+4. We can advise you on the following topics:
+5. on the subject of "housing" and

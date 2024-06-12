@@ -1,0 +1,8 @@
+## Input Format
+The first line of input is a single integer, the number of questions that follow.
+The remaining lines of input contain a single question followed by a single document.
+
+## Output Format
+The output consists of a list of sentences that answer the question.
+
+## Sample Input

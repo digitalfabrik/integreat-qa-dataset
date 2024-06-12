@@ -1,0 +1,36 @@
+71 Bitte vereinbaren Sie einen Termin.
+72 Online einen Termin vereinbaren
+73 Kreisverwaltungsreferat (KVR)
+74 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+75 Garmischer Straße 19/21
+76 fuehrerscheine.kvr@muenchen.de
+77 Kreisverwaltungsreferat (KVR)
+78 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+79 Eichstätter Straße 2
+80 zulassung.kvr@muenchen.de
+81 Kreisverwaltungsreferat (KVR)
+82 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+83 Garmischer Straße 19/21
+84 fuehrerscheine.kvr@muenchen.de
+85 Kreisverwaltungsreferat (KVR)
+86 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+87 Eichstätter Straße 2
+88 zulassung.kvr@muenchen.de
+89 Kreisverwaltungsreferat (KVR)
+90 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+91 Garmischer Straße 19/21
+92 fuehrerscheine.kvr@muenchen.de
+93 Kreisverwaltungsreferat (KVR)
+94 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+95 Eichstätter Straße 2
+96 zulassung.kvr@muenchen.de
+97 Kreisverwaltungsreferat (KVR)
+98 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+99 Garmischer Straße 19/21
+100 fuehrerscheine.kvr@muenchen.de
+101 Kreisverwaltungsreferat (KVR)
+102 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+103 Eichstätter Straße 2
+104 zulassung.kvr@muenchen.de
+105 Kreisverwaltungsreferat (KVR)
+106 Hauptabteil

@@ -1,0 +1,10 @@
+## 📈 Solution
+
+```python
+import re
+
+def get_ids(s):
+    return re.findall(r'[0-9]+', s)
+
+# 🔍 Find IDs
+ids = get_ids(s)

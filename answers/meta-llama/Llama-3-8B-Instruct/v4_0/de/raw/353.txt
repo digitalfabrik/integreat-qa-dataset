@@ -1,0 +1,6 @@
+[10, 11]assistant
+
+The question is "Was passiert, wenn man einen Vertrag unterschreibt, den man nicht versteht?" and the relevant sentences from the document are:
+
+10. Unterschreiben Sie nichts, was Sie nicht verstehen oder lesen können.
+11.

@@ -1,0 +1,6 @@
+[1, 2, 3, 4, 6]assistant
+
+The sentences that answer the question "Welche Möglichkeiten gibt es, die Schulbildung nachzuholen?" are:
+
+1. Grundsätzlich können höhere Schulabschlüsse auch nachgeholt werden.
+2

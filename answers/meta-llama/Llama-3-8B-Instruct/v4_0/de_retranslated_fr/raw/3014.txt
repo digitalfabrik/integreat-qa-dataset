@@ -1,0 +1,7 @@
+[1]assistant
+
+The sentence with ID 1 answers the question "Wie sind die Arbeitszeiten in Deutschland?"assistant
+
+[1]assistant
+
+That's correct! The sentence with ID 1 provides information about the maximum working hours in Germany, which is the main

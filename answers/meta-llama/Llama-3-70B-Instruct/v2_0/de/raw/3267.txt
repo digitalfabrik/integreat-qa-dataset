@@ -1,0 +1,12 @@
+11 Die Aufenthaltsgenehmigung ist ein amtliches Dokument, das Ausländern erlaubt, in Deutschland zu leben.
+12 Die Arbeitserlaubnis ist ein amtliches Dokument, das Ausländern erlaubt, in Deutschland zu arbeiten.
+13 Der Hauptunterschied zwischen beiden liegt darin, dass die Aufenthaltsgenehmigung lediglich das Recht auf Aufenthalt in Deutschland gewährt, während die Arbeitserlaubnis das Recht auf Arbeit in Deutschland gewährt.
+14 Die Aufenthaltsgenehmigung ist also ein Voraussetzung für die Arbeitserlaubnis.
+15 Die Arbeitserlaubnis ist jedoch nicht automatisch mit der Aufenthaltsgenehmigung verbunden.
+16 Es gibt Fälle, in denen Ausländer eine Aufenthaltsgenehmigung haben, aber keine Arbeitserlaubnis.
+17 Ein Beispiel dafür sind Asylbewerber, die in Deutschland leben, aber nicht arbeiten dürfen.
+18 Ein weiteres Beispiel sind Ausländer, die in Deutschland studieren, aber nicht arbeiten dürfen.
+19 Die Arbeitserlaubnis ist also ein separates Dokument, das Ausländern erlaubt, in Deutschland zu arbeiten.
+20 Die Aufenthaltsgenehmigung und die Arbeitserlaubnis sind zwei separate amtliche Dokumente.
+
+## Answer: Der Hauptunterschied zwischen beiden liegt darin, dass die Aufenthaltsgenehmigung lediglich das Recht auf Aufenthalt in Deutschland gewährt, während die Arbeitserlaubnis das Recht auf Arbeit in Deutschland gewährt. ## Sentence numbers: 13

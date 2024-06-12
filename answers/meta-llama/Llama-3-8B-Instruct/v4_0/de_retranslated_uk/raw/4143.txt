@@ -1,0 +1,7 @@
+The question is: Welche Art von Musik führt der QueerBeats-Chor auf?
+
+The document does not provide any information about the type of music performed by the QueerBeats-Chor. Therefore, there are no relevant sentences in the document.
+
+Output: []assistant
+
+The question is

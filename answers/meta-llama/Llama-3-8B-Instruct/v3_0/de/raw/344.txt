@@ -1,0 +1,7 @@
+[2, 7, 11]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[2, 7]
+
+The sentence with ID 2 mentions that people who don't speak German well and need to go to authorities, such as the foreign office, social office, or school

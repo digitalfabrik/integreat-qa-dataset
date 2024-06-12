@@ -1,0 +1,9 @@
+19 The district of Augsburg also has a wide range of vocational schools.
+20 There are 14 vocational schools in the district of Augsburg.
+21 These schools offer a wide range of courses.
+22 The courses are designed to prepare students for a specific occupation.
+23 The district of Augsburg also has a wide range of special schools.
+24 There are 12 special schools in the district of Augsburg.
+25 These schools offer special support for children with special needs.
+
+## Answer: The "Sprengelprinzip" means that each primary or secondary school is responsible for a specific area (called a "Sprengel"). ## Sentence numbers: 13.

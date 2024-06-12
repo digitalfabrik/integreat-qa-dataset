@@ -1,0 +1,1 @@
+The answer to the question is in the document, and its IDs are [3, 8, 9]. Sentence 3 is relevant because it explains that to work as an employee in Germany, a work permit must be applied for at the foreigners authority before starting the job. Sentence

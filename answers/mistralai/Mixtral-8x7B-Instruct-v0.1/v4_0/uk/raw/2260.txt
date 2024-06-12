@@ -1,0 +1,2 @@
+[2, 4, 6]
+These are the numbers for police (110), fire brigade (112), and medical help (112) in Germany, which are mentioned in the document.

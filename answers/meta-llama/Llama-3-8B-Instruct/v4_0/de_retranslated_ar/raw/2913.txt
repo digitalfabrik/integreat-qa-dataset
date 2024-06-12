@@ -1,0 +1,6 @@
+[2, 3, 7, 11]assistant
+
+The sentences that answer the question "Wie kann ich mich mit dem Rathaus in Verbindung setzen?" are:
+
+* 2: Gemeindeverwaltung Schwaikheim
+* 3: www.schwaikheim.de

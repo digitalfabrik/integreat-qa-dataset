@@ -1,0 +1,11 @@
+The question is: Чи є медичне страхування обов'язковим?
+
+The relevant sentences are:
+
+* 1 Страхування в Німеччині є обов'язковим.
+
+The ID of the relevant sentence is: [1]
+
+Output: [1]assistant
+
+The question is: Чи є

@@ -1,0 +1,7 @@
+[11]assistant
+
+The sentence with ID 11 answers the question: "Хто безкоштовно консультує отримувачів субсидій щодо їхнього енергоспоживання?"assistant
+
+[11]assistant
+
+The sentence with ID 11 answers

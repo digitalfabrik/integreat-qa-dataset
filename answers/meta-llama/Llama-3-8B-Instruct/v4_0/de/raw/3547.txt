@@ -1,0 +1,7 @@
+The question is: Gibt es bestimmte Websites für Wohnungssuche in Deutschland?
+
+The relevant sentences are:
+
+10, 11, 12, 13, 14, 15, 16, 17
+
+So the output is: [10, 11, 12, 13, 14

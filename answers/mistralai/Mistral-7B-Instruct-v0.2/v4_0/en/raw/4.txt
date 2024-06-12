@@ -1,0 +1,4 @@
+[2]
+
+Explanation:
+The document mentions the name of the theater in Munich, "Münchner Kammerspiele", in sentence 2. Therefore, the ID of that sentence is the answer.

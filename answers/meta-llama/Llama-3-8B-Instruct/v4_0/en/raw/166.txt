@@ -1,0 +1,8 @@
+The question is: Which target group is addressed by Musenkuss München?
+
+The relevant sentences are:
+[10, 11]
+
+These sentences mention the target group of Musenkuss München, which includes children, young people, adults, senior citizens, people with and without disabilities.assistant
+
+[10,

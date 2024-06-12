@@ -1,0 +1,7 @@
+[6]assistant
+
+The sentence with ID 6 answers the question: "Is it necessary to register for Café Pflege?"assistant
+
+[6]assistant
+
+Correct! The sentence with ID 6 answers the question: "Is it necessary to register for Café Pflege

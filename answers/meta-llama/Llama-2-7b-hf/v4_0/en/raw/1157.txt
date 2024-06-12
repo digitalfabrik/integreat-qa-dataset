@@ -1,0 +1,9 @@
+[INSTRUCTIONS]
+
+The input is a single document.
+The input contains one or more questions.
+The input contains one or more documents.
+Each document consists of one or more sentences.
+Each sentence is numbered.
+Each question is numbered.
+The input contains

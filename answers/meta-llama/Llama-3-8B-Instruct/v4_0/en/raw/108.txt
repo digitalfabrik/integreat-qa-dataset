@@ -1,0 +1,10 @@
+Question: Which specialists can be consulted if necessary?
+
+Document: [0-35]
+
+Answer: [12, 18, 22, 31, 32]
+
+Explanation: The question asks which specialists can be consulted if necessary. The relevant sentences are:
+
+* 12: Pediatricians
+* 18: G

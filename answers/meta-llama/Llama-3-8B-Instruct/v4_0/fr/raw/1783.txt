@@ -1,0 +1,5 @@
+[3]assistant
+
+The question is: Quel document de l'OFPRA indique comment la procédure d'asile a été décidée?
+
+The answer is: [3] La décision indique comment votre procédure d'asile a été décidée.

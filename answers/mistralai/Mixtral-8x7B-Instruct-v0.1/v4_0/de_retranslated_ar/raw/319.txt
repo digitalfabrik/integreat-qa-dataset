@@ -1,0 +1,1 @@
+[4, 7, 20] These IDs are selected because they describe the two types of apprenticeship programs in Germany: the school-based training (sentence 4) and the dual system (sentence 7), and specify where to apply for each type depending on the desired profession

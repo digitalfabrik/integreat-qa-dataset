@@ -1,0 +1,7 @@
+The question is: What are the requirements for attending a technical college?
+
+The relevant sentences are:
+
+[3, 4, 14, 15, 16, 17]
+
+These sentences provide information about the requirements for attending a technical college, including having completed vocational training, having professional experience, and holding certain qualifications

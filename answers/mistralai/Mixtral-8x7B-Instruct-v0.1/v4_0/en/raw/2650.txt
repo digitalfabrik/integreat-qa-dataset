@@ -1,0 +1,4 @@
+The relevant sentences from the document that answer the question are:
+["2", "The deadline for employees depends on the duration of the employment relationship.", "6 years --> 2 months notice period", "7 Probationary period maximum 6 months --> 2 weeks notice period"]
+
+Explanation:

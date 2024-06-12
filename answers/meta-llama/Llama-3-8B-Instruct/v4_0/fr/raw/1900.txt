@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "Combien de types d'universités existe-t-il en Allemagne?"assistant
+
+You are correct. The sentence with ID 2 answers the question: "Combien de types d'universités

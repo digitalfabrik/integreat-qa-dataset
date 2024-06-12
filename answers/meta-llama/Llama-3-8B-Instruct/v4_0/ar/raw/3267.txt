@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "ما الفرق بين تصريح الإقامة وتصريح العمل؟" which translates to "What is the difference between residence permit and work permit?".
+
+Since this question is not present in the document, the output is an empty list: []assistant

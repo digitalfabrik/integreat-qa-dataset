@@ -1,0 +1,7 @@
+Answer: The procedure to cancel a GEZ contract is only possible in special cases.
+Sentences: 3, 4
+
+Answer: None.
+Numbers: 0, 1, 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+
+Explanation: The context does not provide any information on how to cancel a GEZ contract. It only mentions that a contract termination is only possible in special cases and that some people can be exempted from the GEZ fee. However, it does not specify what those special cases are or how to go about cancelling the contract in those cases. Therefore, no answer sentences can be identified in the context.

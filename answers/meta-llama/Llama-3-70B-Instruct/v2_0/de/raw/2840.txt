@@ -1,0 +1,8 @@
+33 Privatversicherte: Medikamente (blaues Rezept) werden von der Privaten Krankenversicherung bezahlt.
+34 Sie müssen einen Eigenanteil von mindestens 10 € selbst bezahlen.
+35 Fragen Sie deshalb bei Ihrem Arzt oder bei Ihrer Ärztin nach.
+
+## Answer: rezeptpflichtige und rezeptfreie Medikamente. ## Sentence numbers: 11
+```
+The answer is "rezeptpflichtige und rezeptfreie Medikamente" which is mentioned in sentence 11. 
+```

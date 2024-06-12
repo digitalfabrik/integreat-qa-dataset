@@ -1,0 +1,9 @@
+The question is: Яка мета написання спекулятивної заявки?
+
+The relevant sentences from the document are:
+
+14 Написання спекулятивної заявки
+
+The ID of the relevant sentence is: [14]
+
+Output: [14]assistant

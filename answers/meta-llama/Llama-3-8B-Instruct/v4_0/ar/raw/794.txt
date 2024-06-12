@@ -1,0 +1,5 @@
+[2, 6, 7, 8, 9, 10]assistant
+
+The sentences that answer the question "ما هو الغرض من لوائح الصحة والسلامة؟" are:
+
+2. ينص قانون الصحة والسلامة المهنية (ArbSchG

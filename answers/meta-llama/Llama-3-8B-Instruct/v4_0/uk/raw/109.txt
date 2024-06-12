@@ -1,0 +1,12 @@
+Question: Хто зазвичай проводить обстеження дітей?
+
+Document: 
+
+The relevant sentences are:
+13 Дітей зазвичай оглядають педіатри.
+
+Output: [13]assistant
+
+Question: Хто зазвичай проводить обстеження дітей?
+
+Document

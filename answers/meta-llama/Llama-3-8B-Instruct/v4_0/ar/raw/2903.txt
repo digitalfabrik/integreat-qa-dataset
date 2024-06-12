@@ -1,0 +1,9 @@
+The question is: ما هو تأمين المعاش التقاعدي الألماني وما هي المزايا التي يقدمها؟
+
+The relevant sentences are:
+
+[2, 3, 13]
+
+These sentences provide information about the German pension insurance system and the benefits it offers.assistant
+
+The

@@ -1,0 +1,2 @@
+The relevant sentences from the document that answer the question are:
+[2, 4]

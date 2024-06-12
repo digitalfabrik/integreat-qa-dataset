@@ -1,0 +1,9 @@
+## Answer: Man kann an einer "beruflichen Schule" alle Schulabschlüsse erwerben, vom Hauptschulabschluss bis zum Abitur. ## Sentence numbers: 2
+
+## Answer: Es ist möglich, sich auf einen Beruf vorzubereiten oder einen Beruf zu erlernen. ## Sentence numbers: 3
+
+## Answer: Wenn man keinen Schulabschluss hat und diesen erwerben möchte oder wenn man bereits einen Schulabschluss hat, gibt es verschiedene Angebote und Bildungswege. ## Sentence numbers: 6
+
+## Answer: Die Lehrkräfte können bei der Ausbildung beraten. ## Sentence numbers: 7
+
+## Answer: None. ## Numbers: -1 (There is no information about specific degrees or certificates that can be earned at a "berufliche Schule" other than the general information about earning school diplomas and preparing for or learning a trade.)

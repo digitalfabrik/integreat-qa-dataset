@@ -1,0 +1,8 @@
+## SOLUTION
+
+```javascript
+const { readFileSync } = require('fs');
+const { parse } = require('csv-parse/lib/sync');
+const { uniq } = require('lodash');
+
+const parseFile = (filePath) =>

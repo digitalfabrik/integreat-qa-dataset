@@ -1,0 +1,9 @@
+The question is: هل هناك أي تكاليف لزيارة النساء لمقهى غلانز؟
+
+The relevant sentences are:
+
+* 12 لا توجد رسوم دخول، ولا يلزم شراء طعام/مشروبات.
+
+The IDs of the relevant sentences are: [12]
+
+Note

@@ -1,0 +1,12 @@
+Input Format
+
+Each line in the input file will be a sentence in the document.
+
+Output Format
+
+For each sentence in the document, output the sentence number in brackets.
+
+Sample Input 0
+
+0 EU migrants and ethnic repatriates
+1 EU migrants

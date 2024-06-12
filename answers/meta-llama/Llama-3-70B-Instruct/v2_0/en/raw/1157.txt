@@ -1,0 +1,8 @@
+16 The guide is available in plain language.
+17 The guide is available in easy-to-understand language.
+18 The guide is available in sign language.
+19 The guide is available in Braille.
+20 The guide is available in audio format.
+
+## Answer: www.bmas.de ## Sentence numbers: 11
+## Answer: "My child is disabled - what help is available" ## Sentence numbers: 13

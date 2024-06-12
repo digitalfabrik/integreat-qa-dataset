@@ -1,0 +1,10 @@
+10 You can find this information on the website of your municipality or by contacting the municipality directly.
+11 If you are interested in an integration course, you should contact the adult education center in your district.
+12 The adult education center offers various courses, including language courses, computer courses, and integration courses.
+13 You can register for an integration course at the adult education center.
+14 The adult education center will inform you about the course content, the duration of the course, and the costs.
+15 You can also ask about the possibility of financial support.
+
+## Answer: You can register for an integration course at the adult education center. ## Sentence numbers: 13
+```
+Please let me know if you need any further assistance!

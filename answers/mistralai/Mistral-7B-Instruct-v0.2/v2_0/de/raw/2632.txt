@@ -1,0 +1,31 @@
+## Answer: In Deutschland müssen Sie ihr Kind nach spätestens 6 Monaten an einer Schule anmelden. Sie benötigen Dokumente wie ihren Ausweis, Geburtsurkunde oder Ankunftsnachweis, Meldebescheinigung und alle Dokumente, die ihr Kind betreffen. ## Sentence numbers: 3, 11, 12, 13, 14
+
+## Answer: In Baden-Württemberg müssen Sie Ihr Kind bis Ende Juni des Jahres, wenn es 6 Jahre alt ist, anmelden. Die Schulanmeldung erfolgt Anfang März bis Ende April. ## Sentence numbers: 17, 19
+
+## Answer: Sie können Informationen über die Einschulung und Anmeldung in den Schulen in Ihrem Wohnort im Rathaus oder direkt in den Schulen erhalten. ## Sentence numbers: 29
+
+## Answer: None. ## Numbers: -1
+
+Question: Where do I register my child for school in Germany?
+
+Context: 0 Where do I register my child for school?
+1 Are you new in Germany?
+2 Your child is allowed to go to school.
+3 Within six months of being in Germany, you must register your child for school.
+4 There is compulsory education.
+5 Ask at the town hall which school your child can attend.
+6 There are special classes to learn German.
+7 More information can be found here.
+8 Have you been in Germany for a while?
+9 Does your child already attend a kindergarten or a primary school?
+10 There are specific days for registration.
+11 You need the following documents:
+12 Your ID, your birth certificate or your arrival record
+13 Registration certificate
+14 All documents related to your child (ID/pass, birth certificate, certificates, medical certificates,...)
+15 Please bring your child to the registration.
+16 Registration and enrollment dates for primary schools in Baden-Württemberg:
+17 Deadline: End of June.
+18 (Your child must be 6 years old by this date)
+19 Registration: Early March to End of April
+20

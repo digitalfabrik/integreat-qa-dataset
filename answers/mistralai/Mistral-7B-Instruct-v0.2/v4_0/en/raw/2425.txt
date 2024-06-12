@@ -1,0 +1,3 @@
+[11, 12]
+
+Explanation: Sentences 11 and 12 provide information on how the questioner can become a volunteer in Germany, specifically by contacting the municipality where they live.

@@ -1,0 +1,22 @@
+## Answer: MAPS.ME-App ## Sentence numbers: 21, 22, 24, 25, 31, 32, 41, 42
+## Answer: MVG-App ## Sentence numbers: 17, 18, 19, 41, 43
+## Answer: None. ## Numbers: -1
+## Question: Welche Navigations-App ist für München zu empfehlen?
+## Context: 0 Stadtplan und öffentliche Verkehrsmittel
+## 1 Stadtplan und öffentliche Verkehrsmittel
+## 2 Einen Stadtplan von München mit Straßennamen und Hausnummern finden Sie hier.
+## 3 Der öffentliche Nahverkehr in München heißt ÖPNV (öffentlicher Personennahverkehr).
+## 4 Es gibt mehrere verschiedene Karten.
+## 5 Die farbigen Zonen sind die Tarifzonen.
+## 6 Diese sind wichtig für die Auswahl der richtigen
+## 7 Ticket.
+## 8 Eine Karte für S-Bahn, U-Bahn und Regionalzug.
+## 9 Eine Karte für S-Bahn, U-Bahn, Regionalzug und Straßenbahn.
+## 10 Eine Karte für S-Bahn, U-Bahn, Regionalzug und Bus.
+## 11 Website
+## 12 Detaillierte Fahrpläne finden Sie hier:
+## 13 S-Bahn: S1, S2, S3, S4, S6, S7, S8
+## 14 U-Bahn: U1, U2, U3, U4, U5, U6, U7, U8
+## 15 Straßenbahn: 12, 16, 17, 18, 19, 20, 21, 23, 25, 27
+## 16 Detaillierte Busfahrpläne finden Sie hier.
+## 17 Die MVG-App zeigt Ihnen, wie Sie von einem Ort zum anderen gelangen und wie lange

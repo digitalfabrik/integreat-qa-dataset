@@ -1,0 +1,10 @@
+The question is: Comment fonctionnent le premier et le deuxième vote?
+
+The relevant sentences are:
+
+21 Vous avez alors le droit de vote.
+22 Cela signifie que vous pouvez voter.
+
+The IDs of the relevant sentences are: [21, 22]assistant
+
+The question is: Comment

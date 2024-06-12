@@ -1,0 +1,5 @@
+[8]assistant
+
+The sentence with ID 8 answers the question: "Ab welchem Alter kann man in Deutschland eine weiterführende Schule besuchen?"assistant
+
+You are correct. The sentence with ID 8 answers the question: "Ab welchem Alter kann man in Deutschland

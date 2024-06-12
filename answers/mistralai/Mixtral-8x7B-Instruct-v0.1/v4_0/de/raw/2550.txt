@@ -1,0 +1,4 @@
+The relevant sentences' IDs are: [1, 3, 5]
+
+Sentence 1 gives a general description of what open treffs and cafes are, which is relevant to the question.
+Sentence 3 describes the type of activities that occur at these meetings, which is directly

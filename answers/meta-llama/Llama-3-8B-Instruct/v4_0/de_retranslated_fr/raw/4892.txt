@@ -1,0 +1,7 @@
+The question is: Welche öffentlichen Schulen bieten Deutschkurse für Kinder an?
+
+The relevant sentences are: []assistant
+
+The correct answer is indeed an empty list, as the document does not mention any public schools that offer German courses for children.assistant
+
+I completely agree!

@@ -1,0 +1,11 @@
+The question is: Was ist der Unterschied zwischen Asyl und Flüchtling?
+
+The relevant sentences from the document are:
+
+63 Zum Beispiel zu: Asylverfahren
+
+The ID of the relevant sentence is: [63]
+
+Output: [63]assistant
+
+The question is: Was ist der

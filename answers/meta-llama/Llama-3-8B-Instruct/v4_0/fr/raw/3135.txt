@@ -1,0 +1,6 @@
+[2, 4, 5]assistant
+
+The sentences that answer the question "Quelles sont les assurances obligatoires en Allemagne?" are:
+
+* 2: "Tu dois avoir ces assurances en Allemagne :"
+* 4: "Pour les automobilistes :

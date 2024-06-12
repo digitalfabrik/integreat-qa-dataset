@@ -1,0 +1,7 @@
+Based on the document provided, the following sentences answer the question:
+
+[2, 3, 4, 10, 11, 12, 14, 15, 16]
+
+The sentences in German are:
+
+[1 Seit dem 3

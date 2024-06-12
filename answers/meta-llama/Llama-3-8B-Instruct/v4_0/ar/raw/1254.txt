@@ -1,0 +1,11 @@
+The question is: ما هي المدة التي تستغرقها المدرسة الابتدائية؟
+
+The relevant sentences are:
+
+[1]
+
+This sentence answers the question by stating that the duration of elementary school is 4 years.assistant
+
+[1]assistant
+
+[1]

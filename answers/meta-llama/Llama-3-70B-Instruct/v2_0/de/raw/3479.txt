@@ -1,0 +1,33 @@
+25 Integrationskurse
+26 Der Integrationskurs umfasst 600 Stunden und gliedert sich in einen Basis- und einen Aufbaukurs.
+27 Der Basis- und Aufbaukurs umfasst jeweils 300 Stunden.
+28 Der Integrationskurs wird von verschiedenen Trägern durchgeführt.
+29 Die Träger sind:
+30 Die Volkshochschule Augsburg
+31 Die Katholische Erwachsenenbildung
+32 Die Deutsche Angestellten-Akademie
+33 Die Integrationskurse werden in verschiedenen Sprachen angeboten.
+34 Die Sprachen sind:
+35 Deutsch
+36 Englisch
+37 Französisch
+38 Italienisch
+39 Spanisch
+40 Türkisch
+41 Arabisch
+42 Farsi
+43 Russisch
+44 Polnisch
+45 Portugiesisch
+46 Die Integrationskurse sind kostenlos.
+47 Die Teilnehmer müssen lediglich die Kosten für die Lehrmaterialien tragen.
+48 Die Integrationskurse dienen der Verbesserung der Deutschkenntnisse und der Orientierung im Landkreis Augsburg.
+49 Die Integrationskurse sind verpflichtend für bestimmte Personengruppen.
+50 Die Personengruppen sind:
+51 Asylbewerber
+52 Geduldete
+53 Flüchtlinge
+54 Die Integrationskurse werden von der Bundesregierung gefördert.
+55 Die Integrationskurse sind ein wichtiger Schritt auf dem Weg zur Integration.
+
+## Answer: Integrationskurse werden in verschiedenen Sprachen angeboten. ## Sentence numbers: 33

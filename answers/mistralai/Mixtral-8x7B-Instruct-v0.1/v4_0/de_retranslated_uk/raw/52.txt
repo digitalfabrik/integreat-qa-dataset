@@ -1,0 +1,4 @@
+The relevant sentence IDs are:
+[4, 10]
+
+Sentence 4 provides an overview of the types of education the Mittelschule prepares students for, including dual vocational training. Sentence 10 explicitly mentions the requirement of having a Mittels

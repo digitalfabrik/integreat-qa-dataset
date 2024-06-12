@@ -1,0 +1,5 @@
+The question is: Ist der Deutschtest in Bayern gebührenpflichtig?
+
+The document does not mention the Deutschtest at all, so there are no sentences that answer the question. Therefore, the output is: []assistant
+
+You are correct. The question is about the German test in Bavaria

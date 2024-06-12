@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "Which visa is valid for staying in the entire Schengen area?"assistant
+
+[2]assistant
+
+The sentence with ID 2 answers the question: "Which visa is valid for staying in

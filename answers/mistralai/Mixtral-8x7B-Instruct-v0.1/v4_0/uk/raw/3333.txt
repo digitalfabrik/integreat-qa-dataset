@@ -1,0 +1,3 @@
+[]
+
+The reason for the empty list is that none of the sentences in the document directly answer the question about how to cancel a GEZ license contract. While the document provides information about the GEZ license and its requirements, it does not give instructions on how to cancel a contract.

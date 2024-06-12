@@ -1,0 +1,6 @@
+[15, 16]assistant
+
+The sentences that answer the question "Peut-on trouver des offres gratuites sur Musenkuss München?" are:
+
+15 Certaines offres ont un coût, d'autres sont gratuites.
+16 Vous pouvez filtrer les offres par "gratuit".

@@ -1,0 +1,7 @@
+The question is: На яку вікову групу дітей орієнтований Zu Hause Gesund Werden?
+
+The relevant sentences are:
+
+7 Вашій хворій дитині щонайменше 6 місяців і щонайбільше 12 років.
+
+The IDs of the relevant sentences are

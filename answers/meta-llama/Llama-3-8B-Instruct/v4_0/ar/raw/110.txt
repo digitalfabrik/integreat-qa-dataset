@@ -1,0 +1,9 @@
+The question is: هل تخضع امتحانات U في بافاريا لرسوم؟
+
+The relevant sentences from the document are:
+
+15 تُعقد في وقت محدد ودائماً ما تكون مجانية.
+
+The ID of the relevant sentence is: [15]
+
+Note: The sentence 15 answers

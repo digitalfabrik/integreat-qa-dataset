@@ -1,0 +1,9 @@
+The question is: Welche Navigations-App ist für München zu empfehlen?
+
+The relevant sentences are:
+
+22 MAPS-Me bietet eine Navigationsfunktion, ist kostenlos und kann offline genutzt werden.
+
+The ID of the relevant sentence is: [22]assistant
+
+The

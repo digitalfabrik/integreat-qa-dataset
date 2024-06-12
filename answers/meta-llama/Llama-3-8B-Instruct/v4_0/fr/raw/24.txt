@@ -1,0 +1,9 @@
+[8]assistant
+
+The sentence that answers the question is:
+
+8 Les billets sont disponibles à partir de 12,70 € (selon le choix des places).
+
+This sentence provides the information about the cost of the entrance to the theatre for children in Munich.assistant
+
+You are

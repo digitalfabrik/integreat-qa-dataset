@@ -1,0 +1,4 @@
+[6, 7, 23, 25-27]
+
+Explanation:
+The question asks about applying for a visa for family reunification. Sentences 6 and 7 provide the answer, as they mention applying for a residence permit after entering the country with a national

@@ -1,0 +1,7 @@
+19 Die Schulsuche hilft Dir, die passende Schule für Dein Kind zu finden.
+20 Die Schulsuche bietet Dir eine Übersicht über alle Schulen im Landkreis Augsburg.
+21 Die Schulsuche ermöglicht Dir, die Schulen nach verschiedenen Kriterien zu filtern.
+22 Die Schulsuche ermöglicht Dir, die Schulen nach verschiedenen Kriterien zu filtern.
+23 Die Schulsuche ermöglicht Dir, die Schulen nach verschiedenen Kriterien zu filtern.
+
+## Answer: 4 Jahre ## Sentence numbers: 1

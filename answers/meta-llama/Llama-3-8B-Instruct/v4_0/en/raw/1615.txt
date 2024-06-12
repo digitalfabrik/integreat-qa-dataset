@@ -1,0 +1,10 @@
+The question is: What is the purpose of writing a speculative application?
+
+The relevant sentences are:
+[17, 19]
+
+These sentences answer the question by explaining the purpose of writing a speculative application.assistant
+
+[17, 19]assistant
+
+[17, 19]

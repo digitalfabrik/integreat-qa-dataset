@@ -1,0 +1,5 @@
+Based on the document provided, the following sentences answer the question:
+
+[31, 41, 42]
+
+Sentence 31 provides an email address for one of the interpreter pools, which can be contacted for translation requests. Sentence 41 advises that

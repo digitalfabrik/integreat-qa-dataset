@@ -1,0 +1,17 @@
+16 Childcare allowances are available in Germany.
+17 The allowances are paid by the state.
+18 The amount of the allowance depends on the income of the parents.
+19 The allowance is paid for children up to the age of 3.
+20 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+21 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+22 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+23 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+24 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+25 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+26 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+27 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+28 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+29 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+30 The allowance is paid for children up to the age of 6 if the parents are in education or training.
+
+## Answer: Childcare allowances are available in Germany. The allowances are paid by the state. The amount of the allowance depends on the income of the parents. The allowance is paid for children up to the age of 3. The allowance is paid for children up to the age of 6 if the parents are in education or training. ## Sentence numbers: 16, 17, 18, 19, 20.

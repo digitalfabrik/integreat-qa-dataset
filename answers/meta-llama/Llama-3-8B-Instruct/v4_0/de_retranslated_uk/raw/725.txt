@@ -1,0 +1,7 @@
+[4]assistant
+
+The sentence with ID 4 answers the question: "Werden während der FrienTS-Sitzungen Foto- oder Videoaufnahmen gemacht?"assistant
+
+[4]assistant
+
+The sentence with ID 4 answers the question: "Werden

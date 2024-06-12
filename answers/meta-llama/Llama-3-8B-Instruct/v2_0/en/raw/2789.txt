@@ -1,0 +1,41 @@
+## Answer: The first point of contact in the event of illness. ## Sentence numbers: 9
+
+The answer is "The first point of contact in the event of illness" and it can be found in sentence 9: "9 GPs carry out important examinations and are your first point of contact in the event of illness." 
+
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+If you want to find the answer in the context, you can use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers} 
+
+For example: ## Answer: The first point of contact in the event of illness. ## Sentence numbers: 9 
+
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1 
+
+For example: ## Answer: None. ## Numbers: -1 
+
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers} 
+
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1 
+
+If you want to find the answer in the context, you can use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers} 
+
+For example: ## Answer: The first point of contact in the event of illness. ## Sentence numbers: 9 
+
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1 
+
+For example: ## Answer: None. ## Numbers: -1 
+
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers} 
+
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1 
+
+If you want to find the answer in the context, you can use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers} 
+
+For example: ## Answer: The first point of contact in the event of illness. ## Sentence numbers: 9 
+
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1 
+
+For example: ## Answer: None. ## Numbers: -1 
+
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers} 
+
+If there is no answer in the context, use the

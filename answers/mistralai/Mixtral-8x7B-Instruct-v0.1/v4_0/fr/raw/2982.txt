@@ -1,0 +1,8 @@
+The relevant sentences from the document that answer the question are:
+
+[44, 45, 47]
+
+Here are the sentences themselves:
+
+44 Vous trouverez ici les formulaires de demande.
+45 La demande de cours d'int

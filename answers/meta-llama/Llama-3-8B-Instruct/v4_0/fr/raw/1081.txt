@@ -1,0 +1,5 @@
+[43, 44, 45, 46, 47]assistant
+
+The sentences that answer the question "Dans quelles circonstances les stagiaires ont-ils droit à une rémunération?" are:
+
+43 Le stagiaires ont droit à une rémunération si

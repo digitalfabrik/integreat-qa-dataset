@@ -1,0 +1,8 @@
+The question is: Як дохід впливає на сплату податків?
+
+The relevant sentences are:
+
+6 Чим вищий дохід, тим більше ви повинні платити.
+7 Якщо ви заробляєте багато, ви платите більше податків.
+
+The IDs of the relevant sentences are: [6,

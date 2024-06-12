@@ -1,0 +1,4 @@
+[INST] Given the question and document below, select the sentences from the document that answer the question.
+It may also be the case that none of the sentences answers the question.
+In the document, each sentence is marked with an ID.
+Output the IDs of the relevant sentences as a list,

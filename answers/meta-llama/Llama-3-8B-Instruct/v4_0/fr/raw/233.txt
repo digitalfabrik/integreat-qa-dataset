@@ -1,0 +1,7 @@
+The question is: À quel groupe d'âge d'enfants s'adresse le programme "En bonne santé à la maison"?
+
+The relevant sentences are:
+
+7 Votre enfant malade est âgé de 6 mois au moins et de 12 ans au plus.
+
+The IDs of the relevant

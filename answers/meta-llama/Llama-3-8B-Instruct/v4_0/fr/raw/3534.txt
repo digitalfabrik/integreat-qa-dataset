@@ -1,0 +1,7 @@
+The question is: Quelles sont les assurances maladie en Allemagne?
+
+The relevant sentences are not found in the document. Therefore, the output is: []assistant
+
+The question is: Quelles sont les assurances maladie en Allemagne?
+
+The relevant sentences are not found in the

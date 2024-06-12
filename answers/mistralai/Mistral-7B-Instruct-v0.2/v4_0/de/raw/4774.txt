@@ -1,0 +1,4 @@
+[2, 5, 6-12]
+
+Explanation:
+The question asks when someone can turn to for help with housing issues. Sentences 2, 5, and the entire section from 6 to 12 all relate to seeking help for housing-related problems.

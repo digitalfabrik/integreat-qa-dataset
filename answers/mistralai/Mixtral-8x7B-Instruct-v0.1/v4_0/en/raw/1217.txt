@@ -1,0 +1,1 @@
+The answer to the question is in sentence 3: "You often have to adhere to a minimum contract term of 24 months with your old provider." So the output is "[3]".

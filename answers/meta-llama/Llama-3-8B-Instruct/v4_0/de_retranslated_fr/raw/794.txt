@@ -1,0 +1,7 @@
+[7, 6]assistant
+
+The question is "Was ist der Zweck von Vorschriften zur Sicherheit am Arbeitsplatz?" which translates to "What is the purpose of regulations for workplace safety?"
+
+The sentences that answer this question are:
+
+7. Für Arbeitsplätze, die für

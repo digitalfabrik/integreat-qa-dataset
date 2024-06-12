@@ -1,0 +1,7 @@
+The question is: Wie funktionieren die erste und die zweite Stimme?
+
+The relevant sentences are:
+
+* [17, 18, 19, 20, 21, 22, 30, 31, 32, 33, 34]
+
+Note that there are no sentences that directly answer

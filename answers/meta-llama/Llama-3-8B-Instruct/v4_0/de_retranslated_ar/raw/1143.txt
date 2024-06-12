@@ -1,0 +1,9 @@
+The question is: Welches ist der Mindestabstand zwischen den Masernimpfungen?
+
+The relevant sentences are:
+
+[11, 14]
+
+These sentences answer the question by stating that the minimum interval between the two vaccinations is four weeks.assistant
+
+[11, 14]assistant

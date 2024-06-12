@@ -1,0 +1,7 @@
+The question is: Y a-t-il des frais pour visiter le Café Glanz pour les femmes?
+
+The relevant sentences are:
+
+12 Pas de prix d'entrée, pas besoin d'acheter quoi que ce soit à manger/à boire.
+
+The ID of the relevant sentence is: [12]

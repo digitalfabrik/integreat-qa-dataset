@@ -1,0 +1,7 @@
+Question: Що станеться, якщо ви перевищите максимально дозволений термін перебування і не подасте заяву на отримання дозволу на проживання?
+
+Document: 0-19
+
+Answer: [16]
+
+Explanation: Sentence 16 states that if the term of visa

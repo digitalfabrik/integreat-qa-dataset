@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the difference between a residence permit and a work permit, but the document does not provide any information about these topics. Therefore, the output is an empty list, indicating that no relevant sentences were found in the document.assistant
+
+I completely agree with you!

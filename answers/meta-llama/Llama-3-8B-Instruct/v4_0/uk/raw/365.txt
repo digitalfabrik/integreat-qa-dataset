@@ -1,0 +1,13 @@
+Question: Що означає SHK?
+
+Document:
+
+Output: [24, 27]assistant
+
+Question: Що означає SHK?
+
+Document:
+
+Output: [24, 27]assistant
+
+The correct output is indeed [24, 27] because sentences 24 and

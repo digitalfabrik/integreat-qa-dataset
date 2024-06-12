@@ -1,0 +1,33 @@
+## Answer: Sie müssen Ihr Kind in der Schule anmelden, nachdem Sie in Deutschland spätestens 6 Monaten wohnen. ## Sentence numbers: 3 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Wie melde ich mein Kind in Deutschland für Schule an?
+
+Context: 0 Wie melde ich mein Kind in einer Schule an?
+1 Sie sind neu in Deutschland?
+2 Ihr Kind darf in eine Schule gehen.
+3 Nach spätestens 6 Monaten in Deutschland, müssen Sie Ihr Kind an einer Schule anmelden.
+4 Es besteht Schulpflicht.
+5 Fragen Sie im Rathaus nach, in welche Schule Ihr Kind gehen kann.
+6 Es gibt spezielle Klassen, um Deutsch zu lernen.
+7 Weitere Informationen finden Sie hier.
+8 Sie sind schon eine Weile in Deutschland?
+9 Ihr Kind besucht bereits eine Kindertageseinrichtung oder eine Grundschule?
+10 Es gibt bestimmte Tage für die Anmeldung.
+11 Sie brauchen folgende Dokumente:
+12 Ihren Ausweis, Ihre Geburtsurkunde oder Ihren Ankunftsnachweis
+13 Meldebescheinigung
+14 alle Dokumente, die Ihr Kind betreffen (Ausweis/Pass, Geburtsurkunde, Zeugnisse, ärztliche Atteste,...)
+15 Bitte nehmen Sie zur Anmeldung Ihr Kind mit in die Schule.
+16 Einschulungstermine und Anmeldetermine an Grundschulen in Baden-Württemberg:
+17 Baden-Württemberg Stichtag: Ende Juni.
+18 (Ihr Kind muss bis zu diesem Tag 6 Jahre alt sein)
+19 Schulanmeldung: Anfang März bis Ende April
+20 Einschulung: September
+21 Hinweise zur Einschulung (Grundschule) finden Sie hier.
+22 Einschulungs- und Anmeldetermine für andere Schulen (weiterführenden Schulen) in Baden-Württemberg:
+23 Anmeldetermine finden im März statt.
+24 Fragen Sie mehrere Wochen oder Monate vor diesem Datum in der Schule nach.
+25 Achtung

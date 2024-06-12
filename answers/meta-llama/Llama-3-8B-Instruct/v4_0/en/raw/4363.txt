@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the language level required for most jobs in Munich, but the document does not provide any information about language level requirements. Therefore, the output is an empty list, indicating that no sentence in the document answers the question.assistant
+
+You are correct. The output

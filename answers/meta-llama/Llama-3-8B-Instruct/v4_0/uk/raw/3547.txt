@@ -1,0 +1,7 @@
+The question is: Чи існують спеціальні веб-сайти для пошуку житла в Німеччині?
+
+The relevant sentences are:
+
+10, 12, 13, 14, 15, 16, 17, 19, 20
+
+So, the output is: [

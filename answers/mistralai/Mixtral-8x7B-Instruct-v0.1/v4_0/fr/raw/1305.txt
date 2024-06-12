@@ -1,0 +1,5 @@
+[12, 13, 14, 15, 16, 17, 27, 28, 29, 30]
+
+Explanation:
+
+The relevant sentences that answer the question "Qu'est-ce que le "

@@ -1,0 +1,7 @@
+The relevant sentences are:
+[2, 3, 4, 8]
+
+Explanation:
+Sentence 2 introduces the two options for health insurance in Germany.
+Sentence 3 provides more detail on the two options.
+Sentence 4 explains that most people have stat

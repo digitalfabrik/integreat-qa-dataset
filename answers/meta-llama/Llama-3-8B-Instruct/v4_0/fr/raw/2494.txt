@@ -1,0 +1,7 @@
+The question is: Qu'est-ce que la loi sur le séjour et l'intégration des étrangers?
+
+The relevant sentences are:
+
+[0, 3-8, 11-13, 18]
+
+Note: The sentence IDs are 0, 3-8, 11-13

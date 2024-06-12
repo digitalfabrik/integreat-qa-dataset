@@ -1,0 +1,21 @@
+## Answer: Alle Altersgruppen, Kinder, Jugendliche, Erwachsene, Senior*innen. ## Numbers: 10, 13, 14
+
+## Answer: Menschen mit und ohne Behinderung. ## Numbers: 11
+
+## Answer: Kreative Angebote finden sich auf www.musenkuss-muenchen.de. ## Numbers: 5, 7
+
+## Answer: Es gibt Angebote für Schreiben, Programmieren, Musizieren, Malen, Fotografieren, Theaterkurs, Online-Angebote, Führungen, Veranstaltungen, Events, Qualifizierung, Musik, Theater, Literatur, Tanz, Spiel, Medien, Kunst. ## Numbers: 1, 4, 8, 11, 18, 19, 21
+
+## Answer: Es gibt Angebote, die kostenlos sind. ## Numbers: 15, 16
+
+## Answer: Informationen zu den Angeboten finden Sie, indem Sie auf das Angebot klicken. ## Numbers: 19
+
+## Answer: None. ## Numbers: -1
+
+## Answer: Die Barrierefreiheit hängt vom jeweiligen Angebot ab. ## Numbers: 17
+
+## Answer: Viele der Angebote sind barrierearm. ## Numbers: 18
+
+## Answer: Musenkuss München richtet sich an kreativ Interessierte. ## Numbers: 2
+
+## Answer: Kultur für Alle! ## Numbers: 13

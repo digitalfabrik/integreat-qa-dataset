@@ -1,0 +1,9 @@
+What to do in emergency cases?
+
+[27]assistant
+
+What to do in emergency cases?
+
+[]assistant
+
+I apologize for the mistake. The correct output is indeed an empty list, as none of the sentences in the document directly answer the question "Що робити в екстрених випадках

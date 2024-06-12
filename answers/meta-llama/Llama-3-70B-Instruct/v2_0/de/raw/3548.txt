@@ -1,0 +1,5 @@
+23 Augsburg/
+24 Suche über Makler
+25 Ein Makler kann Dir helfen, eine Wohnung zu finden.
+
+## Answer: Ja. ## Sentence numbers: 19, 20, 21, 22, 23

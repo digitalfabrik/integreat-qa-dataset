@@ -1,0 +1,7 @@
+The question is: In welchen Sprachen kann Donna Mobile seine Radfahrkurse anbieten?
+
+The relevant sentences are:
+
+28 Die Kurse können in den folgenden Sprachen angeboten werden: Deutsch, Türkisch, Russisch, Kroatisch, Englisch
+
+The IDs of the relevant sentences are

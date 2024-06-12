@@ -1,0 +1,3 @@
+[5, 9, 16-18, 21, 22]
+
+Explanation: The document mentions several types of schools, but only the Sprengelschule is explicitly stated to be a public school. Among the types of secondary schools mentioned, only M

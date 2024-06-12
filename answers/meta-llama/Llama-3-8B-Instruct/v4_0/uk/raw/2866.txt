@@ -1,0 +1,7 @@
+Question: Де я можу отримати кар'єрну консультацію щодо мого трудового життя?
+
+Document: 
+
+Answer: [16, 17, 18, 19]
+
+Note: Sentences 16, 17, and 18 provide information about the professional consultation service (BBiE

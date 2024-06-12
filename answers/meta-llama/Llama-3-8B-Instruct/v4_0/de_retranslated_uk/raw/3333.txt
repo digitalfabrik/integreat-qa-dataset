@@ -1,0 +1,9 @@
+The question is: Wie kann ich den Vertrag mit der Gebühreneinzugszentrale (GEZ) kündigen?
+
+The relevant sentences are:
+
+[]
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]", as none of the sentences

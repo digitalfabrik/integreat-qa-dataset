@@ -1,0 +1,24 @@
+41 You can download it here.
+42 The German healthcare system is very good.
+43 It is one of the best in the world.
+44 You will get good help here.
+45 You can trust the doctors and medical staff.
+46 They are very well trained.
+47 They will help you with all your health problems.
+48 You can also get help in your own language.
+49 Many doctors and medical staff speak English.
+50 You can also get help from interpreters.
+51 They will translate for you.
+52 You can also get help from the medical on-call service.
+53 They will help you in an emergency.
+54 You can also get help from the pharmacy emergency service.
+55 They will help you with medication.
+56 You can also get help from the dental emergency service.
+57 They will help you with dental problems.
+58 You can also get help from the public health department.
+59 They will help you with health protection and prevention.
+60 You can trust the German healthcare system.
+61 It is very good.
+62 You will get good help here.
+
+## Answer: "Outpatient" means that the patient goes home after treatment. ## Sentence numbers: 5

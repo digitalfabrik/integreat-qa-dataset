@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "What self-help groups are there in my area?" and the document does not provide any information about self-help groups in a specific area. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant
+
+I completely

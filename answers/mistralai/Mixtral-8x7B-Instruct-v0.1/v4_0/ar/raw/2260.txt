@@ -1,0 +1,5 @@
+[2, 4, 9]
+
+Explanation:
+
+The question asks for the emergency number in Germany. In the document, the emergency numbers for the police (110) and fire department (112) are provided in sentences 2 and 4, respectively. Additionally,

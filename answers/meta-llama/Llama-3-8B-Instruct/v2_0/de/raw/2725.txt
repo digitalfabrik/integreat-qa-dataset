@@ -1,0 +1,14 @@
+## Answer: Es gibt verschiedene Methoden, wenn Sie nicht schwanger werden wollen oder die Infektion mit sexuell übertragbaren Krankheiten verhindern möchten. ## Sentence numbers: 15 [/INST] 
+## Answer: Zum Beispiel Barriere-Methoden wie das Kondom, oder Methoden mit Hormonen wie die Pille. ## Sentence numbers: 16 [/INST] 
+## Answer: Vor sexuell übertragbaren Krankheiten wie HIV schützt ein Kondom. ## Sentence numbers: 20 [/INST] 
+## Answer: Sie können sich bei einem Frauenarzt oder einer Frauenärztin über die Verhütungsmethoden informieren. ## Sentence numbers: 21 [/INST] 
+## Answer: None. ## Numbers: -1 [/INST]  [/INST] 
+```
+The answer sentences to the question "Welche Verhütungsmethoden gibt es?" are:
+
+## Answer: Es gibt verschiedene Methoden, wenn Sie nicht schwanger werden wollen oder die Infektion mit sexuell übertragbaren Krankheiten verhindern möchten. ## Sentence numbers: 15
+## Answer: Zum Beispiel Barriere-Methoden wie das Kondom, oder Methoden mit Hormonen wie die Pille. ## Sentence numbers: 16
+## Answer: Vor sexuell übertragbaren Krankheiten wie HIV schützt ein Kondom. ## Sentence numbers: 20
+## Answer: Sie können sich bei einem Frauenarzt oder einer Frauenärztin über die Verhütungsmethoden informieren. ## Sentence numbers: 21
+
+Note that there is no answer in the context for the question "Wie kann man die 'Pille danach' nehmen?" as it is not mentioned in the given text. [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST] [/INST]

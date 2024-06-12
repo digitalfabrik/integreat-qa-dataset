@@ -1,0 +1,13 @@
+## Answer: Du kannst eine Ausbildung mit Duldung suchen, indem du den Ausbildungsvertrag beim Regierungspräsidium einreichen musst. ## Sentence numbers: 6 [/INST] 
+## Answer: Du kannst eine Ausbildung mit Duldung suchen, wenn du bereits seit drei Monaten im Besitz einer Duldung nach § 60a bist. ## Sentence numbers: 5 [/INST] 
+## Answer: None. ## Numbers: -1 [/INST]  ```
+The answer to the question "Wo kann ich eine Ausbildung mit Duldung suchen?" is "Du kannst eine Ausbildung mit Duldung suchen, indem du den Ausbildungsvertrag beim Regierungspräsidium einreichen musst." (Answer: Du kannst eine Ausbildung mit Duldung suchen, indem du den Ausbildungsvertrag beim Regierungspräsidium einreichen musst. ## Sentence numbers: 6)
+
+The answer to the question "Für wen kommt die Ausbildungsduldung in Frage?" is "Du kannst eine Ausbildung mit Duldung suchen, wenn du bereits seit drei Monaten im Besitz einer Duldung nach § 60a bist." (Answer: Du kannst eine Ausbildung mit Duldung suchen, wenn du bereits seit drei Monaten im Besitz einer Duldung nach § 60a bist. ## Sentence numbers: 5)
+
+There is no answer to the question "Wo kann ich eine Ausbildung mit Duldung suchen?" in the context. (Answer: None. ## Numbers: -1)  ```  ```
+## Answer: Du kannst eine Ausbildung mit Duldung suchen, indem du den Ausbildungsvertrag beim Regierungspräsidium einreichen musst. ## Sentence numbers: 6
+## Answer: Du kannst eine Ausbildung mit Duldung suchen, wenn du bereits seit drei Monaten im Besitz einer Duldung nach § 60a bist. ## Sentence numbers: 5
+## Answer: None. ## Numbers: -1
+```
+The answer to the question "Wo kann ich eine Ausbildung mit Duldung suchen?" is "Du kannst eine Ausbildung mit Duldung suchen, indem du den Ausbildungsvertrag beim Regierungspräsidium einreichen musst." (Answer: Du kannst eine Ausbildung mit Duldung suchen, indem du den Ausbildungsvertrag beim Regier

@@ -1,0 +1,11 @@
+The question is: Які види транспорту відправляються з ЗОБ?
+
+The relevant sentences are:
+
+21, 22, 32
+
+The IDs of the relevant sentences are: [21, 22, 32]assistant
+
+The correct output is:
+
+[20, 21,

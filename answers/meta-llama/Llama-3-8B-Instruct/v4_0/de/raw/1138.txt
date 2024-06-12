@@ -1,0 +1,7 @@
+[11]assistant
+
+The sentence with ID 11 answers the question: "Wer berät Leistungsempfänger kostenlos zu ihrem Energieverbrauch?"assistant
+
+[11]assistant
+
+The sentence with ID 11 answers the question: "Wer berät

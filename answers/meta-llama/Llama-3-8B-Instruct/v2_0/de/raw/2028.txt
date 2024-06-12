@@ -1,0 +1,26 @@
+## Answer: Ein deutsches Sprachzertifikat auf dem Niveau B1, B2 oder C1 bedeutet, dass der Besitzer eine bestimmte Sprachkompetenz in Deutsch besitzt. ## Sentence numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Was bedeutet es, ein deutsches Sprachzertifikat auf dem Niveau B1, B2 oder C1 zu haben?
+
+Context: 0 Hilfe und Beratung
+1 Bildungsberatung der AWO Stuttgart
+2 Als Teil des Jugendmigrationsdienstes berät und unterstützt die Bildungsberatung junge Zuwanderer, die eine akademische Laufbahn in Deutschland beginnen oder fortsetzen wollen.
+3 Die Zielgruppen sind:
+4 neu angekommene Einwanderer
+5 Asylbewerber und Flüchtlinge
+6 Spätaussiedlerinnen und Spätaussiedler
+7 EU-Bürger
+8 bildungsberatung@awo-stuttgart.de
+9 Weitere Informationen und Kontaktangaben finden Sie hier.
+10 Hochschulvorbereitungsprogramm an der Universität Stuttgart
+11 Hier finden Sie Informationen für alle Menschen mit Fluchthintergrund, die sich für ein Studium an der Universität Stuttgart interessieren.
+12 Informationen und Kontaktangaben in Deutsch und Englisch
+13 Berufsberatung
+14 Auch die Berufsberatung steht Ihnen bei Fragen zum Studium zur Seite.
+15 Weitere Informationen finden Sie hier.
+ [/INST] 
+## Answer: Ein deutsches Sprachzertifikat auf dem Niveau B1, B2 oder C1 bedeutet, dass der Besitzer eine bestimmte Sprachkompetenz in Deutsch besitzt. ## Sentence numbers: 0 [/INST] 
+The answer is in sentence 0, which is the title of the context. It does not

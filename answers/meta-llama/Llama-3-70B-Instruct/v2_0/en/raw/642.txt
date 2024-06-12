@@ -1,0 +1,26 @@
+79 Thursday 19:30 - 21:30
+80 Saturday 14:00 - 18:00
+81 Sunday 14:00 - 18:00
+82 Cycling
+83 Cycling is a great way to get around München.
+84 It is environmentally friendly, healthy and fun.
+85 You can cycle on the roads, cycle paths and bike lanes.
+86 There are many bike lanes in München.
+87 You can find bike lanes on the main roads and in the parks.
+88 Bike lanes are marked with a blue sign with a white bicycle.
+89 You can also cycle on the roads, but you have to follow the traffic rules.
+90 There are many bike shops in München where you can buy or repair a bike.
+91 You can also rent a bike.
+92 There are many bike rental shops in München.
+93 You can rent a bike for a day or for a longer period.
+94 You can also rent a bike with a child seat or a trailer.
+95 There are many bike tours in München.
+96 You can take a guided bike tour or go on a self-guided bike tour.
+97 You can find bike tours on the internet or at the tourist information office.
+98 You can also join a bike group or club.
+99 There are many bike groups and clubs in München.
+100 You can find bike groups and clubs on the internet or at the tourist information office.
+
+## Answer: German, Turkish, Russian, Croatian, English ## Sentence numbers: 28
+```
+Please let me know if you need any further assistance!

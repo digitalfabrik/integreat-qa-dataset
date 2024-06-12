@@ -1,0 +1,5 @@
+[10]assistant
+
+The sentence that answers the question "Que faut-il pour suivre une formation en entreprise (en alternance)?" is:
+
+10 Pour suivre une formation en entreprise (en alternance), il faut un diplôme de fin d'études secondaires.assistant

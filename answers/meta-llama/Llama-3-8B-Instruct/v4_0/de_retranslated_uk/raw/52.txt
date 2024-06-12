@@ -1,0 +1,5 @@
+[10, 11]assistant
+
+The sentences that answer the question "Was ist erforderlich, um eine (duale) Ausbildung in einem Unternehmen durchzuführen?" are:
+
+10. Wer eine (duale) betriebliche Ausbildung machen möchte, braucht einen Mittels

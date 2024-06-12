@@ -1,0 +1,7 @@
+Input Format
+The input consists of a single line with the question and a single line with the document.
+The question is a string of up to 100 characters.
+The document is a string of up to 1000 characters.
+
+Output Format
+For each sentence that answers

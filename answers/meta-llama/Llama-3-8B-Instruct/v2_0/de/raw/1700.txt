@@ -1,0 +1,38 @@
+## Answer: Wer kann einen Beratungstermin für die Berufsberatung beantragen? ## Sentence numbers: 14, 15, 16, 17, 18, 19, 20, 21, 24, 27, 28. 
+
+The answer is found in sentences 14, 15, 16, 17, 18, 19, and 20, which list the groups of people who can request a consultation for career guidance. Additionally, sentences 21, 24, 27, and 28 provide contact information for organizations that offer career guidance. 
+
+Note: The question asks who can request a consultation for career guidance, and the answer is a list of groups of people who can do so, as well as some contact information for organizations that offer career guidance. The question does not ask who can provide the consultation, which is mentioned in sentence 12.  ```python
+import re
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+import string
+import pandas as pd
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics.pairwise import euclidean_distances
+from sklearn.metrics.pairwise import manhattan_distances
+from sklearn.metrics.pairwise import minkowski_distance
+from sklearn.metrics.pairwise import hamming_distance
+from sklearn.metrics.pairwise import jaccard_similarity_score
+from sklearn.metrics.pairwise import cosine_similarity_score
+from sklearn.metrics.pairwise import euclidean_distance_score
+from sklearn.metrics.pairwise import manhattan_distance_score
+from sklearn.metrics.pairwise import minkowski_distance_score
+from sklearn.metrics.pairwise import hamming_distance_score
+from sklearn.metrics.pairwise import jaccard_similarity_score
+from sklearn.metrics.pairwise import cosine_similarity_score
+from sklearn.metrics.pairwise import euclidean_distance_score
+from sklearn.metrics.pairwise import manhattan_distance_score
+from sklearn.metrics.pairwise import minkowski_distance_score
+from sklearn.metrics.pairwise import hamming_distance_score
+from sklearn.metrics.pairwise import jaccard_similarity_score
+from sklearn.metrics.pairwise import cosine_similarity_score
+from sklearn.metrics.pairwise import euclidean_distance_score
+from sklearn.metrics.pairwise import manhattan_distance_score
+from sklearn.metrics.pairwise import minkowski_distance_score
+from sklearn.metrics.pairwise import hamming_distance_score
+from sklearn.metrics.pairwise import jaccard_similarity_score

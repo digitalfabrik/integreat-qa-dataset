@@ -1,0 +1,3 @@
+[5, 9, 10-18]
+
+Explanation: The question asks if there are specific websites for apartment hunting in Germany, and the document provides information about various ways to search for apartments, including in newspapers and online. The relevant sentences identify specific websites for apartment hunting in Germany,

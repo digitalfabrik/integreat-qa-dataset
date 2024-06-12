@@ -1,0 +1,4 @@
+The relevant sentence IDs are:
+[1, 3, 4, 25]
+
+These sentences provide information about the required insurance in Germany, including health insurance, car liability insurance, and the optional liability insurance.

@@ -1,0 +1,6 @@
+The question is: Qu'est-ce que le "certificat d'autorisation" dans le cadre du cours d'intégration?
+
+The relevant sentences from the document are:
+
+* 13 Visite volontaire : certificat d'autorisation nécessaire
+* 15 Ensuite, tu as besoin d

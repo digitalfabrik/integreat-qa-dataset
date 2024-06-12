@@ -1,0 +1,7 @@
+The relevant sentences from the document that answer the question are:
+
+[1, 15, 16, 17, 18]
+
+Sentence 1 is relevant because it states that a request for a residence permit can be submitted after registering in the system.
+
+Sent

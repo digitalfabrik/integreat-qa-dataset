@@ -1,0 +1,11 @@
+Question: Які методи контрацепції існують?
+
+Document: 14, 15, 16
+
+Output: [14, 15, 16]assistant
+
+Question: Які методи контрацепції існують?
+
+Document: 14, 15, 16
+
+Output:

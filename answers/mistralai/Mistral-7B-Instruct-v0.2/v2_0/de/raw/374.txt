@@ -1,0 +1,19 @@
+## Answer: Die folgenden Dokumente müssen eingereicht werden: das Jahreseinkommen aller Haushaltsmitglieder sowie die Rente, die Miete oder die monatlichen Kosten, zu den Kosten gehören bestimmte Ausgaben für Tilgung und Zinsen sowie für Instandhaltungs- oder Verwaltungskosten. ## Sentence numbers: 15, 16, 17, 18
+
+## Answer: None. ## Numbers: -1
+
+## Question: Was muss man tun, um Wohngeld zu beantragen?
+
+## Context: 0 Wohngeld
+## 1 Wohngeld
+## 2 Der Staat hilft auch Bürgerinnen und Bürgern mit wenig Einkommen, die keine Leistungen des Jobcenters bekommen.
+## 3 Zum Beispiel können Mieterinnen und Mieter, sowie Untermieterinnen und Untermieter einer Wohnung oder Heimbewohnerinnen und Heimbewohner einen Mietzuschuss bekommen.
+## 4 Wer ein Haus, eine Wohnung oder eine landwirtschaftliche Nebenerwerbsstelle besitzt, kann auch Wohngeld beantragen.
+## 5 Voraussetzungen
+## 6 Der Anspruch auf Wohngeld und die Höhe des Betrags hängen von drei Faktoren ab:
+## 7 von der Anzahl der Haushaltsmitglieder
+## 8 von der Höhe des Gesamteinkommens
+## 9 von der Höhe der Miete beziehungsweise der monatlichen Belastung
+## 10 Neben der Person die Wohngeld bekommt können auch weitere Haushaltsmitglieder berücksichtigt werden, zum Beispiel Ehegatten, Lebenspartnerinnen und Lebenspartner, Kinder, Eltern oder Geschwister.
+## 11 Wenn Sie bereits Unterstützung für Wohnkosten bekommen, (z.B. bei Bürgergeld) Dann können Sie kein Wohngeld zusätzlich bekommen.
+## 12 Auch Personen, die Leistungen nach dem

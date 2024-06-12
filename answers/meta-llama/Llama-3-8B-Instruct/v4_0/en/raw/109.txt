@@ -1,0 +1,13 @@
+The question is: Who usually carries out examinations on children?
+
+The relevant sentences are:
+
+13 Children are usually examined by pediatricians.
+
+Therefore, the output is: [13]assistant
+
+The question is: Who usually carries out examinations on children?
+
+The relevant sentences are:
+
+13 Children are usually examined by pediatric

@@ -1,0 +1,4 @@
+The relevant sentence IDs are:
+[8]
+
+The sentence "8 Для сприяння вашій інтеграції в Німеччині може бути складений індивідуальний план (інтеграційний план)" answers the question "What

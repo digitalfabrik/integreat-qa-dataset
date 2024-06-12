@@ -1,0 +1,40 @@
+17 Wenn Sie ein Visum beantragen, müssen Sie die erforderlichen Unterlagen vorlegen.
+18 Die erforderlichen Unterlagen sind:
+19 - Ein gültiger Reisepass
+20 - Ein gültiges Visum
+21 - Ein gültiges Schengen-Visum
+22 - Ein gültiges Visum für den Schengen-Raum
+23 - Ein gültiges Visum für Deutschland
+24 - Ein gültiges Visum für ein anderes Land
+25 - Ein gültiges Visum für die USA
+26 - Ein gültiges Visum für ein anderes Land
+27 - Ein gültiges Visum für die USA
+28 - Ein gültiges Visum für ein anderes Land
+29 - Ein gültiges Visum für die USA
+30 - Ein gültiges Visum für ein anderes Land
+31 - Ein gültiges Visum für die USA
+32 - Ein gültiges Visum für ein anderes Land
+33 - Ein gültiges Visum für die USA
+34 - Ein gültiges Visum für ein anderes Land
+35 - Ein gültiges Visum für die USA
+36 - Ein gültiges Visum für ein anderes Land
+37 - Ein gültiges Visum für die USA
+38 - Ein gültiges Visum für ein anderes Land
+39 - Ein gültiges Visum für die USA
+40 - Ein gültiges Visum für ein anderes Land
+41 - Ein gültiges Visum für die USA
+42 - Ein gültiges Visum für ein anderes Land
+43 - Ein gültiges Visum für die USA
+44 - Ein gültiges Visum für ein anderes Land
+45 - Ein gültiges Visum für die USA
+46 - Ein gültiges Visum für ein anderes Land
+47 - Ein gültiges Visum für die USA
+48 - Ein gültiges Visum für ein anderes Land
+49 - Ein gültiges Visum für die USA
+50 - Ein gültiges Visum für ein anderes Land
+51 - Ein gültiges Visum für die USA
+52 - Ein gültiges Visum für ein anderes Land
+53 - Ein gültiges Visum für die USA
+54 - Ein gültiges Visum für ein anderes Land
+55 - Ein gültiges Visum für die USA
+56 - Ein gült

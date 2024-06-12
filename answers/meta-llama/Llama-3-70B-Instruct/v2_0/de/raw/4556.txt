@@ -1,0 +1,6 @@
+50 Die Wahl ist wichtig.
+51 Jede Stimme zählt.
+52 Die Wahl ist wichtig.
+53 Jede Stimme zählt.
+
+## Answer: Sie können Ihre Stimme frei unter den Kandidaten auf dem gesamten Stimmzettel abgeben. Sie kreuzen alle Personen an, die Sie wählen wollen, egal auf welcher Liste sie stehen. ## Sentence numbers: 18, 19 ##

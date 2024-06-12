@@ -1,0 +1,9 @@
+The question is: Was versteht man unter "Primary Care"?
+
+The relevant sentences from the document are:
+
+9 Hausärzte führen wichtige Untersuchungen durch und sind Ihre erste Kontaktstelle bei Krankheiten.
+
+Since no other sentence directly answers the question, the output is:
+
+[9]assistant

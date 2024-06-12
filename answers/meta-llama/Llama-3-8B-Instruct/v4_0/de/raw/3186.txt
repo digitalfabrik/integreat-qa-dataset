@@ -1,0 +1,5 @@
+[0]assistant
+
+The question is "Welche Leistungen bietet das Jobcenter an?" and the document does not mention any services offered by the Jobcenter. Therefore, the output is [0], which means no sentence in the document answers the question.assistant
+
+You are correct

@@ -1,0 +1,5 @@
+## Answer: The service is for children who are at least 6 months and up to 12 years old. ## Sentence numbers: 7
+
+## Answer: None. ## Numbers: -1
+
+(The context does not provide information about which age group of children the service is specifically for, but the given sentence in the question matches the information provided in sentence 7.)

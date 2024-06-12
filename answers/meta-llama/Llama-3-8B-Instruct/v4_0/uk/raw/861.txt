@@ -1,0 +1,8 @@
+Question: Хто має право на безкоштовний обід у школі чи дитячому садку?
+
+Document:
+
+The relevant sentences are:
+[2, 8, 9]
+
+These sentences answer the question by listing the groups of people who have the right to a free meal in school or kindergarten.

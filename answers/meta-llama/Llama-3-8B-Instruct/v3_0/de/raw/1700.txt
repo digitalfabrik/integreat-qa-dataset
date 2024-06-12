@@ -1,0 +1,5 @@
+[12, 14]assistant
+
+[12, 14, 20]assistant
+
+I apologize for the mistake. The correct answer is indeed [12, 14, 20]. Sentence 12 explains what the Berufsberatung supports, sentence 14 lists the groups

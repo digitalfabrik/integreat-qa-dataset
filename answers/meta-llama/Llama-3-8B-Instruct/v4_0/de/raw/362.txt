@@ -1,0 +1,7 @@
+[6]assistant
+
+The sentence with ID 6 answers the question: "Wo findet man Informationen zu den Voraussetzungen für den Erwerb der deutschen Staatsangehörigkeit?"assistant
+
+[6]assistant
+
+The sentence with ID 6

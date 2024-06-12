@@ -1,0 +1,8 @@
+Based on the provided document, the following sentences answer the question:
+
+["6", "8", "10", "21", "23", "25"]
+
+The German sentences correspond to the following English sentences:
+
+[
+"6. The interesting offer of the Volkshoch

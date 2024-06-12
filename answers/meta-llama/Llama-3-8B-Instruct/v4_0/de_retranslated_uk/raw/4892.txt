@@ -1,0 +1,9 @@
+The question is: Welche öffentlichen Schulen bieten Deutschunterricht für Kinder an?
+
+The relevant sentences are:
+
+[]
+
+There are no sentences in the document that directly answer this question.assistant
+
+The correct output is indeed "[]", as none of the sentences in the document explicitly mention which public

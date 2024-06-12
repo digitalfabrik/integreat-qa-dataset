@@ -1,0 +1,6 @@
+[7, 8, 11]assistant
+
+The sentences that answer the question "Welche Beratungsstellen gibt es in Rems-Murr-Kreis?" are:
+
+7. Beratungsstelle
+8. Krisen-, Klärungs- und Vermittlungsdienst

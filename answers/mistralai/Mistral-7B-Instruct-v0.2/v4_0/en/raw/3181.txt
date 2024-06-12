@@ -1,0 +1,3 @@
+[5, 6, 7]
+
+Explanation: Sentences 5, 6, and 7 provide information about language counseling or advice, specifically mentioning that it is free (implied by the fact that it is offered by non-profit organizations like vhs and bf

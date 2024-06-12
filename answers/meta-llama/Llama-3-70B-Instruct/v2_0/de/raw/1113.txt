@@ -1,0 +1,8 @@
+31 Die private Haftpflichtversicherung gilt für Schäden im privaten Bereich.
+32 Sie gilt für Personenschäden, Sachschäden und Vermögensschäden.
+33 Sie gilt auch für Schäden, die Deine Kinder verursachen.
+
+## Answer: Personenschäden, Sachschäden und Vermögensschäden. ## Sentence numbers: 21, 32
+```
+## Answer: Personenschäden, Sachschäden und Vermögensschäden. ## Sentence numbers: 21, 32
+```

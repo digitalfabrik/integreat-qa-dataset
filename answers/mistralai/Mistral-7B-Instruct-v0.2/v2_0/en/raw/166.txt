@@ -1,0 +1,37 @@
+## Answer: People of all ages, genders, and skin colors. ## Sentences: 10, 13, 14
+
+## Answer: Children, young people, adults, senior citizens, and people with and without disabilities. ## Sentences: 10
+
+## Answer: For groups. ## Sentences: 12
+
+## Answer: Culture for all! ## Sentences: 13
+
+## Answer: No matter what age, gender or skin color. ## Sentences: 14
+
+## Answer: People with disabilities. ## Sentences: 11
+
+## Answer: Many of the offers are barrier-free. ## Sentences: 18
+
+## Answer: There are also events for groups. ## Sentences: 12
+
+## Answer: For children, young people, adults, and senior citizens. ## Sentences: 10
+
+## Answer: There are also various online offers. ## Sentences: 9
+
+## Answer: Some offers cost something, others are free of charge. ## Sentences: 15, 16
+
+## Answer: None. ## Numbers: -1
+
+## Answer: Musenkuss München - Online portal for cultural education for people with disabilities. ## Sentences: None.
+
+## Answer: Musenkuss München offers cultural education for people with disabilities. ## Sentences: None.
+
+## Answer: Musenkuss München is an online portal for cultural education for senior citizens. ## Sentences: None.
+
+## Answer: Musenkuss München is an online portal for cultural education for children. ## Sentences: None.
+
+## Answer: Musenkuss München is an online portal for cultural education for young people. ## Sentences: None.
+
+## Answer: Musenkuss München is an online portal for cultural education for adults. ## Sentences: None.
+
+## Answer: Musenkuss München is an online portal for cultural education for people without disabilities. ## Sentences: None.

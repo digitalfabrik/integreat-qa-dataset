@@ -1,0 +1,4 @@
+The answer to the question is in the following IDs: [0, 16, 17, 18, 19, 22, 23].
+
+Explanation:
+ID 0: "Ausländische Ehe- oder Lebenspartnerinnen

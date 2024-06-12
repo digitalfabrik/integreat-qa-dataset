@@ -1,0 +1,9 @@
+The question is: Як я можу зареєструватися на навчальні програми?
+
+The relevant sentences from the document are:
+
+10 Важливо: подайте заявку на стажування заздалегідь!
+
+Since there is only one relevant sentence, the output is:
+
+[

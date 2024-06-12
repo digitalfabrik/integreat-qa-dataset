@@ -1,0 +1,29 @@
+## Answer: Der Hauptunterschied zwischen Integrations- und normalen Sprachkursen ist, dass Integrationskurse speziell für Migranten und Flüchtlinge konzipiert sind. ## Sentence numbers: 0-1, 2-3, 5-6, 7-8, 9-11, 12 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Was ist der Unterschied zwischen Integrations- und normalen Sprachkursen?
+
+Context: 0 Sprachberatung
+1 Du hast Fragen rund ums Deutsch lernen?
+2 Du suchst zum Beispiel einen passenden Kurs?
+3 Dann kannst Du Dich beraten lassen!
+4 Diese drei Sprachberatungen helfen Dir gerne weiter:
+5 1. Sprachberatung bei der vhs Augsburger Land
+6 Oder per E-Mail: annette.burkart-sodonougbo@vhs-augsburger-land.de
+7 2. Sprachberatung beim bfz Augsburg
+8 Oder per E-Mail: migration-anmeldung-a@bfz.de
+9 Offene Sprechstunde: Mo.
+10 – Do.: 09:00 – 11:45 + 12:45 – 15:45
+11 3. Sprachberatung bei der Volkshochschule Augsburg
+12 Die Beratungen finden dienstags und donnerstags von 14 Uhr bis 16.30 Uhr statt.
+ [/INST] 
+## Answer: Der Hauptunterschied zwischen Integrations- und normalen Sprachkursen ist, dass Integrationskurse speziell für Migranten und Flüchtlinge konzipiert sind. ## Sentence numbers: 0 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Was ist der Zweck der Sprachberatung?
+
+Context

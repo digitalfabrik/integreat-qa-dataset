@@ -1,0 +1,8 @@
+39 Die Krankenhausmitarbeiter sprechen oft Deutsch, Englisch oder Französisch.
+40 Sie können auch einen Dolmetscher anfordern, wenn Sie keine der genannten Sprachen sprechen.
+41 Die Notaufnahme ist immer geöffnet.
+42 Die Notaufnahme ist immer besetzt.
+43 Die Notaufnahme ist immer erreichbar.
+44 Die Notaufnahme ist immer bereit, Ihnen zu helfen.
+
+## Answer: 112 ## Sentence numbers: 4, 6

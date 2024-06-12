@@ -1,0 +1,3 @@
+[]assistant
+
+The question asks what services the Jobcenter offers, but the document does not mention any services provided by the Jobcenter. The sentences in the document only discuss electricity costs and providers, but do not mention any services offered by the Jobcenter. Therefore, the output is an empty list, indicating

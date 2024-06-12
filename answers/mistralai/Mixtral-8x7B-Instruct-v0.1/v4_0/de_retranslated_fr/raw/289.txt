@@ -1,0 +1,6 @@
+Based on the provided document, the following sentences answer the question:
+
+[20, 22, 23, 24]
+
+The sentences are:
+20 Wenn Sie mit der ablehnenden Entscheidung nicht einverstanden sind, können Sie in beiden F

@@ -1,0 +1,5 @@
+The relevant sentences are:
+[4, 14, 21]
+
+Explanation:
+Sentence 4 states that third-country nationals who have resided in Germany for an uninterrupted period of five years with a residence permit are eligible to apply for a settlement permit.

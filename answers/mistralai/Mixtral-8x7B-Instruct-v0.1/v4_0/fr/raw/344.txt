@@ -1,0 +1,5 @@
+Based on the given document, the following sentences answer the question: "Qui peut faire appel aux services d'interprétation de TranslAid?"
+
+[7, 11]
+
+Sentence 7 states: "TranslAid met des interprètes béné

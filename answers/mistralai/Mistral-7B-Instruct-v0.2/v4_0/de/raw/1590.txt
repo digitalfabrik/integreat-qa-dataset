@@ -1,0 +1,4 @@
+[3, 4]
+
+Explanation:
+The question asks "Was wird im Dublin-Verfahren ermittelt?" which translates to "What is determined in the Dublin Procedure?" In sentences 3 and 4, it is stated that the Dublin Procedure determines which country is

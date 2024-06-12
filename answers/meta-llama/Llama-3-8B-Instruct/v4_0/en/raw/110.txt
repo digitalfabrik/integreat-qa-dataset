@@ -1,0 +1,11 @@
+The question is: Are the U examinations in Bavaria subject to a charge?
+
+The relevant sentences from the document are:
+
+16 They take place at a specific time and are always free of charge.
+
+The ID of the relevant sentence is: [16]
+
+Output: [16]assistant
+
+The question is:

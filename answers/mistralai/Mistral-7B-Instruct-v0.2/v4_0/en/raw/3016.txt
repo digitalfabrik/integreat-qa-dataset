@@ -1,0 +1,3 @@
+Based on the question, the following sentences in the document do not answer the question as they do not mention the difference between paid and unpaid breaks: 0, 1, 2.
+
+The remaining sentences mention breaks but do not explicitly state whether they are paid or unpaid. Therefore, none of the

@@ -1,0 +1,9 @@
+The question is: Які покарання передбачені за зловживання свободою вираження поглядів?
+
+The relevant sentences are:
+
+13, 14, 15, 16
+
+So, the output is: [13, 14, 15, 16]assistant
+
+The

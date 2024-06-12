@@ -1,0 +1,21 @@
+## Answer: Die deutsche Rentenversicherung ist das soziale Sicherungssystem in Deutschland, das Leistungen wie Rente und andere Dienstleistungen für Menschen, die im Alter nicht mehr arbeiten können, bietet. ## Sentence numbers: 2, 13
+
+## Answer: Neben der Rente bietet die deutsche Rentenversicherung auch Leistungen wie Rehabilitationsmaßnahmen an. ## Sentence numbers: 13, 14, 15, 16
+
+## Answer: Um eine Rente zu erhalten, muss man einen Antrag stellen und mindestens drei Monate vor dem geplanten Renteneintritt einen Antrag einreichen. ## Sentence numbers: 7, 9, 10
+
+## Answer: Der Beitrag zur Rentenversicherung wird hälftig vom Arbeitgeber und hälftig vom Arbeitsnehmer getragen. ## Sentence numbers: 5, 6
+
+## Answer: Die Rente wird nicht automatisch bezahlt, sondern muss angefordert werden. ## Sentence numbers: 8
+
+## Answer: Die Rentenversicherung bietet auch Leistungen wie Beratung an, um genauere Informationen zu erhalten. ## Sentence numbers: 11, 12
+
+## Answer: Die Rentenversicherung finanziert sich durch Beiträge aus Versicherungspflichten und Beschäftigungen. ## Sentence numbers: 2, 5
+
+## Answer: Es ist wichtig, dass die spätere Rentenleistung nicht sinkt, wenn man Rehabilitationsmaßnahmen nutzt. ## Sentence numbers: 15, 16
+
+## Answer: Die Frage, was passiert, wenn man im Alter nicht mehr arbeiten kann, ist für viele Menschen relevant. ## Sentence numbers: 1
+
+## Answer: Die Internetseite der Rentenversicherung kann Fragen zur Rente beantworten. ## Sentence numbers: 3
+
+## Answer: Die Rentenversicherung zahlt eine Rente und andere Leist

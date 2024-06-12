@@ -1,0 +1,9 @@
+The question is: What is the difference between a general practice and a specialist clinic?
+
+The relevant sentences from the document are: []assistant
+
+The correct output is indeed: []
+
+The document does not provide any information about the difference between a general practice and a specialist clinic.assistant
+
+That's

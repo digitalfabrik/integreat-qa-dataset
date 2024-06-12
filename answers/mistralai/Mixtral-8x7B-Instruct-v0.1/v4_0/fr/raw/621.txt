@@ -1,0 +1,6 @@
+The relevant sentence is:
+3 Toutes les jeunes personnes LGBTIQ* et leurs amis sont les bienvenus au diversityCafé.
+
+The ID of this sentence is: 3
+
+So the output is: [3]

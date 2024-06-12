@@ -1,0 +1,7 @@
+Question: Яку підтримку пропонує проект HiFF дорослим біженцям?
+
+Document: 
+
+Answer: [23, 24, 26]
+
+Explanation: Sentences 23, 24, and 26 provide information about the support offered by the HiFF project to adult refugees.

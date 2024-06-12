@@ -1,0 +1,7 @@
+[11]assistant
+
+The sentence with ID 11 answers the question: "من الذي يقدم المشورة للمستفيدين من الإعانات بشأن استهلاكهم للطاقة مجانًا؟"assistant
+
+[11]assistant
+
+The sentence

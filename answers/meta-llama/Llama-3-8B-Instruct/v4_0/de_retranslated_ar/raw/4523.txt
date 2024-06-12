@@ -1,0 +1,7 @@
+The question is: Welche Aktivitäten werden im Rahmen des Jugendkulturworkshops organisiert?
+
+The relevant sentences from the document are:
+
+8 Es gibt offene Programme, individuelle Workshops, Workshop-Abende und Programme für Klassen und Gruppen.
+
+Therefore, the output is: [8]

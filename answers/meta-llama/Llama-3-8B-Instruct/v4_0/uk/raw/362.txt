@@ -1,0 +1,5 @@
+[6]assistant
+
+The sentence with ID 6 answers the question: "Де я можу знайти інформацію про вимоги для отримання німецького громадянства?"assistant
+
+You are correct. The sentence with ID 6 answers the question: "Де я можу знай

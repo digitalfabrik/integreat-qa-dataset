@@ -1,0 +1,7 @@
+[14, 15, 17]assistant
+
+The sentences that answer the question "How can I contact a self-help group?" are:
+
+14. Self-help contact point District Office
+15. Further information and contact details can be found here.
+17. selbsthilfe@rems-murr-k

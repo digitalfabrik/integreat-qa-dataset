@@ -1,0 +1,23 @@
+Answer: The BildungsLokalen offer educational counseling, early childhood education, starting school, learning support, vacation offers, further education for adults, language courses, literacy courses, starting a career after a family break or immigration, sports and leisure activities, an open learning workshop, and a language café.
+
+Sentence numbers: 1, 3, 4, 5, 6, 7, 11, 15, 16, 18, 19, 25, 26, 27
+
+Answer (for question about specific offers in Hasenbergl, Berg am Laim / Ramersdorf, Neuaubing / Westkreuz, Neuperlach, Riem, and Schwanthalerhöhe): The BildungsLokalen in Hasenbergl, Berg am Laim / Ramersdorf, Neuaubing / Westkreuz, Neuperlach, Riem, and Schwanthalerhöhe offer educational counseling, open learning workshop, and language café.
+
+Sentence numbers: 1, 11, 18, 19, 25, 26
+
+Answer (for question about free offers): The offers in the BildungsLokalen are free of charge.
+
+Sentence number: 2
+
+Answer (for question about offers for adults who cannot read and write well): The open learning workshop is for adults from the local area who cannot read and write well, who have not been to school or have only been to school for a short time, and who want to learn German but cannot attend a course.
+
+Sentence numbers: 16, 17
+
+Answer (for question about offers for practicing speaking German): The language café is for adults from the local area who want to practise speaking German.
+
+Sentence number: 25
+
+Answer: None. ## Numbers: -1
+
+(for question about offers for children only)

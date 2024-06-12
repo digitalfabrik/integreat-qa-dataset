@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Welche Kinderbetreuungszuschüsse gibt es in Deutschland?" and the document does not mention any specific child care allowances in Germany. Therefore, there are no relevant sentences in the document.assistant
+
+You are correct. The output should be an

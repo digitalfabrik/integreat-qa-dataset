@@ -1,0 +1,25 @@
+28 Family reunification
+29 The family reunification visa is for family members of a foreign national living in Germany.
+30 The family members must apply for a visa at the German embassy or consulate in their home country.
+31 The application process typically takes several months.
+32 The family members must meet certain requirements.
+33 They must have a valid passport.
+34 They must have proof of their relationship to the foreign national living in Germany.
+35 They must have proof of sufficient financial resources.
+36 They must have health insurance that covers them in Germany.
+37 They must have a valid address in Germany.
+38 They must have a valid reason for entering Germany.
+39 The family members must also pass a language test.
+40 They must have basic knowledge of German.
+41 The family members must also pass a background check.
+42 The German authorities will check their criminal record.
+43 The family members must also meet certain health requirements.
+44 They must not have any diseases that could pose a risk to public health.
+45 They must not have any diseases that could be a burden on the German healthcare system.
+46 The family members must also meet certain integration requirements.
+47 They must be willing to integrate into German society.
+48 They must be willing to learn the German language.
+49 They must be willing to respect German laws and customs.
+50 They must be willing to adapt to the German way of life.
+
+## Answer: The family members must apply for a visa at the German embassy or consulate in their home country. ## Sentence numbers: 30.

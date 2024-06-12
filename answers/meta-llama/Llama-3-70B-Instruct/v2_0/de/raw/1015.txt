@@ -1,0 +1,13 @@
+71 Bitte vereinbaren Sie einen Termin.
+72 Online einen Termin vereinbaren
+73 Kreisverwaltungsreferat (KVR)
+74 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+75 Garmischer Straße 19/21
+76 fuehrerscheine.kvr@muenchen.de
+77 Montag 07:00 - 12:00
+78 Dienstag 08:30 - 12:00 und 14:00 - 18:00
+79 Mittwoch 07:00 - 12:00
+80 Donnerstag 08:30 - 13:30
+81 Freitag 07:00 - 12:00
+
+## Answer: ein gültiges Ausweisdokument (ausländischer Personalausweis, Reisepass oder Aufenthaltsgenehmigung) sowie einen Wohnsitz in München. ## Sentence numbers: 5

@@ -1,0 +1,5 @@
+The relevant sentences are:
+[5, 6, 8, 9, 10, 11, 13]
+
+Explanation:
+These sentences provide the requirements for training with tolerated status. Specifically, they mention that tolerated persons who want to start training must

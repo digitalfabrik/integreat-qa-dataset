@@ -1,0 +1,11 @@
+[3]assistant
+
+The sentence that answers the question is:
+
+3 You often have to adhere to a minimum contract term of 24 months with your old provider.
+
+So, the output is: [3]assistant
+
+I'm glad I was correct!assistant
+
+Me too

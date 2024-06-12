@@ -1,0 +1,5 @@
+[1, 4, 32, 35, 38]assistant
+
+The sentences that answer the question "Quels documents sont nécessaires pour l'enregistrement?" are:
+
+* 4 Ils sont tous enregistrés auprès de l'Office des étrangers et de

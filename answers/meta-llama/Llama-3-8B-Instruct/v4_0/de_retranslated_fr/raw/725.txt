@@ -1,0 +1,5 @@
+[4]assistant
+
+The sentence with ID 4 answers the question: "Gibt es Fotos oder Videoaufnahmen, die bei den FrienTS-Treffen gemacht wurden?"assistant
+
+You are correct. The sentence with ID 4 answers the question: "Gibt es Fotos

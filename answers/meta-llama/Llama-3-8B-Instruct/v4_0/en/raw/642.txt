@@ -1,0 +1,7 @@
+[28, 28]assistant
+
+The sentences that answer the question "In what languages can Donna Mobile offer their cycling courses?" are:
+
+28. The courses can be offered in the following languages: German, Turkish, Russian, Croatian, English
+
+So, the output is: [28, 28

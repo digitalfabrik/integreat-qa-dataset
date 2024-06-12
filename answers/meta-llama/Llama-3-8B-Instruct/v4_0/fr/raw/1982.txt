@@ -1,0 +1,6 @@
+[6, 8]assistant
+
+The sentences that answer the question are:
+
+6. De nombreux cours d'études (Bachelor, State Examination, Diploma) sont en allemand.
+8. Par conséquent, vous avez généralement besoin de certains certificats de langue au niveau B2

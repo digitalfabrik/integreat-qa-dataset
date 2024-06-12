@@ -1,0 +1,8 @@
+The question is: Was sind die zwei Arten von Ausbildungen in Deutschland?
+
+The relevant sentences from the document are:
+
+4 In Deutschland gibt es zwei Arten von Ausbildungen:
+9 So lernt man gleichzeitig Theorie und Praxis kennen.
+
+The IDs of the relevant sentences are: [4,

@@ -1,0 +1,7 @@
+[2]assistant
+
+The question is "ما هي بدلات رعاية الأطفال المتوفرة في ألمانيا؟" which translates to "What are the childcare services available in Germany?"
+
+The sentence that answers this question is:
+
+2 في ألمانيا، هناك العديد من خدمات الرعاية النهارية

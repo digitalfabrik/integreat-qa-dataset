@@ -1,0 +1,15 @@
+## Answer: If you are a citizen of an EU or EWR country, a Swiss citizen, a researcher, a self-employed person, a job seeker, an employee transferring within your company to Germany, or have a residence title, you do not need a special permit to work in Germany. If you are a refugee with a residence permit, you can work after nine months, or after three months if you come from an insecure country of origin. If you are an asylum seeker in an AnkER accommodation, you cannot work for the first nine months, but can apply for a work permit after that if you come from a safe country of origin or have had your asylum application accepted. If you are an asylum seeker outside of AnkER accommodation, you can apply for a work permit after three months if you come from an insecure country of origin. ## Sentence numbers: 5, 6, 8, 12, 13, 14, 15, 16, 18, 19, 24, 25, 26, 27, 31, 34, 37, 38, 39, 42, 43, 45, 46, 47, 48, 49, 53, 54, 55, 56, 57, 58
+
+## Answer: None. ## Numbers: -1
+
+## Question: How can I apply for a work permit?
+
+## Context: 0 Arbeit und Aufenthalt
+##...
+## 39 Mehr Informationen findest Du hier.
+## 40 Außerhalb von AnkER-Einrichtungen
+## 41 Du kommst aus einem unsicheren Herkunftsland?
+## 42 Dann kannst Du nach 3 Monaten eine Arbeitserlaubnis bei der Ausländerbehörde beantragen.
+## 43 Das Amt für Ausländerwesen und Integration entscheidet über Deinen Antrag.
+## 44 Die Agentur für Arbeit prüft die Arbeitsbedingungen.
+## 45 Es gibt aber keine Vorrangprüfung.

@@ -1,0 +1,13 @@
+## Answer: Women and men having the same rights and opportunities in all areas of life in Germany. ## Sentences: 1, 2, 4, 5, 6, 7-13
+
+## Answer: The German government is promoting gender equality through measures such as family support and increasing the number of women in management positions. ## Sentences: 1, 2, 5-7, 9-13
+
+## Answer: Women and men should receive the same salary for equivalent work in Germany. ## Sentences: 10, 11, 12-13
+
+## Answer: The German government is committed to increasing the number of women in management positions. ## Sentence: 9
+
+## Answer: Women still earn less than men in Germany. ## Sentence: 10
+
+## Answer: The so-called "Remuneration Transparency Act" makes it possible for employees to receive information about their salaries. ## Sentence: 13
+
+## Answer: None. ## Numbers: -1 (Question asks about the meaning of gender equality in Germany, which is explicitly stated in the context.)

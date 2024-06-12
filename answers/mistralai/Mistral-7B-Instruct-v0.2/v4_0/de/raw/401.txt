@@ -1,0 +1,4 @@
+[2, 4-9]
+
+Explanation:
+The question asks for which group of people the city of Munich covers the costs for contraceptives. Sentences 2 and 3-9 provide the answer. Sentence 2 states that the city covers the costs for

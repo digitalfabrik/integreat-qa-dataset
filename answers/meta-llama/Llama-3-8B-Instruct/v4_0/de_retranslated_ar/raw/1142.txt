@@ -1,0 +1,5 @@
+Question: Wogegen wird gleichzeitig mit der Masernimpfung geimpft?
+
+Document: [15, 16]
+
+Note: Sentence 15 mentions that the Masern-Impfung (measles vaccination) is done in combination with an impfung against Mumps, Röteln (measles

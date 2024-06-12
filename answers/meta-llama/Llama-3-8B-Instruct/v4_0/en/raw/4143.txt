@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks what kind of music the QueerBeats Choir performs, but the document does not provide any information about the type of music they perform. Therefore, there are no relevant sentences in the document, and the output is an empty list.assistant
+
+I completely agree

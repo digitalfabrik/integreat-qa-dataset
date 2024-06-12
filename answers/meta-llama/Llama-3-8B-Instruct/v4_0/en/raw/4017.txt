@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "How long can I stay in Germany with a Schengen visa?"assistant
+
+[2]assistant
+
+The sentence with ID 2 answers the question: "How long can I stay in Germany

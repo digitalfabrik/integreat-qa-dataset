@@ -1,0 +1,10 @@
+The question is: Яку шкоду покриває страхування цивільної відповідальності згідно з повідомленням?
+
+The relevant sentences are:
+
+* 21
+* 25
+
+So, the output is: [21, 25]assistant
+
+The correct output is: [21,

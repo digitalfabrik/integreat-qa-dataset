@@ -1,0 +1,9 @@
+Output: [1,2,3]
+
+Answer:
+
+[1,2,3]
+
+Comment: I'm not sure if I understand the question correctly, but I think the output is the list of sentences that answer the question.
+
+Comment: @GeraldSch

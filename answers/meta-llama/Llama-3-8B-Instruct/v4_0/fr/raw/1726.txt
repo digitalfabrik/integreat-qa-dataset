@@ -1,0 +1,5 @@
+[1, 11]assistant
+
+The sentences that answer the question "Où puis-je trouver de l'aide pour des problèmes de santé mentale?" are:
+
+* Sentence 1: "Où puis-je trouver de l'aide?" (This sentence is not directly

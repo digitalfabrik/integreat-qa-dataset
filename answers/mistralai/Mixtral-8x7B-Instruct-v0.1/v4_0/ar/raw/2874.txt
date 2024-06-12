@@ -1,0 +1,6 @@
+The relevant sentences from the document that answer the question are:
+
+[6, 9, 10, 13]
+
+Sentence 6 explains that to obtain a work permit, one must submit a training contract to the regional council.
+Sentence 9 specifies that the training must

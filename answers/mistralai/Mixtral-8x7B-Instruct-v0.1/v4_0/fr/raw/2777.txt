@@ -1,0 +1,4 @@
+[4, 21, 22, 23, 26] are the relevant sentences.
+
+Explanation:
+The question asks how long a person must live in Germany to apply for a permanent residence permit. The relevant information is provided in sentences [4], [21],

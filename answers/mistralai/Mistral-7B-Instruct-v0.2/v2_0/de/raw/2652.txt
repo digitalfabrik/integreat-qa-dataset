@@ -1,0 +1,11 @@
+## Answer: The notice period for termination of employment in Germany varies depending on the length of employment. ## Sentence numbers: 1, 5, 6
+
+## Answer: The notice period for an employer to terminate an employment contract is usually 4 weeks to the end of a month. ## Sentence number: 4
+
+## Answer: An employee has 3 weeks to take action if they have been terminated and wish to contest it. ## Sentence number: 2
+
+## Answer: The notice period for an employee with a 5-year employment contract is 2 months. ## Sentence number: 6
+
+## Answer: The notice period for an employee during a probationary period of up to 6 months is 2 weeks. ## Sentence number: 7
+
+## Answer: None. ## Numbers: -1 (for the question asking about notice periods for termination of employment in general, as the context only provides information on specific notice periods)

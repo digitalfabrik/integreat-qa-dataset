@@ -1,0 +1,8 @@
+[2, 3]assistant
+
+The sentences that answer the question "How can I contact the town hall?" are:
+
+* 2: gemeinde@schwaikheim.de
+* 3: www.schwaikheim.de
+
+So, the output is: [2, 3

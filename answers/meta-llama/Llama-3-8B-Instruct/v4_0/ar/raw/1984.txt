@@ -1,0 +1,9 @@
+The question is: ما هي برامج التدريب المهني المتوفرة للاجئين في ألمانيا؟
+
+The relevant sentences are:
+
+[]
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]" because none of the sentences in the

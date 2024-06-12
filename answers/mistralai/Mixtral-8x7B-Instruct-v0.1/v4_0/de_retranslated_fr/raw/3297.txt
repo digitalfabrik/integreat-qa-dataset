@@ -1,0 +1,5 @@
+The question asks about the difference between asylum status and refugee status. However, the provided document does not contain any information comparing or explaining the differences between the two. Therefore, there are no relevant sentences in the document that answer the question.
+
+So, the output is:
+
+[]

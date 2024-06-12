@@ -1,0 +1,7 @@
+Question: How can I convert my foreign driving license in Germany?
+
+Document: 0 Cars and mopeds
+1 German driving licence
+2 You need a driving licence to be allowed to drive in Germany.
+3 To drive a car on your own, you must be at least 18 years old.
+4 You have to

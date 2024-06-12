@@ -1,0 +1,4 @@
+The relevant sentences are:
+[3, 4, 6, 8]
+
+These sentences provide the answer to the question, which asks for the three fields of the German healthcare system. Sentence 3 explicitly states that there are three fields, and sentences 4, 6, and

@@ -1,0 +1,7 @@
+[0, 5, 7, 11]
+
+Explanation:
+
+The question asks how to contact the city hall. The relevant sentences from the document are:
+
+0: دار البلدية في شفاخهاي

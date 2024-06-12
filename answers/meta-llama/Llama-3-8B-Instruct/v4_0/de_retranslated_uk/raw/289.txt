@@ -1,0 +1,5 @@
+Question: Wer kann Sie unterstützen, wenn Sie eine negative Entscheidung vor Gericht anfechten wollen?
+
+Document: [24]assistant
+
+The answer to the question is sentence 24: "Für eine Klage sollten Sie sich immer durch eine Fachanwältin oder einen Fachanw

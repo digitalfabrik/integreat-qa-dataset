@@ -1,0 +1,7 @@
+Question: Which authorities are responsible for registration?
+
+Document: [15, 16, 17, 18, 19]assistant
+
+The correct answer is [19].assistant
+
+I apologize for the mistake. According to the document, sentence 19 "Please contact your respective municipality."

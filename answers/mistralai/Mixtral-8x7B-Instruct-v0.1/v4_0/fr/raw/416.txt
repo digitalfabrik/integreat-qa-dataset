@@ -1,0 +1,4 @@
+The relevant sentence IDs are:
+[7]
+
+Sentence 7 answers the question "Que se passe-t-il si le tribunal rejette le recours contre une décision relative à un demandeur d'asile?" as it states that if the court confir

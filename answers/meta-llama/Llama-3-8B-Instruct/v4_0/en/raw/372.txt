@@ -1,0 +1,9 @@
+The question is: Where can used items be recycled?
+
+The relevant sentences are:
+
+51 Used items in good condition can be bought and sold in second-hand stores or at flea markets.
+
+The IDs of the relevant sentences are: [51]
+
+Note: There is only one sentence that answers the question.assistant

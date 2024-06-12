@@ -1,0 +1,5 @@
+[2, 8]
+
+Explanation:
+
+The question asks who is eligible for a free school meal or free care center meal. Sentence 2 mentions that for children and young people who are experiencing economic or social hardship, the school meal or care center meal is free. S

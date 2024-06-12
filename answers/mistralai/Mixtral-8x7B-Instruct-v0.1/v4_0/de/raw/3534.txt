@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question "Welche Krankenversicherungen gibt es in Deutschland?" (What kind of health insurances exist in Germany?) are:
+
+"[0, 1, 14, 40]"
+
+Explanation:

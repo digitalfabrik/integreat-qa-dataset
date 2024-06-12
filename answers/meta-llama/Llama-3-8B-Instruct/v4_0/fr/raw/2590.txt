@@ -1,0 +1,5 @@
+[1, 2, 3, 4, 6]assistant
+
+The sentences that answer the question "Quelles sont les possibilités de rattrapage scolaire?" are:
+
+1. En principe, les diplômes de fin d'études secondaires peuvent également

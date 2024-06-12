@@ -1,0 +1,7 @@
+[4, 5, 7, 8, 9]
+
+Explanation:
+
+The question asks where the registration for integration courses can be found. The relevant sentences from the document that provide an answer are:
+
+4. جهات الاتصال ب

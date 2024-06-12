@@ -1,0 +1,9 @@
+The question is: Quels sont les titres de séjour qui permettent de vivre et de travailler durablement en Allemagne?
+
+The relevant sentences are:
+
+3, 16, 17
+
+So, the output is: [3, 16, 17]assistant
+
+The

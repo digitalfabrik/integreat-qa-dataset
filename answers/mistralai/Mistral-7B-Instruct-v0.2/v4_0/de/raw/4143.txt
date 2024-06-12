@@ -1,0 +1,4 @@
+[11]
+
+Explanation:
+The question asks for what type of music the QueerBeats-Chor performs. The document mentions that the QueerBeats-Chor is a choir ([11]), but it does not provide any information about the type of music they

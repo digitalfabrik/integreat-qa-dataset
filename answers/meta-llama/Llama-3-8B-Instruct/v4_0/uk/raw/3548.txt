@@ -1,0 +1,8 @@
+The question is: Чи можна знайти квартири через сторінки у Facebook?
+
+The relevant sentences are:
+
+19: Також є багато груп і сторінок у Facebook, де пропонуються квартири.
+20: Наприклад: www.de-de.facebook.com/Wohnung.
+
+The IDs of the relevant sentences are:

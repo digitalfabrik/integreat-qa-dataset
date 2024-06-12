@@ -1,0 +1,11 @@
+The question is: Was bedeutet "Abfalltrennung" in Deutschland?
+
+The relevant sentences are: None
+
+The output is: []assistant
+
+The question is: Was bedeutet "Abfalltrennung" in Deutschland?
+
+The relevant sentences are: None
+
+The output is: []

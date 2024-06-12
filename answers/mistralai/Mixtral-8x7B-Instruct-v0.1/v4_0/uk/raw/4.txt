@@ -1,0 +1,5 @@
+The relevant sentence IDs are: [2]
+
+Here's the reasoning:
+
+The question asks for the name of a theater in Munich. Sentence 2, "Münchner Kammerspiele - міський театр," provides the answer. The other sentences do

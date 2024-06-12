@@ -1,0 +1,17 @@
+## Answer: Hausärzte sind die ersten Kontaktstelle bei Krankheiten und führen wichtige Untersuchungen durch. They are the first point of contact for health issues and conduct important examinations. ## Sentence numbers: 1, 9, 11, 12, 13, 14, 15, 16, 17, 18
+
+## Answer: Kinder werden von Kinderärzten untersucht und regelmäßige Vorsorgeuntersuchungen und Impfungen sind wichtig. Children are examined by pediatricians, and regular check-ups and vaccinations are essential. ## Sentence numbers: 24, 25, 26, 27, 28, 29, 30
+
+## Answer: Wenn Sie einen speziellen Arzt benötigen, überweisen Sie den Hausarzt zu einer Fachärztin oder Facharzt. If you need a specialist, your general practitioner will refer you to a specialist doctor or specialist nurse. ## Sentence numbers: 32, 33
+
+## Answer: Es ist wichtig, dass Frauen regelmäßig von einer Gynäkologin (Frauenärztin) oder einem Gynäkologen (Frauenarzt) untersucht werden. It is important for women to have regular check-ups with a gynecologist (female gynecologist) or a gynecologist (male gynecologist). ## Sentence numbers: 35, 36, 37, 38
+
+## Answer: Wenn Sie Zahnschmerzen haben, gehen Sie zu einer Zahnärztin oder einem Zahnarzt. If you have tooth pain, go to a dentist or a dental surgeon. ## Sentence numbers: 47, 48
+
+## Answer: None. ## Numbers: -1
+
+## Question: What is the meaning of "Primary Care"?
+
+## Context: 0 Hausarzt, Kinderarzt und Facharzt
+## 1 Hausarzt
+## 2 In Germany, there are doctors and doctors' assistants in every city who work in a practice and not in a clinic - these are called general practitioners

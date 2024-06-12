@@ -1,0 +1,5 @@
+Based on the given document, the following sentences answer the question: "Quelle est l'application de navigation recommandée pour Munich?"
+
+[17, 18, 19, 42, 43, 44]
+
+Sentence 17: "

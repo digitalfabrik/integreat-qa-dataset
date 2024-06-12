@@ -1,0 +1,4 @@
+The relevant sentence IDs are:
+[16, 18]
+
+Sentence 16 provides the address where one can go to buy tickets, and sentence 18 provides the email address for the theater's ticket office.

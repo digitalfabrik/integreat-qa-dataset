@@ -1,0 +1,15 @@
+## Answer: A working student job is a job that a student holds alongside their studies. ## Sentence numbers: 19-22, 24-29, 31-35 [/s] 
+```
+## Answer: A working student job is a job that a student holds alongside their studies. ## Sentence numbers: 19-22, 24-29, 31-35
+
+Explanation: The answer is based on sentences 19-22, which describe a working student job as a job that a student holds alongside their studies, and sentences 24-29, which provide more details about working student jobs, such as the number of hours worked and the type of tasks involved. Sentences 31-35 also provide additional information about working student jobs, including the fact that many students work part-time in the catering industry or as mini-jobs. Overall, the answer accurately summarizes the information provided in the context about working student jobs. [/INST] 
+```
+## Answer: A working student job is a job that a student holds alongside their studies. ## Sentence numbers: 19-22, 24-29, 31-35
+
+Explanation: The answer is based on sentences 19-22, which describe a working student job as a job that a student holds alongside their studies, and sentences 24-29, which provide more details about working student jobs, such as the number of hours worked and the type of tasks involved. Sentences 31-35 also provide additional information about working student jobs, including the fact that many students work part-time in the catering industry or as mini-jobs. Overall, the answer accurately summarizes the information provided in the context about working student jobs. [/INST] 
+```
+## Answer: A working student job is a job that a student holds alongside their studies. ## Sentence numbers: 19-22, 24-29, 31-35
+
+Explanation: The answer is based on sentences 19-22, which describe a working student job as a job that a student holds alongside their studies, and sentences 24-29, which provide more details about working student jobs, such as the number of hours worked and the type of tasks involved. Sentences 31-35 also provide additional information about working student jobs, including the fact that many students work part-time in the catering industry or as mini-jobs. Overall, the answer accurately summarizes the information provided in the context about working student jobs. [/INST] 
+```
+## Answer: A working student job

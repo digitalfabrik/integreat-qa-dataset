@@ -1,0 +1,5 @@
+[2, 6]assistant
+
+The sentences that answer the question "Welche Altersgruppe umfasst die Freizeitgruppe FrienTS?" are:
+
+* Die FrienTS ist eine Freizeitgruppe für junge trans* Menschen zwischen 14 und 27 Jahren,

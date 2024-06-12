@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "ما الذي تتضمنه دورة الاندماج؟" which translates to "What does the integration process include?".
+
+After reviewing the document, I found that none of the sentences provide a direct answer to this question. Therefore, the output is:
+
+[]

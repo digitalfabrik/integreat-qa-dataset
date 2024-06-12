@@ -1,0 +1,37 @@
+## Answer: Die private Haftpflichtversicherung gilt laut Nachricht für Personenschäden, Sachschäden und Vermögensschäden im privaten Bereich. ## Sentence numbers: 21, 22, 23, 24, 25, 27, 28, 29, 30 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Was ist die private Haftpflichtversicherung laut Nachricht?
+
+Context: 0 Versicherungen
+1 Pflicht-Versicherungen
+2 Diese Versicherungen musst Duin Deutschland haben:
+3 »Krankenversicherung
+4 Für Autofahrende: Kfz-Haftpflichtversicherung
+5 Für Arbeitnehmende: Gesetzliche Rentenversicherung
+6 Wichtige Informationen findest du bei der Verbraucherzentrale: www.verbraucherzentrale.de.
+7 Die Informationen gibt es in diesen Sprachen:
+8 Deutsch
+9 Englisch
+10 Arabisch
+11 Farsi
+12 Ukrainisch
+13 Rumänisch
+14 Französisch
+15 Türkisch
+16 Bulgarisch
+17 Sehr zu empfehlen: Die Haftpflichtversicherung
+18 Du hast einer Person in Deutschland einen Schaden zugefügt?
+19 Dann musst Du nach dem Gesetz Schadenersatz gefallen.
+20 Auch wenn es nicht Deine Absicht war.
+21 Das gilt für Personenschäden, Sachschäden und Vermögensschäden im privaten Bereich.
+22 Zum Beispiel wenn Du einen Verkehrsunfall verursachst.
+23 Oder wenn Dein Kind mit einem Ball eine Fensterscheibe zerbricht.
+24 Viele Vermieterinnen und Vermieter verlangen von ihren Mietern und Mieterinnen eine Haftpflichtversicherung.
+25 Eine private Haftplichtversicherung bezahlt diese Schäden für Dich und Deine Kinder.
+26 Die Haftplichtversicherung ist keine Pflicht.
+27 Du musst sie nicht abschließen.
+28 Wir empfehlen es Dir aber dringend.
+29 Erklär-Videos mit wichtigen

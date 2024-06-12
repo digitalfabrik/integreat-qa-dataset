@@ -1,0 +1,9 @@
+The question is: ما هي دورات الاندماج المتوفرة؟
+
+The relevant sentences are:
+
+[]
+
+There are no sentences in the document that answer this question.assistant
+
+The correct answer is indeed an empty list, as the question asks about the available integration courses, but none of the

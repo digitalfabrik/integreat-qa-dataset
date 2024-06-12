@@ -1,0 +1,9 @@
+[4]assistant
+
+The sentence that answers the question is:
+
+4 30,000 members in around 100 countries are dedicated to supporting women of all hierarchy levels and industries in developing their professional potential and do this in diverse ways.
+
+So, the output is:
+
+[4]assistant

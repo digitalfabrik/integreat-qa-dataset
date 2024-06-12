@@ -1,0 +1,8 @@
+The relevant sentences in the document that answer the question are:
+
+IDs: [0, 1, 2, 3, 4, 6]
+
+Sentences:
+0 Dublin-Verfahren
+1 Dublin-Verfahren
+2 Das Dublin-Verfahren gilt für

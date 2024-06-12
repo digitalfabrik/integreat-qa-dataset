@@ -1,0 +1,5 @@
+[1, 7, 8]assistant
+
+The sentences that answer the question "Quels sont les services de consultation disponibles dans l'arrondissement de Rems-Murr?" are:
+
+1. Dans le district de Rems-Murr, vous trouverez de l'aide aux end

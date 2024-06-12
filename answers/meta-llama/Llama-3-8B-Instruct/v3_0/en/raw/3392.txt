@@ -1,0 +1,9 @@
+[23, 26, 28]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[23, 26, 27]
+
+These sentences mention the documents required for registration, which are:
+
+* Passport and birth certificate (alternatively: other proof of identity that proves your origin from

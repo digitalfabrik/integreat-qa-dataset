@@ -1,0 +1,1 @@
+In this context, the question asks for support offers for refugees. The document does not provide any information related to this question. Therefore, the output should be an empty list "[]".

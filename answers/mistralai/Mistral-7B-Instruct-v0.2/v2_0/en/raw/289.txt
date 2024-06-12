@@ -1,0 +1,9 @@
+## Answer: A specialist lawyer for asylum and residence law. ## Sentence numbers: 24
+
+## Answer: An integration and refugee advice center. ## Sentence numbers: 23
+
+## Answer: None. ## Numbers: -1
+
+## Explanation:
+
+The context provides information on the asylum application process and the possible outcomes. It mentions that if the application is rejected, the applicant can take legal action against the decision. It also advises seeking support from an integration and refugee advice center and a specialist lawyer for asylum and residence law. Therefore, the answers are based on this information. The question asks specifically who can offer support if someone wants to take legal action against the rejection, so the answers are focused on that. The first answer is the specialist lawyer mentioned in the context, and the second answer is the integration and refugee advice center also mentioned in the context. There is no answer for the number -1 as the context does provide the information requested in the question.

@@ -1,0 +1,4 @@
+Answer: The two types of training in Germany are school-based training and dual system.
+Sentence numbers: 4, 5, 6, 8, 18, 19
+
+Explanation: The context clearly states that there are two types of training in Germany: school-based training and dual system. School-based training is described as pupils only attending school to learn, while dual system is described as students learning both at vocational school and in a training company. The context also mentions that dual training is mostly found in commercial and industrial-technical professions. Sentences 5, 6, 8, and 18 provide additional information about school-based training, while sentences 19 and 18 provide information about dual system. Therefore, the answer sentences are those that mention the two types of training and provide some details about each.

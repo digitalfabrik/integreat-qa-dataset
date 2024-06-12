@@ -1,0 +1,10 @@
+The question is: How can I apply for a work permit?
+
+The relevant sentences from the document are:
+
+37. You can obtain a work permit from the Office for Immigration and Integration.
+38. You must submit an application for this.
+
+The IDs of the relevant sentences are: [37, 38]
+
+Output: [

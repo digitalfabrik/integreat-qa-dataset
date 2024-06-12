@@ -1,0 +1,17 @@
+## Sample Input
+
+
+[1,2,3]
+
+## Sample Output
+
+[1,2,3]
+
+## Explanation
+
+
+The first sentence answers the question.
+The second sentence is irrelevant.
+The third sentence is irrelevant.
+
+## Test C

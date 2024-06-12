@@ -1,0 +1,1 @@
+[11, 12-19, 23] # These sentences provide the information about the opening hours of the citizens' office at the town hall in Schwaikheim.

@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Was ist die Adresse der Ausländerbehörde in Rems-Murr-Kreis?" and the document does not provide the address of the Ausländerbehörde in Rems-Murr-Kreis. Therefore, the output is an empty list.

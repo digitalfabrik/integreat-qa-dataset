@@ -1,0 +1,11 @@
+Question: Які покарання передбачені за порушення Закону про захист від кору?
+
+Document:...assistant
+
+[]
+
+There are no sentences in the document that answer the question about punishments for violating the Law on Protection from Measles.assistant
+
+[]assistant
+
+Correct

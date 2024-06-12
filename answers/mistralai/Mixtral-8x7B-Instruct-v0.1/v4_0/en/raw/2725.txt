@@ -1,0 +1,4 @@
+The relevant sentences are:
+["14", "15", "16", "21", "22", "23", "24", "25", "26", "27", "28", "29"]
+
+These sentences provide information about the different contr

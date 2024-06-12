@@ -1,0 +1,7 @@
+The question is: كيف يمكنني التواصل مع دار البلدية؟
+
+The relevant sentences are:
+
+[2, 3, 11]
+
+These sentences provide information on how to contact the local authority (Dar al-Baladiyah). Sentence 2 provides an email address, sentence 3 provides a website, and

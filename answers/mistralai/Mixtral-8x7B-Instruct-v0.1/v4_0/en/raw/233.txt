@@ -1,0 +1,6 @@
+The relevant sentences are:
+[4, 7]
+
+Explanation:
+Sentence 4 answers the question directly by stating that the offer is aimed at parents who are employed or in training.
+Sentence 7 provides additional information about the age group of the children that Zu Hause Gesund

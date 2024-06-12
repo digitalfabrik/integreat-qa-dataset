@@ -1,0 +1,5 @@
+23 Suche auf anderen Plattformen
+24 Es gibt auch andere Plattformen, wo Wohnungen angeboten werden.
+25 Zum Beispiel: www.quoka.de, www.markt.de, www.kalaydo.de.
+
+## Answer: Ja. ## Sentence numbers: 10, 12, 13, 14, 15, 16, 17, 24, 25.

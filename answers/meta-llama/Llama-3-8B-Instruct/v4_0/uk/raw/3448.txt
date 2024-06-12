@@ -1,0 +1,15 @@
+Question: Які органи відповідають за реєстрацію?
+
+Document: [0-66]
+
+Output: []
+
+No sentence in the document answers the question.assistant
+
+Question: Які органи відповідають за реєстрацію?
+
+Document: [0-66]
+
+Output: [7]
+
+Sentence

@@ -1,0 +1,4 @@
+31 Die Karte wird offline verfügbar sein.
+32 Die Karte wird offline verfügbar sein.
+
+Answer: Es gibt S-Bahn, U-Bahn, Regionalzug, Straßenbahn und Bus. ## Sentence numbers: 8, 9, 10, 13, 14, 15, 16.

@@ -1,0 +1,5 @@
+[16, 17, 20, 21, 24, 25]
+
+The relevant sentences are:
+16 "Français" - This is the language the question is in, so the following sentences are in French and relevant.
+17 "F

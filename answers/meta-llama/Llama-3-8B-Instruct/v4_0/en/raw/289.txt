@@ -1,0 +1,5 @@
+Question: Who can offer support if you want to take legal action against the rejection?
+
+Document: [20, 23, 24]
+
+Explanation: Sentences 20, 23, and 24 mention that you can receive support if you want to take legal action against the rejection. Sentence 20 states that you

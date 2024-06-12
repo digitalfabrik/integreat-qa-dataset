@@ -1,0 +1,43 @@
+## Answer: Die Kündigungsfrist für Arbeitgeber beträgt normalerweise 4 Wochen zum Ende eines Monats. ## Sentence numbers: 4
+
+Answer: Die Frist für Arbeitnehmer richtet sich nach der Dauer des Arbeitsverhältnisses. ## Sentence numbers: 5
+
+Answer: Die Kündigungsfrist beträgt 2 Wochen. ## Sentence numbers: 7
+
+Answer: Die Kündigungsfrist beträgt 2 Monate. ## Sentence numbers: 6
+
+Answer: Die Kündigungsfrist beträgt 3 Wochen. ## Sentence numbers: 2
+
+Answer: Die Kündigungsfrist beträgt 4 Wochen. ## Sentence numbers: 4
+
+Answer: Die Kündigungsfrist beträgt 6 Monate. ## Sentence numbers: -1
+
+Answer: Die Kündigungsfrist beträgt 2 Monate. ## Sentence numbers: 6
+
+Answer: Die Kündigungsfrist beträgt 2 Wochen. ## Sentence numbers: 7
+
+Answer: Die Kündigungsfrist beträgt 3 Wochen. ## Sentence numbers: 2
+
+Answer: Die Kündigungsfrist beträgt 4 Wochen. ## Sentence numbers: 4
+
+Answer: Die Kündigungsfrist beträgt 6 Monate. ## Sentence numbers: -1
+
+Answer: Die Kündigungsfrist beträgt 2 Monate. ## Sentence numbers: 6
+
+Answer: Die Kündigungsfrist beträgt 2 Wochen. ## Sentence numbers: 7
+
+Answer: Die Kündigungsfrist beträgt 3 Wochen. ## Sentence numbers: 2
+
+Answer: Die Kündigungsfrist beträgt 4 Wochen. ## Sentence numbers: 4
+
+Answer: Die Kündigungsfrist beträgt 6 Monate. ## Sentence numbers: -1
+
+Answer: Die Kündigungsfrist beträgt 2 Monate. ## Sentence numbers: 6
+
+Answer: Die Kündigungsfrist beträgt 2 Wochen. ## Sentence numbers: 7
+
+Answer: Die Kündigungsfrist beträgt 3 Wochen. ## Sentence numbers: 2
+
+Answer: Die Kündigungsfrist beträgt 4 Wochen. ## Sentence numbers: 4
+
+Answer:

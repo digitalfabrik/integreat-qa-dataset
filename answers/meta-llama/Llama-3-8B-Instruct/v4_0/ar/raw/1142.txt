@@ -1,0 +1,11 @@
+The question is: ما الذي يتم التطعيم ضده في نفس وقت التطعيم ضد الحصبة؟
+
+The relevant sentences are:
+
+15, 15
+
+Output: [15, 15]assistant
+
+The correct output is: [15]assistant
+
+I apologize for the

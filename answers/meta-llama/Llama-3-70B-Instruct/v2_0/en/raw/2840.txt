@@ -1,0 +1,20 @@
+33 Privately insured: You must pay for all medication yourself.
+34 You can claim the costs back from your health insurance company.
+35 You must keep the prescription and the receipt.
+36 You can also buy medication online.
+37 However, this is only possible with a prescription.
+38 You can also buy medication from other countries.
+39 However, this is only possible with a prescription.
+40 You should be careful when buying medication online.
+41 You should only buy from pharmacies that are licensed in Germany.
+42 You should check the pharmacy's license before making a purchase.
+43 You should also check the medication's packaging and ingredients.
+44 You should also check the medication's expiration date.
+45 You should also check the medication's instructions for use.
+46 You should also check the medication's side effects.
+47 You should also check the medication's interactions with other medications.
+48 You should also check the medication's dosage.
+49 You should also check the medication's storage instructions.
+50 You should also check the medication's disposal instructions.
+
+## Answer: over-the-counter medications. ## Sentence numbers: 14, 16.

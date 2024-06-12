@@ -1,0 +1,14 @@
+45 Wenn Sie sich entscheiden, freiwillig auszureisen, können Sie auch eine kostenlose Rückkehrberatung in Anspruch nehmen.
+46 Wenn Sie sich entscheiden, freiwillig auszureisen, können Sie auch eine kostenlose Reise nach Hause organisieren.
+47 Wenn Sie sich entscheiden, freiwillig auszureisen, können Sie auch eine kostenlose medizinische Versorgung in Anspruch nehmen.
+48 Wenn Sie sich entscheiden, freiwillig auszureisen, können Sie auch eine kostenlose Unterstützung bei der Wohnungssuche in Ihrem Heimatland in Anspruch nehmen.
+49 Wenn Sie sich entscheiden, freiwillig auszureisen, können Sie auch eine kostenlose Unterstützung bei der Arbeitssuche in Ihrem Heimatland in Anspruch nehmen.
+50 Wenn Sie sich entscheiden, freiwillig auszureisen, können Sie auch eine kostenlose Unterstützung bei der Schul- oder Ausbildungssuche in Ihrem Heimatland in Anspruch nehmen.
+51 Vorläufiger Schutz:
+52 Wenn Sie vorläufigen Schutz erhalten, haben Sie Anspruch auf:
+53 Aufenthaltserlaubnis für 1 Jahr (bei Verlängerung je 1 weiteres Jahr)
+54 Niederlassungserlaubnis frühestens nach 5 Jahren möglich (Voraussetzungen werden individuell geprüft)
+55 Beschäftigung möglich mit Erlaubnis der Ausländerbehörde
+56 Möglichkeit des Familiennachzugs ist individuell zu prüfen
+
+## Answer: Aufenthaltserlaubnis für 1 Jahr (bei Verlängerung je 1 weiteres Jahr), Niederlassungserlaubnis frühestens nach 5 Jahren möglich (Voraussetzungen werden individuell geprüft), Beschäftigung möglich mit Erlaubnis der Ausländerbehörde, Möglichkeit des Familiennachzugs ist individuell zu prüfen. ## Sentence numbers: 52-56

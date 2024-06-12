@@ -1,0 +1,13 @@
+*/
+
+#include <iostream>
+#include <string>
+#include <vector>
+#include <unordered_map>
+#include <algorithm>
+#include <cassert>
+
+using namespace std;
+
+typedef vector<string> Sentence;
+ty

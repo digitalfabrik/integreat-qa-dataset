@@ -1,0 +1,7 @@
+The question is: What health insurance policies are there in Germany?
+
+The document does not mention health insurance policies, so there are no relevant sentences. The output is: []assistant
+
+The question is: What health insurance policies are there in Germany?
+
+The document does not mention health insurance policies, so there are

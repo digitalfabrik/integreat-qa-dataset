@@ -1,0 +1,5 @@
+[2, 20, 21, 22, 24, 27, 30, 31, 32, 34]assistant
+
+The question is "Was ist ein Job für Studenten?" which translates to "What is a job for students?".
+
+The sentences that answer this

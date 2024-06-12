@@ -1,0 +1,5 @@
+[5, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20]assistant
+
+The sentences that answer the question are:
+
+5. Tu peux aussi trouver les annonces sur Internet : www.augburger-allgemeinde

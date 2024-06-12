@@ -1,0 +1,8 @@
+Based on the given document, the following sentences answer the question:
+
+[6, 7, 8, 11]
+
+Here are the relevant sentences:
+
+6 TranslAid
+7 TranslAid vermittelt ehrenamtliche (nicht professionelle) Dolm

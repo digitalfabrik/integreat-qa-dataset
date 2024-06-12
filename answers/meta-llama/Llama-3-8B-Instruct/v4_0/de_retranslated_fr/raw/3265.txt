@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about support offers for people who have fled their country. None of the sentences in the document answer this question, so the output is an empty list.assistant
+
+You are correct. The question is not answered by any of the sentences in the document. Therefore,

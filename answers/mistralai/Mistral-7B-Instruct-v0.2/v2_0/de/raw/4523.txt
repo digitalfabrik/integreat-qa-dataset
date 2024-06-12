@@ -1,0 +1,29 @@
+## Answer: Die Jugendkulturwerkstatt organisiert Workshops zur Kinder- und Jugendkultur, es gibt auch eine Fahrradwerkstatt und einen Projekt- und Aktivitätsraum. ## Sentence numbers: 1, 5, 6
+
+## Answer: Es gibt offene Programme, individuelle Workshops, Workshop-Abende und Programme für Klassen und Gruppen. ## Sentence numbers: 8
+
+## Answer: Kinder- und Jugendliche können an den Workshops teilnehmen. ## Sentence numbers: 9
+
+## Answer: Es gibt Workshops in Deutsch und Englisch. ## Sentence numbers: 10
+
+## Answer: Es gibt eine Behindertentoilette. ## Sentence numbers: 13, 20
+
+## Answer: Es gibt Workshops an verschiedenen Tagen in der Woche. ## Sentence numbers: 15, 22
+
+## Answer: Es gibt Ansprechadressen und -e-Mails für die einzelnen Kulturzentren. ## Sentence numbers: 16, 17, 24, 25
+
+## Answer: Es gibt barrierefreien Zugang zu den Gebäuden und Zimmern an zwei der Kulturzentren. ## Sentence numbers: 19, 21
+
+## Answer: Es gibt Workshops an verschiedenen Orten. ## Sentence numbers: 2, 12, 18
+
+## Answer: Es gibt Angebote für Kinder im Alter von 7 bis 15 Jahren. ## Sentence numbers: 9
+
+## Answer: Es gibt ein Projekt- und Aktivitätsraum. ## Sentence numbers: 5, 6
+
+## Answer: Es gibt ein Angebot für Kinder- und Jugendkultur. ## Sentence numbers: 0, 1
+
+## Answer: Es gibt ein Angebot für Kinder- und Jugendliche sowie junge Erwachsene. ## Sentence numbers: 2
+
+## Answer: Es gibt Anleitungen zum Umgang mit Materialien und Werkzeugen. ## Sentence numbers: 3
+
+## Answer: Es gibt Wissen über die Material

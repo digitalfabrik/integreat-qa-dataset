@@ -1,0 +1,7 @@
+The question is: Welche Medikamente kann ich in der Apotheke kaufen?
+
+The relevant sentences are:
+
+* 2 Medikamente bekommen Sie in Deutschland nur in Apotheken.
+* 4 Jede Apotheke ist von außen am roten A erkennbar.
+* 10

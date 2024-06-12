@@ -1,0 +1,5 @@
+Question: Хто може пройти волонтерське стажування?
+
+Document: [36, 37]
+
+Note: The question asks about who can participate in volunteer internships, and the relevant sentences are 36 and 37, which state that anyone - students, students, or adults - can participate in volunteer

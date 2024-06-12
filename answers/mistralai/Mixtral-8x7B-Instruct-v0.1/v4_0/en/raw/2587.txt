@@ -1,0 +1,6 @@
+The relevant sentences are:
+[1, 7, 10, 11]
+
+Explanation:
+Sentence 1 provides a general answer to the question, listing the locations where help can be found in the Rems-Murr district.
+Sentence 7 specifically ment

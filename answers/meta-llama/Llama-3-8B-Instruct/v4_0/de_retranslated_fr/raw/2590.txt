@@ -1,0 +1,6 @@
+[1, 2, 3, 4, 6]assistant
+
+The sentences that answer the question are:
+
+1. Grundsätzlich können höhere Schulabschlüsse auch nachgeholt werden.
+2. Zum Beispiel kann man nach dem mittleren Bildungsabschluss (M

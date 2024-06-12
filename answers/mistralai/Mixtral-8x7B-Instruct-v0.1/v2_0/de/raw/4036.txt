@@ -1,0 +1,11 @@
+## Answer: Suchen Sie eine Einrichtung, eine Arztpraxis oder ein Krankenhaus. ## Sentence numbers: 2
+
+## Answer: Das Staatliche Gesundheitsamt hilft Ihnen gerne weiter. ## Sentence numbers: 16
+
+## Answer: Besondere soziale Dienste (BSD) stehen Erwachsenen und ihren Angehörigen in schwierigen Situationen zur Seite. ## Sentence numbers: 19
+
+## Answer: Die HiFF-Projekt unterstützt erwachsene Flüchtlinge mit traumatischen Erfahrungen und/oder psychischen Erkrankungen bei der Bewältigung ihrer Lebenssituation. ## Sentence numbers: 23
+
+## Answer: Beratungsangebote zu diesen Themen finden Sie in der Rubrik "Familie, Kinder, Jugendliche und Senioren" unter "Beratung für Schwangere und junge Eltern". ## Sentence numbers: 28
+
+## Answer: None. ## Numbers: -1 (The context does not provide information on what to do in a medical emergency.)

@@ -1,0 +1,11 @@
+[4]assistant
+
+The sentence that answers the question is:
+
+4 We recommend: Apply for a severely disabled person's pass at the Bavarian Center for Families and Social Affairs.
+
+The ID of this sentence is 4.assistant
+
+[4]assistant
+
+The sentence that

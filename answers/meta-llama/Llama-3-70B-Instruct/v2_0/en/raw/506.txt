@@ -1,0 +1,19 @@
+58 The München-Pass is a special offer for people who live in Munich.
+59 It is a combination of a monthly ticket and a leisure ticket.
+60 The leisure ticket is valid for many attractions in Munich.
+61 You can find more information about the München-Pass on the website of the MVV.
+62 The MVV is the Munich transport association.
+63 The MVV is responsible for the public transport in Munich.
+64 The MVV is also responsible for the public transport in the surrounding areas.
+65 The MVV is responsible for the public transport in the whole region of Munich.
+66 The MVV is responsible for the public transport in the whole region of Munich and the surrounding areas.
+67 The MVV is responsible for the public transport in the whole region of Munich, the surrounding areas and the nearby cities.
+68 The MVV is responsible for the public transport in the whole region of Munich, the surrounding areas, the nearby cities and the nearby towns.
+69 The MVV is responsible for the public transport in the whole region of Munich, the surrounding areas, the nearby cities, the nearby towns and the nearby villages.
+70 The MVV is responsible for the public transport in the whole region of Munich, the surrounding areas, the nearby cities, the nearby towns, the nearby villages and the nearby countryside.
+71 The MVV is responsible for the public transport in the whole region of Munich, the surrounding areas, the nearby cities, the nearby towns, the nearby villages, the nearby countryside and the nearby mountains.
+72 The MVV is responsible for the public transport in the whole region of Munich, the surrounding areas, the nearby cities, the nearby towns, the nearby villages, the nearby countryside, the nearby mountains and the nearby forests.
+73 The MVV is responsible for the public transport in the whole region of Munich, the surrounding areas, the nearby cities, the nearby towns, the nearby villages, the nearby countryside, the nearby mountains, the nearby forests and the nearby rivers.
+74 The MVV is responsible for the public transport in the whole region of Munich, the surrounding areas, the nearby cities, the nearby towns, the nearby villages, the nearby countryside, the nearby mountains, the nearby forests, the nearby rivers and the nearby lakes.
+75 The MVV is responsible for the public transport in the whole region of Munich, the surrounding areas, the nearby cities, the nearby towns, the nearby villages, the nearby countryside, the nearby mountains, the nearby forests, the nearby rivers, the nearby lakes and the nearby sea.
+76 The MVV is

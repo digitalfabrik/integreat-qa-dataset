@@ -1,0 +1,4 @@
+The relevant sentences from the document that answer the question are:
+[34, 41]
+
+Sentence 34 states "Offizielle Dokumente dürfen in Deutschland nur von staatlich geprüften Übersetzern übertragen werden." This means that official documents

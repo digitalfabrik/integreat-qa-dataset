@@ -1,0 +1,13 @@
+## Answer: Citizens of EU countries, EEA countries, and persons with Swiss nationality do not require a work permit. ## Sentences: 5, 6, 7
+
+## Answer: Refugees with a residence permit and recognized refugees with a residence permit are allowed to work. ## Sentences: 25, 26
+
+## Answer: Asylum seekers in ongoing proceedings living outside of AnkER facilities can apply for a work permit after 3 months. ## Sentences: 31, 33, 35, 37, 39, 53, 55, 56, 58
+
+## Answer: Tolerated persons outside AnkER can apply for a work permit after three months. ## Sentences: 45, 47, 48, 49, 51, 53, 55, 56, 58
+
+## Answer: Persons with a tolerated stay permit due to unclear identity are always prohibited from working. ## Sentences: 51, 59
+
+## Answer: You can find more information on the subject of residence and work on the BAMF website. ## Sentences: 60, 61
+
+## Answer: The Office for Immigration and Integration is there to answer questions about residence rights and work permits. ## Sentences: 62, 63, 64, 65, 66

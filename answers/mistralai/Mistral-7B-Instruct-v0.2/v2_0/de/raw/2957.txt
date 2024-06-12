@@ -1,0 +1,9 @@
+## Answer: Meinungsfreiheit in Deutschland bedeutet, dass alle Menschen sich ihre eigene Meinung bilden, sie frei ausdrücken und verbreiten können, und dass alle Medien dieselben Freiheiten genießen. ## Sentence numbers: 1, 2, 3
+
+## Answer: Kritik an Regierung und Religion, provokative künstlerische Werke sowie Satire und kritische Kunst sind erlaubt. ## Sentence numbers: 5, 6, 7, 8, 10
+
+## Answer: Es ist nicht erlaubt, verfassungsfeindliche Symbole zu verwenden oder Aufrufe zum Sturz der Demokratie zu machen. ## Sentence number: 13
+
+## Answer: Beleidigende Meinungsäußerungen, üble Nachrede und Verleumdungen gegenüber anderen Menschen sowie Aufrufe zu Hass und Gewalt sind nicht erlaubt. ## Sentence numbers: 14, 15, 16
+
+## Answer: Wer sich beleidigt oder in seiner persönlichen Ehre oder Würde verletzt fühlt, kann sich an die Polizei oder an ein Gericht wenden. ## Sentence number: 11

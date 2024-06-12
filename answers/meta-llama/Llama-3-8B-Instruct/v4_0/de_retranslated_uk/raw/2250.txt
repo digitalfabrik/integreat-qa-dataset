@@ -1,0 +1,7 @@
+The question is: Muss ich Deutsch können, um in Deutschland zu arbeiten?
+
+The relevant sentences are: []
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]", as none of the sentences in the document address the question of whether one needs to know

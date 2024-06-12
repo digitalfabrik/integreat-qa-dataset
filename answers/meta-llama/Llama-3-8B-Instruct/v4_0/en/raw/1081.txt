@@ -1,0 +1,11 @@
+The question is: Under what circumstances are interns entitled to payment?
+
+The relevant sentences from the document are:
+
+43 Interns are entitled to payment if
+44 the internship lasts longer than three months
+45 and is voluntary.
+
+The IDs of the relevant sentences are: [43, 44, 45]
+
+Output: [

@@ -1,0 +1,1 @@
+[10, 20, 25] are the relevant sentences from the document that answer the question. They describe the rights associated with being granted "protection provisoire" (presumably protection subsidiaire, given the time limit of one year mentioned in sentence 21), including

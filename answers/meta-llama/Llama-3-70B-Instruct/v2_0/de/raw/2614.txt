@@ -1,0 +1,7 @@
+22 Die Fahrkarten können Sie an verschiedenen Stellen kaufen.
+23 An den Bahnhöfen
+24 An den Bushaltestellen
+25 An den Kiosken
+26 Oder online über die Internetseiten und Apps.
+
+## Answer: Einzelfahrkarten, Tagesfahrkarten, Wochenkarten oder Monatskarten, Fahrkarten für Kinder, Schüler, Studierende, Familien und Gruppen. ## Sentence numbers: 7, 8, 9, 10, 11, 12, 13, 14

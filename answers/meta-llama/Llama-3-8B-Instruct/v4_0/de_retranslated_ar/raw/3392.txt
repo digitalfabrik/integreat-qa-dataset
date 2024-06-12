@@ -1,0 +1,7 @@
+[1, 2, 3, 4]assistant
+
+The question is "Welche Unterlagen sind für die Anmeldung erforderlich?" which translates to "What documents are required for registration?".
+
+The relevant sentences from the document are:
+
+1. Oder in dezentralen As

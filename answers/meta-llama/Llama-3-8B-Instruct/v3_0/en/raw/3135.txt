@@ -1,0 +1,6 @@
+[2, 3, 4, 5]assistant
+
+Note: The question asks about compulsory insurance policies in Germany, and the relevant sentences are [2, 3, 4, 5] which mention the following compulsory insurances:
+
+* Health insurance
+* Motor vehicle liability insurance

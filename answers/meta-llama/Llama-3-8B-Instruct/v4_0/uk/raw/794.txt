@@ -1,0 +1,9 @@
+The question is: Яка мета нормативно-правових актів з охорони здоров'я та безпеки?
+
+The relevant sentences are:
+
+6, 7
+
+So, the output is: [6, 7]assistant
+
+The correct output is: [6]assistant

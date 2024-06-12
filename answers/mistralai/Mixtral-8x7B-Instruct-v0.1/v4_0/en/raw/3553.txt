@@ -1,0 +1,3 @@
+Here are the IDs of the sentences that answer the question: [6, 7, 16, 17].
+
+Sentence 6 answers the question because it states that a national visa (category D) will be issued for entering Germany or other Schengen states when applying for spous

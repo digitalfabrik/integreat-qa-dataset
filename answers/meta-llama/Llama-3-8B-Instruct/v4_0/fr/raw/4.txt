@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "Quel est le nom du théâtre de la ville de Munich?"assistant
+
+You are correct! The sentence with ID 2 answers the question: "Quel est le nom du théâtre

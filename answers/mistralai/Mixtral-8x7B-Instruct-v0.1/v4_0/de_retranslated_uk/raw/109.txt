@@ -1,0 +1,4 @@
+[12, 13]
+12 Kinderärzte
+13 Kinder werden üblicherweise von Kinderärztinnen und Kinderärzten untersucht.
+The question asks who normally conducts the examination of children, and the document states that children are usually examined by children's doctors (K

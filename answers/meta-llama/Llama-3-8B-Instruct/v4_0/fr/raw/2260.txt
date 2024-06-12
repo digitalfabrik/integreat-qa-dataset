@@ -1,0 +1,9 @@
+Question: Quel est le numéro d'urgence en Allemagne?
+
+Document:...
+
+Answer: []
+
+The question asks for the emergency number in Germany, but the document only provides numbers for France (110, 112) and does not mention Germany.assistant
+
+You are correct. The document does not

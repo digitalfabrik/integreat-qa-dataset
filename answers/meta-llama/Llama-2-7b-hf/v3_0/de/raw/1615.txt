@@ -1,0 +1,13 @@
+### Solution
+
+```python
+import re
+
+# -*- coding: utf-8 -*-
+
+def main():
+    question = input()
+    document = input()
+    result = []
+    for line in document.splitlines():
+        if re.match

@@ -1,0 +1,7 @@
+[4]assistant
+
+The sentence that answers the question "Що означає 'інклюзія'?" is sentence 4.assistant
+
+[4]assistant
+
+The sentence that answers the question "Що означає 'інклюзія'?"

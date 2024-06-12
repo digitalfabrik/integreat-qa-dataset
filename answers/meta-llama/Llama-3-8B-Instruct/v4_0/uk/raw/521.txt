@@ -1,0 +1,7 @@
+Question: Які вимоги для участі в ValiKom Transfer?
+
+Document: [0, 1, 12, 13, 14, 15]
+
+Note: The question asks about the requirements for participating in ValiKom Transfer, and the relevant sentences are:
+
+* 0: Передача

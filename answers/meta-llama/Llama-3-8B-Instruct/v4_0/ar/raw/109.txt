@@ -1,0 +1,11 @@
+The question is: من يقوم عادةً بإجراء الفحوصات على الأطفال؟
+
+The relevant sentences from the document are:
+
+13 عادةً ما يتم فحص الأطفال من قبل أطباء الأطفال.
+
+Therefore, the output is:
+
+[13]assistant
+
+The question

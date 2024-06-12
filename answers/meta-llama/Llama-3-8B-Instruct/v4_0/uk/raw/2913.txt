@@ -1,0 +1,11 @@
+The question is: Як я можу зв'язатися з мерією?
+
+The relevant sentences are:
+
+[2, 3]
+
+These sentences provide contact information for the municipality, which may be useful for contacting the mayor.assistant
+
+[2, 3]assistant
+
+[

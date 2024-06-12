@@ -1,0 +1,5 @@
+[3]assistant
+
+The sentence with ID 3 answers the question: "Welches ist die Mindestvertragslaufzeit, die Sie am häufigsten einhalten müssen?"assistant
+
+You are correct. The sentence with ID 3 answers the question: "Welches ist

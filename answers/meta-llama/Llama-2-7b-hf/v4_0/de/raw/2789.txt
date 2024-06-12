@@ -1,0 +1,5 @@
+Input Format
+
+The first line of the input contains an integer $1 \leq N \leq 5000$ denoting the number of sentences in the document.
+The remaining $N$ lines each contain a sentence.
+The sentence is of the form "$i$ $j$: $

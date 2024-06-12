@@ -1,0 +1,13 @@
+### Input
+
+The input file consists of a single paragraph of text, each sentence of which is numbered.
+
+### Output
+
+The output consists of a list of the IDs of sentences that answer the question.
+
+### Sample Input
+
+```
+0 Grundschule
+1

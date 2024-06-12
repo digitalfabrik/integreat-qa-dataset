@@ -1,0 +1,7 @@
+[2, 5]assistant
+
+The question is "Welche Arten von Aufenthaltsdokumenten gibt es?" which translates to "What types of residence documents are there?".
+
+The relevant sentences that answer this question are:
+
+* 2 Jede Person, die nach Deutschland kommt,

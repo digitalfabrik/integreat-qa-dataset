@@ -1,0 +1,11 @@
+## Answer: Wenn Sie Gefahr laufen, Ihre Wohnung durch Kündigung oder Räumung zu verlieren, können Sie sich an die Fachstelle zur Vermeidung von Wohnungslosigkeit wenden. ## Sentence numbers: 2
+
+## Answer: Es ist wichtig, dass Sie sich so bald wie möglich mit dem Amt in Verbindung setzen. ## Sentence numbers: 5
+
+## Answer: Die Fachstelle zur Vermeidung von Wohnungslosigkeit berät Sie zu den folgenden Themen: [7, 8, 9, 10, 11] ## Sentence numbers: 6
+
+## Answer: Für eine Beratung beim Amt müssen Sie einen Termin mit dem für Sie zuständigen Sachbearbeiter im Sozialbürgerhaus vereinbaren. ## Sentence numbers: 13
+
+## Answer: None. ## Numbers: -1
+
+(Note: The answer for "An wen kann ich mich wenden, wenn ich Hilfe in Wohnungsfragen benötige?" is "Die Fachstelle zur Vermeidung von Wohnungslosigkeit" and the sentence number for that answer is 2. However, the question in the context is given in German and the provided English translation might not be perfect. Therefore, I provided the answer in the format requested while also including the original German sentence number for reference.)

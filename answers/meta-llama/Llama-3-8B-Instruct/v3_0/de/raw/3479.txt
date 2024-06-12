@@ -1,0 +1,9 @@
+[]assistant
+
+There are no sentences in the document that answer the question "Welche Integrationskurse werden angeboten?"assistant
+
+[]assistant
+
+That's correct!assistant
+
+I'm glad I was able to accurately identify that the question was not answered

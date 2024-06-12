@@ -1,0 +1,9 @@
+Input Format
+
+Each line in the input file will be a sentence from the document.
+The sentences are numbered in the order they appear in the document.
+The sentence numbers will be integers between 1 and the number of sentences in the document.
+
+Output Format
+
+Each line in the

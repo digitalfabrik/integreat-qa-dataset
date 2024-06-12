@@ -1,0 +1,7 @@
+[42, 43, 45, 51] are the relevant sentences.
+
+Explanation:
+
+Sentence 42 (Recycling islands) explains where recyclable items can be disposed of, which is a partial answer to the question.
+
+Sentence

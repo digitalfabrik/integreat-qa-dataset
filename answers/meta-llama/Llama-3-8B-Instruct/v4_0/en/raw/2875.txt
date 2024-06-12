@@ -1,0 +1,10 @@
+The question is: What are the requirements for training with tolerated status?
+
+The relevant sentences are:
+
+[9, 10, 11]
+
+These sentences specify the requirements for training with tolerated status, which are:
+
+* Qualified training: Training in a state-recognized or comparably regulated training occupation
+* Standard training period of

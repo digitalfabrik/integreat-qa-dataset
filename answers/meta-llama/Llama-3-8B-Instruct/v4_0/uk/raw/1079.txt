@@ -1,0 +1,9 @@
+Question: Чому стажування корисне перед початком роботи?
+
+Document:...
+
+Answer: [10]assistant
+
+The sentence with ID 10 answers the question: "Стажування дуже корисне перед початком трудової діяльності."assistant
+
+You are correct.

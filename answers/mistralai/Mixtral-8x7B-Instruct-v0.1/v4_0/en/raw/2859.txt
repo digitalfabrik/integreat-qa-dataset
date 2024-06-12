@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question are:
+[36, 37, 38]
+
+Explanation:
+Sentence 36 introduces the topic of having a problem, which is then clarified in sentence 37 to be about conflicts with parents, school

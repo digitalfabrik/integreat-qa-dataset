@@ -1,0 +1,8 @@
+## Answer: Persons receiving benefits under the Asylbewerberleistungsgesetz cannot receive Wohngeld. ## Sentence numbers: 13
+
+There is no answer for the given question in the context for the following cases:
+
+- Persons who own a house, a dwelling, or a farming supplementary income. (Sentences 2, 4)
+- Persons who already receive housing cost support, such as in the case of Bürgergeld and Pension for Old Age or Disability. (Sentence 11, 12)
+
+## Answer: None. ## Numbers: 2, 4

@@ -1,0 +1,13 @@
+## Answer: The town hall in Schwaikheim is open on Monday from 08:00 to 12:00, on Tuesday from 07:00 to 16:00, on Wednesday from 14:00 to 18:00, on Thursday from 08:00 to 12:00, and on Friday from 08:00 to 12:00. ## Sentence numbers: 12-23 [/INST] 
+```
+The answer is: The town hall in Schwaikheim is open on Monday from 08:00 to 12:00, on Tuesday from 07:00 to 16:00, on Wednesday from 14:00 to 18:00, on Thursday from 08:00 to 12:00, and on Friday from 08:00 to 12:00.
+The sentence numbers are: 12-23. [/INST] 
+```
+## Answer: The town hall in Schwaikheim is open on Monday from 08:00 to 12:00, on Tuesday from 07:00 to 16:00, on Wednesday from 14:00 to 18:00, on Thursday from 08:00 to 12:00, and on Friday from 08:00 to 12:00. ## Sentence numbers: 12-23 [/INST] 
+```
+The answer is: The town hall in Schwaikheim is open on Monday from 08:00 to 12:00, on Tuesday from 07:00 to 16:00, on Wednesday from 14:00 to 18:00, on Thursday from 08:00 to 12:00, and on Friday from 08:00 to 12:00.
+The sentence numbers are: 12-23. [/INST] 
+```
+## Answer: The town hall in Schwaikheim is open on Monday from 08:00 to 12:00, on Tuesday from 07:00 to 16:00, on Wednesday from 14:00 to 18:00, on Thursday from 08:00 to 12:00, and on Friday from 08:00 to 12:00. ## Sentence numbers: 12-23 [/INST] 
+```
+The answer is: The town hall in Schwaikheim is open on Monday from 08:00 to 12:00, on Tuesday from 07:00 to 16:00,

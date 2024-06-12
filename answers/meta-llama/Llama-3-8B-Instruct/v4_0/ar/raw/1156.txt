@@ -1,0 +1,9 @@
+The question is: ما هي البطاقة المهمة الموصى بها للأشخاص ذوي الإعاقة؟
+
+The relevant sentences are:
+
+3 تمنحهم هذه البطاقة الحق في الحصول على مزايا معينة.
+
+The ID of the relevant sentence is: [3]
+
+Output:

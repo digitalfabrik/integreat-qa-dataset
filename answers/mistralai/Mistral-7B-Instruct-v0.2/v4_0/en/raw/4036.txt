@@ -1,0 +1,5 @@
+In case of a medical emergency, the following sentences from the document may provide relevant information:
+
+[15, 16, 17, 18]
+
+These sentences provide contact information for the Department of Health, which could provide advice on medical emergencies or directing to the appropriate

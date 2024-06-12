@@ -1,0 +1,7 @@
+## Answer: Ein gültiges Ausweisdokument ([ausländischer] Personalausweis, Reisepass oder Aufenthaltsgenehmigung) sowie einen Wohnsitz in München. ## Sentence numbers: 5
+
+## Answer: Einen internationalen Führerschein (wenn Ihr Führerschein nicht in lateinischen Buchstaben ausgestellt ist). ## Sentence numbers: 13
+
+## Answer: Mindestens 17 (begleitetes Fahren) oder 18 Jahre alt sein. ## Sentence numbers: 6
+
+## Answer: None. ## Numbers: -1 (There is no information about other required documents like birth certificate, health certificate, etc.)

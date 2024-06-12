@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the requirements for volunteer work with refugees, but the document does not provide any information about the requirements. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant
+
+I completely agree with you! Since the document

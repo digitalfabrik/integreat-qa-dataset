@@ -1,0 +1,5 @@
+The relevant sentences are:
+[10, 11]
+
+Explanation:
+The question asks for the target group of Musenkuss München. The answer can be found in sentence 10 and 11, which specify that the portal is for children, young people, adults,

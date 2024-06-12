@@ -1,0 +1,1 @@
+["2", "Universités = universities (more academically focused)", "Hautes écoles pédagogiques = Teacher training colleges (for social subjects)", "Hautes écoles de sciences appliquées = Universities of Applied Sciences (practice-oriented)", "Univers

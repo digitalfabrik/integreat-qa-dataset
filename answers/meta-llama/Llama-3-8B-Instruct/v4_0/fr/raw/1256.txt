@@ -1,0 +1,5 @@
+[12, 13, 14]assistant
+
+The sentences that answer the question "Que signifie le 'principe de l'arrondissement'" are:
+
+12. Cela signifie que chaque école primaire ou secondaire est responsable d'une zone spécifique (appelée

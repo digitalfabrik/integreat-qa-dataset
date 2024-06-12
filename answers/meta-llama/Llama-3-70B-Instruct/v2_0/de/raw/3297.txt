@@ -1,0 +1,21 @@
+78 Homepage des BAMF
+79 Hier findest Du viele Informationen.
+80 Zum Beispiel:
+81 Asylverfahren
+82 Asylrecht
+83 und vielem mehr
+84 Homepage des BAMF.
+85 Der Unterschied zwischen Asyl und Geflüchtetem-Status
+86 Der Asyl-Status wird einem Menschen zuerkannt.
+87 Wenn er politisch verfolgt wird.
+88 oder Opfer von Krieg oder Verfolgung ist.
+89 Der Geflüchtetem-Status wird einem Menschen zuerkannt.
+90 Wenn er Opfer von Krieg oder Verfolgung ist.
+91 aber nicht politisch verfolgt wird.
+92 Der Geflüchtetem-Status ist ein subsidiärer Schutzstatus.
+93 Er wird nur dann zuerkannt.
+94 Wenn der Asyl-Status nicht zuerkannt wird.
+95 Der Geflüchtetem-Status bietet einen geringeren Schutz.
+96 Als der Asyl-Status.
+
+## Answer: Der Asyl-Status wird einem Menschen zuerkannt, wenn er politisch verfolgt wird oder Opfer von Krieg oder Verfolgung ist. Der Geflüchtetem-Status wird einem Menschen zuerkannt, wenn er Opfer von Krieg oder Verfolgung ist, aber nicht politisch verfolgt wird. ## Sentence numbers: 86-91

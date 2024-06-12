@@ -1,0 +1,8 @@
+11 Die Berufsschule
+12 Hier finden Sie alle Berufsschulen im Rems-Murr-Kreis und die Kontaktdaten
+13 Die Berufskollegs
+14 Hier finden Sie alle Berufskollegs im Rems-Murr-Kreis und die Kontaktdaten
+15 Die Fachoberschule
+16 Hier finden Sie alle Fachoberschulen im Rems-Murr-Kreis und die Kontaktdaten
+
+## Answer: Hier können alle Schulabschlüsse erworben werden, vom Hauptschulabschluss bis zum Abitur. ## Sentence numbers: 2

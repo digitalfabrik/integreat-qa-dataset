@@ -1,0 +1,15 @@
+Question: Who can do a voluntary internship?
+
+Document: [36, 37]assistant
+
+The correct output is:
+
+[36, 37]
+
+These sentences answer the question "Who can do a voluntary internship?"assistant
+
+I'm glad I was correct!
+
+The output is indeed:
+
+[

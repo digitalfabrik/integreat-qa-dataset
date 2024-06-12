@@ -1,0 +1,7 @@
+The question is: Was ist der Unterschied zwischen einer Aufenthaltsgenehmigung und einer Arbeitserlaubnis?
+
+The document does not contain any sentences that answer this question. Therefore, the output is:
+
+[]assistant
+
+The question is: Was ist der Unterschied zwischen einer Aufenthalt

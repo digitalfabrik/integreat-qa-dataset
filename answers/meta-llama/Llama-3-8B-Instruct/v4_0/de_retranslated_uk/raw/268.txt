@@ -1,0 +1,8 @@
+The question is: Wie wirkt sich das Einkommen auf die Steuerzahlungen aus?
+
+The relevant sentences are:
+[5, 6, 7]
+
+These sentences answer the question by explaining how income affects tax payments.assistant
+
+The IDs of the relevant sentences are: [5,

@@ -1,0 +1,3 @@
+## Answer: Der QueerBeats-Chor führt Musik auf. ## Sentence numbers: 2, 10, 11.
+
+Explanation: Sentence 2 states that QueerBeats is a choir, which implies that they perform music. Sentence 10 gives a time and location for the choir to meet, further implying that they perform music together. Finally, sentence 11 lists "Chor" (the German word for choir) as one of the group's activities, confirming that the QueerBeats-Chor performs music.

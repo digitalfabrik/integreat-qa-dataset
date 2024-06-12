@@ -1,0 +1,5 @@
+Based on the information provided, the following sentences from the document answer the question:
+
+[1, 2, 10]
+
+Sentence 1 provides an introduction to professional training in the public sector. Sentence 2 instructs the reader to submit their application, and Sentence

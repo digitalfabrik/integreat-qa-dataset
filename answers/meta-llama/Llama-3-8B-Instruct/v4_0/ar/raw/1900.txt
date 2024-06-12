@@ -1,0 +1,7 @@
+[2, 8]assistant
+
+The question is "كم عدد أنواع الجامعات في ألمانيا؟" which translates to "How many types of universities are there in Germany?".
+
+The sentences that answer this question are:
+
+* 2: هناك أنواع مختلفة من الجامعات في ألمانيا

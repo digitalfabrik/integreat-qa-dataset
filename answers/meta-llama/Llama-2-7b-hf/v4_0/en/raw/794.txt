@@ -1,0 +1,6 @@
+### Input Format
+
+The first line contains a single integer, N, the number of sentences in the document.
+The second line contains a single integer, Q, the number of sentences in the question.
+The next line contains N integers, the IDs of the sentences in the document.
+The

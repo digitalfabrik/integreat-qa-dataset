@@ -1,0 +1,37 @@
+## Answer: General practitioners, specialists (including pediatricians, gynecologists, and dentists), and gynecologists. ## Sentences: 2, 9, 10, 11, 12, 13, 15, 18, 19, 22, 23
+
+## Answer: None. ## Numbers: 5, 6, 7, 14, 16, 17, 24-30
+
+## Answer: Pediatricians. ## Sentences: 12, 13, 14, 15, 17.
+
+## Answer: Gynecologists. ## Sentences: 18, 19, 20, 21.
+
+## Answer: Dentists. ## Sentences: 22, 23, 31, 32.
+
+## Answer: None. ## Numbers: 3, 8.
+
+## Answer: General practitioners. ## Sentences: 2, 9, 10.
+
+## Answer: Specialists. ## Sentences: 11.
+
+## Answer: None. ## Numbers: 1, 4, 11, 16, 24-30.
+
+## Answer: People on low incomes. ## Sentences: 29, 35.
+
+## Answer: None. ## Numbers: 11, 28, 29, 30.
+
+## Answer: Health insurance company. ## Sentences: 30.
+
+## Answer: None. ## Numbers: 11, 27, 28, 29.
+
+## Answer: 10 euros. ## Sentences: 34, 35.
+
+## Answer: None. ## Numbers: 11, 28, 29.
+
+## Answer: None. ## Numbers: 11, 28.
+
+## Answer: None. ## Numbers: 11, 29.
+
+## Answer: None. ## Numbers: 11, 30.
+
+## Answer: None. ## Numbers:

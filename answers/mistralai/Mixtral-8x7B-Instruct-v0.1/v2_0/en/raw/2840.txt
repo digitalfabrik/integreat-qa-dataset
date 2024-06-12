@@ -1,0 +1,11 @@
+## Answer: You can buy over-the-counter medication without a prescription at a pharmacy. ## Sentence numbers: 14, 15, 16
+
+## Answer: Prescription medication requires a doctor's prescription and can be partially covered by statutory health insurance. ## Sentence numbers: 12, 27, 28
+
+## Answer: Narcotics are prescribed on yellow prescriptions and are valid for 7 days. ## Sentence numbers: 25, 26
+
+## Answer: Medication that does not require a prescription (e.g. cough syrup) must be paid for by the individual. ## Sentence numbers: 30
+
+## Answer: Even with a prescription, not all medication is free for asylum seekers. ## Sentence numbers: 31
+
+## Answer: None. ## Numbers: -1 (There is no information about which medicines can be bought in a pharmacy without a prescription.)

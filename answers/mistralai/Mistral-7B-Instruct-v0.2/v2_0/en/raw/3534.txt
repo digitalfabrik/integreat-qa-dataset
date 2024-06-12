@@ -1,0 +1,35 @@
+Answer: There are outpatient medical care policies through doctors and pharmacies, and inpatient medical care through hospitals in Germany.
+
+Sentence numbers: 4, 5, 6, 11
+
+Answer: The public health department in Germany provides preventive services and information on health.
+
+Sentence numbers: 8, 9, 14, 15, 16, 17, 18, 19, 20, 21
+
+Answer: In case of minor injuries or illnesses, one can go to a doctor's surgery. In case of emergencies or at night/weekends, there are medical on-call services and dental emergency services.
+
+Sentence numbers: 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36
+
+Answer: The German healthcare system offers outpatient and inpatient care services, as well as preventive services through the public health department.
+
+Sentence numbers: 1, 3, 4, 5, 6, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20, 21
+
+Answer: None.
+
+Numbers: -1
+
+Answer: There are three main areas of the German healthcare system: outpatient medical care, inpatient medical care, and health protection of the population.
+
+Sentence numbers: 3
+
+Answer: The German healthcare system offers information and advice on health through the public health department.
+
+Sentence numbers: 14, 15
+
+Answer: The public health department in Germany provides information on health in a fun way through projects at schools.
+
+Sentence numbers: 17, 18
+
+Answer: The German healthcare system offers a brochure in 14 languages that contains important information about the healthcare system.
+
+Sentence numbers: 40

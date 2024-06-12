@@ -1,0 +1,11 @@
+The question is: Яким групам людей заборонено працевлаштовуватися?
+
+The relevant sentences are:
+
+6. Деяким групам людей заборонено влаштовуватися на роботу.
+
+The ID of the relevant sentence is:
+
+[6]assistant
+
+The question

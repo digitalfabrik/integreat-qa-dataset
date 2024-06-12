@@ -1,0 +1,17 @@
+26 Jugendkulturwerkstatt
+27 Die Jugendkulturwerkstatt bietet eine Vielzahl von Aktivitäten an.
+28 Von Malerei über Musik, Theater, Tanz, Medienkunst, Fotografie, Film, bis hin zu DIY- und Upcycling-Projekten.
+29 Die Jugendlichen können sich frei zwischen den verschiedenen Angeboten bewegen.
+30 Die Angebote sind kostenlos.
+31 Die Jugendkulturwerkstatt ist ein offener Raum für Jugendliche.
+32 Die Jugendlichen können ihre eigenen Ideen und Projekte entwickeln.
+33 Die Mitarbeiter der Jugendkulturwerkstatt unterstützen die Jugendlichen bei der Umsetzung ihrer Ideen.
+34 Die Jugendkulturwerkstatt bietet auch Workshops und Programme an.
+35 Die Angebote sind vielfältig und werden ständig erweitert.
+36 Die Jugendkulturwerkstatt ist ein Ort, an dem Jugendliche ihre Kreativität und Phantasie ausleben können.
+37 Die Jugendkulturwerkstatt ist ein Ort, an dem Jugendliche sich austauschen und vernetzen können.
+38 Die Jugendkulturwerkstatt ist ein Ort, an dem Jugendliche ihre eigenen Entscheidungen treffen können.
+39 Die Jugendkulturwerkstatt ist ein Ort, an dem Jugendliche ihre eigenen Ziele verfolgen können.
+40 Die Jugendkulturwerkstatt ist ein Ort, an dem Jugendliche ihre eigenen Wege gehen können.
+
+## Answer: Von Malerei über Musik, Theater, Tanz, Medienkunst, Fotografie, Film, bis hin zu DIY- und Upcycling-Projekten. ## Sentence numbers: 28

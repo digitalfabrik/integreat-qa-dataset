@@ -1,0 +1,5 @@
+[22, 24, 25, 30]assistant
+
+Note: The question asks for a recommended navigation app for Munich, and the relevant sentences mention MAPS.ME as a navigation function that can be used offline.assistant
+
+You're absolutely right! I apologize for the mistake

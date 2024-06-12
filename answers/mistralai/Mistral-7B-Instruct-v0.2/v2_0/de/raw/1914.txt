@@ -1,0 +1,25 @@
+Answer: To enter Germany, EU-migrants need a valid personal ID or passport from their home country.
+Sentence numbers: 4
+
+Answer: Spätaussiedler need to obtain an entry form in their home country before coming to Germany.
+Sentence numbers: 10
+
+Answer: None.
+Numbers: -1
+
+Question: What documents are required for entry into Germany for EU migrants?
+
+Context: 0 EU-Migrants and late repatriates
+1 EU-Migrants
+2 If you are a citizen of an EU member state, you can generally enter and live and work in Germany legally (Freedom of Movement Act).
+3 You must then register at the responsible Residents' Registration Office (locally at the town or city hall).
+4 You need a valid personal ID or a valid passport from your home country.
+5 Note: If you do not work, you may not have a claim to social benefits for the first 5 years of your stay in Germany.
+6 It is important that you arrange a consultation with the Jobcenter.
+7 Further information can be found here.
+8 A brochure from the Federal Office for Migration and Refugees (BAMF) in German, English and other languages can be found here.
+9 Late repatriates
+10 After receiving the registration form in your home country, you can enter Germany.
+11 Upon arrival in Germany, you will be assigned to a district by the Federal Office for Administration in Friedland (for example, Rems-Murr-District) and accommodated there if you do not find private housing.
+12 Further information can be found here.
+13 A brochure from the Federal Office for Migration and Refugees (BAMF) in German and Russian can be found here.

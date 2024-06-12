@@ -1,0 +1,11 @@
+### Output
+
+
+```python
+import json
+import requests
+
+
+def get_inst_answer(question, document):
+    url = "https://inst.de/api/v2/question/answer/multiple/"
+    headers = {"Authorization": "Bearer {

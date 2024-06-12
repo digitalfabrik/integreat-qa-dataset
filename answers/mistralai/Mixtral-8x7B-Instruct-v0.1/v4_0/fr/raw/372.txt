@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question "Où peut-on recycler les articles usagés?" are:
+
+[43, 49]
+
+Sentence 43 states: "Les déchets encombrants, les appareils électriques

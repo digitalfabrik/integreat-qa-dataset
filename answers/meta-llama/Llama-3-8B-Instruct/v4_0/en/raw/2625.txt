@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks "What does the integration work of volunteers involve?" but the document does not provide any information about the integration work of volunteers. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant
+
+I completely agree with you

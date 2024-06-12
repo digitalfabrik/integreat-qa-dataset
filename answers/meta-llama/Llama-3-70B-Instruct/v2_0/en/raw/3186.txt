@@ -1,0 +1,25 @@
+16 You have to pay the internet costs from your own money.
+17 If you want to have internet, you have to find a provider yourself.
+18 You can compare prices on the internet.
+19 Tip: The Team Stromsparcheck - SKM Augsburg advises benefit recipients free of charge on their energy consumption after moving in.
+20 You can find all the information here:
+21 www.stromspar-check.de.
+22 Health insurance
+23 Health insurance costs are not covered by the Jobcenter.
+24 You have to pay the health insurance costs from your own money.
+25 If you want to have health insurance, you have to find a provider yourself.
+26 You can compare prices on the internet.
+27 Tip: The Team Stromsparcheck - SKM Augsburg advises benefit recipients free of charge on their energy consumption after moving in.
+28 You can find all the information here:
+29 www.stromspar-check.de.
+30 The Jobcenter does not cover the costs of electricity, internet, and health insurance.
+31 The Jobcenter offers the following services:
+32 The Jobcenter helps you find a job.
+33 The Jobcenter helps you with job applications.
+34 The Jobcenter provides you with information about job training.
+35 The Jobcenter provides you with information about job training courses.
+36 The Jobcenter provides you with information about job training courses and job training.
+37 The Jobcenter provides you with information about job training courses and job training and job applications.
+38 The Jobcenter provides you with information about job training courses and job training and job applications and helps you find a job.
+
+## Answer: The Jobcenter helps you find a job, helps you with job applications, provides you with information about job training, provides you with information about job training courses. ## Sentence numbers: 32, 33, 34, 35, 36, 37, 38

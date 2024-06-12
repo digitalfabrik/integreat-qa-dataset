@@ -1,0 +1,4 @@
+Answer: Kfz-Haftpflichtversicherung, Krankenversicherung, Gesetzliche Rentenversicherung
+Sentence numbers: 4, 3, 5
+
+Explanation: The context mentions that in Germany, there are three types of mandatory insurances: Krankenversicherung (health insurance), Kfz-Haftpflichtversicherung (car liability insurance), and Gesetzliche Rentenversicherung (statutory pension insurance). Therefore, the answer sentences are the ones that mention these insurances.

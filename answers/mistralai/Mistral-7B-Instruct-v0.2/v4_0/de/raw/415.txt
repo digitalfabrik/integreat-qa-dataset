@@ -1,0 +1,4 @@
+[4, 5]
+
+Explanation:
+The question asks about what happens when the Administrative Court of Munich comes to a different decision than the Federal Office for Migration and Refugees (BAMF) in an asylum application appeal process. The document explains that when a person

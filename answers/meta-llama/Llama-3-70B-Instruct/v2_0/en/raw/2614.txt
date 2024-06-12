@@ -1,0 +1,6 @@
+22 You can buy tickets at the ticket machines or at the ticket counters.
+23 You can also buy tickets online.
+24 Online tickets are valid immediately.
+25 You can also buy tickets using the apps mentioned above.
+
+## Answer: One-way tickets, day tickets, weekly or monthly passes, tickets for children, pupils, students, families and groups. ## Sentence numbers: 7, 8, 9, 11, 12, 13, 14

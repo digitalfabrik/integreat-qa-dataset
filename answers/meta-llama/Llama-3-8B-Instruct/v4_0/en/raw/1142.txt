@@ -1,0 +1,7 @@
+The question is: What is vaccinated against at the same time as the measles vaccination?
+
+The relevant sentences are:
+15 The measles vaccination is given in combination with a vaccination against mumps, rubella and possibly
+16 Chickenpox.
+
+The IDs of the relevant sentences are: [15, 16]assistant

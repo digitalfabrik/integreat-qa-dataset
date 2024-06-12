@@ -1,0 +1,4 @@
+The answer to the question can be found in the following IDs: [2, 5, 6, 10]
+Explanation:
+- ID 2, because it mentions the courses for seniors offered by the VHS Augsburger Land.
+- ID 5, because

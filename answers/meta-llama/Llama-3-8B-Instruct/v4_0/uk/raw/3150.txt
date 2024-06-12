@@ -1,0 +1,9 @@
+The question is: Які допомоги по догляду за дитиною доступні в Німеччині?
+
+The relevant sentences are:
+
+2, 10, 11
+
+So, the output is: [2, 10, 11]assistant
+
+The correct output is: [2, 10

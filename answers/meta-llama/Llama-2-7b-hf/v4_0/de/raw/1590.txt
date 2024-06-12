@@ -1,0 +1,5 @@
+The input is a single file containing a question and a document.
+The question is a single sentence, and the document is a single paragraph.
+The question is always the first line of the file.
+The document is always the second line of the file.
+The document is in the form of a

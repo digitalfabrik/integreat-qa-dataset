@@ -1,0 +1,9 @@
+[10]assistant
+
+The question is "Comment des frais peuvent-ils être générés si l'on signe quelque chose que l'on ne peut pas lire?"
+
+The relevant sentence is:
+
+[10] Ne signez rien que vous ne puissiez pas comprendre ou lire.
+
+This sentence

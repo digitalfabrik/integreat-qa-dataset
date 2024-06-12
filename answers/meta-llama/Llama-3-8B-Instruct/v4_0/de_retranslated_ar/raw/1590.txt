@@ -1,0 +1,5 @@
+[2,3]assistant
+
+The sentences that answer the question "Was ist im Dublin-Verfahren festgelegt?" are:
+
+2. Das Dublin-Verfahren gilt für die 28 EU-Mitgliedstaaten sowie für Norwegen, Island, Liechtenstein und die Schweiz

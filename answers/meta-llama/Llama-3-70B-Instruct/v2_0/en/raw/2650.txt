@@ -1,0 +1,15 @@
+8 The reasons for termination in Germany are not limited to the following, but include:
+9 - misconduct
+10 - poor performance
+11 - redundancy
+12 - illness
+13 - company closure
+14 - breach of contract
+15 - other reasons
+16 The notice period for employees is usually longer than for employers.
+17 The notice period for employees depends on the duration of the employment relationship.
+18 The notice period for employers is usually shorter than for employees.
+19 The notice period for employers is usually 4 weeks to the end of a month.
+20 The notice period for employees depends on the duration of the employment relationship.
+
+## Answer: misconduct, poor performance, redundancy, illness, company closure, breach of contract, other reasons ## Sentence numbers: 9-15 ##

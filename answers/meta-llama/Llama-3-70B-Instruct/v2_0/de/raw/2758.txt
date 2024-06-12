@@ -1,0 +1,10 @@
+13 Die Abfallwirtschaft Rems-Murr-Kreis bietet auch fremdsprachige Informationen an.
+14 Die Informationen sind in verschiedenen Sprachen verfügbar.
+15 Die fremdsprachigen Informationen sind für Menschen gedacht, die nicht Deutsch sprechen.
+16 Die fremdsprachigen Informationen sind auch für Menschen gedacht, die Deutsch sprechen, aber auch eine andere Sprache sprechen.
+17 Die fremdsprachigen Informationen sind auch für Menschen gedacht, die in Deutschland leben, aber nicht Deutsch sprechen.
+18 Die fremdsprachigen Informationen sind auch für Menschen gedacht, die in Deutschland leben, aber Deutsch sprechen, aber auch eine andere Sprache sprechen.
+19 Die fremdsprachigen Informationen sind auch für Menschen gedacht, die in Deutschland leben, aber Deutsch sprechen, aber auch eine andere Sprache sprechen und die fremdsprachigen Informationen benötigen.
+20 Die fremdsprachigen Informationen sind auch für Menschen gedacht, die in Deutschland leben, aber Deutsch sprechen, aber auch eine andere Sprache sprechen und die fremdsprachigen Informationen benötigen, um die Mülltrennung besser zu verstehen.
+
+## Answer: Die Mülltrennung bedeutet, dass der Müll in den dafür vorgesehenen Tonnen entsorgt werden muss. ## Sentence numbers: 1, 2, 3

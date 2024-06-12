@@ -1,0 +1,12 @@
+The question is: За яких умов можна отримати дозвіл на поселення?
+
+The relevant sentences are:
+
+* 3
+* 16
+* 17
+* 20
+
+The IDs of the relevant sentences are: [3, 16, 17, 20]assistant
+
+[

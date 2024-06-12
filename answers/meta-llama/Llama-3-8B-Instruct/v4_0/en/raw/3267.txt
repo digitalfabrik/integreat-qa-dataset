@@ -1,0 +1,3 @@
+[]assistant
+
+The question "What is the difference between a residence permit and a work permit?" is not answered in the given document. The document appears to be about inclusion and accessibility, and does not mention residence permits or work permits at all. Therefore, the output is an empty list, which is represented

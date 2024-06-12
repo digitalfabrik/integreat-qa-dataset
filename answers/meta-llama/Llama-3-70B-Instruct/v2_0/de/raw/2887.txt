@@ -1,0 +1,7 @@
+10 Die Bevölkerung im Rems-Murr-Kreis ist sehr ungleichmäßig verteilt.
+11 Die meisten Einwohner leben in den Städten Waiblingen, Fellbach, Schorndorf und Backnang.
+12 Die kleineren Gemeinden haben oft nur wenige hundert Einwohner.
+13 Die Bevölkerungsdichte ist in den Städten sehr hoch.
+14 Die Bevölkerungsdichte ist in den kleineren Gemeinden sehr niedrig.
+
+## Answer: Die Bevölkerung im Rems-Murr-Kreis ist sehr ungleichmäßig verteilt. Die meisten Einwohner leben in den Städten Waiblingen, Fellbach, Schorndorf und Backnang. Die kleineren Gemeinden haben oft nur wenige hundert Einwohner. Die Bevölkerungsdichte ist in den Städten sehr hoch. Die Bevölkerungsdichte ist in den kleineren Gemeinden sehr niedrig. ## Sentence numbers: 10, 11, 12, 13, 14

@@ -1,0 +1,7 @@
+The question is: Welche Zielgruppe wird von Musenkuss München angesprochen?
+
+The relevant sentences are:
+
+[10, 11]
+
+These sentences answer the question by stating the target group of Musenkuss München, which includes children, youth, adults, seniors, people with and without disabilities.

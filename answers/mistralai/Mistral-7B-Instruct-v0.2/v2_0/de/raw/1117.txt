@@ -1,0 +1,29 @@
+## Answer: In Deutschland gibt es Kindertagesbetreuungen in Kindertageseinrichtungen und Kindertagespflege. ## Sentence numbers: 2
+
+## Answer: Es gibt zahlreiche Angebote der Kindertagesbetreuung in Deutschland. ## Sentence numbers: 2
+
+## Answer: Die Kinder erlernen in der Kindertagesbetreuung sehr schnell die deutsche Sprache. ## Sentence numbers: 6
+
+## Answer: Kinder brauchen andere Kinder, um miteinander zu spielen, zu lernen und um Freunde zu finden. ## Sentence numbers: 9
+
+## Answer: Es gibt Filme zur Kinderbetreuung in Deutschland, die auf Deutsch, Englisch, Französisch, Russisch, Arabisch, Farsi, Dari, Türkisch, Kurdisch und Tigrinisch verfügbar sind. ## Sentence numbers: 11
+
+## Answer: Du kannst die Filme zur Kinderbetreuung in Deutschland sehen, um die Vorteile zu erfahren. ## Sentence numbers: 10
+
+## Answer: Die Erzieherinnen und Erzieher in den Kindertageseinrichtungen sind sehr gut qualifiziert. ## Sentence numbers: 4
+
+## Answer: Die Kinder lernen in einer positiven Atmosphäre viel Neues. ## Sentence numbers: 5
+
+## Answer: Die Kinder kommen in Kontakt mit anderen Kindern. ## Sentence numbers: 7, 9
+
+## Answer: Es gibt wichtige Informationen zur Kinderbetreuung. ## Sentence numbers: 1
+
+## Answer: Es gibt Grundsätzliche Informationen zur Kinderbetreuung. ## Sentence numbers: 0
+
+## Answer: Die Kinderbetreuung hat viele Vorteile. ## Sentence numbers: 3
+
+## Answer: Die Kinder in den Kindertageseinrichtungen machen interessante Projekte. ## Sentence numbers: 4
+
+## Answer: Die Kinder in den Kindertageseinrichtungen lernen in einer positiven Atmosphäre. ## Sentence numbers: 5
+
+## Answer

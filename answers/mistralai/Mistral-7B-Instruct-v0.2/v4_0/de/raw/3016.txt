@@ -1,0 +1,4 @@
+[4,5,6,7]
+
+Explanation:
+The question asks for the difference between paid and unpaid breaks. However, the document only mentions the minimum break requirements based on working hours. Therefore, the document does not provide any information about paid or unpaid breaks. The sentences that

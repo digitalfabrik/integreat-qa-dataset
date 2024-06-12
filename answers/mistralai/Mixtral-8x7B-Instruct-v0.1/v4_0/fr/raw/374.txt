@@ -1,0 +1,3 @@
+The relevant sentences from the document that answer the question are:
+
+[4, 14, 15, 16, 17]

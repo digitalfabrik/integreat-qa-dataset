@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Quelles sont les compétences d'une personne ayant un niveau de langue B2?" and the document does not mention the level of language B2 or the corresponding competencies. Therefore, there are no sentences in the document that answer the question.assistant

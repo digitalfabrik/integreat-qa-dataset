@@ -1,0 +1,13 @@
+22 The moped licence is valid for 15 years.
+23 You have to renew it after 15 years.
+24 The moped licence is valid for mopeds up to 50cc.
+25 The moped licence is valid for mopeds up to 45 km/h.
+26 The moped licence is valid for mopeds up to 50cc and 45 km/h.
+27 The moped licence is valid for mopeds up to 50cc or 45 km/h.
+28 The moped licence is valid for mopeds up to 50cc or 45 km/h.
+29 The moped licence is valid for mopeds up to 50cc or 45 km/h.
+30 The moped licence is valid for mopeds up to 50cc or 45 km/h.
+
+## Answer: Then you first have to check whether your driving licence can also be recognised in Germany or whether you also have to pass the practical and/or theoretical driving test again here. ## Sentence numbers: 10
+## Answer: Contact the driver licensing authority. ## Sentence numbers: 15
+## Answer: You have to take the theoretical and practical exam again. ## Sentence numbers: 13

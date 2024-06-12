@@ -1,0 +1,6 @@
+Question: Für wen ist das Café?
+
+Document: 0 VielfaltCafé
+1 VielfaltCafé
+2 Das diversityCafé ist der zweite Standort des queeren Jugendzentrums diversity München.
+3 Alle jungen LGBTIQ*-Menschen und ihre Freunde sind

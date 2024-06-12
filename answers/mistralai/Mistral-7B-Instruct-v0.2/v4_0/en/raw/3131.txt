@@ -1,0 +1,3 @@
+Based on the question, the following sentences from the document answer the question:
+
+[20, 21, 31, 33, 34, 37, 38, 39, 41, 42, 43, 44

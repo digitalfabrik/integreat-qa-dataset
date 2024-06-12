@@ -1,0 +1,11 @@
+[8]assistant
+
+The sentence that answers the question "Що рекомендується для запобігання появі цвілі?" is sentence 8.assistant
+
+[8]assistant
+
+Correct!assistant
+
+Thank you!assistant
+
+You're

@@ -1,0 +1,7 @@
+Question: Wo kann ich mich für Kurse anmelden?
+
+Document: [6, 10, 25]
+
+Note: Sentences 6, 10, and 25 provide information on where to find course offers or how to enroll for courses.assistant
+
+[6, 10, 25

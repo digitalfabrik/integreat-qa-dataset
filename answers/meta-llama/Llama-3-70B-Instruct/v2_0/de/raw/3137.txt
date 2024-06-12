@@ -1,0 +1,10 @@
+31 Die gesetzliche Krankenversicherung ist Pflicht für alle Arbeitnehmer und Arbeitnehmerinnen.
+32 Sie ist Pflicht für alle Selbstständigen, die nicht freiwillig privat krankenversichert sind.
+33 Die gesetzliche Krankenversicherung ist Pflicht für alle, die ein bestimmtes Einkommen haben.
+34 Die private Krankenversicherung ist freiwillig.
+35 Sie ist für alle, die ein bestimmtes Einkommen haben und freiwillig privat krankenversichert sind.
+36 Die private Krankenversicherung ist teurer als die gesetzliche Krankenversicherung.
+37 Sie bietet oft bessere Leistungen als die gesetzliche Krankenversicherung.
+38 Die private Krankenversicherung ist Pflicht für alle, die ein bestimmtes Einkommen haben und nicht gesetzlich krankenversichert sind.
+
+## Answer: Die private Krankenversicherung ist freiwillig. Die gesetzliche Krankenversicherung ist Pflicht für alle Arbeitnehmer und Arbeitnehmerinnen. Die private Krankenversicherung ist teurer als die gesetzliche Krankenversicherung. Sie bietet oft bessere Leistungen als die gesetzliche Krankenversicherung. ## Sentence numbers: 31, 34, 36, 37

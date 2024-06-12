@@ -1,0 +1,5 @@
+Question: Wogegen wird gleichzeitig mit der Masern-Impfung geimpft?
+
+Document: [1, 15, 16]
+
+Note: Sentences 1 and 15 provide general information about the Masern-Impfung, while sentence 16 specifically mentions that it is combined with an impfung

@@ -1,0 +1,6 @@
+17 Die Betreuung kann dir helfen, die Rechnung zu bezahlen.
+18 Oder die Betreuung kann dir helfen, die Gebühren zu reduzieren.
+19 Oder die Betreuung kann dir helfen, die Gebühren zu streichen.
+20 Die Betreuung kann dir auch helfen, die Rechnung zu überprüfen.
+
+## Answer: 24 Monaten ## Sentence numbers: 3

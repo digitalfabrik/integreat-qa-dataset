@@ -1,0 +1,4 @@
+The relevant sentence is:
+9 Для кого: діти віком від 7 до 15 років
+
+The answer to the question is: діти віком від 7 до 15 років (children aged from 7 to 15 years)

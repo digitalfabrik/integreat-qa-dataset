@@ -1,0 +1,9 @@
+### Solution
+
+```python
+import re
+
+def solution(input_text):
+    # Solution
+    regex = re.compile(r'(?<=[0-9])[0-9]+(?=[a-z])')
+    regex = re.compile(r'

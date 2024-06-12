@@ -1,0 +1,4 @@
+[12, 13, 14]
+12 is relevant because it mentions that children are generally examined by pediatricians.
+13 is relevant because it reiterates that children are generally examined by pediatricians.
+14 is relevant because it mentions that exam

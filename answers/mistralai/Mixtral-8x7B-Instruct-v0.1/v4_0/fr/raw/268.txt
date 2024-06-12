@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question are:
+
+[5, 6, 7, 15]
+
+Sentence 5 explains that in Germany, people who earn money pay taxes to the state. Sentence 6 states that the amount of taxes paid increases with the level

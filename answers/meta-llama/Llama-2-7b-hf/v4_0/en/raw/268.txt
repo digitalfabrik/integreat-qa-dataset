@@ -1,0 +1,9 @@
+### Sample Input
+```
+[Question] How does the income affect the tax payment?
+
+Document: 0 Social justice
+1 Social justice
+2 The state must respect and protect human dignity.
+3 It should therefore ensure the best possible social justice.
+4 To this end, it

@@ -1,0 +1,4 @@
+[4]
+
+Explanation:
+The question asks for the documents needed to enter Germany. Sentence 4 states that a valid identity card or a valid passport from your country of origin is required. Therefore, the answer is [4].

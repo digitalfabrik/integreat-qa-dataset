@@ -1,0 +1,6 @@
+The relevant sentences from the document that answer the question are:
+[2, 6]
+
+Explanation:
+Sentence 2 provides information about the age range of the group, which is between 14 and 27 years old.
+Sentence 6 specifies that the group is

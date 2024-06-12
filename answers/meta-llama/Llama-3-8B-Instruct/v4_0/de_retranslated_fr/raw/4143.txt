@@ -1,0 +1,7 @@
+The question is: Welche Art von Musik spielt der QueerBeats Choir?
+
+The relevant sentences are not present in the document, so the output is: []assistant
+
+The correct output is indeed: []
+
+The document does not provide any information about the type of music played by the QueerBe

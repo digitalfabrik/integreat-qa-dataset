@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Quels sont les groupes d'entraide près de chez moi?" and the document does not provide any information about groups of mutual aid near the reader's location. Therefore, the output is an empty list: []assistant
+
+I completely agree

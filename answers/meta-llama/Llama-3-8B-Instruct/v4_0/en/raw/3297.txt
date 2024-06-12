@@ -1,0 +1,7 @@
+The question is: What is the difference between asylum and refugee status?
+
+The relevant sentences from the document are: []assistant
+
+The correct output is indeed "[]", as none of the sentences in the document answer the question about the difference between asylum and refugee status.assistant
+
+I'm glad

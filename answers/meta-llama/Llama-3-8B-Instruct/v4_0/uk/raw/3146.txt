@@ -1,0 +1,7 @@
+Question: Які вимоги для вступу до технічного коледжу?
+
+Document: 0 Технічний коледж
+
+Answer: [14, 15, 16, 17]
+
+Explanation: The question asks about the requirements for entering a technical college. Sentences 14, 15,

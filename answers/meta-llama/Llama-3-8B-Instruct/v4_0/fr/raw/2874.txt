@@ -1,0 +1,7 @@
+The question is: Où puis-je chercher une formation avec un permis de séjour?
+
+The relevant sentences are:
+
+6 Pour obtenir un Ausbildungsduldung, il faut déposer le contrat de formation auprès de la préfecture.
+
+The ID of the relevant sentence is: [6

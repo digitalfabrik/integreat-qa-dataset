@@ -1,0 +1,9 @@
+## Answer: The more income one has, the more taxes they pay. ## Sentence numbers: 5, 6, 7
+
+## Answer: The state uses the tax money for the well-being of the people in Germany. ## Sentence numbers: 8
+
+## Answer: Those who earn a lot pay more taxes. ## Sentence numbers: 5, 6, 7
+
+## Answer: The state ensures that taxes are also used for social justice and aid in emergency situations. ## Sentence numbers: 15
+
+## Answer: None. ## Numbers: -1 (The question asks about the effect of income on taxes, but the context does not provide information about how the tax money is specifically used for social justice and aid in emergency situations.)

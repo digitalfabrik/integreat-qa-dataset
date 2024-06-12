@@ -1,0 +1,7 @@
+[37, 36]assistant
+
+The question is "من يمكنه القيام بالتدريب التطوعي؟" which translates to "Who can do voluntary training?".
+
+The sentences that answer this question are:
+
+* 36: يمكن لأي شخص القيام بتدريب تطوعي

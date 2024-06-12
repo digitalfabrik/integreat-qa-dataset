@@ -1,0 +1,3 @@
+[1, 2, 3, 4, 5]
+
+These sentences provide information on the mandatory health insurance in Germany, the option of choosing between statutory and private health insurance, and the contribution to the insurance by both the employee and the employer.

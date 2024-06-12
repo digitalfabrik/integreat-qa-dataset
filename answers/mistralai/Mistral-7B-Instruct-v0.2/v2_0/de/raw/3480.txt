@@ -1,0 +1,23 @@
+## Answer: The Amt für Ausländerwesen und Integration in Landkreis Augsburg is where you can find consultation services for foreigners. ## Sentence numbers: 0, 1, 2
+
+## Answer: You can make an appointment with a staff member from the Amt für Ausländerwesen und Integration by scheduling a term. ## Sentence numbers: 4, 5, 6
+
+## Answer: The waiting times for an appointment at the Amt für Ausländerwesen und Integration are currently at least 4 weeks. ## Sentence numbers: 12, 13
+
+## Answer: You can contact the Amt für Ausländerwesen und Integration via email at Auslaenderamt@LRA-a.bayern.de or visit their website at www.landkreis-augsburg.de/asyl-auslaenderwesen-integration/amt-fuer-auslaenderwesen-und-integration/. ## Sentence numbers: 14, 18, 19
+
+## Answer: The Amt für Ausländerwesen und Integration is open from Monday to Friday, 07:30 - 12:30 and on Thursdays from 14:00 - 17:30. ## Sentence numbers: 19, 20-23
+
+## Answer: None. ## Numbers: -1
+
+## Question: Where can I find consultation services for foreigners in Landkreis Augsburg?
+
+## Context: 0 Amt für Ausländerwesen und Integration Landkreis Augsburg
+## 1 Aufgaben
+## 2 The Amt für Ausländerwesen und Integration regulates the stay of foreign persons residing in Landkreis Augsburg with a registered address.
+## 3 The Amt für Ausländerwesen und Integration is also known as the Ausländerbehörde.
+## 4 Appointment scheduling
+## 5 To speak with a staff member from the Amt für Ausländerwesen und Integration, you must schedule an appointment.
+## 6 Here you can schedule an appointment.
+## 7 When online appointment scheduling, the message "Your session has expired" appears initially.
+## 8 You must

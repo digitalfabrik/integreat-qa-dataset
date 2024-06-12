@@ -1,0 +1,6 @@
+[1, 2]assistant
+
+The sentences that answer the question "Wie kann ich eine Wohnung finden?" are:
+
+* 0 Wie finde ich eine Wohnung? (This sentence is not directly answering the question, but it's related to finding an apartment)
+* 1 Wo können Sie nach einer Wohnung

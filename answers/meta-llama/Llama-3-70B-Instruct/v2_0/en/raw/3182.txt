@@ -1,0 +1,17 @@
+13 The language consultants will help you find the right course for you.
+14 They will also help you with the placement test.
+15 Integration courses are different from normal language courses.
+16 They are designed for people who want to stay in Germany permanently.
+17 They are more intensive and include additional modules.
+18 These modules include, for example, the history and politics of Germany.
+19 They also include the values and customs of Germany.
+20 The integration courses are designed to help you integrate into German society.
+21 They are also recognized by the German authorities.
+22 Normal language courses, on the other hand, are more flexible.
+23 They are designed for people who want to learn German for a specific purpose.
+24 For example, for work or for studying.
+25 They are not as intensive as integration courses.
+26 They do not include additional modules.
+27 They are not recognized by the German authorities.
+
+## Answer: Integration courses are designed for people who want to stay in Germany permanently, are more intensive and include additional modules, whereas normal language courses are more flexible, designed for people who want to learn German for a specific purpose, are not as intensive and do not include additional modules. ## Sentence numbers: 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27

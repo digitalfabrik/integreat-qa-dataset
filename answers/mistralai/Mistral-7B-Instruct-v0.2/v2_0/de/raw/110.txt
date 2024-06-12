@@ -1,0 +1,4 @@
+Answer: 15, 16
+Sentences: 15, 16
+
+Explanation: The context states that "U-Untersuchungen" are vorgeschrieben und verpflichtend in Bayern and finden zu einem bestimmten Zeitpunkt statt. It also states that these U-Untersuchungen are kostenfrei. Therefore, the answer is the sentences that mention "U-Untersuchungen" and state that they are free.

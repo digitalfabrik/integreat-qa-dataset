@@ -1,0 +1,6 @@
+[5, 6, 7]assistant
+
+The sentences that answer the question "How does the income affect the tax payment?" are:
+
+* 5: All people in Germany who earn money pay part of their wages to the state (taxes).
+* 6: The higher the income,

@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wie beantrage ich eine Sozialwohnung in Deutschland?" and the relevant sentences from the document are:
+
+3 Um auf diese Weise eine Wohnung zu erhalten, müssen Sie einen Antrag auf Registrierung beim Amt für Wohnen und Migration stellen.

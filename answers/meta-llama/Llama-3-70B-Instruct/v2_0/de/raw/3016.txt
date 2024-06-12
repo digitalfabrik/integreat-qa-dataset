@@ -1,0 +1,5 @@
+8 Bezahlt werden Pausen, die innerhalb der Arbeitszeit liegen.
+9 Unbezahlte Pausen sind Pausen, die außerhalb der Arbeitszeit liegen.
+10 Die Dauer der Pausen kann je nach Unternehmen variieren.
+
+## Answer: Bezahlt werden Pausen, die innerhalb der Arbeitszeit liegen. Unbezahlte Pausen sind Pausen, die außerhalb der Arbeitszeit liegen. ## Sentence numbers: 8, 9

@@ -1,0 +1,10 @@
+37 Es gibt auch die Möglichkeit, ein Praktikum zu absolvieren.
+38 Ein Praktikum ist ein freiwilliger, zeitlich begrenzter Einsatz in einem Unternehmen.
+39 Es dient der Berufsvorbereitung und der Erweiterung der beruflichen Fähigkeiten.
+40 Ein Praktikum kann man während des Studiums oder auch nach dem Studium absolvieren.
+41 Es gibt auch die Möglichkeit, ein Freiwilliges Soziales Jahr (FSJ) zu absolvieren.
+42 Ein FSJ ist ein freiwilliger, zeitlich begrenzter Einsatz in einem sozialen Bereich.
+43 Es dient der Berufsvorbereitung und der Erweiterung der beruflichen Fähigkeiten.
+44 Ein FSJ kann man während des Studiums oder auch nach dem Studium absolvieren.
+
+Answer: Eine Werkstudententätigkeit ist, wenn man bei einem Unternehmen angestellt ist und erste Erfahrungen sammelt und nebenbei Geld verdienen kann. ## Sentence numbers: 18-20.

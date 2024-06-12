@@ -1,0 +1,26 @@
+## Answer: Busse. ## Sentence numbers: 20, 21, 22, 29, 31, 32, 33 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Welche Verkehrsmittel fahren vom ZOB ab?
+
+Context: 0 Münchens Bahnhöfe / ZOB / Flughafen
+1 Münchens Bahnhöfe / ZOB / Flughafen
+2 Der Münchner Hauptbahnhof
+3 Mitten in der Stadt ist der Hauptbahnhof.
+4 Er hat 32 oberirdische und mehrere unterirdische Gleise.
+5 Er hat die meisten Hauptgleise aller deutschen Bahnhöfe.
+6 In der Haupthalle starten alle Fernverkehrszüge.
+7 Auf den Gleisen 5 bis 10 – dem sogenannten Holzkirchner Bahnhof – fahren meist die Regionalzüge Richtung Salzburg und Mühldorf.
+8 Von den Gleisen 27 bis 36 – dem sogenannten Starnberger Bahnhof – startet man in Richtung Lindau, Lenggries oder zum Tegernsee.
+9 Täglich nutzen circa 350.000 Menschen den Hauptbahnhof.
+10 Es gibt dort auch ein Kundencenter für den öffentlichen Nahverkehr, Einkaufsmöglichkeiten und Imbissbuden.
+11 Der Münchner Ostbahnhof
+12 Der Ostbahnhof befindet sich in dem Stadtviertel Haidhausen.
+13 Der Ostbahnhof ist ein weiterer Fernbahnhof und wichtiger Umsteigepunkt zwischen Regionalzügen sowie S- und U-Bahnen.
+14 Auch der ExpressBus X30 hält dort und bietet eine gute Verbindung nach Giesing und Sendling.
+15 In der näheren Umgebung gibt es auch ein großes Angebot von Restaurants, Bars und Clubs.
+16 Der Bahnhof München-Pasing
+17 Dieser Bahnhof hat 14 Gleise und ist ebenfalls ein Fernverkehrsbahnhof.
+18 Rund 85.000 Menschen nutzen ihn täglich

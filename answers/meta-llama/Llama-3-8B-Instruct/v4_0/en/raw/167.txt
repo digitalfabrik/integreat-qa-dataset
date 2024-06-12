@@ -1,0 +1,12 @@
+Question: Can I find free offers at Musenkuss München?
+
+Document:...
+
+Answer: [15, 16]assistant
+
+The sentences that answer the question are:
+
+15 Some offers cost something, others are free of charge.
+16 You can filter the offers by "free of charge".
+
+So, the

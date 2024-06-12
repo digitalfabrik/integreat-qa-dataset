@@ -1,0 +1,6 @@
+The relevant sentences are:
+[4, 5, 8]
+
+Explanation:
+Sentence 4 directly answers the question by stating that there are two types of educational programs in Germany.
+Sentences 5 and 8 provide further details about these two types, specifying "school-

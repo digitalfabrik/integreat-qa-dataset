@@ -1,0 +1,3 @@
+The question asks for the transportation methods that leave from the warehouse. However, the document does not mention any warehouse or transportation that leaves from it. Therefore, there are no relevant sentences in the document that answer the question.
+
+Output: []

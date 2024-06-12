@@ -1,0 +1,10 @@
+Question: Що включає в себе інтеграційний курс?
+
+Document:...
+
+Answer: [2, 8]assistant
+
+The sentences that answer the question are:
+
+2 Менеджери з інтеграції можуть підтримати вас у багатьох сферах, наприклад
+8 Для сприяння ваш

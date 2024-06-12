@@ -1,0 +1,3 @@
+["7", "8"]
+```bash
+The sentences with IDs "7" and "8" answer the question. Sentence "7" recommends regularly opening windows to let in fresh air, and sentence "8" explains that this prevents the growth of mold, including the one called "

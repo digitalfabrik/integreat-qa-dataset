@@ -1,0 +1,8 @@
+16 Die Kinderbetreuungszuschüsse in Deutschland sind vielfältig.
+17 Es gibt den Kinderzuschlag, den Kinderfreibetrag, den Kinderbetreuungszuschuss und den Bildungs- und Teilhabepaket.
+18 Der Kinderzuschlag ist ein Zuschuss für Familien mit geringem Einkommen.
+19 Der Kinderfreibetrag ist ein Steuerfreibetrag für Kinder.
+20 Der Kinderbetreuungszuschuss ist ein Zuschuss für die Betreuung von Kindern in Kindertageseinrichtungen oder Kindertagespflege.
+21 Der Bildungs- und Teilhabepaket ist ein Paket, das Familien mit geringem Einkommen unterstützt.
+
+Answer: Die Kinderbetreuungszuschüsse in Deutschland sind vielfältig. Es gibt den Kinderzuschlag, den Kinderfreibetrag, den Kinderbetreuungszuschuss und den Bildungs- und Teilhabepaket. ## Sentence numbers: 16-17, 18-21 ##

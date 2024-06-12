@@ -1,0 +1,32 @@
+## Answer: Informationen zu den Voraussetzungen für den Erwerb der deutschen Staatsangehörigkeit finden Sie hier. ## Sentence numbers: 6 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Wo findet man Informationen zu den Voraussetzungen für den Erwerb der deutschen Staatsangehörigkeit?
+
+Context: 0 Einbürgerung
+1 Einbürgerung
+2 Wenn Sie seit mindestens acht Jahren rechtmäßig und gewöhnlich in Deutschland leben, können Sie einen Antrag auf Einbürgerung stellen.
+3 Ehegatten und Kinder können mit eingebürgert werden, auch wenn sie kürzer in Deutschland leben.
+4 Jugendliche ab 16 Jahren können selbst einen Antrag auf Einbürgerung stellen.
+5 Bei bestimmten Personengruppen (beispielsweise Asylberechtigten, Ehegatten von Deutschen) gelten abweichende Voraussetzungen (zum Beispiel kürzere Mindestaufenthaltszeiten).
+6 Informationen zu den unterschiedlichen Voraussetzungen für den Erwerb der deutschen Staatsangehörigkeit finden Sie
+7 hier.
+8 Das Einbürgerungsbüro der Landeshauptstadt München bietet Beratung zum Thema Einbürgerung an.
+9 Hier können Sie einen Termin vereinbaren.
+10 Landeshauptstadt München
+11 Kreisverwaltungsreferat (KVR)
+12 Hauptabteilung II Bürgerangelegenheiten
+13 Staatsangehörigkeit, Einbürgerung
+14 Bavariastraße 7a
+15 einbuergerung.kvr@muenchen.de
+16 Postanschrift:
+17 Landeshauptstadt München
+18 Kreisverwaltungsreferat (KVR)
+19 Hauptabteilung II Bürgerangelegenheiten
+20 Staatsangehörigkeit, Einbürgerung
+21 Ruppertstr.
+22 19
+ [/INST] 
+## Answer: Informationen zu den Voraussetzungen für den Erwerb der deutschen Staatsangehörigkeit finden Sie hier.

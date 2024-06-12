@@ -1,0 +1,8 @@
+[4, 9]assistant
+
+The sentences that answer the question "Wo finde ich einen Alphabetisierungskurs für Deutsch?" are:
+
+* 4: Serlo ABC
+* 9: Das Portal bietet einen Deutschkurs zur Alphabetisierung.
+
+So the output is: [4,

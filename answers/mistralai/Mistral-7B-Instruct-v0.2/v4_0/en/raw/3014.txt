@@ -1,0 +1,1 @@
+[1, 2] # These sentences provide information about the maximum working hours according to German law.

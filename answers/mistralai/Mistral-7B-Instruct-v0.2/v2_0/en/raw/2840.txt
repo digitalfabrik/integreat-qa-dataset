@@ -1,0 +1,40 @@
+Answer: You can buy prescription and over-the-counter medications in a pharmacy.
+Sentences: 10, 12, 14, 15, 16
+
+Answer: Prescription medications require a prescription from a doctor, while over-the-counter medications can be bought without one.
+Sentences: 11, 12, 13, 14, 15, 16
+
+Answer: Pharmacies are the only places where you can buy medicines in Germany.
+Sentences: 1, 2, 3
+
+Answer: You can obtain prescription medications by getting a prescription from a doctor, and over-the-counter medications can be bought directly from the pharmacy.
+Sentences: 11, 12, 13, 14, 15, 16
+
+Answer: Medications for colds and many pain relievers are available over-the-counter.
+Sentences: 15, 16
+
+Answer: You can only buy prescription medications if a doctor issues a prescription.
+Sentences: 12, 13
+
+Answer: Medications for high blood pressure and diabetes, as well as all antibiotics for bacterial infections, require a prescription.
+Sentences: 13
+
+Answer: You can buy over-the-counter medications without a prescription.
+Sentences: 14, 15
+
+Answer: Medications for colds and many pain relievers are available over-the-counter.
+Sentences: 16
+
+Answer: You can obtain a prescription for narcotics from a doctor, but it is only valid for 7 days.
+Sentences: 24, 25
+
+Answer: Medication for statutory health insurance is partially covered by health insurance, but you must pay a personal contribution of at least €5.
+Sentences: 26, 27, 28
+
+Answer: Medication for privately insured persons is usually valid for three months.
+Sentences: 22, 23
+
+Answer: Even with a prescription, not all medication is free for asylum seekers.
+Sentences: 31, 32
+
+Answer: You can buy medications in

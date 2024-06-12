@@ -1,0 +1,1 @@
+[1, 16, 17, 18] # These sentences provide contact information for the Ausländerwesen und Integration office, which is the type of Beratungsstellen (consultation or advice centers) the question is asking about.

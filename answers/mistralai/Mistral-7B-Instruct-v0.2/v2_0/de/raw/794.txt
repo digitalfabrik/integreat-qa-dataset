@@ -1,0 +1,38 @@
+## Answer: Die Arbeitsschutzvorschriften gewährleisten die Sicherheit und Gesundheit aller Arbeitnehmer.
+## Sentence numbers: 6
+
+## Answer: Für Arbeitsplätze, die für Arbeitnehmer gefährlich sind, sind genaue Präventionsmaßnahmen festgelegt.
+## Sentence numbers: 7
+
+## Answer: Die Arbeitnehmer müssen regelmäßig über die Schutzmaßnahmen informiert werden.
+## Sentence numbers: 9
+
+## Answer: Die Beschäftigten müssen die Schutzmaßnahmen einhalten.
+## Sentence numbers: 10
+
+## Answer: Mängel, die eine Gefahr darstellen können, müssen melden.
+## Sentence numbers: 10
+
+## Answer: Arbeitsschutzvorschriften legen fest, was die Arbeitgeber zur Sicherheit und Gesundheit der Arbeitnehmer tun müssen.
+## Sentence numbers: 3, 6
+
+## Answer: Die Arbeitgeber sind verantwortlich für die Einhaltung und Umsetzung der Schutzmaßnahmen.
+## Sentence numbers: 8
+
+## Answer: Die Arbeitnehmer haben Pflichten und Rechte in Bezug auf den Arbeitsschutz.
+## Sentence numbers: 4
+
+## Answer: Die gesetzlichen Vorschriften überwachen die Einhaltung der Arbeitsschutzvorschriften.
+## Sentence numbers: 5
+
+## Answer: Arbeitsschutzvorschriften sind Vorschriften zur Sicherheit am Arbeitsplatz.
+## Sentence numbers: 1, 11
+
+## Answer: Die Arbeitnehmer müssen die Schutzmaßnahmen einhalten und andere nicht gefährden.
+## Sentence numbers: 10
+
+## Answer: Die Arbeitgeber sind verantwortlich für die Sicherheit und Gesundheit aller Arbeitnehmer.
+## Sentence numbers: 2, 8
+
+## Answer: Arbeitsschutzvorschriften sind gesetzliche Vorschriften.
+## Sent

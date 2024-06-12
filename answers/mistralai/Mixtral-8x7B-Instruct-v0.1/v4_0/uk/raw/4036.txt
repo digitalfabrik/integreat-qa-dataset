@@ -1,0 +1,2 @@
+[19, 20, 22, 23, 24, 25, 26]
+These IDs were selected because they mention various forms of assistance in challenging situations, which can be interpreted as "екстрених випадках" (emergencies)

@@ -1,0 +1,5 @@
+[1, 3]assistant
+
+The sentences that answer the question "Welche Qualifikationen können in einer 'Berufsschule' erworben werden?" are:
+
+1. Für Jugendliche und junge Erwachsene gibt es verschiedene Möglichkeiten an Berufsschulen.

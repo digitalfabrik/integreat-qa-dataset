@@ -1,0 +1,7 @@
+[3, 4, 8]assistant
+
+The sentences that answer the question "Welche Angebote gibt es in den BildungsLokalen?" are:
+
+* 3 Bildungsberatung
+* 4 Die Angebote sind kostenfrei.
+* 8 das Team der Bildungs

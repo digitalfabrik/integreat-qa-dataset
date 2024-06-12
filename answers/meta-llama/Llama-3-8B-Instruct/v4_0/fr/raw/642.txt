@@ -1,0 +1,7 @@
+The question is: Dans quelles langues Donna Mobile peut-elle proposer ses cours de cyclisme?
+
+The relevant sentences are:
+
+28 Les cours peuvent être proposés dans les langues suivantes : allemand, turc, russe, croate, anglais.
+
+The IDs of the relevant sentences are: [28

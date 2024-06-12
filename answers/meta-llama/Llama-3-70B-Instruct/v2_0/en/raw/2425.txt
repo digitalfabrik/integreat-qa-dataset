@@ -1,0 +1,21 @@
+13 They will inform you about the possibilities of volunteering in your area.
+14 Volunteering is a good way to get to know people and to improve your language skills.
+15 It is also a good way to get to know the culture of the country.
+16 Volunteering is a good way to integrate into society.
+17 You can also volunteer in a refugee home.
+18 You can help with language courses or with childcare.
+19 You can also help with administrative tasks.
+20 You can also volunteer in a hospital.
+21 You can help with patient care or with administrative tasks.
+22 You can also volunteer in a museum.
+23 You can help with guided tours or with administrative tasks.
+24 You can also volunteer in a library.
+25 You can help with book lending or with administrative tasks.
+26 You can also volunteer in a school.
+27 You can help with language courses or with childcare.
+28 You can also help with administrative tasks.
+29 You can also volunteer in a charity shop.
+30 You can help with sales or with administrative tasks.
+
+## Answer: You can contact the municipality where you live. ## Sentence numbers: 12
+## Answer: You can volunteer in a refugee home, hospital, museum, library, school, or charity shop. ## Sentence numbers: 17, 20, 22, 24, 26, 29

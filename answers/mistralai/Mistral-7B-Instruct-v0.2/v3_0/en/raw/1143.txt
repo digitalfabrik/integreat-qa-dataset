@@ -1,0 +1,3 @@
+13, 14
+
+These sentences answer the question about the minimum interval between the two measles vaccinations, which is four weeks.

@@ -1,0 +1,11 @@
+16 Childcare allowances are available for children up to the age of 14.
+17 The allowances are paid by the state.
+18 The requirements for childcare allowances are that the parents are working or in education.
+19 The parents must also be in receipt of social benefits.
+20 The allowances are paid for a maximum of 6 hours per day.
+21 The allowances are paid for a maximum of 5 days per week.
+22 The allowances are paid for a maximum of 12 months.
+23 The allowances are paid for a maximum of 24 months in special cases.
+24 The allowances are paid for a maximum of 36 months in exceptional cases.
+
+## Answer: The parents are working or in education and the parents must also be in receipt of social benefits. ## Sentence numbers: 18, 19

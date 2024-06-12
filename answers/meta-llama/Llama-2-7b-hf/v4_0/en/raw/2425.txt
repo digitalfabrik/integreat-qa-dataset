@@ -1,0 +1,6 @@
+Input Format:
+The input file contains a single line containing the question.
+
+Output Format:
+Output the IDs of the relevant sentences as a list, e.g., "[1,2,3]", and output "[]" if no sentence is relevant.
+Output only these lists.

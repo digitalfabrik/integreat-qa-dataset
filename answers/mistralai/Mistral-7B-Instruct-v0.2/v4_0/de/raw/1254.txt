@@ -1,0 +1,4 @@
+[1]
+
+Explanation:
+The question asks for the duration of primary school (Grundschule). Sentence 1 provides the answer with the information that Grundschule lasts for 4 years.

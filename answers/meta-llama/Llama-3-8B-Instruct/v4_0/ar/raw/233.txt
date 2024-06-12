@@ -1,0 +1,7 @@
+The question is: ما هي الفئة العمرية للأطفال الذين يستهدفهم برنامج Zu Hause Gesund Werden؟
+
+The relevant sentences are:
+
+7 يبلغ عمر طفلك المريض 6 أشهر على الأقل و12 سنة على الأكثر.
+
+The IDs of the relevant sentences are:

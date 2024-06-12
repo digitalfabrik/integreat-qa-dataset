@@ -1,0 +1,5 @@
+The question is: Was sind die Voraussetzungen für den Besuch einer Sonderschule?
+
+The document does not mention Sonderschule, so there are no relevant sentences. The output is: []assistant
+
+The question is: Was sind die Voraussetzungen für

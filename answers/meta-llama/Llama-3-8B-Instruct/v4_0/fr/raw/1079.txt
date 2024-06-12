@@ -1,0 +1,5 @@
+[10, 11, 12, 13, 14, 15, 20, 21, 24]assistant
+
+The sentences that answer the question "En quoi un stage est-il utile avant d'entrer dans la vie active?" are:
+
+10. Un stage

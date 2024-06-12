@@ -1,0 +1,25 @@
+## Answer: Personen, die Leistungen nach dem Asylbewerberleistungsgesetz erhalten. ## Sentence numbers: 13 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Wer kann kein Wohngeld bekommen?
+
+Context: 0 Wohngeld
+1 Wohngeld
+2 Der Staat hilft auch Bürgerinnen und Bürgern mit wenig Einkommen, die keine Leistungen des Jobcenters bekommen.
+3 Zum Beispiel können Mieterinnen und Mieter, sowie Untermieterinnen und Untermieter einer Wohnung oder Heimbewohnerinnen und Heimbewohner einen Mietzuschuss bekommen.
+4 Wer ein Haus, eine Wohnung oder eine landwirtschaftliche Nebenerwerbsstelle besitzt, kann auch Wohngeld beantragen.
+5 Voraussetzungen
+6 Der Anspruch auf Wohngeld und die Höhe des Betrags hängen von drei Faktoren ab:
+7 von der Anzahl der Haushaltsmitglieder
+8 von der Höhe des Gesamteinkommens
+9 von der Höhe der Miete beziehungsweise der monatlichen Belastung
+10 Neben der Person die Wohngeld bekommt können auch weitere Haushaltsmitglieder berücksichtigt werden, zum Beispiel Ehegatten, Lebenspartnerinnen und Lebenspartner, Kinder, Eltern oder Geschwister.
+11 Wenn Sie bereits Unterstützung für Wohnkosten bekommen, (z.B. bei Bürgergeld) Bei Bürgergeld und Grundsicherung im Alter oder Erwerbsminderung bekommen Sie bereits Unterstützung für Wohnkosten.
+12 Dann können Sie kein Wohngeld zusätzlich bekommen.
+13 Auch Personen, die Leistungen nach dem Asylbewerberleistungsgesetz erhalten, können kein Wohngeld bekommen.
+14 Antrag und Nachweise
+15 Um Wohngeld zu bekommen müssen Sie einen Antrag und verschiedene Nachweise einreichen:
+16 das Jahreseinkommen aller Haushaltsmitglieder sowie die Rente
+17

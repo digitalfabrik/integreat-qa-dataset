@@ -1,0 +1,23 @@
+25 Integrationskurse
+26 Der Integrationskurs umfasst einen Orientierungskurs
+27 und einen Deutschkurs
+28 Der Orientierungskurs beinhaltet
+29 Informationen über die deutsche Gesellschaft
+30 und Kultur
+31 Informationen über die Rechte und Pflichten
+32 in Deutschland
+33 Informationen über die Möglichkeiten
+34 der beruflichen und sozialen Integration
+35 Der Deutschkurs beinhaltet
+36 die Vermittlung von Deutschkenntnissen
+37 auf verschiedenen Niveaus
+38 von Anfängerniveau bis hin zu
+39 fortgeschrittenem Niveau
+40 Der Kurs wird von qualifizierten Lehrkräften
+41 durchgeführt
+42 Die Kurse werden in kleinen Gruppen
+43 durchgeführt
+44 um eine intensive Betreuung
+45 zu gewährleisten
+
+## Answer: Informationen über die deutsche Gesellschaft und Kultur, Informationen über die Rechte und Pflichten in Deutschland, Informationen über die Möglichkeiten der beruflichen und sozialen Integration. ## Sentence numbers: 29, 31, 33

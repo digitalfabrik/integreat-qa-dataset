@@ -1,0 +1,3 @@
+[]assistant
+
+There is no sentence in the document that answers the question "Welche Art von Musik führt der QueerBeats-Chor auf?" (What kind of music does the QueerBeats-Chor perform?). The document only provides general information about the QueerBeats-Chor,

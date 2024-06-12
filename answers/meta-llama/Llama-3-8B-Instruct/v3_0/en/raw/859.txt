@@ -1,0 +1,5 @@
+[3, 8, 9, 10]assistant
+
+These sentences mention public transport options available in Munich, specifically ÖPNV (public transport), S-Bahn, U-Bahn, regional train, tram, and bus.assistant
+
+[3, 8, 9

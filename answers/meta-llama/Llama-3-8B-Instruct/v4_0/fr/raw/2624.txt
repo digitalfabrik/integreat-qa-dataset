@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the conditions for volunteering with people who are fleeing, but the document does not provide any information about these conditions. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant
+
+I completely agree with you! The

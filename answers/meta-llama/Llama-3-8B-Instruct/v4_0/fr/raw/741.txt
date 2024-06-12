@@ -1,0 +1,10 @@
+Question: Combien de membres de BPW ont approximativement?
+
+Document:...
+
+Answer: [3, 4]assistant
+
+The sentences that answer the question are:
+
+3. Sur place, à l'échelle nationale et internationale, son nombre approx.
+4. 30,

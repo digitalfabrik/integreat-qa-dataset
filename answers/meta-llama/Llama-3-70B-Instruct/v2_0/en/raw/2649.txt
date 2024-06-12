@@ -1,0 +1,28 @@
+25 Integration courses
+26 The integration courses are designed for people who have been living in Germany for a short time.
+27 The courses are designed to help participants
+28 acquire the necessary language skills
+29 and cultural knowledge
+30 to facilitate their integration into German society.
+31 The courses are divided into
+32 basic and advanced levels.
+33 The basic level
+34 is designed for people
+35 who have little or no knowledge of German.
+36 The advanced level
+37 is designed for people
+38 who already have some knowledge of German.
+39 The courses are taught by qualified teachers.
+40 The orientation course
+41 in integration courses
+42 involves an introduction to the German way of life
+43 and the values of the German constitution.
+44 The course also deals with
+45 the rights and obligations of living in Germany.
+46 The course is mandatory for all participants.
+47 The course is free of charge.
+48 The course is offered in different languages.
+49 The course is offered in German, English, French, Italian, Spanish, Turkish, and Arabic.
+50 The course is also offered in other languages upon request.
+
+## Answer: an introduction to the German way of life and the values of the German constitution, and the rights and obligations of living in Germany. ## Sentence numbers: 42, 43, 45

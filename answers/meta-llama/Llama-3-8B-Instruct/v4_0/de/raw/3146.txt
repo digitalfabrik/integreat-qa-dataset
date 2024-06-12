@@ -1,0 +1,9 @@
+The question is: Was sind die Voraussetzungen für den Besuch einer Fachschule?
+
+The relevant sentences are:
+
+[3, 4]
+
+These sentences answer the question by stating the prerequisites for attending a vocational school (Fachschule).assistant
+
+The question is: Was sind

@@ -1,0 +1,5 @@
+## Answer: German Pension Insurance is a social security system in Germany that provides pensions and other benefits for people who can no longer work in old age. It is funded by contributions from employers and employees.
+## Sentence numbers: 2, 4, 5, 6, 13
+
+## Answer: The benefits of German Pension Insurance include a pension, rehabilitation measures to help people return to work, and other unspecified benefits.
+## Sentence numbers: 2, 4, 13, 14, 15, 16

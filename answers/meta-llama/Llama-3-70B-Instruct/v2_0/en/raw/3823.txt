@@ -1,0 +1,13 @@
+17 CEFR Language Proficiency Levels
+18 The Common European Framework of Reference for Languages (CEFR) is a guideline used to describe the language proficiency of non-native speakers.
+19 It defines six levels: A1, A2, B1, B2, C1, C2.
+20 The CEFR levels are used to measure language proficiency in reading, writing, listening and speaking.
+21 The CEFR levels are used to measure language proficiency in reading, writing, listening and speaking.
+22 A person with A1 language proficiency can understand and use familiar, everyday expressions and very basic phrases.
+23 A person with A2 language proficiency can understand sentences and frequently used expressions related to areas of most immediate relevance.
+24 A person with B1 language proficiency can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.
+25 A person with B2 language proficiency can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation.
+26 A person with C1 language proficiency can understand long, complex texts, including abstract, structurally complex, or highly specialised topics.
+27 A person with C2 language proficiency can understand virtually everything heard or read with ease.
+
+## Answer: understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. ## Sentence numbers: 25

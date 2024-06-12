@@ -1,0 +1,7 @@
+The question is: ما الذي تنطوي عليه إجراءات الاعتراف بالمؤهلات المهنية الأجنبية؟
+
+The relevant sentences are not found in the document, so the output is: []assistant
+
+The correct output is indeed: []
+
+The question is asking about the procedures for recognizing

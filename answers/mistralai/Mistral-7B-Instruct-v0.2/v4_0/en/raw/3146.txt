@@ -1,0 +1,1 @@
+[11, 13, 14, 15, 16, 17] # These sentences provide information about the requirements for attending a technical college, specifically mentioning the need for a secondary school leaving certificate, general higher education entrance qualification, Fachhochschulre

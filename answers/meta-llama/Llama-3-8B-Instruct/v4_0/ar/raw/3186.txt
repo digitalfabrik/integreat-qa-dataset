@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "ما الخدمات التي يقدمها الجوب سنتر؟" which translates to "What services does Job Center provide?".
+
+The document does not mention any services provided by Job Center. Therefore, there are no sentences that answer the question. The output is:
+
+[]

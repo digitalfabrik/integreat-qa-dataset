@@ -1,0 +1,9 @@
+67 Registrierung
+68 Die Registrierung ist wichtig für die Anerkennung als Asylsuchender.
+69 Die Registrierung erfolgt bei der Ausländerbehörde im Landratsamt Augsburg.
+70 Die Ausländerbehörde ist für die Registrierung zuständig.
+71 Die Registrierung ist Voraussetzung für die Inanspruchnahme von Leistungen nach dem AsylbLG.
+72 Die Registrierung ist Voraussetzung für die Inanspruchnahme von Leistungen nach dem AsylbLG.
+73 Die Registrierung ist Voraussetzung für die Inanspruchnahme von Leistungen nach dem AsylbLG.
+
+## Answer: Die Ausländerbehörde im Landratsamt Augsburg. ## Sentence numbers: 69, 70

@@ -1,0 +1,5 @@
+Based on the question, the following sentences from the document answer the question:
+
+[10, 11, 12, 13, 14, 16, 17, 18, 19]
+
+These sentences describe the rights that come with receiving

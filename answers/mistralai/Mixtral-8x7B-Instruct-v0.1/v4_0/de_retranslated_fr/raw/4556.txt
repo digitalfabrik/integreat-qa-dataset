@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question "Wie wählt man bei den deutschen Wahlen?" are:
+
+[16, 18-25, 27-32, 34-39, 40-44]
+
+These sentences describe

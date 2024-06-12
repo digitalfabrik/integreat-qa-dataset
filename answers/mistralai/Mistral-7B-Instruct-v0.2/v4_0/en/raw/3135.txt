@@ -1,0 +1,4 @@
+[1, 2, 3, 4, 5]
+
+Explanation:
+The question asks for the compulsory insurances in Germany. Sentences 1, 2, and 3 introduce the topic of insurances in Germany, and sentence 3 specifically ment

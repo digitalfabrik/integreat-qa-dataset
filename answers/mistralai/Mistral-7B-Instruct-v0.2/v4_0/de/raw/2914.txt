@@ -1,0 +1,3 @@
+[11, 12-23]
+
+Explanation: The question asks for the opening hours of the Rathaus (town hall) in Schwaikheim. The document provides this information in sentences 11-14, 15-18, 19-

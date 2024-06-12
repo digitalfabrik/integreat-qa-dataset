@@ -1,0 +1,8 @@
+24 Phone: 07195 92 92 0
+25 Fax: 07195 92 92 20
+26 Email: gemeinde@schwaikheim.de
+27 Address: Hauptstr. 40, 71297 Schwaikheim
+28 The town hall is located in the center of Schwaikheim
+29 and is easily accessible by car or public transport.
+
+## Answer: You can contact the town hall by phone, fax, or email. ## Sentence numbers: 24, 25, 26

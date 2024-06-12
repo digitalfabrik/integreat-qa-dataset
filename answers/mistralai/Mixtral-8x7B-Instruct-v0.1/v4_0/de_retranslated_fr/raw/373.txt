@@ -1,0 +1,5 @@
+Based on the information provided, the following sentences answer the question "Who has no claim to housing benefit?"
+
+[13, 12]
+
+Sentence 13 states that "Also Personen, die Leistungen nach dem Asylbewerberleistungsgesetz erhalten,

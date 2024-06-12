@@ -1,0 +1,25 @@
+41 Die Broschüre ist kostenlos und kann hier heruntergeladen werden.
+42 Die Krankenversicherungen in Deutschland
+43 Es gibt in Deutschland zwei Arten von Krankenversicherungen:
+44 1. Gesetzliche Krankenversicherung (GKV)
+45 2. Private Krankenversicherung (PKV)
+46 Die GKV ist für die meisten Menschen in Deutschland die richtige Wahl.
+47 Die PKV ist für Selbstständige, Beamte und Menschen mit hohem Einkommen geeignet.
+48 Die GKV bietet eine umfassende Versorgung.
+49 Die PKV bietet eine individuelle Versorgung.
+50 Die GKV ist preiswerter als die PKV.
+51 Die PKV bietet eine bessere Versorgung.
+52 Die GKV ist für die meisten Menschen in Deutschland die richtige Wahl.
+53 Die PKV ist für Selbstständige, Beamte und Menschen mit hohem Einkommen geeignet.
+54 Die GKV bietet eine umfassende Versorgung.
+55 Die PKV bietet eine individuelle Versorgung.
+56 Die GKV ist preiswerter als die PKV.
+57 Die PKV bietet eine bessere Versorgung.
+58 Die GKV ist für die meisten Menschen in Deutschland die richtige Wahl.
+59 Die PKV ist für Selbstständige, Beamte und Menschen mit hohem Einkommen geeignet.
+60 Die GKV bietet eine umfassende Versorgung.
+61 Die PKV bietet eine individuelle Versorgung.
+62 Die GKV ist preiswerter als die PKV.
+63 Die PKV bietet eine bessere Versorgung.
+
+## Answer: Es gibt in Deutschland zwei Arten von Krankenversicherungen: 1. Gesetzliche Krankenversicherung (GKV) und 2. Private Krankenversicherung (PKV) ## Sentence numbers: 42-45

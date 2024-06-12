@@ -1,0 +1,5 @@
+The question is: "Welche Fähigkeiten hat eine Person mit B2-Sprachkenntnissen?"
+
+The document does not mention B2-Sprachkenntnisse (B2 language skills) or any related abilities. Therefore, there are no relevant sentences in the document.
+
+Output: []

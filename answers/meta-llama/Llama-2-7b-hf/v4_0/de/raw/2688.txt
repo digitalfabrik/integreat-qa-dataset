@@ -1,0 +1,13 @@
+### Input
+
+Input is a list of questions and documents, one per line.
+
+### Output
+
+Output is a list of relevant sentences, one per line.
+
+### Example
+
+```
+[0, 1, 2, 3]
+```

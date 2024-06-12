@@ -1,0 +1,2 @@
+[4, 5, 8]
+These sentences together provide the answer to the question. Sentence 4 states that there are two types of training in Germany. Sentence 5 describes one of them (school-based training), and sentence 8 describes the other one (dual system).

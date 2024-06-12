@@ -1,0 +1,9 @@
+The question is: Чи потрібно платити за відвідування кав'ярні "Гланц" жінкам?
+
+The relevant sentences from the document are:
+
+[]
+
+No sentence in the document answers the question.assistant
+
+The correct output is indeed "[]", as none of the sentences in the document

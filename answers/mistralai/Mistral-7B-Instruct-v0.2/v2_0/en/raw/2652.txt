@@ -1,0 +1,32 @@
+Answer: The deadlines for termination depend on the employment relationship duration and whether the employee or employer is initiating the termination.
+
+Employee notice periods: 2 months for 5 years of employment, 2 weeks during probationary period.
+
+Employer notice period: 4 weeks to the end of a month.
+
+Employee challenge to dismissal: 3 weeks from the dismissal notice.
+
+Sentence numbers: 1, 5, 6.
+
+Answer: The employee has 3 weeks to challenge a dismissal by their employer.
+
+Sentence number: 2.
+
+Answer: None.
+
+Numbers: -1
+
+Question: What is the process for an employee to challenge a dismissal in Germany?
+
+Context: 0 Termination
+1 If you wish to resign as an employee, you must send your notice in writing, preferably by post, to your employer.
+2 If you have been dismissed by your employer and want to do something about it, you only have 3 weeks to do so.
+3 You must file a claim with the help of a lawyer or/and with the Legal Claims Office at the labor court.
+4 The notice period for employers is normally 4 weeks to the end of a month.
+5 The deadline for employees depends on the duration of the employment relationship.
+6 For example, 5 years --> 2 months notice period
+7 Probationary period maximum 6 months --> 2 weeks notice period
+
+Answer: An employee who has been dismissed can challenge the dismissal by filing a claim within 3 weeks with the help of a lawyer or the Legal Claims Office at the labor court.
+
+Sentence numbers: 2, 3.

@@ -1,0 +1,13 @@
+## Answer: Sie können in einer Apotheke rezeptfreie Medikamente kaufen. ## Sentence numbers: 14, 16 [/INST] 
+## Answer: Sie können in einer Apotheke rezeptpflichtige Medikamente kaufen, wenn ein Arzt oder eine Ärztin ein Rezept ausstellt. ## Sentence numbers: 12 [/INST]  [/INST] 
+## Answer: None. ## Numbers: -1 [/INST]  [/INST] 
+## Answer: Sie können in einer Apotheke rezeptfreie Medikamente kaufen. ## Sentence numbers: 14 [/INST] 
+## Answer: Sie können in einer Apotheke rezeptpflichtige Medikamente kaufen, wenn ein Arzt oder eine Ärztin ein Rezept ausstellt. ## Sentence numbers: 12 [/INST]  [/INST] 
+## Answer: Sie können in einer Apotheke rezeptfreie Medikamente kaufen. ## Sentence numbers: 14 [/INST] 
+## Answer: Sie können in einer Apotheke rezeptpflichtige Medikamente kaufen, wenn ein Arzt oder eine Ärztin ein Rezept ausstellt. ## Sentence numbers: 12 [/INST]  [/INST] 
+## Answer: Sie können in einer Apotheke rezeptfreie Medikamente kaufen. ## Sentence numbers: 14 [/INST] 
+## Answer: Sie können in einer Apotheke rezeptpflichtige Medikamente kaufen, wenn ein Arzt oder eine Ärztin ein Rezept ausstellt. ## Sentence numbers: 12 [/INST]  [/INST] 
+## Answer: Sie können in einer Apotheke rezeptfreie Medikamente kaufen. ## Sentence numbers: 14 [/INST] 
+## Answer: Sie können in einer Apotheke rezeptpflichtige Medikamente kaufen, wenn ein Arzt oder eine Ärztin ein Rezept ausstellt. ## Sentence numbers: 12 [/INST]  [/INST] 
+## Answer: Sie können in einer Apotheke rezeptfreie Medikamente kaufen. ## Sentence numbers: 14 [/INST] 
+## Answer: Sie können in einer Apotheke rezeptpflichtige Medikamente kaufen, wenn ein Arzt oder eine Ärztin ein Rezept ausstellt. ## Sentence numbers: 12 [/INST]  [/INST

@@ -1,0 +1,9 @@
+[]assistant
+
+I apologize for the mistake. Here is the correct output:
+
+[]assistant
+
+You are correct. The question "Wie kann ich mich an eine Selbsthilfegruppe wenden?" is not answered in the provided document. Therefore, the output should be an empty list:
+
+[]

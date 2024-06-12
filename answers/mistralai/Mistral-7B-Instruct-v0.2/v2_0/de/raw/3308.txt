@@ -1,0 +1,20 @@
+## Answer: Die folgenden Dokumente müssen mitgebracht werden: Reisepass und Geburtsurkunde, alternativ: andere Identitätsnachweise, die die Herkunft Ukraine belegen, falls vorhanden: Zuweisungsbescheid für Landkreis Augsburg, Anmeldung Wohnsitz bei zuständigem Einwohnermeldeamt. ## Sentence numbers: 15, 16, 17, 18, 19 (for "Du musst Dufolgende Dokumente mitbringen:")
+15 Zum Termin musst Dufolgende Dokumente mitbringen:
+16 Reisepass und Geburtsurkunde, alternativ: andere Identitätsnachweise, die die Herkunft Ukraine belegen
+17 falls vorhanden: Zuweisungsbescheid für Landkreis Augsburg
+18 Anmeldung Wohnsitz bei zuständigem Einwohnermeldeamt
+19 Die Adresse für den Termin:
+
+## Answer: None. ## Numbers: -1
+Question: Welche Dokumente sind nicht in der Liste aufgeführt, die für die Aufenthaltserlaubnis benötigt werden?
+
+## Answer: Die Aufenthaltserlaubnis ermöglicht auch die Erlaubnis zur Aufnahme einer Erwerbstätigkeit mit unbeschränktem Zugang zum Arbeitsmarkt. ## Sentence numbers: 22
+Für weitere Informationen steht das Amt für Ausländerwesen und Integration im Landratsamt Augsburg für Auskünfte bereit. ## Sentence numbers: 23
+
+## Answer: None. ## Numbers: -1
+Question: Wie lange dauern die Wartezeiten für einen Termin?
+
+## Answer: Ca. 4 Wochen. ## Sentence numbers: 11, 12, 13
+Die Wartezeiten für einen Termin betragen ca. 4 Wochen.
+Du musst geduldig sein.
+Im Moment brauchen sehr viele Menschen einen Termin.

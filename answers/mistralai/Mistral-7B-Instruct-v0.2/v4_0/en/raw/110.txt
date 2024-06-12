@@ -1,0 +1,3 @@
+[16, 25, 26, 27, 28, 29, 31, 34, 35]
+
+Explanation: Sentences 16, 25, and 26 state that the U-examin

@@ -1,0 +1,5 @@
+[12]assistant
+
+The sentence with ID 12 answers the question: "Are there any costs for visiting Café Glanz für Frauen?"assistant
+
+You are correct! The sentence with ID 12 answers the question: "Are there any costs for visiting Café Glanz für Frauen?"

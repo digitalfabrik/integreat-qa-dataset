@@ -1,0 +1,3 @@
+The question asks how to find free German courses. However, the document does not provide any information on this topic. Therefore, there are no relevant sentences in the document, and the output should be:
+
+[]

@@ -1,0 +1,11 @@
+The question is: ما هي الفئة العمرية التي تستهدفها ورشة عمل ثقافة الشباب؟
+
+The relevant sentences are:
+
+9 لمن: الأطفال من سن 7 - 15 سنة
+
+The IDs of the relevant sentences are:
+
+[9]
+
+Note that only one sentence answers the question

@@ -1,0 +1,7 @@
+The question is: "Welche Kompetenzen hat eine Person mit dem Sprachniveau B2?"
+
+The document does not mention the language level B2 or any competencies related to it. Therefore, there are no relevant sentences in the document.
+
+Output: []assistant
+
+The question is:

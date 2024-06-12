@@ -1,0 +1,5 @@
+[]assistant
+
+I apologize for the mistake. Since the question asks about the language level required for most jobs in Munich, and the document does not provide any information about language levels, the correct output is indeed an empty list: []
+
+If you'd like to rephrase the question or provide more context, I

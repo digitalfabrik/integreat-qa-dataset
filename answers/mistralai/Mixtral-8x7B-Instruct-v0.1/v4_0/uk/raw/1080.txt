@@ -1,0 +1,5 @@
+[19, 20, 22, 23, 24, 25, 26]
+
+These IDs correspond to the following sentences:
+19. Стажування може бути корисним для всіх.
+20. Напри

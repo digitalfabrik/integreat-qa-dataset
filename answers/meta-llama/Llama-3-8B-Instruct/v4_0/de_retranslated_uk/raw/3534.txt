@@ -1,0 +1,7 @@
+Question: Welche Arten von Krankenversicherungen gibt es in Deutschland?
+
+Document:...
+
+Answer: []
+
+The question asks about the types of health insurance in Germany, but the document does not provide information about health insurance. It only talks about the German healthcare system, its components, and services provided. Therefore,

@@ -1,0 +1,8 @@
+The question is: Welche Themen berät die "Offene Hilfe"?
+
+The relevant sentences are:
+[4, 5]
+
+These sentences answer the question by listing the topics that the "Offene Hilfe" advises on.assistant
+
+The question is: Welche Themen berät die "Off

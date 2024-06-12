@@ -1,0 +1,20 @@
+23 80335
+24 Munich
+25 einbuergerung.kvr@muenchen.de
+26 Phone: 089 233-28000
+27 Fax: 089 233-28001
+28 Opening hours:
+29 Monday to Friday: 8:00 am - 12:00 pm
+30 Tuesday and Thursday: 2:00 pm - 4:00 pm
+31 You can also contact the Naturalization Office by email.
+32 If you have any questions, please do not hesitate to contact us.
+33 We will be happy to help you.
+34 The Naturalization Office is responsible for processing naturalization applications.
+35 The office is responsible for checking whether the requirements for naturalization are met.
+36 The office also provides information on the naturalization process.
+37 The office advises on the necessary documents and the application procedure.
+38 The office also provides information on the costs of naturalization.
+39 The office advises on the necessary documents and the application procedure.
+40 The office also provides information on the costs of naturalization.
+
+## Answer: Those who have been living legally and habitually in Germany for at least eight years. ## Sentence numbers: 2

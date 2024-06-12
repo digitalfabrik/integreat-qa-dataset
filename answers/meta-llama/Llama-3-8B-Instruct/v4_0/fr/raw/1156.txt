@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks for a specific type of card that is recommended for people with disabilities, but none of the sentences in the document mention a specific card that is recommended for people with disabilities. Therefore, the output is an empty list.assistant
+
+I completely agree with you! The

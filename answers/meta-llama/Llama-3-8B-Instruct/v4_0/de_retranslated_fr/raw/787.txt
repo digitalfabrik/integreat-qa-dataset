@@ -1,0 +1,9 @@
+The question is: Gibt es für Frauen eine Gebühr für den Besuch des Café Glanz?
+
+The relevant sentences are:
+
+12 Keine Eintrittspreise, kein Kauf von Speisen/Getränken erforderlich.
+
+The ID of the relevant sentence is: [12]
+
+Output: [

@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "How can I find free German courses?" and the document does not provide any information on how to find free German courses. Therefore, the output is an empty list, which is represented as "[]".assistant
+
+I completely agree with you! The question is

@@ -1,0 +1,5 @@
+[3, 12, 22, 29]
+
+Explanation:
+
+Sentence ID 3 is relevant because it mentions "Планування кар'єри в районі Ремс-Мурр" (Career planning in the Rems-

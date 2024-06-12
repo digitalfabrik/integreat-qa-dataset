@@ -1,0 +1,9 @@
+Wer kann mir bei der Anmeldung helfen, wenn ich kein Deutsch spreche?
+
+[4, 52]assistant
+
+The correct answer is [4, 52].
+
+Sentence 4: "Falls vorhanden: Zuweisungsbescheid für den Landkreis Augsburg"
+
+This sentence does not

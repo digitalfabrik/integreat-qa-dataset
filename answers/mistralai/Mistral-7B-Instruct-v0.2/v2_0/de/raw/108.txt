@@ -1,0 +1,11 @@
+## Answer: Hausärzte und Fachärzte, Kinderärzte, Gynäkologen (Frauenärzte), Zahnärzte
+## Sentence numbers: 2, 11, 12, 18, 22, 24, 25
+
+## Answer: None.
+## Numbers: 0, 6, 7, 15, 16, 17, 19, 20, 21, 23, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35
+
+## Explanation:
+
+The question asks for which types of doctors can be visited when needed. The context provides information about different types of doctors, including general practitioners (Hausärzte), specialists (Fachärzte), pediatricians (Kinderärzte), gynecologists (Gynäkologen), and dentists (Zahnärzte). Therefore, the answer sentences are those that mention these types of doctors.
+
+The context does not provide information about the answer to other potential questions, such as whether Hausärzte und Fachärzte can be visited on Wednesdays and Fridays afternoons, or whether certain examinations or treatments require self-payment. Therefore, the numbers associated with those sentences are marked as not applicable.

@@ -1,0 +1,23 @@
+Answer: Reasons for termination by employers include dismissal without cause and misconduct.
+Sentences: 2, 3
+
+Answer: Notice periods for employees depend on the duration of employment.
+Sentences: 5, 6
+
+Answer: The minimum notice period for employees during a probationary period is 2 weeks.
+Sentence: 7
+
+Answer: Employees have 3 weeks to file a claim if they have been dismissed by their employer.
+Sentence: 3
+
+Answer: Employees must file a claim with the help of a lawyer or/and with the Legal Claims Office at the labor court.
+Sentence: 3
+
+Answer: The notice period for employers is normally 4 weeks to the end of a month.
+Sentence: 4
+
+Answer: Employees must send their notice in writing to their employer.
+Sentence: 1
+
+Answer: None.
+Sentences: -1 (Question asks for reasons for termination, but the context only mentions notice periods and filing a claim)

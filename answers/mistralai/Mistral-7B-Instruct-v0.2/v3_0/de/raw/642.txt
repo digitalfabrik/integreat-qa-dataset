@@ -1,0 +1,3 @@
+28
+
+The document states that Donna Mobile offers Radfahrkurse (bicycle courses) in the following Sprachen: Deutsch, Türkisch, Russisch, Kroatisch, and Englisch. Therefore, the IDs of the relevant sentences are 28

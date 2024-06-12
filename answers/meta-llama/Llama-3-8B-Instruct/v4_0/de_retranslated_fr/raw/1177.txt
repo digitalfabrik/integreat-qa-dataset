@@ -1,0 +1,7 @@
+[4]assistant
+
+The sentence with ID 4 answers the question "Was bedeutet 'Inklusion'?"assistant
+
+[4]assistant
+
+The sentence with ID 4 answers the question "Was bedeutet 'Inklusion'?"assistant

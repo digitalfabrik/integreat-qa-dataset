@@ -1,0 +1,9 @@
+Question: Où puis-je trouver des conseils professionnels pour ma vie professionnelle?
+
+Document: [17, 18]
+
+These sentences answer the question, providing information on where to find professional guidance for one's professional life.assistant
+
+[17, 18]assistant
+
+[17

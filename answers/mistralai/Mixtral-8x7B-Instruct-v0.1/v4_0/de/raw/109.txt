@@ -1,0 +1,3 @@
+[12, 13, 14]
+
+These IDs are selected as they directly answer the question - Kinderärzte and Kinderärztinnen are the ones who usually conduct examinations on children. Regular check-ups and vaccinations are essential for children's health, known as "U

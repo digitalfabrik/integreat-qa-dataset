@@ -1,0 +1,7 @@
+The question is: Welche Dokumente benötige ich für die Einreise nach Deutschland?
+
+The relevant sentences are:
+
+4 Sie benötigen einen gültigen Personalausweis oder einen gültigen Reisepass Ihres Herkunftslandes.
+
+Therefore, the output is: [4]

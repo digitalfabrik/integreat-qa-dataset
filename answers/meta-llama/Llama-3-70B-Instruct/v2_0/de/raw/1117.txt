@@ -1,0 +1,7 @@
+16 Die Kindertagesbetreuung in Deutschland ist vielfältig.
+17 Es gibt Kindertagesstätten, die sich auf die speziellen Bedürfnisse von Kindern mit Fluchthintergrund spezialisiert haben.
+18 Es gibt auch Kindertagesstätten, die sich auf die speziellen Bedürfnisse von Kindern mit Behinderung spezialisiert haben.
+19 Es gibt auch Kindertagesstätten, die sich auf die speziellen Bedürfnisse von Kindern mit Migrationshintergrund spezialisiert haben.
+20 Es gibt auch Kindertagesstätten, die sich auf die speziellen Bedürfnisse von Kindern mit Deutsch als Zweitsprache spezialisiert haben.
+
+## Answer: Es gibt Kindertagesstätten, die sich auf die speziellen Bedürfnisse von Kindern mit Fluchthintergrund spezialisiert haben. Es gibt auch Kindertagesstätten, die sich auf die speziellen Bedürfnisse von Kindern mit Behinderung spezialisiert haben. Es gibt auch Kindertagesstätten, die sich auf die speziellen Bedürfnisse von Kindern mit Migrationshintergrund spezialisiert haben. Es gibt auch Kindertagesstätten, die sich auf die speziellen Bedürfnisse von Kindern mit Deutsch als Zweitsprache spezialisiert haben. ## Sentence numbers: 17, 18, 19, 20

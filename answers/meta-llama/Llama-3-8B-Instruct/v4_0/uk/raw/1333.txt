@@ -1,0 +1,7 @@
+Question: Що означає "амбулаторний" в контексті німецької системи охорони здоров'я?
+
+Document:...
+
+Answer: [4, 5]
+
+Explanation: Sentence 4 defines "амбулаторне медичне обслуговування" as a direction of the German healthcare system

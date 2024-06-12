@@ -1,0 +1,5 @@
+[13, 15, 16, 17, 19]assistant
+
+The sentences that answer the question "Was ist der 'Berechtigungsschein' im Rahmen des Integrationskurses?" are:
+
+13. Freiwilliger Besuch: Berechtigungsschein nöt

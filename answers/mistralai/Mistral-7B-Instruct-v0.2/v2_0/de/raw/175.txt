@@ -1,0 +1,23 @@
+## Answer: There are five types of residence documents: Ankunftsnachweis, Aufenthaltsgestattung, Fiktionsbescheinigung, Aufenthaltserlaubnis, and Duldung. ## Sentence numbers: 5, 8, 11, 13, 18, 21, 22, 24, 25, 31, 33, 35
+
+## Answer: The document for asylum seekers is called Aufenthaltsgestattung. ## Sentence numbers: 11
+
+## Answer: The document for recognized refugees is called Aufenthaltserlaubnis. ## Sentence numbers: 24
+
+## Answer: The document for those whose asylum application has been rejected but are granted a stay of deportation is called Duldung. ## Sentence numbers: 33
+
+## Answer: The document for asylum seekers contains restrictions regarding employment, residence, and possibly confinement. ## Sentence numbers: 17
+
+## Answer: The document for recognized refugees grants them unrestricted access to the labor market. ## Sentence numbers: 32
+
+## Answer: The document for recognized refugees is issued for a limited period and is granted for specific purposes as stated in the Residence Act. ## Sentence numbers: 28, 29
+
+## Answer: The document for recognized refugees may lead to a later unlimited residence permit (Niederlassungserlaubnis). ## Sentence numbers: 30
+
+## Answer: The document for asylum seekers and recognized refugees can be obtained from the responsible Aliens Office (Ausländerbehörde). ## Sentence numbers: 18, 19, 30, 34, 40
+
+## Answer: The document for asylum seekers and recognized refugees can be obtained from the responsible Social Welfare Office (Sozialamt). ## Sentence numbers: 20, 31, 39, 41
+
+## Answer: The document for recognized refugees is issued after a positive decision on their asylum application. ## Sentence numbers: 25, 26
+
+## Answer: The document for asylum seekers is issued during the as

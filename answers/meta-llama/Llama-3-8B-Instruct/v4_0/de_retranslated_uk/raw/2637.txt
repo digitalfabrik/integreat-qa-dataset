@@ -1,0 +1,9 @@
+The question is: Was beinhaltet der Integrationskurs?
+
+The relevant sentences from the document are:
+
+8 Um Ihre Integration in Deutschland zu fördern, kann ein individueller Plan (Integrationsplan) erstellt werden.
+
+The ID of the relevant sentence is: [8]
+
+Output: [8

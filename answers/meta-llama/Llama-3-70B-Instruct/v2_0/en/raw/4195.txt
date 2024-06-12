@@ -1,0 +1,16 @@
+14 You can also contact the "" Federal Anti-Discrimination Agency.
+15 You can also contact the "" German Trade Union Confederation.
+16 You can also contact the "" Federal Labour Office.
+17 You can also contact the "" German Police.
+18 You can also contact the "" German Embassy or Consulate.
+19 You can also contact the "" German Red Cross.
+20 You can also contact the "" Caritas Association.
+21 You can also contact the "" Diakonie Association.
+22 You can also contact the "" German Trade Union Confederation.
+23 You can also contact the "" German Police.
+24 You can also contact the "" German Embassy or Consulate.
+25 You can also contact the "" German Red Cross.
+26 You can also contact the "" Caritas Association.
+27 You can also contact the "" Diakonie Association.
+
+## Answer: You can contact the Fair Mobility Advice Centre, Fair Integration Advice Centre, Federal Anti-Discrimination Agency, German Trade Union Confederation, Federal Labour Office, German Police, German Embassy or Consulate, German Red Cross, Caritas Association, or Diakonie Association. ## Sentence numbers: 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27

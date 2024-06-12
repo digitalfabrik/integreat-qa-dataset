@@ -1,0 +1,7 @@
+[2, 3, 4]assistant
+
+The question is "ما الذي يتم تحديده في إجراء دبلن؟" which translates to "What is determined in the Dublin procedure?"
+
+The relevant sentences that answer this question are:
+
+* 2: ينطبق إجراء
