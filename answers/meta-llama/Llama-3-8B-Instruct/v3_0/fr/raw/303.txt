@@ -1,0 +1,3 @@
+[]assistant
+
+It seems that the question is in French, and the document is in German. The question is asking about the support provided by "refugees@diversity", but the document does not seem to be related to this topic. Therefore, I would output an empty list "[]" as

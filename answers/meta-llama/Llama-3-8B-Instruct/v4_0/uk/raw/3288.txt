@@ -1,0 +1,13 @@
+The question is: У чому різниця між якірним центром і звичайним розміщенням?
+
+The relevant sentences from the document are:
+
+[]
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is:
+
+[]
+
+There are no sentences in the document

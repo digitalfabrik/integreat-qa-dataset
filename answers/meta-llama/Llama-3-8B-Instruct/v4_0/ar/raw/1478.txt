@@ -1,0 +1,8 @@
+The question is: هل يمكنني الحصول على التطعيم ضد فيروس كورونا مجاناً؟
+
+The relevant sentences from the document are:
+
+[10] التطعيم ضد كورونا
+[11] يمكنك التطعيم ضد فيروس كورونا مجاناً.
+
+The IDs of the relevant sentences

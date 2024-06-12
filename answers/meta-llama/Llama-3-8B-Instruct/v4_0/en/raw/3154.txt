@@ -1,0 +1,8 @@
+[24, 21]assistant
+
+The sentences that answer the question "Where can I find accommodation and meals?" are:
+
+[24] You can find all the important information here.
+[21] You can find the applications, information sheets and documents here.
+
+So, the output is: [24,

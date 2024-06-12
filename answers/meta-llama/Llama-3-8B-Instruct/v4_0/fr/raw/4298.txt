@@ -1,0 +1,7 @@
+The question is: Quels sont les tests médicaux inclus dans un examen de santé scolaire en Allemagne?
+
+The relevant sentences are:
+
+[4] Par exemple, ils ont fait vérifier le développement de leur vue, de leur ouïe et de leur langage.
+
+The output is:

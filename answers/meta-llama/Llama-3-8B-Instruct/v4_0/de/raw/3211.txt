@@ -1,0 +1,5 @@
+[2, 3, 4, 5, 7, 10, 11, 13, 14]assistant
+
+The sentences that answer the question "Welche Art von Bildungsbeihilfen gibt es in Deutschland?" are:
+
+[2] Deshalb gibt es finanzielle

@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID [2] answers the question "أين يمكنني العثور على مبنى بلدية غروسنلاخ؟" as it provides the address of the town hall in Großerlach.assistant
+
+[2]

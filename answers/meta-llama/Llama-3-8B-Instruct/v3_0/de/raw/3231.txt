@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the difference between A1 and C2 language levels, but none of the sentences in the document address this topic. Therefore, the output is an empty list: []assistant
+
+I apologize for the mistake. Since the question asks about the difference between A1

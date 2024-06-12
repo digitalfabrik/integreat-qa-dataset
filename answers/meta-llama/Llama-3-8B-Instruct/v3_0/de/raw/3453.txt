@@ -1,0 +1,9 @@
+[]assistant
+
+I apologize for the mistake. Here is the correct output:
+
+[18, 19, 34]assistant
+
+You are correct. The sentences that answer the question "Welche Unterlagen werden für das Asylverfahren benötigt?" are:
+
+* [18] Du

@@ -1,0 +1,10 @@
+The question is "What is female genital mutilation?"
+
+The relevant sentences are:
+
+[2] Sewing up, cutting or mutilating the female genitalia is a serious violation of human rights.
+[0] Female genital mutilation
+
+The output is: [0, 2]assistant
+
+The question

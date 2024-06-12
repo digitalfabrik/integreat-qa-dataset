@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID [2] answers the question: "Was sollte man vor dem Unterschreiben eines Vertrages nicht tun?"assistant
+
+[2]assistant
+
+The sentence with ID [2] answers the question: "Was sollte man vor

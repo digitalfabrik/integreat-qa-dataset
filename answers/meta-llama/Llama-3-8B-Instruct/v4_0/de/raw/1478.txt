@@ -1,0 +1,10 @@
+The question is: Kann ich mich kostenlos gegen das Coronavirus impfen lassen?
+
+The relevant sentences are:
+
+[10] Die Corona-Impfung
+[11] Sie können sich kostenlos gegen das Coronavirus impfen lassen.
+
+The IDs of the relevant sentences are: [10, 11]
+
+Output: [10, 11

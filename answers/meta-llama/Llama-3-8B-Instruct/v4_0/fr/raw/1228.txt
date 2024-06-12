@@ -1,0 +1,6 @@
+[2, 3, 16]assistant
+
+The sentences that answer the question "De quelles aides financières les familles peuvent-elles bénéficier?" are:
+
+* [2] Les familles peuvent recevoir une aide financière.
+* [3] Outre les prestations

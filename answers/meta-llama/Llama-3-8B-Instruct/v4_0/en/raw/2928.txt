@@ -1,0 +1,6 @@
+[3, 17, 19]assistant
+
+The sentences that answer the question "How can I contact the district youth welfare office?" are:
+
+[3] Anyone can contact the Youth Welfare Office free of charge if they have problems.
+[17] Parents and other legal guardians, but also the young

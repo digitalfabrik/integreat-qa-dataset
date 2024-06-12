@@ -1,0 +1,11 @@
+The question is: Was ist der Unterschied zwischen Bachelor und Master?
+
+The relevant sentences from the document are:
+
+[18] Alle Hochschulen bieten Bachelor- und Master-Studiengänge an.
+
+The ID of the relevant sentence is: [18]
+
+Output: [18]assistant
+
+[18]

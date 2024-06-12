@@ -1,0 +1,13 @@
+[2]assistant
+
+The sentence that answers the question is:
+
+[2] The Munich Administrative Court is subordinate to the Bavarian Administrative Court.
+
+So, the output is: [2]assistant
+
+[2]assistant
+
+The sentence that answers the question is:
+
+[2

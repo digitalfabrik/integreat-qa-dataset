@@ -1,0 +1,6 @@
+[29, 30, 31, 32, 33]assistant
+
+The sentences that answer the question "Who can work if they have a residence permit for family reunification?" are:
+
+[29] People who have a residence permit for family reunification are allowed to work.
+[30]

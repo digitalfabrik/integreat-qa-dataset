@@ -1,0 +1,5 @@
+[2]assistant
+
+The question is "A qui s'adresser si l'on risque de perdre son logement?" and the answer is in sentence [2].assistant
+
+You are correct! The sentence that answers the question is indeed [2].assistant

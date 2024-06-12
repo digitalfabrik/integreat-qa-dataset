@@ -1,0 +1,8 @@
+[12, 13]assistant
+
+The sentences that answer the question are:
+
+[12] Des vidéos explicatives multilingues sur le "revenu de citoyenneté" peuvent être trouvées
+[13] here.
+
+So the output is: [12, 13]

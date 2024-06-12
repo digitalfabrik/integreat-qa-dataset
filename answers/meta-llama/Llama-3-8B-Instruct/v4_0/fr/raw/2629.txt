@@ -1,0 +1,3 @@
+[]assistant
+
+The question asks "Quels sont les cours d'allemand proposés par VwV?" and none of the sentences in the document directly answer this question. The document only provides information about the courses, their duration, and costs, but does not mention the specific courses offered by V

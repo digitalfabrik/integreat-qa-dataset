@@ -1,0 +1,1 @@
+[2, 9, 10, 11-16] These IDs are selected because they provide information about the requirements for a work permit, such as the need for an entry in the residence title (ID 10) and the risks of working without a permit (ID 16

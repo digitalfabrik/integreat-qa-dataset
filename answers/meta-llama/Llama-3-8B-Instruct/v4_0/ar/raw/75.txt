@@ -1,0 +1,7 @@
+[3]assistant
+
+The correct answer is [3].assistant
+
+The question is: من أي سن يجب على الأطفال في ألمانيا الذهاب إلى المدرسة؟
+
+The sentence that answers this question is: الالتحاق بالمدرسة إلزامي في ألمانيا: يجب على

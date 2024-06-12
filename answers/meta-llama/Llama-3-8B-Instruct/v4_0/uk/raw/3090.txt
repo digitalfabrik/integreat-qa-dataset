@@ -1,0 +1,8 @@
+[1, 4, 11, 25]assistant
+
+The question is: Які документи потрібні для процедури надання притулку?
+
+The relevant sentences from the document are:
+
+[1] Дозвіл на проживання - втеча / притулок
+[4

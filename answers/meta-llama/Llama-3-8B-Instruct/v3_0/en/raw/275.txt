@@ -1,0 +1,7 @@
+[3, 4, 6, 7, 11]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[3, 4, 11]
+
+Sentences 6 and 7 do not provide information about types of training, but rather about school-based training and school

@@ -1,0 +1,5 @@
+[10, 11, 31, 32, 33, 34]
+
+Note: These sentences provide information about the Deutschkurse für Zuwanderer (German courses for immigrants) offered, including the goals, curriculum, and location of the International Class.assistant
+
+[10,

@@ -1,0 +1,7 @@
+[34]assistant
+
+The question is "Quels cours d'allemand sont proposés aux immigrés?" and the relevant sentence is:
+
+[34] www.abendrealschule-augsburg.de
+
+This sentence does not provide the information about the courses offered to immigrants, but it

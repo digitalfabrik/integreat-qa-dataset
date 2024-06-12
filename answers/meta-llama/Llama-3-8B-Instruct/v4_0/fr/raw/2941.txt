@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Où puis-je trouver des informations sur les cours d'intégration à la mairie de Schorndorf?" and the document is a list of sentences with IDs.
+
+After reviewing the document, I found that none of the sentences provide information on where

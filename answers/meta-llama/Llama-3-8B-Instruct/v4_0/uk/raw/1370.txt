@@ -1,0 +1,5 @@
+[8, 9, 20, 22, 28, 29]assistant
+
+The sentences that answer the question "Де я можу отримати кваліфікацію для вступу до університету?" are:
+
+[8] У Fachoberschule (FOS) та

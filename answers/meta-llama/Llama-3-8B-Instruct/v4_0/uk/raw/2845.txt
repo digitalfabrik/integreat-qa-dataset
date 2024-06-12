@@ -1,0 +1,5 @@
+[]assistant
+
+The question is " Чи існують безкоштовні консультаційні центри для цього процесу?" and the document does not mention anything about free consultation centers, so the output is an empty list.assistant
+
+I completely agree with you! The question is asking about free

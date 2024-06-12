@@ -1,0 +1,8 @@
+The question is: Pourquoi la vaccination est-elle importante?
+
+The relevant sentences from the document are:
+
+[1] Pourquoi les vaccins sont-ils importants?
+[3] Les vaccins peuvent prévenir la maladie et sa propagation.
+
+The IDs of the relevant sentences are: [1,

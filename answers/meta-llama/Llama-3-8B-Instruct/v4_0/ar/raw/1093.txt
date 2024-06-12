@@ -1,0 +1,7 @@
+[22, 23, 24, 25]assistant
+
+The question is: ما المقصود ببطاقة التأمين الصحي الأوروبية (EHIC)?
+
+The relevant sentences from the document are:
+
+[22] تسمى بطاقة التأمين الأوروبية بطاقة الت

@@ -1,0 +1,7 @@
+The relevant sentences from the document that answer the question are:
+
+2 Fachschulen sind für Personen, die
+3 eine Berufsausbildung abgeschlossen haben
+4 die Berufserfahrung vorzuweisen haben.
+
+The sentences can be represented as a list

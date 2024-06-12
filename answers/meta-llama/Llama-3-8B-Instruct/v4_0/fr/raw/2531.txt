@@ -1,0 +1,9 @@
+[1]assistant
+
+The sentence that answers the question is:
+
+[1] Administration communale de Spiegelberg Sulzbacher Straße 7, Spiegelberg info@gemeinde-spiegelberg.deassistant
+
+[1]assistant
+
+Correct!assistant

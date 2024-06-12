@@ -1,0 +1,9 @@
+The question is: What is the lowest language level?
+
+The relevant sentences are:
+
+[8] A1: Beginners
+[16] A1: Beginner
+[17] They can understand and use simple words and sentences.
+[18] You can introduce yourself and others.
+[19] For example: My name is

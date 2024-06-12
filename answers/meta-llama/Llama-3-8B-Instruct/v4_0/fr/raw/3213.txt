@@ -1,0 +1,6 @@
+[0, 2, 3, 4, 5, 10, 11, 12, 14]assistant
+
+The sentences that answer the question are:
+
+[0] Soutien financier pour la formation, les études et la formation continue
+[2] C'est

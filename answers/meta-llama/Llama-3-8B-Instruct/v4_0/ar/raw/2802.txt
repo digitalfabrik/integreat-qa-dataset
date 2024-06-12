@@ -1,0 +1,5 @@
+[4]assistant
+
+The sentence with ID [4] answers the question "كيف يمكنني التواصل مع الأخصائيين الاجتماعيين في مكان إقامتي؟" which translates to "How can I communicate with social workers in my accommodation?"assistant
+
+You are correct. The

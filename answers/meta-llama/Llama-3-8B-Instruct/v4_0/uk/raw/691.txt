@@ -1,0 +1,7 @@
+[20, 21]assistant
+
+The question is "Що таке застава при оренді квартири?" which translates to "What is a deposit when renting an apartment?"
+
+The sentences that answer this question are:
+
+[20] Застава - це платіж, який ви вносите о

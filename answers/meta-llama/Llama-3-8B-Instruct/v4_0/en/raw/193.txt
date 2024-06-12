@@ -1,0 +1,8 @@
+[11, 12]assistant
+
+The sentences that answer the question "Where can I find transit doctors?" are:
+
+[11] You must consult a so-called transit doctor.
+[12] You can find transit physicians on the website of the German Social Accident Insurance.
+
+So, the output is: [

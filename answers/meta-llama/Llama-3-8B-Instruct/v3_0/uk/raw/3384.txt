@@ -1,0 +1,5 @@
+[]assistant
+
+The document is in Ukrainian, and the question is in Russian. It seems that the question is asking about the task of the Integration Office, but the document does not provide any information about the Integration Office. Therefore, the output is an empty list "[]".assistant
+
+Thank

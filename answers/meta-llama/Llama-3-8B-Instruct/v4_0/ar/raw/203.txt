@@ -1,0 +1,9 @@
+The question is: ماذا يحدث إذا كانت مربية الأطفال مريضة؟
+
+The relevant sentences are:
+
+[29] إذا مرض مقدم الرعاية، فهناك مقدم رعاية بديل.
+
+The output is: [29]assistant
+
+The question is: ماذا ي

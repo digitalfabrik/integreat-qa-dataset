@@ -1,0 +1,3 @@
+[4, 5] 
+
+Explanation: Sentences [4] and [5] provide information about compulsory vocational schooling in Bavaria. Sentence [4] states that compulsory schooling applies until the age of 21 in Bavaria,

@@ -1,0 +1,7 @@
+[4]assistant
+
+The sentence with ID [4] answers the question "Який найнижчий рівень володіння мовою?" (What is the lowest level of language proficiency?)assistant
+
+[4]assistant
+
+The sentence with ID [4] answers the question

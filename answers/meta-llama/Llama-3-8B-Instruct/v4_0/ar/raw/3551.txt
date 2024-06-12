@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "ما المقصود بمصطلح "دورة الاندماج" في ألمانيا؟" which translates to "What does the term 'Integration Period' mean in Germany?".
+
+None of the sentences in the document answer this question, so the output is an empty

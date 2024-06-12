@@ -1,0 +1,5 @@
+Question: Was versteht man unter "Energiesparen"?
+
+Document: [0] Energie sparen
+[1] Wie und wo lässt sich Energie einsparen?
+[2] Energiesparen bedeutet, die gewünschte „Leistung“ mit weniger End-Energie (elektris

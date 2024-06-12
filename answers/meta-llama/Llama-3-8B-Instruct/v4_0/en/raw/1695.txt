@@ -1,0 +1,8 @@
+[2, 3]assistant
+
+The sentences that answer the question "What kind of help do volunteers provide to migrants and refugees?" are:
+
+[2] The volunteers help the migrants to orientate themselves in their environment.
+[3] They help with questions about daily life, for example.
+
+So,

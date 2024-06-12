@@ -1,0 +1,6 @@
+[41, 42, 43]assistant
+
+The sentences that answer the question "Que se passe-t-il pendant le changement d'époque en Allemagne?" are:
+
+[41] Il y a également un changement d'époque en Allemagne.
+[42]

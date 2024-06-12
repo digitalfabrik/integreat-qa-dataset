@@ -1,0 +1,8 @@
+[1, 3]assistant
+
+The sentences that answer the question "Where can people with disabilities work?" are:
+
+[1] People with disabilities can work in the general labor market.
+[3] There are therefore also special work opportunities for people with disabilities in the district of Augsburg.
+
+So,

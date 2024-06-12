@@ -1,0 +1,3 @@
+[2, 4, 10, 12, 14]assistant
+
+Note: The question is in Ukrainian, and the document is in German. I assume that the question is translated to German as "Was ist die finanzielle Unterstützung für das Studium?" (What is the financial

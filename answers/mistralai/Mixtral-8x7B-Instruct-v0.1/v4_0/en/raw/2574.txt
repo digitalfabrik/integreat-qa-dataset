@@ -1,0 +1,2 @@
+[8, 9, 10, 11, 12, 13] are the sentences that provide information about the basic medical care provided by statutory health insurance in Germany.
+[14, 15, 16, 17, 18,

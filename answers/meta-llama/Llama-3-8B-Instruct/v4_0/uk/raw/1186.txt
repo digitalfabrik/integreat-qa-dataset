@@ -1,0 +1,5 @@
+[54, 55, 56, 57, 58, 59, 60, 61]
+
+These sentences answer the question about where to find information about studying German and consulting in Ukrainian and Russian languages.assistant
+
+[54, 55, 56, 57, 58

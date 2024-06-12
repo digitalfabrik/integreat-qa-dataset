@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Що таке рівень B2 професійної німецької мови?" which translates to "What is the level B2 of professional German language?".
+
+The document does not provide a direct answer to this question. The sentences that mention B2 level are [0], [18], and

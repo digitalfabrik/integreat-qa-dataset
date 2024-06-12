@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the duration of validity of a residence permit, but none of the sentences in the document explicitly answer this question. Therefore, the output is an empty list: []assistant
+
+I completely agree with you! The question asks about the duration of validity of a residence

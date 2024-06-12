@@ -1,0 +1,10 @@
+The question is: Чому вакцинація важлива?
+
+The relevant sentences are:
+[3] Вакцинація може запобігти захворюванням та його поширенню.
+
+Output: [3]assistant
+
+The question is: Чому вакцинація важлива?
+
+The

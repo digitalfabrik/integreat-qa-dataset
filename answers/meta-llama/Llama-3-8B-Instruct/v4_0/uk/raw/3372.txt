@@ -1,0 +1,5 @@
+[8, 9, 10, 11, 13, 14]assistant
+
+The question is "Які вимоги до професійної ліцензії в Німеччині?" which translates to "What are the requirements for a professional license in Germany?"
+
+The sentences that answer this question

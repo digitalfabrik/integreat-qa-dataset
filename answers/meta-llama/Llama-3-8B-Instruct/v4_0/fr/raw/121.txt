@@ -1,0 +1,5 @@
+[2, 3]assistant
+
+The sentences that answer the question "Où se trouve le service de prévention des situations de sans logis?" are:
+
+[2] Si vous risquez de perdre votre logement à la suite d'un licenciement, d'une demande d'

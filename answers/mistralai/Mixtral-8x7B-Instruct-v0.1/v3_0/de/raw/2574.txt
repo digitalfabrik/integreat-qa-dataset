@@ -1,0 +1,2 @@
+[1, 3, 25] with 25 being:
+[25] There are two types of health insurance in Germany: statutory (public) and private. Statutory health insurance is provided by public health insurance funds, while private health insurance is offered by private insurance companies.

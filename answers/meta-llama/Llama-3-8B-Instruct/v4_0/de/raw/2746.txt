@@ -1,0 +1,5 @@
+[7, 8]assistant
+
+The sentences that answer the question "Welche Förderschulen gibt es in Deutschland?" are:
+
+[7] Es gibt verschiedene Förderschwerpunkte (Lernen, geistige Entwicklung, Hören, körperliche und motor

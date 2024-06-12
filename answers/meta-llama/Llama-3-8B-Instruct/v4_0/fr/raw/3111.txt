@@ -1,0 +1,6 @@
+[1, 3, 4]assistant
+
+The sentences that answer the question "Qu'entend-on par assurance obligatoire?" are:
+
+[1] Important : toute personne doit avoir une assurance maladie en Allemagne.
+[3] Il y a l'assurance mal

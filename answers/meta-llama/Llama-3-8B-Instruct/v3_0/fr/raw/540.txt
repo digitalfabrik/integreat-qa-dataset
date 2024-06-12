@@ -1,0 +1,7 @@
+[12, 13]assistant
+
+Note: The question is in French, and the document is in German.assistant
+
+I apologize for the mistake. Since the question is in French, I should have translated it to German to match the document. Here is the corrected answer:
+
+[12

@@ -1,0 +1,7 @@
+[4, 14]assistant
+
+The question is "ما هي الخدمات الإضافية التي تقدمها AbilityAid إلى جانب الاستشارات؟" which translates to "What additional services does AbilityAid offer besides consultations?"
+
+The sentences that answer this question are:
+
+[4]

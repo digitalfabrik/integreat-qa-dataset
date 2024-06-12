@@ -1,0 +1,6 @@
+[17, 20, 21]assistant
+
+The sentences that answer the question "Où puis-je trouver de l'aide médicale après des abus sexuels?" are:
+
+[17] Vous pouvez obtenir de l'aide à l'hôpital.
+[20

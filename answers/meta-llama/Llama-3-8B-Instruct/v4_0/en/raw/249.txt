@@ -1,0 +1,9 @@
+[6]assistant
+
+The correct answer is [6].assistant
+
+The sentence with ID [6] answers the question: "On which reference framework are the language and integration courses based?"assistant
+
+The correct answer is [6].assistant
+
+[6]

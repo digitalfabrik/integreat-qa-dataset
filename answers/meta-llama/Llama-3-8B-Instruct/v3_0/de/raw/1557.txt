@@ -1,0 +1,5 @@
+[2, 11, 12]assistant
+
+Note: Sentence [11] does not directly answer the question, but it provides information about the Serlo ABC app, which is relevant to the question.assistant
+
+You're right! I apologize for the mistake. Sentence [11]

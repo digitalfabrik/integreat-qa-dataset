@@ -1,0 +1,7 @@
+[4]assistant
+
+The sentence that answers the question is:
+
+[4] Les coordonnées sont affichées dans les hébergements respectifs.
+
+This sentence provides the information on how to contact the social workers, which is to look at the respective housing facilities for the coordinates.assistant

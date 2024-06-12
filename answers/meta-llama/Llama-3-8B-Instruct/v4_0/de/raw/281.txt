@@ -1,0 +1,5 @@
+[2, 3, 4]assistant
+
+The question is "Welche Schwerpunkte hat das Jobcenter München?" and the relevant sentences are:
+
+[2] Das Jobcenter der Landeshauptstadt München ist zuständig für die Grundsicherung für Arbeitssuchende

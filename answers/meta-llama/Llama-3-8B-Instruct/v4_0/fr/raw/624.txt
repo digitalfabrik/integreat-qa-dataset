@@ -1,0 +1,5 @@
+Question: Quels sont les groupes disponibles au Projekt-Laden International Haidhausen?
+
+Document: [0] Project-Laden International Haidhausen (Boutique de projets internationaux)
+[1] Project-Laden International Haidhausen
+[2] Bienvenue au Projekt-Laden International Haid

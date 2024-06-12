@@ -1,0 +1,9 @@
+The question is: Wie lange dauert die Realschule?
+
+The relevant sentences are:
+
+[2] Die Realschule geht von Klasse 5 bis Klasse 10.
+
+The output is: [2]assistant
+
+The question is: Wie lange dauert die Realschule

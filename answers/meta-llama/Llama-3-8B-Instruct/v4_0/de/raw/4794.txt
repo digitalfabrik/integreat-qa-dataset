@@ -1,0 +1,5 @@
+[4]assistant
+
+The sentence with ID [4] answers the question "Welche Aktivitäten organisiert die Gruppe der jungen Bisexuellen?" by mentioning that the group organizes activities for young bisexual people to do something together and meet new people.assistant
+
+[

@@ -1,0 +1,6 @@
+[7, 10, 12, 14]assistant
+
+The sentences that answer the question "Comment puis-je demander une aide financière à l'éducation?" are:
+
+[7] Aide à la formation
+[10] Aides financières pour les étudiants

@@ -1,0 +1,5 @@
+[21, 22]assistant
+
+The sentences that answer the question "What advice centers are there for refugees with mental health problems?" are:
+
+[21] At this advice centre, refugees who have experienced psychological stress as a result of their experiences in their country of origin or during their flight can take advantage

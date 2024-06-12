@@ -1,0 +1,5 @@
+[6, 9, 25, 28, 29, 32]assistant
+
+The question is: Які теми охоплює служба консультування людей похилого віку в районному управлінні Аугсбурга?
+
+The relevant sentences from the document

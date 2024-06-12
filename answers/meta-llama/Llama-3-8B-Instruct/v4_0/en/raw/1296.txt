@@ -1,0 +1,6 @@
+[1, 5, 6, 7]assistant
+
+The sentences that answer the question "What is the difference between medication with and without a prescription?" are:
+
+[1] If you need medication, you will receive a prescription from your doctor.
+[5] If you don't have a

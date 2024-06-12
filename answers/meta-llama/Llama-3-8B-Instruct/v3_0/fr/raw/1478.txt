@@ -1,0 +1,8 @@
+[10, 11]assistant
+
+The sentences that answer the question "Puis-je me faire vacciner gratuitement contre le coronavirus?" are:
+
+[10] Vaccination Corona
+[11] Vous pouvez être vacciné contre le coronavirus gratuitement.
+
+So the output is: [10,

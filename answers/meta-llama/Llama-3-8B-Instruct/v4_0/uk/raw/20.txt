@@ -1,0 +1,7 @@
+[24, 25, 26, 27, 32, 33, 35]assistant
+
+The correct answer is:
+
+[24, 25, 26, 27, 32, 33, 35]
+
+These sentences answer the question "Чи можете ви працювати

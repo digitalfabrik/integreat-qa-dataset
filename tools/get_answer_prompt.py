@@ -124,7 +124,7 @@ def get_answer_prompt(question, context, version, language='de'):
     if version == PROMPT_v1:
         return v1(question, context)
     elif version == PROMPT_v2:
-        return v2(question, context)
+        return [{'role': 'user', 'content': v2(question, context)}]
     elif version == PROMPT_v3:
         return v3(question, context, language)
     elif version == PROMPT_v4:

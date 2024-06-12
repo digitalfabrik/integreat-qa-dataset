@@ -1,0 +1,3 @@
+[1, 3, 5, 6]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "Wo können Menschen mit Behinderung arbeiten?" (Where can people with disabilities work?).assistant

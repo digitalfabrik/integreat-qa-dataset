@@ -1,0 +1,7 @@
+[6, 8, 10]assistant
+
+The question is "Які години роботи ратуші Гроссенлаха?" which translates to "What are the working hours of the town hall of Großerlach?".
+
+The relevant sentences that answer this question are:
+
+[6

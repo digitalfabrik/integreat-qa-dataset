@@ -1,0 +1,5 @@
+Question: Quelles sont les activités proposées dans un lieu de réunion pour les filles?
+
+Document: [0] Centre de rencontre pour filles Blumenau
+[1] Centre de rencontre pour filles Blumenau
+[2] Le Mädchentreff Blumenauis est un refuge orienté

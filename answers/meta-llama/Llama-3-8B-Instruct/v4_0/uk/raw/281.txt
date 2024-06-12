@@ -1,0 +1,7 @@
+[2, 7, 27, 28, 33]assistant
+
+The question is: На чому зосереджений Мюнхенський центр зайнятості?
+
+The relevant sentences from the document are:
+
+[2] Центр зайнятості міста Мюнхена відпові

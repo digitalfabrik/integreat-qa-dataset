@@ -1,0 +1,7 @@
+[4]assistant
+
+The sentence that answers the question is:
+
+[4] Die Kontaktdaten sind in den jeweiligen Unterkünften ausgehängt.
+
+This sentence provides the information on how to contact social workers in the accommodation, which is the answer to the question.

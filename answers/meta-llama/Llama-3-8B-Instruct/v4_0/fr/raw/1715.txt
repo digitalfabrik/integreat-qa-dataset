@@ -1,0 +1,6 @@
+The question is: Qu'est-ce qui est nécessaire pour trouver un bon emploi?
+
+The relevant sentences are:
+[1] Pour trouver un bon emploi en Allemagne, il est important d'avoir suivi une formation professionnelle ou d'avoir obtenu un diplôme.
+
+The output is: [1]

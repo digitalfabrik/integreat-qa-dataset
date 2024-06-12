@@ -1,0 +1,5 @@
+[1, 3, 4, 6, 8, 10, 12, 26]assistant
+
+The sentences that answer the question "Де я можу знайти курси німецької мови?" are:
+
+[0] Де я можу знайти курс німецької

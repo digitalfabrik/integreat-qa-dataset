@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks where to find free medical advice near your home, but none of the sentences in the document provide an answer to this question. Therefore, the output is an empty list.assistant
+
+That's correct! The document doesn't provide information on where to find free medical

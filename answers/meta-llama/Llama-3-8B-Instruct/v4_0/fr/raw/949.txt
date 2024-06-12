@@ -1,0 +1,3 @@
+[4]assistant
+
+The question is "Quels sont les services supplémentaires offerts par AbilityAid?" and the relevant sentence is [4] "Nous proposons également des cours d'informatique (par ex. Word, Excel, Internet) et des cours de pratique de l

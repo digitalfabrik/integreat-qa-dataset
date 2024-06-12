@@ -1,0 +1,3 @@
+[2]assistant
+
+The sentence with ID [2] contains the address of the town hall, which is the answer to the question "Де я можу знайти ратушу Гроссенлаха?" (Where can I find the town hall of Großenlauch?).

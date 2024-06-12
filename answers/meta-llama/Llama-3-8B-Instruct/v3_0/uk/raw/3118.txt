@@ -1,0 +1,3 @@
+[]assistant
+
+It seems that the question is in Ukrainian, and the document is in German. Since the question is about registration for an integration course, and the document is about employment and unemployment benefits, it's unlikely that any of the sentences in the document will answer the question. Therefore, the output is

@@ -1,0 +1,5 @@
+[]assistant
+
+I apologize for the mistake. Since the question asks about the documents required for the application for educational funding, but the document does not provide any information about the specific documents required, the correct output is indeed an empty list: []
+
+If the document had mentioned specific documents, such as a passport,

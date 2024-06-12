@@ -1,0 +1,5 @@
+[2, 3, 13]assistant
+
+The sentences that answer the question "Where is the specialist office for the prevention of homelessness located?" are:
+
+[2] If you are threatened with losing your home due to termination, eviction proceedings or an eviction order, you can contact the specialist center for

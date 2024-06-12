@@ -1,0 +1,7 @@
+[3]assistant
+
+The sentence with ID [3] answers the question "What is the most important law for Germany?"assistant
+
+[3]assistant
+
+The sentence with ID [3] answers the question "What is the most important law for Germany?"assistant

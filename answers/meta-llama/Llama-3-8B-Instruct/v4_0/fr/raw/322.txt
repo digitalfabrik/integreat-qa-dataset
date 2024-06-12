@@ -1,0 +1,6 @@
+[9, 12]assistant
+
+The sentences that answer the question "Combien de syndicats y a-t-il en Allemagne?" are:
+
+[9] Il existe en Allemagne huit syndicats différents qui couvrent tous les secteurs professionnels.
+[12

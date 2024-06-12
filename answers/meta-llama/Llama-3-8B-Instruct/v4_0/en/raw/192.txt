@@ -1,0 +1,6 @@
+[3, 5]assistant
+
+The sentences that answer the question "Who covers the costs of an accident at work?" are:
+
+[3] In this case, you are covered by accident insurance through the company (employer).
+[5] The treatment is then not paid for by the health insurance fund

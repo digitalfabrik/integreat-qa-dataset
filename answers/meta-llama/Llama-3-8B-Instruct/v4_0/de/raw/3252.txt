@@ -1,0 +1,7 @@
+[4]assistant
+
+The sentence with ID [4] answers the question: "Welche Dokumente benötige ich, um den Schulabschluss nachholen?"assistant
+
+[4]assistant
+
+The sentence with ID [4] answers the question: "Wel

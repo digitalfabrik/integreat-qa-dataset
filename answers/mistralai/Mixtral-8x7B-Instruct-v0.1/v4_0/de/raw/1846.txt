@@ -1,0 +1,4 @@
+[15, 16, 17, 18, 19, 20, 21, 22, 23]
+
+Explanation:
+These IDs are selected because they provide information about where to seek medical help after sexual abuse, which is

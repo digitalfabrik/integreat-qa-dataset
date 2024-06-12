@@ -1,0 +1,5 @@
+[5, 9, 23, 25, 30]assistant
+
+The sentences that answer the question "Welche Stellen bieten Hilfe für Senioren im Landkreis Augsburg?" are:
+
+[5] Deshalb findest Du in unserem Landkreis bei mehreren Stellen

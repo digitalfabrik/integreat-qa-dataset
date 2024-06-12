@@ -1,0 +1,7 @@
+The question is: Où demander un titre de séjour?
+
+The relevant sentences are:
+[14] Vous devez obtenir le titre de séjour auprès du Bureau des étrangers.
+[24] Vous pouvez également obtenir ces informations auprès du service des étrangers "".
+
+The IDs

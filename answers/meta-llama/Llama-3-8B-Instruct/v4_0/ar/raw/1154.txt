@@ -1,0 +1,9 @@
+[3, 4, 5]assistant
+
+The sentences that answer the question "ما نوع الدعم المالي المقدم للتدريب؟" are:
+
+[3] التعليم
+[4] الدراسة
+[5] المزيد من التدريب
+
+These sentences mention types of financial support provided

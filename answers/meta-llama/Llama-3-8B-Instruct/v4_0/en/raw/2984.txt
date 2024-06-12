@@ -1,0 +1,7 @@
+[6, 7, 8, 9, 10, 11]assistant
+
+The sentences that answer the question "What are the opening hours of Großenlach Town Hall?" are:
+
+[6] Monday:
+[7] by appointment only
+[8] 08:00

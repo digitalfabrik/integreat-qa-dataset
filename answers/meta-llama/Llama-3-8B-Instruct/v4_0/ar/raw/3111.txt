@@ -1,0 +1,8 @@
+The question is: ما هو التأمين الإجباري؟
+
+The relevant sentences are:
+
+[0] التأمين الصحي إلزامي
+[1] هام: يجب أن يكون لدى كل شخص في ألمانيا تأمين صحي.
+
+The IDs of the relevant sentences are: [0,

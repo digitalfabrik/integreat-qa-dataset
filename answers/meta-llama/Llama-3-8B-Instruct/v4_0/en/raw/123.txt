@@ -1,0 +1,13 @@
+What kind of schools offer vocational training?
+
+[2, 3]assistant
+
+What kind of schools offer vocational training?
+
+[2, 3]assistant
+
+The correct answer is:
+
+[2, 3]
+
+These sentences from the document answer the question "What kind of schools offer vocational

@@ -1,0 +1,5 @@
+[12, 18, 21, 23, 25]assistant
+
+Note: The question is in Arabic, and the document is in German. The relevant sentences are those that provide information on where to find more information about mosques in Munich.assistant
+
+Thank you for the clarification

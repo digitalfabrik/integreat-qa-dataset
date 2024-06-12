@@ -1,0 +1,5 @@
+[2, 3, 4]assistant
+
+Note: The question is in Ukrainian, but I assume it's asking about financial support for families.assistant
+
+That's correct! The question is asking about financial support for families, and the relevant sentences in the document are [2],

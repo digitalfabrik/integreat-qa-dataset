@@ -1,0 +1,7 @@
+[8]assistant
+
+The question is: Чи доступна будівля JIZ для людей з обмеженими можливостями?
+
+The sentence that answers the question is: [8] Доступ до будівлі та приміщень є безбар'єрним.
+
+So, the output is: [8

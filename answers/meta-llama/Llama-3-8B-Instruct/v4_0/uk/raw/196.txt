@@ -1,0 +1,5 @@
+[6, 7, 8, 9, 10]assistant
+
+The question is "Які типи довідок про несудимість існують?" which translates to "What types of certificates of non-criminal record exist?".
+
+The relevant sentences from the document are:

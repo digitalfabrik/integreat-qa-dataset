@@ -1,0 +1,6 @@
+[12, 35]assistant
+
+The sentences that answer the question are:
+
+* [12] (1) Die Würde des Menschen ist unantastbar.
+* [35] (1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu

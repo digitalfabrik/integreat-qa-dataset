@@ -1,0 +1,13 @@
+The question is: لمن هذه الدورات في HEi؟
+
+The relevant sentences are:
+
+[9] لمن: جميع مواطني ميونيخ
+
+The output is: [9]assistant
+
+The question is: لمن هذه الدورات في HEi؟
+
+The relevant sentences are:
+
+[

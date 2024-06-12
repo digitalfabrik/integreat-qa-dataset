@@ -1,0 +1,6 @@
+[3, 6]assistant
+
+The sentences that answer the question "How can I obtain discounted medication?" are:
+
+[3] Then you can get over-the-counter medication, which you have to pay for yourself, in some pharmacies at a reduced price.
+[6] If you present this at a

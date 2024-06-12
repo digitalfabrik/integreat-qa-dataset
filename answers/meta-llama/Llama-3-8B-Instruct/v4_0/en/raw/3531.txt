@@ -1,0 +1,8 @@
+The question is: What support does the Augsburg District Office offer for refugees?
+
+The relevant sentences are:
+
+[11] The district administration office offers many services for citizens.
+[29] You can find out which services you can use via the Virtual Citizens' Office here.
+
+The IDs of the relevant sentences are: [11

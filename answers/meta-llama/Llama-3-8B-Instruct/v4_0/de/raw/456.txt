@@ -1,0 +1,11 @@
+The question is: Wie viel kostet der Münchner Familienpass?
+
+The relevant sentences are:
+[14] Kosten: 6 Euro
+
+The output is: [14]assistant
+
+The question is: Wie viel kostet der Münchner Familienpass?
+
+The relevant sentences are:
+[

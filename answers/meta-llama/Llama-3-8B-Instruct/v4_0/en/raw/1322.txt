@@ -1,0 +1,8 @@
+[4, 6]assistant
+
+The sentences that answer the question are:
+
+[4] You can find detailed information in the district administration's guide.
+[6] You can find an overview of these jobs at www.landkreis-augsburg.de/begleitung-arbeitsplatzsuche.
+
+These

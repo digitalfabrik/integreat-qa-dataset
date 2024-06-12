@@ -1,0 +1,5 @@
+[9]assistant
+
+The correct answer is indeed [9].assistant
+
+The sentence with ID [9] answers the question "Скільки профспілок існує в Німеччині?" (How many trade unions exist in Germany?) with the answer "У Німеччині існу

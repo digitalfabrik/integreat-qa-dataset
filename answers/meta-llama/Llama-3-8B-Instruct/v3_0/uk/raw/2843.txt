@@ -1,0 +1,5 @@
+[]assistant
+
+Note: The question is in Ukrainian, and the document is in German. It seems that the question is asking how to recognize German equivalents of foreign qualifications, but the document is not relevant to this question. Therefore, the output is an empty list "[]".assistant
+
+You

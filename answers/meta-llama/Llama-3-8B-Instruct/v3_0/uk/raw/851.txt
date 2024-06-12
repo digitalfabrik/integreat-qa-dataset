@@ -1,0 +1,7 @@
+[12, 13]assistant
+
+Note: The sentences that answer the question are [12] and [13], which mention financial support for homeless people in the form of assistance according to SGB II or SGB XII.assistant
+
+You're welcome!assistant
+
+You

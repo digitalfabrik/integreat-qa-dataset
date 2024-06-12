@@ -1,0 +1,8 @@
+[16, 18]assistant
+
+The sentences that answer the question "Wo finde ich weitere Informationen zu Moscheen in München?" are:
+
+[16] Moscheen
+[18] Weitere Informationen zu Moscheen in München finden Sie hier.
+
+So the output is: [16,

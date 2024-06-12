@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "Welches ist die Hauptstadt des Bundeslandes Bayern?"assistant
+
+You are correct! The sentence with ID 2 answers the question: "Welches ist die Hauptstadt des Bundeslandes Bayern?"

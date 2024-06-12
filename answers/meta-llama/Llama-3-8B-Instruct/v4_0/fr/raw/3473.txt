@@ -1,0 +1,5 @@
+[1, 2, 4]assistant
+
+The sentences that answer the question "Quelles sont les règles applicables aux logements pour demandeurs d'asile?" are:
+
+[1] Les demandeurs d'asile et les personnes tolérées doivent en principe viv

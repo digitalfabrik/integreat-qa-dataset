@@ -1,0 +1,7 @@
+[9, 11, 12]assistant
+
+The question is "ما نوع المنح التعليمية المتاحة في ألمانيا؟" which translates to "What type of educational scholarships are available in Germany?"
+
+The relevant sentences that answer this question are:
+
+[9] معلومات من وزارة ولاية با

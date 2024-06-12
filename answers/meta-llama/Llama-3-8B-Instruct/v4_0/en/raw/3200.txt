@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks what documents are required for the asylum application, but none of the sentences in the document explicitly mention the required documents. Therefore, the output is an empty list, indicating that no sentence in the document answers the question.assistant
+
+I completely agree with you! The

@@ -1,0 +1,4 @@
+The relevant sentences from the document that answer the question are:
+[13, 14, 15, 16]
+
+These sentences provide information on how to file a complaint at the Industrial Tribunal in Munich. Specifically, they mention the Rechtsantragstelle (legal

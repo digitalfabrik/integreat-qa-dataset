@@ -1,0 +1,5 @@
+[1]assistant
+
+Note: The question is in Ukrainian, and the document is in German. I assume that the question is translated to German as "Was benötige ich, um eine gute Arbeit zu finden?".
+
+In this case, the relevant sentence is [1] "Um eine gute Arbeit in

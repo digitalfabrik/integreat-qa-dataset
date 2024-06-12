@@ -1,0 +1,9 @@
+[]assistant
+
+There are no sentences in the document that answer the question "Wie kann ich einen Termin in der Ausländerbehörde vereinbaren?"assistant
+
+[]assistant
+
+That's correct!assistant
+
+I'm glad we agree!

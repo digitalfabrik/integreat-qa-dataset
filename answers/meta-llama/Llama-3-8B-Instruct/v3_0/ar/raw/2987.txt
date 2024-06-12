@@ -1,0 +1,7 @@
+[]assistant
+
+Note: The question is in Arabic, and I assume it translates to "What services does youth economic care provide?".
+
+Since none of the sentences in the document seem to answer this question, the output is an empty list: []assistant
+
+You're welcome! Yes, the

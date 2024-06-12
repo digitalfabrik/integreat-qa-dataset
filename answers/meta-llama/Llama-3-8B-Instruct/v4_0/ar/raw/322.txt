@@ -1,0 +1,9 @@
+The question is: كم عدد النقابات العمالية في ألمانيا؟
+
+The relevant sentences are:
+
+[9] هناك ثماني نقابات عمالية مختلفة في ألمانيا، تغطي جميع القطاعات المهنية.
+
+The output is: [9]assistant
+
+The question is: كم

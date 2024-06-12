@@ -1,0 +1,9 @@
+What types of health insurance are there in Germany?
+
+[2] Statutory or private health insurance?
+[3] There is statutory and private health insurance.
+[4] Most people have statutory health insurance.
+[5] Some people have private health insurance.
+[3]assistant
+
+[2, 3

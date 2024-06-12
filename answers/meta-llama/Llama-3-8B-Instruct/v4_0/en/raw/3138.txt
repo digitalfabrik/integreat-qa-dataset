@@ -1,0 +1,6 @@
+[5, 6]assistant
+
+The sentences that answer the question "What documents are required for an apartment application?" are:
+
+[5] The application folder should contain the following documents:
+[6] Cover letter (who am I/we are, what do I do for a living, how old are

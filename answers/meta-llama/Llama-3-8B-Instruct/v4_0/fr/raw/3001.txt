@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks what "formation professionnelle" means in Germany, but none of the sentences in the document mention this term. Therefore, the output is an empty list.assistant
+
+You are correct. The term "formation professionnelle" is not mentioned in the document, so

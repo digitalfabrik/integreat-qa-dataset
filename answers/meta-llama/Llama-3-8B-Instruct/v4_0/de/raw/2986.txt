@@ -1,0 +1,5 @@
+The question is: Welche Dienstleistungen bietet das Großenlach Rathaus für Neuankömmlinge an?
+
+The document does not provide any information about the services offered by the Großenlach Rathaus for newcomers. Therefore, the output is: []assistant
+
+[]

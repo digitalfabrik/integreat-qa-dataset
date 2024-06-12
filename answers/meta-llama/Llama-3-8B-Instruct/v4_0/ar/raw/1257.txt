@@ -1,0 +1,5 @@
+[2]assistant
+
+The question is "ما المقصود ب "توفير الطاقة"؟" which translates to "What does'saving energy' mean?".
+
+The sentence that answers this question is [2] "توفير الطاقة يعني تحقيق "الأداء"

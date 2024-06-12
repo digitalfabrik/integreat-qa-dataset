@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Where can I find support for vocational training?" and the document does not provide any information about where to find support for vocational training. Therefore, the output is an empty list, which is represented as "[]".assistant
+
+I completely agree with you! The

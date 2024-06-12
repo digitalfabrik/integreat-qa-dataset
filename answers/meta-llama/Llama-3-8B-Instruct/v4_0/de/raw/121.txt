@@ -1,0 +1,3 @@
+[3]assistant
+
+The question is "Wo befindet sich die Fachstelle zur Vermeidung von Wohnungslosigkeit?" and the answer is "Sie ist in jedem der zwölf Münchner Sozialbürgerhäuser zu finden." which is sentence [3].

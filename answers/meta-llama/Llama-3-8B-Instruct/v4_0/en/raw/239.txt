@@ -1,0 +1,11 @@
+The question is: At what age do children in Germany have to be registered for school?
+
+The relevant sentences are:
+
+[4] Children who turn six by June are required to attend school.
+
+The ID of the relevant sentence is: [4]
+
+Output: [4]assistant
+
+The question is: At

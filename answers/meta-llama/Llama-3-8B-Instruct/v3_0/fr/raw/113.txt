@@ -1,0 +1,3 @@
+[13]assistant
+
+The sentence with ID [13] answers the question "Quand les conditions normalement applicables au regroupement familial ne sont-elles pas appliquées?" by stating that the regroupement familial is excluded for people who have a residence permit (Duldung).

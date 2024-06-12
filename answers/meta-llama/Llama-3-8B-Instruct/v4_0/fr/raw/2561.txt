@@ -1,0 +1,5 @@
+[1, 11, 16, 17]assistant
+
+The sentences that answer the question "Comment puis-je m'inscrire à des cours d'intégration professionnelle?" are:
+
+[1] Bourse de l'emploi de l'Agence fédérale

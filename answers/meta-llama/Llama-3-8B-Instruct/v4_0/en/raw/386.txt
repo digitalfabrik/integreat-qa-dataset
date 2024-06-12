@@ -1,0 +1,10 @@
+The question is: What do I receive as proof of registration?
+
+The relevant sentences are:
+[12] "You will then receive the proof of arrival as proof of registration."
+
+The output is: [13]assistant
+
+The question is: What do I receive as proof of registration?
+
+The relevant sentences are

@@ -1,0 +1,8 @@
+The question is: Quel est le niveau de langue le plus bas?
+
+The relevant sentences are:
+
+[8] A1 : Débutant
+[16] A1 : Débutant
+[17] Ils peuvent comprendre et utiliser des mots et des phrases simples.
+[18] Vous pouvez vous présenter

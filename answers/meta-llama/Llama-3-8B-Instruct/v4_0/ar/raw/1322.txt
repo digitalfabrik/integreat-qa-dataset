@@ -1,0 +1,6 @@
+[4, 6]assistant
+
+The sentences that answer the question are:
+
+[4] يمكنك العثور على معلومات مفصلة في دليل إدارة المنطقة.
+[6] يمكنك العثور على لمحة عامة عن هذه الوظائف على www.landkreis-augsburg

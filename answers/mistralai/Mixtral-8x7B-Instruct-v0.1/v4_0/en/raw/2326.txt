@@ -1,0 +1,4 @@
+[0, 1, 3]
+Sentence 0 directly asks "Where can I find a German course?"
+Sentence 1 mentions "BAMF-NAvI" which is described as showing addresses of institutions offering German courses.
+Sentence 3 is an overview of language course

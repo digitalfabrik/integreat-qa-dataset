@@ -1,0 +1,5 @@
+[2, 4, 5]assistant
+
+The sentences that answer the question "Qu'est-ce qu'un 'paiement d'entretien anticipé' en Allemagne?" are:
+
+[2] Dans ce cas, vous pouvez être en mesure de recevoir des paiements d

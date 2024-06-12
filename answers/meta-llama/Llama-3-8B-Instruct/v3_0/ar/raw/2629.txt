@@ -1,0 +1,7 @@
+[]assistant
+
+Note: The question is in Arabic, and I assume it translates to "What are the German language courses offered by VwV?".
+
+Since the question is not present in the provided document, the output is an empty list "[]".assistant
+
+You're welcome! Yes

@@ -1,0 +1,7 @@
+[2]assistant
+
+Note: The question is in Arabic, and the document is in Arabic as well. The answer is also in Arabic.
+
+The correct translation of the question is: "What is the validity period of a residence permit?"
+
+The sentence [2] answers the question, which means "The

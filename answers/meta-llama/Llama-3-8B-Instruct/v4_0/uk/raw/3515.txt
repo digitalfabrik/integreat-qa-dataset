@@ -1,0 +1,7 @@
+[1, 2]assistant
+
+The question is "Які права мають люди з інвалідністю на ринку праці в Німеччині?" which translates to "What rights do people with disabilities have on the labor market in Germany?"
+
+The sentences that answer this question are:
+
+[1] Люди

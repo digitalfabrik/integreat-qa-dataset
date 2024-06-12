@@ -1,0 +1,5 @@
+[30]assistant
+
+The correct answer is [30].assistant
+
+The question asks if the costs for municipally organized daycare and a place in a crèche are the same. Sentence [30] answers this question, stating that "The costs for municipally organized day care are no

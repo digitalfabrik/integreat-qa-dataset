@@ -1,0 +1,6 @@
+[9, 10, 12, 13, 14, 15]assistant
+
+The sentences that answer the question "What documents are needed for a work permit application?" are:
+
+[9] You need a work permit for almost every kind of employment.
+[10] An entry in your

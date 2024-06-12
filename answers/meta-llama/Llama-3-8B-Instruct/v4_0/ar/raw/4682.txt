@@ -1,0 +1,5 @@
+[11, 13, 14, 18, 20, 24, 26, 27, 28]assistant
+
+The sentences that answer the question "كيف يمكنني الانضمام إلى مجموعة كشفية للفتيات في ألمانيا؟" are:
+
+[11]

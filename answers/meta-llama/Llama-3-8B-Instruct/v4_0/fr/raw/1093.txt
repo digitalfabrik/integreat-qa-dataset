@@ -1,0 +1,6 @@
+[21, 22]assistant
+
+The sentences that answer the question "À quoi sert la carte européenne d'assurance maladie (CEAM)?" are:
+
+[21] Au verso se trouve la carte européenne d'assurance maladie.
+[22] La carte

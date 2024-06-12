@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks which documents are needed to obtain a Schengen visa. The document does not mention specific documents needed for obtaining a Schengen visa. Therefore, no sentence from the document answers the question. The output is an empty list: []assistant
+
+I completely agree

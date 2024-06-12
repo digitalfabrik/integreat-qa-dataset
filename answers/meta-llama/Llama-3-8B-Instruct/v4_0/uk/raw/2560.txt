@@ -1,0 +1,7 @@
+[1, 11]assistant
+
+The question is "Які центри зайнятості існують у Німеччині?" which translates to "Which job centers exist in Germany?".
+
+The sentences that answer this question are:
+
+[1] Біржа праці Федерального агентства зай

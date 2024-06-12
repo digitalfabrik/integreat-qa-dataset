@@ -1,0 +1,3 @@
+[]assistant
+
+The question asks where to find information on integration courses at Spiegelberg Town Hall. However, the document does not provide any information on integration courses or where to find it. Therefore, the output is an empty list, indicating that no sentence in the document answers the question.assistant

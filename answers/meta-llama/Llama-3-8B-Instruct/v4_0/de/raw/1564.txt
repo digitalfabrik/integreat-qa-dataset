@@ -1,0 +1,7 @@
+[44, 45, 46]assistant
+
+The question is: Was geschieht, wenn die Frist für die Beantragung der Familienzusammenführung versäumt wird?
+
+The relevant sentences from the document are:
+
+[44] Haben Sie die Frist ver

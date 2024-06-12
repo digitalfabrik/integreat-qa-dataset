@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Où puis-je trouver un logement et des repas?" and the relevant sentences from the document are:
+
+[20] Pour les personnes vivant dans un logement privé chez des parents ou des connaissances : frais de logement raisonnables

@@ -1,0 +1,5 @@
+[3, 5, 7, 9, 10, 13, 14]assistant
+
+The sentences that answer the question "أين وكيف يمكنني العثور على وظائف جذابة وحديثة؟" are:
+
+[3] أين وكيف يمكنني الع

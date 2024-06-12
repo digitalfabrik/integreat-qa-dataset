@@ -1,0 +1,5 @@
+[12, 16, 19, 28, 29, 32]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking about the type of certificate required for a residence permit.assistant
+
+You're right

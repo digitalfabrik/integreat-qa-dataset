@@ -1,0 +1,8 @@
+[12, 13]assistant
+
+The sentences that answer the question "Where can I find multilingual explanatory videos on 'Bürgergeld'?" are:
+
+[12] Multilingual explanatory videos on "Bürgergeld" can be found
+[13] here.
+
+So the output is:

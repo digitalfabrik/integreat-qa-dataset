@@ -1,0 +1,7 @@
+[12]assistant
+
+The question is: ما هو اختصار ل Unterhalts-Vorschuss-Gesetz؟
+
+The answer is: UVG.
+
+The relevant sentence is: [12] الكلمة المختصرة لقانون الدفع المسبق للنفقة هي: UVG.

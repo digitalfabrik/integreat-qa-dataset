@@ -1,0 +1,5 @@
+[3, 8]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "Was passiert, wenn keiner der vier Schutzformen anerkannt wird?"assistant
+
+You're right

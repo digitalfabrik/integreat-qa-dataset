@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Qu'est-ce que la pédagogie inclusive?" and the document does not contain any information about what inclusive education is. Therefore, the output is an empty list: []assistant
+
+I completely agree with you! Since the document doesn't provide any

@@ -1,0 +1,6 @@
+[1, 2]assistant
+
+The sentences that answer the question are:
+
+[1] Es gibt in Deutschland nicht ausschließlich die duale Ausbildung, sondern auch eine Ausbildung an einer Berufsfachschule.
+[2] Die Berufsfachschule vermittelt ebenfalls

@@ -1,0 +1,6 @@
+[3, 17]assistant
+
+The sentences that answer the question "Welche Unterstützung bietet das Kreisjugendamt für neu angekommene Jugendliche?" are:
+
+[3] An das Jugendamt können sich alle kostenlos wenden, wenn sie Probleme haben.
+[17]

@@ -1,0 +1,7 @@
+[]assistant
+
+I apologize for the mistake. The correct output is actually:
+
+[]assistant
+
+You are correct. The question asks about the type of climbing groups offered at IG Klettern, and none of the sentences in the document answer this question. Therefore, the correct output is indeed:

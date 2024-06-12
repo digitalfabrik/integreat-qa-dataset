@@ -1,0 +1,5 @@
+[7]assistant
+
+The sentence with ID [7] answers the question "Welches Sprachniveau wird für ein Studium in Deutschland benötigt?" by stating that for a study in Germany, the language level C1 is required.assistant
+
+You're absolutely right! I apologize

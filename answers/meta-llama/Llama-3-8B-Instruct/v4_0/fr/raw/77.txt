@@ -1,0 +1,6 @@
+The question is: Qui veille à ce que les enfants fréquentent régulièrement l'école?
+
+The relevant sentences are:
+[7] Les parents veillent à ce que leurs enfants fréquentent régulièrement l'école.
+
+The output is: [7]assistant

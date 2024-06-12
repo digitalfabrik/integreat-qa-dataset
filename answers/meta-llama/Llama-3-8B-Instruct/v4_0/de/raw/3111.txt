@@ -1,0 +1,11 @@
+The question is: Was versteht man unter Pflichtversicherung?
+
+The relevant sentences are:
+
+[0] Krankenversicherung ist Pflicht
+
+The ID of the relevant sentence is: [0]
+
+Output: [0]assistant
+
+The question is: Was versteht man unter

@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID [2] answers the question: "Що я можу отримати за рецептом в аптеці?"assistant
+
+You are correct. The sentence with ID [2] answers the question: "Що я можу отримати за рецептом

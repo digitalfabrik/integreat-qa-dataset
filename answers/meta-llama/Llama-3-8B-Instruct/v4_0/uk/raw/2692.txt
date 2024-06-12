@@ -1,0 +1,7 @@
+[3, 13, 18, 21]assistant
+
+The question is "Які водійські права дійсні в Німеччині?" which translates to "What driving licenses are valid in Germany?"
+
+The sentences that answer this question are:
+
+[3] У Німеччині ви можете

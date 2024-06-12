@@ -1,0 +1,5 @@
+The question is: كيف يمكنني معرفة ما إذا تم إرسال إشعار طوارئ في الحي الذي أسكن فيه؟
+
+The relevant sentences are not found in the document. Therefore, the output is: []assistant
+
+The question is: كيف يمكنني معرفة ما إذا تم إ

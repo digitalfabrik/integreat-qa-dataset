@@ -1,0 +1,5 @@
+[11]assistant
+
+The sentence with ID [11] answers the question "هل يمكنني الحصول على التطعيم ضد فيروس كورونا مجاناً؟" (Can I get the COVID-19 vaccine for free?).assistant
+
+You're welcome!assistant

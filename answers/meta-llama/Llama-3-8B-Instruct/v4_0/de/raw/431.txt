@@ -1,0 +1,6 @@
+[9, 10]assistant
+
+The sentences that answer the question are:
+
+[9] Mitarbeiterinnen und Mitarbeiter müssen regelmäßig mit den Schutzmaßnahmen vertraut gemacht werden.
+[10] Mitarbeiterinnen und Mitarbeiter sind verpflichtet, Schutzvorschrif

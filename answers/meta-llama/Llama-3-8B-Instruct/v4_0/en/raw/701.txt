@@ -1,0 +1,7 @@
+The question is: How much is the annual membership fee for the PSG?
+
+The relevant sentences are:
+[8] Membership of the PSG costs 39 EUR per year (22 EUR for sisters).
+[9] Membership of the PSG costs 39 EUR per year (22 EUR for sisters).
+
+The IDs of the relevant sentences

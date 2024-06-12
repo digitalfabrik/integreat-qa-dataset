@@ -1,0 +1,5 @@
+[4, 5]assistant
+
+Note: The question is in Ukrainian, but I assume it translates to "Which authorities are responsible for recognition?" in English.assistant
+
+Yes, that's correct. The question is asking which authorities are responsible for recognizing foreign qualifications.assistant

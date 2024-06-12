@@ -1,0 +1,6 @@
+[2, 4, 11]assistant
+
+The sentences that answer the question "Wo kann ich psychologische Unterstützung finden?" are:
+
+[2] Außerdem können Sie auch die Telefon-Seelsorge (Telefon-Seelsorge) anrufen.
+[4] Der Anr

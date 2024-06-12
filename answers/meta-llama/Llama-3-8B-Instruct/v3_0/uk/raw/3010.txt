@@ -1,0 +1,5 @@
+[]assistant
+
+Note: The question is in Ukrainian, and the document is in German. Since the question is about the language level A1, it's unlikely that the document will provide an answer. Therefore, the output is an empty list.assistant
+
+You're absolutely right! I apologize

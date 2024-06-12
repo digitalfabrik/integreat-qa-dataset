@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the difference between Ankerzentrum and regulärer Unterkunft, but none of the sentences in the document address this specific question. Therefore, the output is an empty list: []assistant
+
+I apologize for the mistake. You are correct, the

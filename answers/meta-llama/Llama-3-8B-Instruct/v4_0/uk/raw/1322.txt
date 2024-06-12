@@ -1,0 +1,6 @@
+[4, 6]assistant
+
+The sentences that answer the question are:
+
+[4] Ви можете знайти детальну інформацію в путівнику районної адміністрації.
+[6] Огляд цих вакансій можно знайти на сайті www.landkreis-augsburg.de/begleitung

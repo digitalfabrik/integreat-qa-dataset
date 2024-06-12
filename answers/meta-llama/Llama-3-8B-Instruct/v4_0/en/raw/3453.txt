@@ -1,0 +1,11 @@
+The question is: What documents are required for the asylum procedure?
+
+The relevant sentences are:
+
+[19] Then you should bring them with you.
+
+[18] Do you have proof for your descriptions?
+
+These sentences do not explicitly mention specific documents required for the asylum procedure. Therefore, the output is:
+
+[]assistant

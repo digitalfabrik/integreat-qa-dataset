@@ -1,0 +1,5 @@
+[13]assistant
+
+The question is "Що я отримаю на підтвердження реєстрації?" which translates to "What do I receive as confirmation of registration?"
+
+The answer is sentence [13] "Після цього ви отримаєте підтвердження прибуття як підтвердження реєстрації." which

@@ -1,0 +1,5 @@
+[1]assistant
+
+The question is "Wer hat Anspruch auf Mindestlohn?" which translates to "Who has a claim to the minimum wage?".
+
+The answer is not explicitly stated in the document, but we can infer that the question is asking who is exempt from the minimum wage.

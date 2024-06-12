@@ -1,0 +1,7 @@
+[3, 4, 5, 13]assistant
+
+The question is "Які види медичного страхування існують у Німеччині?" which translates to "What types of medical insurance exist in Germany?"
+
+The sentences that answer this question are:
+
+[3] Існу

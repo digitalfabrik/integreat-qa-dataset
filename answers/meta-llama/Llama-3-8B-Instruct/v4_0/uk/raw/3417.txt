@@ -1,0 +1,7 @@
+[4]assistant
+
+The correct answer is [4].assistant
+
+The question is "У чому різниця між світлодіодними та енергозберігаючими лампами?" which translates to "What is the difference between LED and energy-saving lamps?".
+
+The document

@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "Où puis-je trouver la mairie de Großenlach?"
+
+The sentence is: "Stuttgarter Straße 18, 71577 Großerlach 0790391540 rathaus

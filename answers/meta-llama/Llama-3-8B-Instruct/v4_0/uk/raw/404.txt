@@ -1,0 +1,7 @@
+Question: Які свободи є непорушними відповідно до статті 5?
+
+Document: [0]... [60]
+
+Output: [31, 32, 35, 36, 37]assistant
+
+The question asks which freedoms are unshakeable according to Article 5.

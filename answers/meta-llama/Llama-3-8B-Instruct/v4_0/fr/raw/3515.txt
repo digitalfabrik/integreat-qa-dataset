@@ -1,0 +1,8 @@
+[1, 2]assistant
+
+The sentences that answer the question are:
+
+[1] Les personnes handicapées peuvent travailler sur le marché du travail ordinaire.
+[2] Sauf si le handicap ne le permet pas.
+
+These sentences provide information about the rights of people with disabilities in the German

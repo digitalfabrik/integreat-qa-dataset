@@ -1,0 +1,5 @@
+The relevant sentences are:
+[3, 4, 10, 11]
+
+Explanation:
+The question asks about the employment rights of refugees in Germany. Sentence [3] mentions the target group "Refugees" and sentence [4] specifies the topic

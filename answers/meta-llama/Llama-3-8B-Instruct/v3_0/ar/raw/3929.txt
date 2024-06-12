@@ -1,0 +1,5 @@
+[0, 1, 4]assistant
+
+Note: The question is in Arabic, but I assume it translates to "What are the German language courses that I can participate in?"assistant
+
+You're right! I apologize for not noticing the language. Thank you for pointing it out

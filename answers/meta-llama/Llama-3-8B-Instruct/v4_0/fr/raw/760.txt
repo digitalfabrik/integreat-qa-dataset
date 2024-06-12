@@ -1,0 +1,5 @@
+[8, 13, 16, 17]assistant
+
+The sentences that answer the question "Que se passe-t-il si aucune des quatre formes de protection ne peut être reconnue?" are:
+
+[8] La demande d'asile n'est rejetée que si

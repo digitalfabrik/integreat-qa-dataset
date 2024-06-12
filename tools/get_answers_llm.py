@@ -12,7 +12,7 @@ from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
 # from prompt_gpt import prompt_gpt
 
-MODEL = MIXTRAL8x22B
+MODEL = MISTRAL
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
 PROMPT_VERSION = PROMPT_v3
@@ -86,7 +86,7 @@ def enumerate_lines(text):
     numerated_lines = []
     for index, line in enumerate(lines):
         numerated_lines.append(f'[{str(index)}] {line}')
-
+        # numerated_lines.append(f'{str(index)} {line}')
     return '\n'.join(numerated_lines)
 
 
@@ -145,7 +145,7 @@ def get_all_answers_gpt(questions, path, language):
 
 
 if __name__ == '__main__':
-    languages = ['de', 'en']
+    languages = ['de']
     prompt_run = f'{PROMPT_VERSION}_{RUN}'
 
     for language in languages:
@@ -156,11 +156,11 @@ if __name__ == '__main__':
         answer_path = f'{base_answer_path}/{RAW_SLUG}'
         os.makedirs(answer_path, exist_ok=True)
 
-        dataset_path = f'{DATASET_PATH}/{language}/dev_{language}.json'
+        dataset_path = f'{DATASET_PATH}/{language}/test_{language}.json'
         questions = json.load(open(dataset_path, 'r'))
 
         if CROSS_LANGUAGE:
-            translated_dataset_path = f'{DATASET_PATH}/{question_language}/dev_{question_language}.json'
+            translated_dataset_path = f'{DATASET_PATH}/{question_language}/test_{question_language}.json'
             translated_dataset = json.load(open(translated_dataset_path, 'r'))
             questions = [{**question, 'question': next(translated['question'] for translated in translated_dataset if translated['id'] == question['id'])} for question in questions]
 

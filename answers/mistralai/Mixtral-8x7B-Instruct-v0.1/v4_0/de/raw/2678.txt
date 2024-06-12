@@ -1,0 +1,1 @@
+[11, 12, 13, 21, 20, 16, 23, 25] are the relevant sentence IDs that answer the question. These sentences provide information on how to contact a counseling center for domestic violence.

@@ -1,0 +1,7 @@
+[10, 11, 14]assistant
+
+The question is "Які освітні гранти доступні в Німеччині?" which translates to "What educational grants are available in Germany?".
+
+The sentences that answer this question are:
+
+[10] Гранти для студентів (Gr

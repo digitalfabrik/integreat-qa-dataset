@@ -1,0 +1,6 @@
+[5, 6]assistant
+
+The sentences that answer the question "What are the rules about noise in my apartment?" are:
+
+[5] Noise: Everyone living in the building is responsible for keeping noise levels as low as possible.
+[6] You must take special care from 12:00

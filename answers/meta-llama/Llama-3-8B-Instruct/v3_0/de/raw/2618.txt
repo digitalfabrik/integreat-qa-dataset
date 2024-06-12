@@ -1,0 +1,3 @@
+[2, 3]assistant
+
+Note: Sentence [2] explicitly states that the Aufenthaltserlaubnis is "befristet", which means it has a limited duration. Sentence [3] also mentions that the Aufenthaltserlaubnis is a "zeitlich befr

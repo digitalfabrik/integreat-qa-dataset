@@ -1,0 +1,5 @@
+[3, 4, 5, 9, 11]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "What types of training programs are available in Germany?"assistant
+
+You're right

@@ -1,0 +1,6 @@
+[2, 3, 6]assistant
+
+The sentences that answer the question "Welche Art von Schulen bieten berufliche Weiterbildung an?" are:
+
+[2] Die berufliche Weiterbildung ist an verschiedenen beruflichen Schulen möglich.
+[3] Dazu gehören die

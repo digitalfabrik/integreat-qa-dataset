@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks which organs are responsible for recognition, but the document does not mention organs or recognition. Therefore, no sentences in the document answer the question.assistant
+
+I completely agree with you! Since the question asks about organs responsible for recognition, but the document doesn't mention

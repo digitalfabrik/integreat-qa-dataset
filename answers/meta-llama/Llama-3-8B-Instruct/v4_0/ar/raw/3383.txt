@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "كيف يمكنني العثور على شقق يمكن الوصول إليها؟" which translates to "How can I find accessible apartments?".
+
+After reviewing the document, I found that none of the sentences provide information on how to find accessible apartments. Therefore, the output

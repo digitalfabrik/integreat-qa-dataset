@@ -1,0 +1,5 @@
+[1, 2, 3, 4, 5]assistant
+
+The sentences that answer the question "ما هي مزايا الوظيفة المصغرة في ألمانيا؟" are:
+
+[1] الحد الأقصى للأرباح الشهرية هو 520 يور

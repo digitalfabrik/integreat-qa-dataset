@@ -1,0 +1,3 @@
+[]assistant
+
+Note: The question is in Arabic, and the document is in German. It seems that the question is not related to the content of the document, which is about the city of Rudersberg and its services. Therefore, no relevant sentences can be found in the document.assistant

@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID [2] answers the question: "إلى أين يمكنك اللجوء إذا كنت مهدداً بفقدان منزلك؟"assistant
+
+[2]assistant
+
+The sentence with ID [2] answers

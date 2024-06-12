@@ -1,0 +1,5 @@
+[8, 9]assistant
+
+The sentences that answer the question "Welche Sprachen können die TranslAid-Dolmetscher übersetzen?" are:
+
+[8] Die Dolmetscherinnen und Dolmetscher begleiten Sie zu Beratungsges

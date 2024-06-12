@@ -1,0 +1,5 @@
+[11]assistant
+
+The sentence with ID [11] answers the question " Чи можна зробити щеплення від коронавірусу безкоштовно?" (Can I get vaccinated against coronavirus for free?) with a simple "Так" (Yes).assistant
+
+[11]

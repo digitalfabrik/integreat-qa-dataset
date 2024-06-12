@@ -1,0 +1,6 @@
+[12, 13]assistant
+
+The sentences that answer the question "Où puis-je trouver des médecins de passage?" are:
+
+[12] Vous trouverez des médecins de passage sur le site Internet de la
+[13] Assurance légale allemande contre les

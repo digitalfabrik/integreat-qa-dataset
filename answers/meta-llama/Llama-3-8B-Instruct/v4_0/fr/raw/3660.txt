@@ -1,0 +1,6 @@
+[1, 2, 7, 9, 20]assistant
+
+The sentences that answer the question "Comment s'inscrire à un cours d'allemand en ligne?" are:
+
+[1] Cours complet B1 : "La voie de Nico".
+[2]

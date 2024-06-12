@@ -1,0 +1,5 @@
+[4, 5, 6]assistant
+
+The sentences that answer the question "Les mutilations génitales féminines sont-elles punissables en Allemagne?" are:
+
+[4] Les mutilations génitales féminines sont punissables en Allemagne

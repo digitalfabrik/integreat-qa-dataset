@@ -1,0 +1,7 @@
+[4, 7, 8, 10, 11, 12, 39]assistant
+
+The sentences that answer the question "What kind of support is available for pregnant refugees in Germany?" are:
+
+[4] Pregnancy counselling
+[7] With questions about financial aid
+[8

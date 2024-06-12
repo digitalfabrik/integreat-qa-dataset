@@ -1,0 +1,2 @@
+[10, 11, 14, 18]
+Sentences 10 and 11 explain that universities lead to various degrees and career paths. Sentence 14 states that Universities of Applied Sciences offer Bachelor's and Master's degree programs. Therefore,

@@ -1,0 +1,7 @@
+[0]assistant
+
+The question is "Як зареєструвати дитину до школи?" which translates to "How to register a child to school?".
+
+The document does not provide information on how to register a child to school. Therefore, the output is:
+
+[]assistant

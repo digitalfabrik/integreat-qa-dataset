@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "Які вимоги до професійного навчання біженців?" which translates to "What are the requirements for professional training of refugees?".
+
+After reviewing the document, I found that none of the sentences answer this question directly. Therefore, the output is:
+
+[]assistant

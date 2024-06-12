@@ -1,0 +1,8 @@
+The question is: متى لا يمكنك استرداد الوديعة بالكامل؟
+
+The relevant sentences are:
+
+[24] في حالة حدوث تلف، لن تسترد الوديعة بالكامل.
+[41] جزئيًا.
+
+The IDs of the relevant sentences are: [24,

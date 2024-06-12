@@ -1,0 +1,7 @@
+The question is: Que recouvre l'expression "langage facile"?
+
+The document does not contain the expression "langage facile", so there are no relevant sentences. The output is: []assistant
+
+The question is: Que recouvre l'expression "langage facile"?
+
+The

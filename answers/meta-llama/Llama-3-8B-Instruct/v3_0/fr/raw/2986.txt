@@ -1,0 +1,3 @@
+[]assistant
+
+The question is in French, and the document is in German. It seems that the question is asking about the services offered by the town hall of Großenlach to new arrivals, but the document does not provide any information about this. Therefore, the output is an empty list.

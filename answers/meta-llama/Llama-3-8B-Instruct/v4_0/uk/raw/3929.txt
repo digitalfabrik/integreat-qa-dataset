@@ -1,0 +1,5 @@
+[1]assistant
+
+The question is "На яких курсах німецької мови я можу взяти участь?" which translates to "On which German language courses can I participate?"
+
+The sentence that answers this question is [1] "Молоді люди у віці від 16 до 21 року

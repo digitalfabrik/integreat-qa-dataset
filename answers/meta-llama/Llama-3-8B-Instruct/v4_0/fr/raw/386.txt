@@ -1,0 +1,8 @@
+The question is: Qu'est-ce que je reçois comme preuve de mon inscription?
+
+The relevant sentences are:
+[13] Vous recevrez ensuite l'attestation d'arrivée comme preuve de votre enregistrement.
+
+The output is: [13]assistant
+
+The question is

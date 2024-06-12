@@ -1,0 +1,8 @@
+The question is: Wann können Sie nicht die gesamte Kaution zurückbekommen?
+
+The relevant sentences are:
+
+[24] Im Falle eines Schadens erhalten Sie die Kaution nicht vollständig zurück.
+[44] Whg. = Wohnung
+
+The IDs of the relevant sentences are: [24

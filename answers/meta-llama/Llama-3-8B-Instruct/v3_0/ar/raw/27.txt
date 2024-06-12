@@ -1,0 +1,3 @@
+[5]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "Wer gibt die grüne Rezeptur oder ein spezielles Rezept aus?" (Who issues the green prescription or a special prescription?).

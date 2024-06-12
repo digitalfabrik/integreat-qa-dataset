@@ -1,0 +1,6 @@
+[12, 11]assistant
+
+The sentences that answer the question "Where can I find support for my asylum procedure?" are:
+
+[11] You apply for asylum at the Federal Office for Migration and Refugees (BAMF).
+[12] Important: You can only submit your application in person

@@ -1,0 +1,11 @@
+Question: Якими мовами доступний веб-сайт Deutsche Welle?
+
+Document: [0]... [26]
+
+Answer: [16, 17]
+
+Output: [16, 17]assistant
+
+The correct output is: [16, 17]assistant
+
+The correct

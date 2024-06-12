@@ -1,0 +1,7 @@
+[16, 17, 20, 21, 22]assistant
+
+The sentences that answer the question "Where can I get medical help after sexual abuse?" are:
+
+[16] Every rape is a medical emergency.
+[17] You can get help at the hospital.
+[20] Victims

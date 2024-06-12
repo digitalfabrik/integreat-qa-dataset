@@ -1,0 +1,5 @@
+[4, 7, 21, 32, 33]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking for information about integration courses in Schorndorf Rathaus.assistant
+
+You're right!

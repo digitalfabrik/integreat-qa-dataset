@@ -1,0 +1,5 @@
+The question is: Як дізнатися, чи було надіслано повідомлення про надзвичайну ситуацію в моєму районі?
+
+The relevant sentences are not found in the document, so the output is: []assistant
+
+The question is: Як дізнатися,

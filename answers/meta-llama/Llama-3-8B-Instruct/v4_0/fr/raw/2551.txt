@@ -1,0 +1,6 @@
+[1, 2, 3]assistant
+
+The sentences that answer the question "Quels sont les avantages d'un mini-job en Allemagne?" are:
+
+[1] Le gain mensuel maximal est de 520 € et est exonéré d'impôts.
+[2

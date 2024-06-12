@@ -1,0 +1,5 @@
+[3, 4]assistant
+
+The sentences that answer the question are:
+
+[3] Le Regierungspräsidium Stuttgart (préfecture de Stuttgart) vérifie les diplômes de fin d'études secondaires étrangers (par exemple Hauptschulabs

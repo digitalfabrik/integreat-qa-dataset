@@ -1,0 +1,5 @@
+[2, 4, 11, 14, 16, 27, 32, 39]assistant
+
+The sentences that answer the question "Quels sont les documents nécessaires pour les procédures d'asile?" are:
+
+* [2] Toute personne

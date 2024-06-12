@@ -1,0 +1,9 @@
+[5]assistant
+
+The sentence that answers the question is:
+
+[5] Bruit : Chaque personne vivant dans l'immeuble est responsable du maintien des niveaux de bruit aussi bas que possible.assistant
+
+[5]assistant
+
+The sentence that

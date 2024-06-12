@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "Quelles sont les différences entre les catégories de permis de conduire?"
+
+The document does not provide information about the differences between categories of driving permits. Therefore, the output is an empty list: []
+
+Note that the document does not contain any sentences

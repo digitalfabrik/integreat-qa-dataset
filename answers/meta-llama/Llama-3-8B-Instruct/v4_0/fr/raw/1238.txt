@@ -1,0 +1,6 @@
+[3, 5, 7]assistant
+
+The sentences that answer the question "Où et comment trouver des emplois attractifs et actuels?" are:
+
+[3] Où et comment trouver des emplois attractifs et actuels?
+[5] Tu trouveras les

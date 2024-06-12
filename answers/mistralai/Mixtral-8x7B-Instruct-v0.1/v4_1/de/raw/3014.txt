@@ -1,0 +1,5 @@
+[1, 2, 3, 4, 5]
+
+The relevant sentences from the document that answer the question "Wie sind die Arbeitszeiten in Deutschland?" (How are the working hours in Germany?) are:
+
+[1] "Mehr als 8 Stunden am

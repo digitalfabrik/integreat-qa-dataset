@@ -1,0 +1,5 @@
+[23, 24, 27, 29, 33]assistant
+
+Note: The question is in Arabic, and the document is in German. The IDs provided are for the German sentences that answer the question.assistant
+
+Thank you for the clarification. In that case, the

@@ -1,0 +1,6 @@
+[1, 2, 3, 4, 5]assistant
+
+The sentences that answer the question "What forms of daycare are available?" are:
+
+[1] There are different forms of daycare for children in Germany depending on their age:
+[2] Crèches for children under the

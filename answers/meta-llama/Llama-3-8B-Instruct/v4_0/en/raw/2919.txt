@@ -1,0 +1,6 @@
+[17, 18, 21, 22, 23]assistant
+
+The sentences that answer the question "How can I contact the nearest care support center?" are:
+
+[17] Central contact for all locations:
+[18] pflegestuetzpunkt@rems-murr-kre

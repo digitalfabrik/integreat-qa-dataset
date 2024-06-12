@@ -1,0 +1,6 @@
+[11, 12, 16, 17, 21, 22, 24, 25]assistant
+
+The sentences that answer the question "What help is available in cases of domestic violence?" are:
+
+[11] Victim counseling Rems-Murr district
+[12] The counseling

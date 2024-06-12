@@ -1,0 +1,2 @@
+[8, 9, 10, 17]
+Sentences 8 and 9 define the Bavarian family allowance and what it is paid for (children under the age of three). Sentence 10 mentions that you will automatically receive family allowance if you have already

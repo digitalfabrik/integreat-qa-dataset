@@ -1,0 +1,10 @@
+The question is: Puis-je me faire vacciner gratuitement contre le coronavirus?
+
+The relevant sentences are:
+
+[10] Vaccination Corona
+[11] Vous pouvez être vacciné contre le coronavirus gratuitement.
+
+The IDs of the relevant sentences are: [10, 11]
+
+Output: [10, 11

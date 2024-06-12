@@ -1,0 +1,5 @@
+[6]assistant
+
+The question is "Для якої вікової категорії відкриті дівчата-скаути св. Юрія?" which translates to "For what age category are St. George's Girl Scouts open to?"
+
+The answer is in sentence [6]: "Ми є католиць

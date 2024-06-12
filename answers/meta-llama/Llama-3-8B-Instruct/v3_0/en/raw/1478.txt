@@ -1,0 +1,5 @@
+[11]assistant
+
+The sentence with ID [11] answers the question: "Can I get vaccinated against coronavirus for free?"assistant
+
+Yes, you are correct. The sentence with ID [11] answers the question: "Can I get vaccinated against coronavirus for free?"assistant

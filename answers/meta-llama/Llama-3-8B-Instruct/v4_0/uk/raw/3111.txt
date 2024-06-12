@@ -1,0 +1,10 @@
+What is obligatory insurance?
+
+[0] Медичне страхування є обов'язковим
+
+The answer is [0].assistant
+
+What is obligatory insurance?
+
+[0] Медичне страхування є обов'язковим
+[1] Важливо: кожен у Німеччині повинен мати

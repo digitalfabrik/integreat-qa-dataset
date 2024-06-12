@@ -1,0 +1,9 @@
+The question is: ما هو المستوى اللغوي المطلوب للدراسة في ألمانيا؟
+
+The relevant sentences are:
+
+[7] يجب أن يكون لديك المستوى اللغوي C1 للدراسة.
+
+The output is: [7]assistant
+
+The question is: ما هو

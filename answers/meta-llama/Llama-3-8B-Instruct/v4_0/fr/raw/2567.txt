@@ -1,0 +1,7 @@
+[1]assistant
+
+The question is "Qui a droit au salaire minimum?" and the relevant sentence is [1] En Allemagne, un salaire minimum légal est en vigueur.assistant
+
+[1]assistant
+
+The question is "Qui a

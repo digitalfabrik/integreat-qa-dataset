@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks how long a residence permit is valid for, but the document does not provide an answer to this question. Therefore, the output is an empty list, which is represented as "[]".assistant
+
+I completely agree with you! The document does not provide any information

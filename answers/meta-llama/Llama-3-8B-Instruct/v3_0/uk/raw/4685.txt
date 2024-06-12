@@ -1,0 +1,5 @@
+[2, 3, 4]assistant
+
+Note: The question is in Ukrainian, and the document is also in Ukrainian. The answer is based on the content of the document, which appears to be a program for young LGBTQ+ women.assistant
+
+Thank you for the clarification.

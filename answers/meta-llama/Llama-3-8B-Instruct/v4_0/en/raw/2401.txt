@@ -1,0 +1,10 @@
+The question is: How can I find a pharmacy in Germany?
+
+The relevant sentences are:
+[1] Pharmacies (Apotheken)
+[8] Search for pharmacies near you
+[9] Search pharmacy emergency service
+
+Output: [1,8,9]assistant
+
+The question is:

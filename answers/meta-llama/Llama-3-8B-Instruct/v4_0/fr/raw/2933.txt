@@ -1,0 +1,5 @@
+[6, 10, 11]assistant
+
+The sentences that answer the question "Quelles sont les offres de soutien pour les victimes de mariages forcés?" are:
+
+[6] Service de consultation YASEMIN (pour les personnes concernées et les tiers de confiance

@@ -1,0 +1,6 @@
+[5, 6, 7, 8, 9]assistant
+
+The sentences that answer the question "من الذي يمكنه الحصول على دعم مالي من خلال BuT؟" are:
+
+[5] جميع الأطفال والمراهقين والشباب,
+[6]

@@ -1,0 +1,5 @@
+The question is: Qu'entend-on par "cours d'intégration" en Allemagne?
+
+The relevant sentences are not found in the document, so the output is: []assistant
+
+The question is: Qu'entend-on par "cours d'intégration"

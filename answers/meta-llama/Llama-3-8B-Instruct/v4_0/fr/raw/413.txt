@@ -1,0 +1,6 @@
+[9, 10]assistant
+
+The sentences that answer the question "Que faut-il faire pour éviter la prolongation automatique du contrat?" are:
+
+[9] Si vous ne voulez pas que le contrat soit reconduit automatiquement, vous devez le résilier par écrit.
+[

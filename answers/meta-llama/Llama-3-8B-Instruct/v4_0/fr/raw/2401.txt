@@ -1,0 +1,6 @@
+[2, 3]assistant
+
+The sentences that answer the question "Comment puis-je trouver une pharmacie en Allemagne?" are:
+
+[2] En Allemagne, on ne peut obtenir des médicaments que dans les pharmacies.
+[3] Dans les autres boutiques

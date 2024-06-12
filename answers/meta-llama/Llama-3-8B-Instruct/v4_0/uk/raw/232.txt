@@ -1,0 +1,7 @@
+Question: Яка мета центру для дівчат у Блуменау?
+
+Document: [0]... [21]...
+
+Answer: []
+
+The question asks about the purpose of the center for girls in Blumenau, but the document does not provide a direct answer to this question.assistant

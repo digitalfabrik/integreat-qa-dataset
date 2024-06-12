@@ -1,0 +1,1 @@
+[10, 19] as the sentences answer the question "Which documents are needed for the asylum procedure?" They mention the need to bring evidence for one's claims during the personal hearing.

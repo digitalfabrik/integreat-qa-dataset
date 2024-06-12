@@ -1,0 +1,3 @@
+[7]assistant
+
+The question is "Wer sorgt dafür, dass Kinder regelmäßig die Schule besuchen?" and the answer is "Die Eltern". Therefore, the relevant sentence is [7] "Die Eltern sorgen dafür, dass ihre Kinder die Schule regelmäß

@@ -1,0 +1,5 @@
+[2]assistant
+
+The question is "ما نوع الشهادات المرضية المطلوبة؟" which translates to "What type of medical certificates are required?".
+
+The sentence that answers this question is [2] "كقاعدة عامة، يجب أن يشهد طبيبك بأنك غير

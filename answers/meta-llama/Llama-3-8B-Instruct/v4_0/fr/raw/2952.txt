@@ -1,0 +1,8 @@
+The question is: Comment puis-je savoir si une notification d'urgence a été envoyée dans mon environnement?
+
+The relevant sentences from the document are:
+
+[0] Urgence vitale
+[24] Les urgences vitales sont par exemple
+[25] forte détresse respiratoire
+[26]

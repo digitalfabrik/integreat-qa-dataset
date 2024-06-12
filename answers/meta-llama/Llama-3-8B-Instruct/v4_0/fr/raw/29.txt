@@ -1,0 +1,10 @@
+The question is: À qui s'adressent les cours du HEi?
+
+The relevant sentences are:
+[9] Pour qui : tous les citoyens de Munich
+
+The output is: [9]assistant
+
+The question is: À qui s'adressent les cours du HEi?
+
+The

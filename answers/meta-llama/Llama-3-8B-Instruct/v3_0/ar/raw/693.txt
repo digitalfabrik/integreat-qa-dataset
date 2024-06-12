@@ -1,0 +1,5 @@
+[24]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to "When can't you get back the deposit in full?".
+
+The sentence [24] answers the question, stating that if there is damage, you won't get

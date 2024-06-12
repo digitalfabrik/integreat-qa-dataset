@@ -1,0 +1,6 @@
+[5, 6]assistant
+
+The sentences that answer the question "Wer stellt das 'Grüne Rezept' oder Privatrezept aus?" are:
+
+[5] Sie oder er wird Ihnen ein sogenanntes "Grünes Rezept" oder ein Privatrezept ausstellen.
+[

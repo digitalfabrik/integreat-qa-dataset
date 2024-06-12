@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "How can I apply for early help programs in Germany?" and the document does not provide any information on how to apply for early help programs in Germany. Therefore, the output is an empty list, which is represented as "[]".assistant
+
+I completely agree

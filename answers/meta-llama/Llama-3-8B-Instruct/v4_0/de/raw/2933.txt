@@ -1,0 +1,5 @@
+[6, 10, 11]assistant
+
+The sentences that answer the question "Welche Unterstützungsangebote gibt es für Opfer von Zwangsverheiratung?" are:
+
+[6] Beratungsstelle YASEMIN (Für Betroffene und ver

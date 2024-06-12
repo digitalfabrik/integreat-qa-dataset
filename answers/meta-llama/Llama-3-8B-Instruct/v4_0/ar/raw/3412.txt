@@ -1,0 +1,7 @@
+[54, 55, 56, 57]assistant
+
+The question is: ما هي حقوق العمل التي يتمتع بها اللاجئون في ألمانيا؟
+
+The relevant sentences from the document are:
+
+[54] يتمتع مواطنو الاتحاد الأوروبي بالحق في حرية

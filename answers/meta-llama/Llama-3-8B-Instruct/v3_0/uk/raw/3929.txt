@@ -1,0 +1,7 @@
+[]assistant
+
+It seems that the question is in Ukrainian and translates to "On which German language courses can I participate?".
+
+The document appears to be in German, and the question is not directly answered in the provided text. Therefore, the output is an empty list: []assistant
+
+You

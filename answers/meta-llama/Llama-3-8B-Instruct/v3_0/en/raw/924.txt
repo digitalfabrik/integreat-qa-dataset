@@ -1,0 +1,3 @@
+[6, 7]assistant
+
+The correct answer is [6, 7]. Sentence 6 states that "all girls from the age of 6 are welcome, independent of origin or religious belief", and sentence 7 specifies the age range as "all women and girls between 6 and

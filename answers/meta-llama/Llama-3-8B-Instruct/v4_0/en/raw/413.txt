@@ -1,0 +1,6 @@
+[9, 10]assistant
+
+The sentences that answer the question "What do I have to do to avoid automatic contract renewal?" are:
+
+[9] This contract is automatically renewed if you do not cancel.
+[10] If you do not want the contract to be automatically renewed, you must cancel

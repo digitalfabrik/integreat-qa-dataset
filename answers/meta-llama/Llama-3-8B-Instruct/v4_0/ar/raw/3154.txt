@@ -1,0 +1,7 @@
+[16, 21, 23, 41]assistant
+
+The question is "أين يمكنني العثور على سكن ومطاعم؟" which translates to "Where can I find housing and restaurants?"
+
+The relevant sentences from the document are:
+
+[16] طلب الحصول على

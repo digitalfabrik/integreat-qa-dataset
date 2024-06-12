@@ -1,0 +1,7 @@
+[]assistant
+
+The question asks about information on integration courses at Spiegelberg Town Hall, but the document does not provide any information on integration courses. Therefore, the output is an empty list: []assistant
+
+I completely agree with you!assistant
+
+Yay! We're

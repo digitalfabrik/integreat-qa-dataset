@@ -1,0 +1,7 @@
+[20, 30]assistant
+
+The question is "Як я можу розірвати контракт у Німеччині?" which translates to "How can I terminate a contract in Germany?"
+
+The relevant sentences that answer this question are:
+
+[20] Ви повинні скасувати договір у пись

@@ -1,0 +1,5 @@
+[7, 8, 9]assistant
+
+The sentences that answer the question are:
+
+[7] Versement de l'allocation de chômage I (en abrégé : ALG I) : L'allocation de chômage I est versée aux personnes qui ont per

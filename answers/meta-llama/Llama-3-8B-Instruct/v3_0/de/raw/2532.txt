@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about finding information about Integrationskursen in the Rathaus Spiegelberg, but none of the sentences in the document provide this information. Therefore, the output is an empty list: []assistant
+
+You're absolutely right! I apologize for the mistake.

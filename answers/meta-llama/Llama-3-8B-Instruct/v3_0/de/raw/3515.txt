@@ -1,0 +1,7 @@
+[]assistant
+
+I apologize for the mistake. The correct output is actually:
+
+[1, 3, 4, 6]
+
+These sentences provide information about the rights of people with disabilities in the labor market in Germany, such as the possibility of working on the general labor market, special opportunities for people

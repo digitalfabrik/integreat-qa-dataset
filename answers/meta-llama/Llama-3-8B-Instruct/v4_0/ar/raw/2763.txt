@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "ما هي متطلبات التدريب المهني كلاجئ؟" which translates to "What are the requirements for professional training for refugees?".
+
+After reviewing the document, I found that none of the sentences directly answer this question. Therefore, the output is:
+
+[]

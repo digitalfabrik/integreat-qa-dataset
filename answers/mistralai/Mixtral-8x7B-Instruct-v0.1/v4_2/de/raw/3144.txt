@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question are:
+
+6 Die Fachschule bietet eine vertiefte berufliche Fortbildung.
+20 Technikerfachschulen (contains information about the types of courses offered by Fachschule)
+26 Meister

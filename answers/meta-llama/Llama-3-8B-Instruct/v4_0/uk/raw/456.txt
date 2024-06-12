@@ -1,0 +1,9 @@
+The question is: Скільки коштує Мюнхенський сімейний проїзний?
+
+The relevant sentences are:
+
+[14] Вартість: 6 євро
+
+The output is: [14]assistant
+
+The question is: Скільки коштує Мюнхен

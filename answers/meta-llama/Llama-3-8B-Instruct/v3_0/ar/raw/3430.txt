@@ -1,0 +1,7 @@
+[8, 9, 10, 11, 12, 13]assistant
+
+I apologize for the mistake. Since the question is in Arabic, I will translate it to English: "What are the free vaccinations in Germany?"
+
+The relevant sentences are:
+
+[8, 9,

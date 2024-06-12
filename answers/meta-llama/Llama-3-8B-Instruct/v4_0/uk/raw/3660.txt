@@ -1,0 +1,7 @@
+[5, 10, 21]assistant
+
+The question is "Як зареєструватися на онлайн-курс німецької мови?" which translates to "How to register for an online German course?".
+
+The relevant sentences from the document are:
+
+[5]

@@ -1,0 +1,5 @@
+[3, 7, 8, 9, 10, 11, 12, 13, 14, 17, 18]assistant
+
+Note: The question is in Ukrainian, and the document is also in Ukrainian.assistant
+
+Thank you for the clarification

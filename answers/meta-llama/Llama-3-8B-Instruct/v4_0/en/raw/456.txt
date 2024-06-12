@@ -1,0 +1,11 @@
+The question is: How much does the Munich Family Pass cost?
+
+The relevant sentences are:
+[14] Cost: 6 euros
+
+The output is: [14]assistant
+
+The question is: How much does the Munich Family Pass cost?
+
+The relevant sentences are:
+[14] Cost: 6

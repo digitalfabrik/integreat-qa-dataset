@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "How can I find out if an emergency notification has been sent in my area?" and the document does not provide any information about finding out if an emergency notification has been sent in your area. Therefore, the output is an empty list, which is represented as "[]".

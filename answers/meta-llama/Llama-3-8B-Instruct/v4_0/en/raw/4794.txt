@@ -1,0 +1,9 @@
+[4, 9]assistant
+
+The sentences that answer the question "What activities does the Young Bisexuals Group organize?" are:
+
+[4] For some activities there is a small charge to cover costs.
+
+[9] For some activities there is a small charge to cover costs.
+
+So the output
