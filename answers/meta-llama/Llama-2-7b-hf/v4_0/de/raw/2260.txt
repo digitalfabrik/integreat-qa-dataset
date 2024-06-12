@@ -1,9 +1,0 @@
-[INST] <<TASK>>
-Your task is to answer the question.
-<</TASK>>
-
-Question: Wie lautet die Notrufnummer in Deutschland?
-
-Document: 0 Lebensbedrohlicher Notfall
-1 Polizei:
-2

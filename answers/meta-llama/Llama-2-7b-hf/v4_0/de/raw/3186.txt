@@ -1,7 +1,0 @@
-Input:
-[SYS]
-[Q] Welche Leistungen bietet das Jobcenter an?
-[D] 0 Leistungen des Jobcenters
-1 Strom
-2 Die Stromkosten werden nicht vom Jobcenter übernommen.
-3 Sie müssen die St

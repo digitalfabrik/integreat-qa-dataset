@@ -1,5 +1,0 @@
-The input is a single line containing the question and the document.
-The question and document are separated by a single space.
-The question is a single line, and contains a single question mark.
-The document is a single line, and contains a single newline character.
-The document contains zero or more

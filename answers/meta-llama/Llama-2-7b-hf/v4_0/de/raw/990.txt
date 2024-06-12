@@ -1,8 +1,0 @@
-Input Format:
-
-The first line contains the question, followed by a single space, and then the document.
-
-The question is formatted as follows:
-Question: Welches Visum ist für den Aufenthalt im gesamten Schengen-Raum gültig?
-
-The document is

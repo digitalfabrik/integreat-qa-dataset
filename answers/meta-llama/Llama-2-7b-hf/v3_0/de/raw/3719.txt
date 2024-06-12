@@ -1,9 +1,0 @@
-### Sample Input
-
-Input:
-
-Question: Wie kann ich meinen ausländischen Führerschein in Deutschland umschreiben?
-
-Document: 0 Autos und Mopeds
-1 Deutscher Führerschein
-2 Sie brauchen einen Führ

@@ -1,9 +1,0 @@
-Example:
-
-Input:
-
-Question: What are the minimum German language proficiency requirements for university admission?
-
-Document: 0 What do I need in order to study?
-1 If you want to study in Germany, you will need the following:
-2 University entrance qualification

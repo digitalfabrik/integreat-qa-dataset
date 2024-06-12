@@ -48,7 +48,7 @@ if __name__ == '__main__':
     metrics = simple_metrics
     # metrics = simple_metrics + ['jaccard']
 
-    add_latex_table_row(['Model', 'Language'] + 2 * metrics + [''] + 2 * metrics, answers_table)
+    add_latex_table_row(['Model', 'Lang.'] + 2 * metrics + [''] + 2 * metrics, answers_table)
     # answers_table.append('\\midrule')
     answers_table.append('\\cmidrule{1 - 8}\\cmidrule{10 - 15}')
 
@@ -58,11 +58,11 @@ if __name__ == '__main__':
     means_no_answer = []
 
     # for model in MODELS:
-    for model in [LLAMA3_70B, LLAMA3_8B]:
+    for model in [LLAMA3_70B, LLAMA3_8B, MIXTRAL8x7B]:
     #     for prompt in prompts:
         for prompt in [PROMPT_v4]:
             for language in languages:
-                model_name = get_model_name(model)
+                model_name = get_model_name(model) if language == 'de' else ''
                 labels.append([model_name, language])
                 _means = []
                 _stds = []

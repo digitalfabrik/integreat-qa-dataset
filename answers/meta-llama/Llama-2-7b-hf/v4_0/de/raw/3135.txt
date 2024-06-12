@@ -1,3 +1,0 @@
-The first sentence, "0 Versicherungen", is irrelevant, so it should not be output.
-The second sentence, "1 Pflicht-Versicherungen", is relevant, so it should be output.
-The third sentence, "2 Diese Versicherungen musst Duin Deutschland haben:

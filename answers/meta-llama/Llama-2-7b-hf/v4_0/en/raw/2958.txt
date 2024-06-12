@@ -1,8 +1,0 @@
-Input:
-The input consists of several questions and documents.
-The questions are formatted as follows:
-"Question: <question>."
-The documents are formatted as follows:
-"Document: <document>."
-The questions and documents are separated by a blank line.
-The number of questions and

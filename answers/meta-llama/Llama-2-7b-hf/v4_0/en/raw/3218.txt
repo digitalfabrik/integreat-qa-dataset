@@ -1,6 +1,0 @@
-[SOL] <<SYS>>
-Your task is to select sentences from a document that answer a given question.
-<</SOL>>
-
-Given the question and document below, select the sentences from the document that answer the question.
-It may also be the case that none of

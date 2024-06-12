@@ -36,7 +36,7 @@ def evaluate(questions, predictions, model, language):
     model_name = model_name_parts[-1] if language == 'de' else ''
     all = pd.DataFrame(prepare_evaluation(questions, predictions))
     dataset_df = all[all.answers.str.len() > 0]
-    print_row_rounded([model_name, language, dataset_df.precision, dataset_df.recall, dataset_df.f1, dataset_df.jaccard, dataset_df[dataset_df.predicted.str.len() > 0].predicted.str.len(), len(dataset_df[dataset_df.predicted.str.len() == 0]) / len(dataset_df)])
+    print_row_rounded([model_name, language, dataset_df.precision, dataset_df.recall, dataset_df.f1, dataset_df.jaccard, dataset_df[dataset_df.predicted.str.len() > 0].predicted.str.len(), len(all[all.predicted.str.len() == 0]) / len(all)])
 
 
 def evaluate_no_answer(questions, predictions, model, language):

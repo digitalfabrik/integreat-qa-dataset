@@ -1,8 +1,0 @@
-[INST] <<EVAL>>
-Your task is to evaluate the sentences in a document.
-<</EVAL>>
-
-Given the document below, evaluate the sentences.
-Output a list of the relevant sentences, ordered from highest to lowest.
-
-Document: 0 Vielfalt

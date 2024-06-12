@@ -1,6 +1,0 @@
-### Sample Input
-```
-Question: Where can I look for training with a tolerated stay permit?
-Document: 0 Training toleration (§60c)
-1 Duration: "Guarantees" suspension of deportation for the duration of vocational training
-2 Perspective

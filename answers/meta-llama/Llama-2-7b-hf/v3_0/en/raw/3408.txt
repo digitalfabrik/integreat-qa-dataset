@@ -1,7 +1,0 @@
-Input:
-Question: What does the training to become an integration guide involve?
-
-Document: 0 Training in the public sector
-1 Are you interested in training in the public sector?
-2 Then apply there!
-3 You can also work there with a foreign passport or place of birth.

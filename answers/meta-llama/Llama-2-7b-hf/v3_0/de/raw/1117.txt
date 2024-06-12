@@ -1,7 +1,0 @@
-### Sample Input
-
-```
-Question: Welche Arten von Kindertagesbetreuung gibt es in Deutschland?
-Document: 0 Grundsätzliche Informationen zur Kinderbetreuung
-1 Wichtige Informationen zur Kinderbetreuung
-2 In Deutschland gibt es zahlreiche An

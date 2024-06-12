@@ -1,2 +1,0 @@
-Your task is to select sentences from a document that answer a given question.
-<</SYS>>

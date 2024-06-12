@@ -1,8 +1,0 @@
-## Solution
-
-```javascript
-const solution = (question, document) => {
-  const sentences = [];
-  let match = null;
-  for (let i = 0; i < document.length; i++) {
-    if (document[i].match(question)) {

@@ -7,10 +7,10 @@ from transformers import pipeline, PretrainedConfig, AutoTokenizer
 from torch import bfloat16
 
 from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, LLAMA2_7B, PROMPT_v1, PROMPT_v2, IGEL, MIXTRAL8x7B, MIXTRAL8x22B, MISTRAL, GPT, \
-    RESPONSES_SLUG, PROMPT_v3, MISTRAL_MODELS, PROMPT_v4
+    RESPONSES_SLUG, PROMPT_v3, MISTRAL_MODELS, PROMPT_v4, MODELS
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
-from prompt_gpt import prompt_gpt
+# from prompt_gpt import prompt_gpt
 
 MODEL = MIXTRAL8x22B
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
@@ -21,19 +21,9 @@ RUN = 0
 DATASET_PATH = '../datasets/splits'
 
 
-def extract_answer(line):
+def get_answer_lines(input):
     try:
-        # return line.split('Sentence numbers:')[1].split('\n')[0].strip()
-        return line
-    except Exception:
-        return ''
-
-
-def get_answer_lines(text):
-    try:
-        print(text)
-        if '[' in text and ']' in text:
-            return json.loads(f'[{text.split("[")[1].split("]")[0]}]')
+        text = f'{input.split("[")[1].split("]")[0]}' if '[' in input and ']' in input else input
 
         lines = []
         parts = [it.strip() for it in text.split(',')]
@@ -47,8 +37,10 @@ def get_answer_lines(text):
                     for i in range(int(sub_parts[0]), int(sub_parts[1]) + 1):
                         lines.append(i)
 
+        # print(lines, input)
         return lines
     except Exception:
+        # print([], input)
         return []
 
 
@@ -58,19 +50,33 @@ def postprocess_llm_answers(path):
     slugs = os.listdir(raw_dir_path)
 
     predicted = {}
+    matches_pattern = 0
+    other_text = 0
+    assistant = 0
+    empty = 0
 
     for slug in slugs:
         raw_slug = slug.split('.txt')[0]
         raw_path = f'{raw_dir_path}/{slug}'
         raw_file = open(raw_path, 'r')
-        raw_content = raw_file.read()
+        raw_answer = raw_file.readline()
+        # raw_answer = raw_file.read()
 
-        raw_answer = extract_answer(raw_content)
         answer_lines = get_answer_lines(raw_answer)
         predicted[raw_slug] = answer_lines
+        if '[' in raw_answer and ']' in raw_answer:
+            matches_pattern += 1
+        if 'assistant' in raw_answer:
+            assistant += 1
+        if not raw_answer.startswith('[') or not raw_answer.endswith(']'):
+            other_text += 1
+        if len(answer_lines) == 0 and '[]' in raw_answer:
+            empty += 1
+
 
     dataset_json_file = open(predicted_path, 'w')
     dataset_json_file.write(json.dumps(predicted))
+    print(f'{matches_pattern}/{len(slugs)} ({round(matches_pattern/len(slugs), 2)}) | {assistant} | {other_text} | {empty} ({round(empty/len(slugs), 2)})')
     return predicted
 
 
@@ -79,7 +85,7 @@ def enumerate_lines(text):
     lines = text.split('\n')
     numerated_lines = []
     for index, line in enumerate(lines):
-        numerated_lines.append(str(index) + ' ' + line)
+        numerated_lines.append(f'[{str(index)}] {line}')
 
     return '\n'.join(numerated_lines)
 
@@ -135,7 +141,7 @@ def get_all_answers(questions, path, language):
 def get_all_answers_gpt(questions, path, language):
     for question in questions:
         question_id = question['id']
-        prompt_gpt(get_instruction(question, language), question_id, path)
+        # prompt_gpt(get_instruction(question, language), question_id, path)
 
 
 if __name__ == '__main__':
