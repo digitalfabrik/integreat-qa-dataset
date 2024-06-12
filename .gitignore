@@ -163,7 +163,7 @@ cython_debug/
 # Project specific files that can easily be generated
 data/integreat_pages/**/*.txt
 data/**/*.txt
-answers/**/*.txt
+# answers/**/*.txt
 data/**/dataset*.json
 rows/**
 train/**
