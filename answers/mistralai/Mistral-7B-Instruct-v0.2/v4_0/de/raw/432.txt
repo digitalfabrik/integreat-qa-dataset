@@ -1,0 +1,4 @@
+[10, 7]
+
+Explanation:
+The question asks about the consequences for employees who report defects that pose a danger. Sentences 7 and 10 in the document answer this question. Sentence 7 states that for workplaces where there is a risk to

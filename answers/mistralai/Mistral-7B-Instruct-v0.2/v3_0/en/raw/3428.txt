@@ -1,0 +1,3 @@
+1, 2, 3.
+
+Explanation: The question asks why vaccinations are important. Sentences 1, 2, and 3 directly answer this question by stating that vaccinations can prevent infectious diseases and their spread.

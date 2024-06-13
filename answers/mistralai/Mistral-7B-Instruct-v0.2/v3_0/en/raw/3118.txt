@@ -1,0 +1,5 @@
+[]
+
+However, the document does mention the Employment Agency performing tasks related to job placement and vocational education and training. If the integration course is related to these areas, the following IDs might be relevant:
+
+[3], [5], [11]

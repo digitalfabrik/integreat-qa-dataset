@@ -1,0 +1,3 @@
+[]
+
+However, sentence [2] might be relevant if the question is interpreted as "How can I find information about accessible apartments?" in which case the answer would be [2].

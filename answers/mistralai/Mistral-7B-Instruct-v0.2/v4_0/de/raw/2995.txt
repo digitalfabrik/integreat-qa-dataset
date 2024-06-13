@@ -1,0 +1,4 @@
+[11, 13]
+
+Explanation:
+The question asks about finding support for an asylum procedure. Sentences 11 and 13 provide the answer by stating that the asylum application must be submitted in person to the Federal Office for Migration and Refuge

@@ -1,0 +1,3 @@
+2
+
+The sentence "Die Realschule geht von Klasse 5 bis Klasse 10." in the document answers the question "Wie lange dauert die Realschule?" by stating that the Realschule lasts from Klasse 5 to Klasse

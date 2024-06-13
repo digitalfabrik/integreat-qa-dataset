@@ -1,0 +1,3 @@
+3, 6, 7
+
+These sentences explain that some medications require a prescription (Rezept) to be purchased from a pharmacy, while others can be bought without a prescription.

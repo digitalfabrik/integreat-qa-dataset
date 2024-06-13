@@ -1,0 +1,3 @@
+[6, 7, 8, 9]
+
+Explanation: The Bavarian family allowance is a financial relief for parents with children in their second and third year of life. It is paid to reduce the daycare fees for children in this age group.

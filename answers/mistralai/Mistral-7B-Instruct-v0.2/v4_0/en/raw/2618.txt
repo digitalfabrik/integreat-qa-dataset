@@ -1,0 +1,3 @@
+[2, 3, 5]
+
+Explanation: Sentences [2], [3], and [5] provide information about the residence permit being a temporary title and the possibility of obtaining a subsequent permanent right of residence. While they do not explicitly state the duration of the permit, the context

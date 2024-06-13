@@ -1,0 +1,3 @@
+[4, 5-9, 11-15]
+
+These sentences answer the question by stating that children, teenagers, and young adults whose families receive certain social benefits (Bürgergeld, Sozialhilfe, Wohngeld, Kindergeld, or Asyl

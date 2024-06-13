@@ -1,0 +1,3 @@
+10, 12, 13
+
+The document explains that the Gehaltsabrechnung or Lohnabrechnung includes information such as the name and address of the employer, the name, address, and birthdate of the employee, the employer's insurance number, the start

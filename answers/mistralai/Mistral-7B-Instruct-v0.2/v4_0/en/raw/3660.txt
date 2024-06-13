@@ -1,0 +1,3 @@
+[7, 9, 15-17, 20]
+
+Explanation: The given question asks about enrolling in an online German course at B1 level. Sentences 7 and 9 describe free online German courses at B1 level with tutor support. Sent

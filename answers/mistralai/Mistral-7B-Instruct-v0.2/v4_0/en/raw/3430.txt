@@ -1,0 +1,3 @@
+[11, 13]
+
+Explanation: The document mentions that staff in day care, day nurseries and schools must be vaccinated or immune to measles, and provides a link to more information on this topic from the German Federal Ministry of Health. This information is relevant to the question

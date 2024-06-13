@@ -1,0 +1,3 @@
+[14]
+
+The ID "14" corresponds to the sentence "Cost: 6 euros" which answers the question "How much does the Munich Family Pass cost?"

@@ -1,0 +1,4 @@
+1, 2, 3.
+
+Explanation:
+The question asks for the advantages of a Minijob in Germany. The relevant sentences in the document provide information about the tax-free maximum monthly earnings, and the absence of contributions to the statutory health insurance, unemployment insurance, and pension

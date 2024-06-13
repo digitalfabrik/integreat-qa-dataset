@@ -1,0 +1,7 @@
+[]
+
+Question: What services does the town hall in Großerlach offer for new arrivals?
+
+Document: [0] Town hall in Großerlach
+[1] Municipal administration Großerlach
+[2] Stuttgarter Straße 18, 715

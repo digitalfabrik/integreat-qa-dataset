@@ -1,0 +1,3 @@
+[4, 5, 7, 21, 24, 25, 26, 28, 29]
+
+Explanation: The question asks for information about integration courses in Schorndorf Rathaus. Sentences 4, 5

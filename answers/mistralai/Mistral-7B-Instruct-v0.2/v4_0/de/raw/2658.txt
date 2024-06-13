@@ -1,0 +1,4 @@
+[10, 12]
+
+Explanation:
+The question asks for the difference between Brutto- and Nettogehalt. Sentences 10 and 12 provide the information needed to answer the question. Sentence 10 states that Bruttolohn

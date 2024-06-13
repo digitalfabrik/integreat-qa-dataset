@@ -1,0 +1,3 @@
+[3, 4, 5, 11]
+
+Explanation: The question asks about the types of training in Germany. Sentences [3], [4], and [5] provide the answer by mentioning the dual system (or dual training) as one type of training in Germany

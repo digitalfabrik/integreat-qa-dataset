@@ -1,0 +1,4 @@
+[1, 11, 12]
+
+Explanation:
+The sentences "Health insurance is compulsory" (0) and "Everyone in Germany must have health insurance." (1) directly answer the question. The sentence "You take out health insurance with a health insurance company."

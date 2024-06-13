@@ -1,0 +1,3 @@
+[9, 10]
+
+Explanation: Sentences 9 and 10 answer the question as they specify that employees must be familiarized with protective measures and are obliged to comply with safety regulations.

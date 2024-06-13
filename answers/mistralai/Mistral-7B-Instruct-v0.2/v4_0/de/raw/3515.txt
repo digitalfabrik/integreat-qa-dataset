@@ -1,0 +1,4 @@
+[1, 5]
+
+Explanation:
+The question asks about the rights of people with disabilities regarding the labor market in Germany. Sentences [1] and [5] answer this question by stating that people with disabilities can work on the general labor market and that there are places to

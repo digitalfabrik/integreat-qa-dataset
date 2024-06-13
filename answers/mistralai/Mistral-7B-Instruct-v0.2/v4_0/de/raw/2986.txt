@@ -1,0 +1,4 @@
+[5, 12, 13]
+
+Explanation:
+The question asks about the services offered by the Großerlach Town Hall for newcomers. The document mentions the opening times ([5]) and the availability of online forms ([13]) which could potentially be

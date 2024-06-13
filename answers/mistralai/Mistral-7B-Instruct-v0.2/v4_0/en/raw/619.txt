@@ -1,0 +1,4 @@
+[2, 3]
+
+Explanation:
+The document mentions that IG Klettern offers regular climbing groups at their climbing gym (sentence [2]) and organizes climbing activities outside the gym (sentence [3]). These sentences answer the question as they indicate that climbing groups are offered

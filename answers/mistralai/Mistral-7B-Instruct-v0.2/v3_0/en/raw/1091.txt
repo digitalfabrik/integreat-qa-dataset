@@ -1,0 +1,3 @@
+[3, 4, 9, 11-13, 15-17, 19, 21-25, 27, 29, 41-45, 47-49]
+
+These sentences discuss the different types

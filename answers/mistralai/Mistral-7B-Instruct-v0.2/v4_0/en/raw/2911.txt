@@ -1,0 +1,4 @@
+[1, 2, 4]
+
+Explanation:
+Sentences 1, 2, and 4 provide information about the differences between shared accommodation and follow-up accommodation. Shared accommodation is temporary housing provided to asylum seekers during their application process, while follow-up accommodation

@@ -1,0 +1,3 @@
+[11, 13, 14, 15, 18]
+
+Explanation: Sentences 11, 13, 14, and 15 discuss how the state uses taxes and social insurance contributions to provide welfare and support for people in need

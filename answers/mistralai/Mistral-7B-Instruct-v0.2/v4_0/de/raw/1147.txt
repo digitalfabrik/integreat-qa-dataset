@@ -1,0 +1,4 @@
+[22, 23]
+
+Explanation:
+The question asks about the requirement for a permit to leave the district of the reception facility. Sentences 22 and 23 answer this question by stating that during the first three months, a permit from the Bundesamt für Migration

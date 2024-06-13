@@ -1,0 +1,4 @@
+[6, 11]
+
+Explanation:
+The question asks how to find a suitable apartment. Sentences [1] and [2] describe the difficulty of finding a free apartment and the competition for available apartments, but they do not provide information on how to increase one's chances of

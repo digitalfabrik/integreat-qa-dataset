@@ -1,0 +1,3 @@
+[13, 19-22, 20]
+
+Explanation: The document mentions that family reunification is excluded for people with a tolerated stay permit (sentence [13]). It also states that for persons who have been granted protection status in an asylum procedure

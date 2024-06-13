@@ -1,0 +1,3 @@
+[2]
+
+This sentence directly answers the question by stating that München is the Hauptstadt (capital city) of the Bundesland (federal state) Bayern.

@@ -1,0 +1,7 @@
+[]
+
+Question: What is the process for applying for a German driver's license?
+
+Document: [0] Theoretical and practical driving lessons
+[1] Beforehand, you have to attend a driving school and take theoretical and practical lessons, which you also have to pay for.
+[

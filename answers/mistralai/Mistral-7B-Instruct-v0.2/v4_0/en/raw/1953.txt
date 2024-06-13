@@ -1,0 +1,3 @@
+[1, 2]
+
+Explanation: Sentences 1 and 2 confirm that Germany has a statutory minimum wage and that the amount is increased regularly, but they do not provide the current minimum wage rate. Therefore, the answer is based on the assumption that the question asks for the

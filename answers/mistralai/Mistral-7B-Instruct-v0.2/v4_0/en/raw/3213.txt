@@ -1,0 +1,4 @@
+Based on the question, the relevant sentences in the document are:
+[3], [4], [5], [7], [11], and [13].
+
+Therefore, the output should be: [3, 4, 5, 7, 11, 13

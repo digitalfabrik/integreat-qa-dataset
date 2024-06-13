@@ -1,0 +1,4 @@
+[3, 5, 6]
+
+Explanation:
+The question asks how to get discounted medications. Sentences [3], [5], and [6] provide the answer by explaining that one can get discounted medications (rezeptfrei) by presenting a München-Pass

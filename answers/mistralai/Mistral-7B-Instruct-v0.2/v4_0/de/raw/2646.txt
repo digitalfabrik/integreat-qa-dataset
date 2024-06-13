@@ -1,0 +1,3 @@
+[1, 2]
+
+Explanation: The question asks how to enroll a child in school. Sentences 1 and 2 provide the answer by stating that if the child is 10 years old or older, they will go to a further education school, and the teachers will give

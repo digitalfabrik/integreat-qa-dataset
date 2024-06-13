@@ -1,0 +1,3 @@
+[4, 5]
+
+Explanation: Sentences 4 and 5 provide information about having foreign qualifications recognized in Germany, which includes the existence of a process for this purpose. Therefore, these sentences answer the question.

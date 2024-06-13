@@ -1,0 +1,3 @@
+The question asks about the cost of entering a public swimming pool (Freibad) in Munich. The document provides information about the opening hours of various swimming pools in Munich, but it does not mention the cost. Therefore, none of the sentences in the document answers the question.
+
+Output: []

@@ -1,0 +1,1 @@
+[2, 3] # These sentences talk about the requirement for a certificate of incapacity for work (Arbeitsunfähigkeitsbescheinigung) in the context of being sick and unable to work.

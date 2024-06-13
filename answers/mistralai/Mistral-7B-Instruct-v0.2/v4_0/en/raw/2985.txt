@@ -1,0 +1,4 @@
+[2]
+
+Explanation:
+The question asks for the location of the town hall in Großerlach. Sentence [2] provides the address of the town hall, which answers the question.

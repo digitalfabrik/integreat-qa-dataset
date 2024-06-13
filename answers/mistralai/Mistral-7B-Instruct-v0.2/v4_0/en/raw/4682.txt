@@ -1,0 +1,4 @@
+[6, 7]
+
+Explanation:
+The question asks about joining a Scout group for girls in Germany. Sentences [6] and [7] provide the information that the Pfadfinderinnenschaft St. Georg (PSG) is a Scout group in Munich and Fre

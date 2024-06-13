@@ -1,0 +1,1 @@
+[5, 6-9, 11] # These sentences mention the opening hours with the use of the German word "Öffnungszeiten" in sentence 5 and the specific opening hours for each day in sentences 6-9 and 11.
