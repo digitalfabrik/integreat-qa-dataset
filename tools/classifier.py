@@ -13,7 +13,7 @@ model_name = DEBERTA
 
 language = 'en'
 CONTEXT_WINDOW = 3
-SENTENCE_LEVEL = False
+SENTENCE_LEVEL = True
 max_length = (CONTEXT_WINDOW * 2 + 2) * 32
 
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{model_name}'
@@ -24,14 +24,14 @@ label2id = {'NO': 0, 'YES': 1}
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH, do_lower_case=True, additional_special_tokens=['[SEN]'])
 model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH, num_labels=2, id2label=id2label, label2id=label2id)
 base_dir = f'/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/train/{model_name}/{'answers' if SENTENCE_LEVEL else 'unanswerable'}/{language}'
-output_dir = f'{base_dir}/{f"context_{CONTEXT_WINDOW}_" if SENTENCE_LEVEL else ""}more_eval_epochs'
+output_dir = f'{base_dir}/{f"context_{CONTEXT_WINDOW}_" if SENTENCE_LEVEL else ""}standard'
 training_arguments = TrainingArguments(
     output_dir=output_dir,
     evaluation_strategy='steps',
     save_strategy='steps',
-    eval_steps=250 if SENTENCE_LEVEL else 10,
+    eval_steps=50 if SENTENCE_LEVEL else 10,
     learning_rate=2e-6,
-    num_train_epochs=30,
+    num_train_epochs=3 if SENTENCE_LEVEL else 10,
     weight_decay=0.1,
     do_train=True,
     do_eval=True,
