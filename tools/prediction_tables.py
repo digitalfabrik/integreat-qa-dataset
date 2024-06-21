@@ -49,7 +49,7 @@ if __name__ == '__main__':
     metrics = simple_metrics
     # metrics = simple_metrics + ['jaccard']
 
-    add_latex_table_row(['Model', 'Setting'] + 4 * metrics, answers_table)
+    add_latex_table_row(['Model', 'Setting'] + 2 * metrics + [''] + 2 * metrics, answers_table)
     # answers_table.append('\\midrule')
     answers_table.append('\\cmidrule{1 - 8}\\cmidrule{10 - 15}')
     add_latex_table_row(['Model', 'Setting'] + 4 * simple_metrics, no_answers_table)
@@ -73,7 +73,7 @@ if __name__ == '__main__':
                 predictions_path = f'../answers/{model}/{prompt}_{0}/{language}/predicted.json'
                 if os.path.exists(predictions_path):
                     predictions = json.load(open(predictions_path, 'r'))
-                    dataset_path = f'../datasets/splits/{language}/dev_{language}.json'
+                    dataset_path = f'../datasets/splits/{language}/test_{language}.json'
                     questions = json.load(open(dataset_path, 'r'))
                     result = evaluate(questions, predictions)
                     _means += result[0]
@@ -93,7 +93,7 @@ if __name__ == '__main__':
     human_annotator1_path = f'../answers/human/wo_adjacent/annotator1/predicted.json'
     human_annotations0 = json.load(open(human_annotator0_path, 'r'))
     human_annotations1 = json.load(open(human_annotator1_path, 'r'))
-    dataset_path = f'../datasets/splits/de/dev_de.json'
+    dataset_path = f'../datasets/splits/de/test_de.json'
     questions = json.load(open(dataset_path, 'r'))
     questions = [{**question, 'answers': human_annotations1[str(question['id'])]} for question in questions]
 
@@ -104,7 +104,7 @@ if __name__ == '__main__':
     human_annotator1_path = f'../answers/human/w_adjacent/annotator1/predicted.json'
     human_annotations0 = json.load(open(human_annotator0_path, 'r'))
     human_annotations1 = json.load(open(human_annotator1_path, 'r'))
-    dataset_path = f'../datasets/splits/de/dev_de.json'
+    dataset_path = f'../datasets/splits/de/test_de.json'
     questions = json.load(open(dataset_path, 'r'))
     questions = [{**question, 'answers': human_annotations1[str(question['id'])]} for question in questions]
 

@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# Interpret all CSVs in the specified directory as UTF-8 and convert them to ods
+function csv_to_ods {
+  libreoffice --headless --infilter=CSV:59,34,76,1 --convert-to ods --outdir $2 "$1"/*.csv
+}
+
+csv_to_ods $1 $2

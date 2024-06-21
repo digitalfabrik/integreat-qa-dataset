@@ -12,44 +12,50 @@ DEBERTA = 'deberta-v3-large'
 model_name = DEBERTA
 
 language = 'en'
-CONTEXT_WINDOW = 3
+CONTEXT_WINDOW = 2
 SENTENCE_LEVEL = True
 max_length = (CONTEXT_WINDOW * 2 + 2) * 32
 
-MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{model_name}'
+# MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{model_name}'
+MODEL_PATH = f'/home/st/Downloads/{model_name}'
 
 id2label = {0: 'NO', 1: 'YES'}
 label2id = {'NO': 0, 'YES': 1}
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH, do_lower_case=True, additional_special_tokens=['[SEN]'])
-model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH, num_labels=2, id2label=id2label, label2id=label2id)
-base_dir = f'/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/train/{model_name}/{'answers' if SENTENCE_LEVEL else 'unanswerable'}/{language}'
-output_dir = f'{base_dir}/{f"context_{CONTEXT_WINDOW}_" if SENTENCE_LEVEL else ""}standard'
-training_arguments = TrainingArguments(
-    output_dir=output_dir,
-    evaluation_strategy='steps',
-    save_strategy='steps',
-    eval_steps=50 if SENTENCE_LEVEL else 10,
-    learning_rate=2e-6,
-    num_train_epochs=3 if SENTENCE_LEVEL else 10,
-    weight_decay=0.1,
-    do_train=True,
-    do_eval=True,
-    disable_tqdm=True,
-    load_best_model_at_end=True,
-    metric_for_best_model='f1',
-    warmup_steps=50,
-)
-f1 = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/f1')
-precision = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/precision')
-recall = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/recall')
-accuracy = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/accuracy')
-iou = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/mean_iou')
+# model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH, num_labels=2, id2label=id2label, label2id=label2id)
+# base_dir = f'/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/train/{model_name}/{'answers' if SENTENCE_LEVEL else 'unanswerable'}/{language}'
+# output_dir = f'{base_dir}/{f"context_{CONTEXT_WINDOW}_" if SENTENCE_LEVEL else ""}standard'
+# training_arguments = TrainingArguments(
+#     output_dir=output_dir,
+#     evaluation_strategy='steps',
+#     save_strategy='steps',
+#     eval_steps=50 if SENTENCE_LEVEL else 10,
+#     learning_rate=2e-6,
+#     num_train_epochs=3 if SENTENCE_LEVEL else 10,
+#     weight_decay=0.1,
+#     do_train=True,
+#     do_eval=True,
+#     disable_tqdm=True,
+#     load_best_model_at_end=True,
+#     metric_for_best_model='f1',
+#     warmup_steps=50,
+# )
+# f1 = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/f1')
+# precision = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/precision')
+# recall = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/recall')
+# accuracy = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/accuracy')
+# iou = evaluate.load('/hpc/gpfs2/scratch/u/kleinlst/thesis/integreat-qa-dataset/evaluate/metrics/mean_iou')
 
 
 def tokenize(data):
     if SENTENCE_LEVEL:
-        return tokenizer(data['question'], data['context'], truncation=True)
+        asdf = tokenizer(data['question'], data['context'], truncation=True)
+        for x in asdf['input_ids']:
+            print(tokenizer.decode(x))
+        # print(asdf)
+        # print(asdf['input_ids'])
+        return asdf
     else:
         return tokenizer(data['text'], truncation=True, max_length=1024)
 
@@ -57,7 +63,7 @@ def tokenize(data):
 def prepare_split(path):
     split = json.load(open(path, 'r'))
     data = []
-    for row in split:
+    for row in split[:10]:
         context = row['context']
         answers = row['answers']
         question = row['question']
@@ -103,44 +109,44 @@ if __name__ == '__main__':
     train, dev, test, _train, _dev, _test = load_splits(language)
     print(train)
     print(len(train))
-    data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
-
-    trainer = Trainer(
-        args=training_arguments,
-        model=model,
-        train_dataset=train,
-        eval_dataset=dev,
-        compute_metrics=compute_metrics,
-        tokenizer=tokenizer,
-        data_collator=data_collator,
-        callbacks=[EarlyStoppingCallback(early_stopping_patience=10)]
-    )
-    trainer.train()
-    trainer.save_model(output_dir)
-    predictions = trainer.predict(test)
-    predicted_labels = np.argmax(predictions.predictions, axis=1)
-    print(output_dir.split('/train/')[1])
-    print(predictions.metrics)
-    file = open(f'{output_dir}/predicted.json', 'w')
-    predicted = {}
-    if SENTENCE_LEVEL:
-        current_index = 0
-        for index, row in enumerate(_test):
-            answer_lines = []
-            sentence_count = len(row['context'].split('\n'))
-            for i in range(current_index, current_index + sentence_count):
-                if predicted_labels[i] == 1:
-                    answer_lines.append(i - current_index)
-            predicted[row['id']] = answer_lines
-            current_index += sentence_count
-    else:
-        for index, row in enumerate(_test):
-            predicted[row['id']] = bool(predicted_labels[index] == 1)
-    print(predicted)
-    file.write(json.dumps(predicted))
-    file = open(f'{output_dir}/prediction.json', 'w')
-    file.write(json.dumps(predictions.predictions, cls=NumpyEncoder))
-    file = open(f'{output_dir}/labels.json', 'w')
-    file.write(json.dumps(predictions.label_ids, cls=NumpyEncoder))
-    file = open(f'{output_dir}/metrics.json', 'w')
-    file.write(json.dumps(predictions.metrics))
+    # data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
+    #
+    # trainer = Trainer(
+    #     args=training_arguments,
+    #     model=model,
+    #     train_dataset=train,
+    #     eval_dataset=dev,
+    #     compute_metrics=compute_metrics,
+    #     tokenizer=tokenizer,
+    #     data_collator=data_collator,
+    #     callbacks=[EarlyStoppingCallback(early_stopping_patience=10)]
+    # )
+    # trainer.train()
+    # trainer.save_model(output_dir)
+    # predictions = trainer.predict(test)
+    # predicted_labels = np.argmax(predictions.predictions, axis=1)
+    # print(output_dir.split('/train/')[1])
+    # print(predictions.metrics)
+    # file = open(f'{output_dir}/predicted.json', 'w')
+    # predicted = {}
+    # if SENTENCE_LEVEL:
+    #     current_index = 0
+    #     for index, row in enumerate(_test):
+    #         answer_lines = []
+    #         sentence_count = len(row['context'].split('\n'))
+    #         for i in range(current_index, current_index + sentence_count):
+    #             if predicted_labels[i] == 1:
+    #                 answer_lines.append(i - current_index)
+    #         predicted[row['id']] = answer_lines
+    #         current_index += sentence_count
+    # else:
+    #     for index, row in enumerate(_test):
+    #         predicted[row['id']] = bool(predicted_labels[index] == 1)
+    # print(predicted)
+    # file.write(json.dumps(predicted))
+    # file = open(f'{output_dir}/prediction.json', 'w')
+    # file.write(json.dumps(predictions.predictions, cls=NumpyEncoder))
+    # file = open(f'{output_dir}/labels.json', 'w')
+    # file.write(json.dumps(predictions.label_ids, cls=NumpyEncoder))
+    # file = open(f'{output_dir}/metrics.json', 'w')
+    # file.write(json.dumps(predictions.metrics))
