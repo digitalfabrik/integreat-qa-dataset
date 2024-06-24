@@ -3,7 +3,7 @@ import os.path
 
 import pandas as pd
 
-from constants import P_SELECTED_AGREEMENT, MODELS, PROMPTS, RUNS, PROMPT_v3, PROMPT_v4, LLAMA3_70B, get_model_name
+from constants import P_SELECTED_AGREEMENT, ALL_MODELS, PROMPTS, RUNS, PROMPT_v3, PROMPT_v4, LLAMA3_70B, get_model_name, DEBERTA
 from evaluate_answers import prepare_evaluation
 
 answers_table = []
@@ -21,13 +21,16 @@ def round_mean_std(means, stds, is_max):
     return [f'\\textbf{{{rounded_means[index]}}}{rounded_stds[index]}' if is_max[index] else f'{rounded_means[index]}{rounded_stds[index]}' for index in range(len(means))]
 
 
+def f1(a, b):
+    return 2 * (a * b) / (a + b)
+
+
 def evaluate(questions, predictions):
     all = pd.DataFrame(prepare_evaluation(questions, predictions))
     dataset_df = all[all.answers.str.len() > 0]
-    # columns = [dataset_df.precision, dataset_df.recall, dataset_df.f1, dataset_df.jaccard]
-    columns = [dataset_df.precision, dataset_df.recall, dataset_df.f1]
-    # print(dataset_df.f1.mean(), dataset_df.jaccard.mean())
-    return [column.mean() for column in columns], [column.std() for column in columns]
+    columns = [dataset_df.precision, dataset_df.recall]
+    means = [column.mean() for column in columns]
+    return means + [f1(means[0], means[1])], [column.std() for column in columns]
 
 
 def evaluate_no_answer(questions, predictions):
@@ -38,8 +41,7 @@ def evaluate_no_answer(questions, predictions):
     print(len(set(retrieved.id).intersection(set(relevant.id))), len(retrieved), len(relevant))
     precision = len(true_positives) / len(retrieved)
     recall = len(true_positives) / len(relevant)
-    f1 = 2 * (precision * recall) / (precision + recall)
-    return [precision, recall, f1]
+    return [precision, recall, f1(precision, recall)]
 
 
 if __name__ == '__main__':
@@ -60,17 +62,19 @@ if __name__ == '__main__':
     stds = []
     means_no_answer = []
 
-    for model in MODELS:
+    for model in ALL_MODELS:
     # for model in [LLAMA3_70B]:
         for prompt in prompts:
+            if model == DEBERTA and prompt == prompts[1]:
+                continue
             setting = '5-shot' if prompt == PROMPT_v3 else '0-shot'
             model_name = get_model_name(model) if prompt == PROMPT_v4 else ''
-            labels.append([model_name, setting])
+            labels.append([model_name, '$-$' if model == DEBERTA else setting])
             _means = []
             _stds = []
             _means_no_answer = []
             for language in ['de', 'en']:
-                predictions_path = f'../answers/{model}/{prompt}_{0}/{language}/predicted.json'
+                predictions_path = f'../train/{model}/answers/{language}/context_3_standard/predicted.json' if model == DEBERTA else f'../answers/{model}/{prompt}_{0}/{language}/predicted.json'
                 if os.path.exists(predictions_path):
                     predictions = json.load(open(predictions_path, 'r'))
                     dataset_path = f'../datasets/splits/{language}/test_{language}.json'
@@ -110,6 +114,7 @@ if __name__ == '__main__':
 
     result = evaluate(questions, human_annotations0)
     means.append((['$-$', '$-$', result[0][2]] * 2) + [''] + (['$-$', '$-$', '$-$'] * 2))
+    print(means)
 
     mean_df = pd.DataFrame(means[:-2])
     for index in range(len(means)):

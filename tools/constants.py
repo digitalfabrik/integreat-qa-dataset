@@ -9,6 +9,8 @@ GPT = 'gpt-3.5-turbo'
 ORIGINAL = 'original'
 MISTRAL_MODELS = [MIXTRAL8x22B, MIXTRAL8x7B, MISTRAL]
 MODELS = [MIXTRAL8x7B, MISTRAL, LLAMA3_8B, LLAMA3_70B, GPT]
+DEBERTA = 'deberta-v3-large'
+ALL_MODELS = MODELS + [DEBERTA]
 
 PROMPT_v1 = 'v1'
 # Improvements in wording, order
@@ -49,6 +51,8 @@ def get_model_name(model):
         return 'Llama-3-70B'
     elif model == GPT:
         return 'GPT-3.5-Turbo'
+    elif model == DEBERTA:
+        return 'DeBERTa'
 
 
 
