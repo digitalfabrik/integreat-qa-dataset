@@ -1,0 +1,2 @@
+[4, 5]
+The sentences that answer the question are [4] and [5] as they explicitly state that female genital mutilations are punishable in Germany and if they are practiced abroad.

@@ -1,0 +1,6 @@
+[5, 6]assistant
+
+The sentences that answer the question are:
+
+[5] Bei der Suche nach einem Arbeitsplatz helfen verschiedene Stellen.
+[6] Eine Übersicht über diese Stellen findest Du unter www.landkreis-augsburg.de/begleitung-arbeitsplatzsuch

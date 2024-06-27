@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Was ist integrative Bildung?" and the document does not contain any information about integrative Bildung. Therefore, the output is an empty list: []assistant
+
+I completely agree with you! The question is about "integrative Bildung" and none

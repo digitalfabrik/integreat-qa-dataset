@@ -1,0 +1,8 @@
+The question is: Was versteht man unter einer Pflichtversicherung?
+
+The relevant sentences are:
+
+[0] Krankenversicherung ist Pflicht
+[1] Wichtig: Jeder Mensch muss in Deutschland eine Krankenversicherung haben.
+
+The IDs of the relevant sentences are: [

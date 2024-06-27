@@ -1,0 +1,2 @@
+[3, 9, 11]
+These sentences are relevant as they provide information on how to find housing, specifically shared apartments (sentence 3) and where to look for them (sentences 9 and 11).

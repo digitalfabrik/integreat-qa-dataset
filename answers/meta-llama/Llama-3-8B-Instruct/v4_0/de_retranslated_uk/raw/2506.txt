@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence that answers the question is:
+
+[2] Mit einem Umverteilungsantrag, welchen Sie bei Ihrer Zuständigen Ausländerbehörde einreichen können, können Sie einen Wohnortwechsel beantragen.assistant
+
+[

@@ -1,0 +1,7 @@
+[10, 11, 14]assistant
+
+The question asks which documents are required for the application of education financing. The relevant sentences are:
+
+[10] Förderungen für Studierende
+[11] Informationen des Deutschen Studentenwerks unter:
+[14] Informationen der Bundesagent

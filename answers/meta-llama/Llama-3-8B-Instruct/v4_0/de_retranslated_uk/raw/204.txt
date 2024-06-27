@@ -1,0 +1,9 @@
+[30]assistant
+
+The question is: Sind die Kosten für einen städtischen Kindergarten und einen Krippenplatz gleich hoch?
+
+The answer is: [30]assistant
+
+[30]assistant
+
+The question is: Sind die Kosten für einen städt

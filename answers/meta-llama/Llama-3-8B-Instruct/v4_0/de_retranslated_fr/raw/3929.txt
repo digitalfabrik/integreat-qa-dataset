@@ -1,0 +1,7 @@
+[1]assistant
+
+The sentence that answers the question is [1].assistant
+
+[1]assistant
+
+I agree! The sentence [1] mentions "Junge Erwachsene zwischen 16 und 21 Jahren, die noch nicht gut Deutsch sprechen und noch

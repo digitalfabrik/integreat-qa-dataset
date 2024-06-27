@@ -1,0 +1,9 @@
+The question is: Wie kann ich herausfinden, ob in meiner Nachbarschaft ein Notruf verschickt wurde?
+
+The relevant sentences from the document are:
+
+[]
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]", as none of the

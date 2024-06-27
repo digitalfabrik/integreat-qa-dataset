@@ -1,0 +1,5 @@
+[3, 4]assistant
+
+The sentences that answer the question are:
+
+[3] Das Regierungspräsidium Stuttgart (Regierungspräsidium Stuttgart) prüft die ausländischen Schulabschlüsse (zum Beispiel Hauptschulabs

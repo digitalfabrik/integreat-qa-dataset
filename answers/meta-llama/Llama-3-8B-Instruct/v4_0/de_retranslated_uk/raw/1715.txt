@@ -1,0 +1,8 @@
+The question is: Was brauchen Sie, um einen guten Job zu finden?
+
+The relevant sentences are:
+[1] Um in Deutschland einen guten Job zu finden, ist eine abgeschlossene Berufsausbildung oder ein Studium wichtig.
+
+The output is: [1]assistant
+
+The

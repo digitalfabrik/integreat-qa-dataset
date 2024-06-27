@@ -1,0 +1,3 @@
+[2, 5, 10, 13] are the relevant sentences.
+
+Explanation: These sentences provide information about the financial support for training, which is the subject of the question. Sentence 2 implies the existence of financial support for training, while sentences 5,

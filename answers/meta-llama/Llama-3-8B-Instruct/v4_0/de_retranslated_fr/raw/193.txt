@@ -1,0 +1,6 @@
+[11, 12, 13]assistant
+
+The sentences that answer the question "Wo kann ich Ärzte auf der Durchreise finden?" are:
+
+[11] müssen Sie eine sogenannte Durchgangsärztin oder Durchgangsarzt aufsuchen.
+[12]

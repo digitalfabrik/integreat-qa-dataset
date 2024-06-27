@@ -1,0 +1,5 @@
+[1, 2, 3, 4]
+
+The relevant sentences are:
+[1] Die Anerkennung eines ausländischen Schulabschlusses ist vor allem sinnvoll, wenn man eine Ausbildung beginnen möchte.
+[2] Aber auch

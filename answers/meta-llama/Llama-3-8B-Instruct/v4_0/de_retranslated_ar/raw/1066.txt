@@ -1,0 +1,6 @@
+[2, 3, 6]assistant
+
+The sentences that answer the question "Was sollten Sie nicht tun, bevor Sie den Vertrag unterschreiben?" are:
+
+* [2] Unterschreibe niemals etwas, was Du nicht verstanden hast oder nicht lesen kannst.
+* [

@@ -1,0 +1,2 @@
+[5, 6, 7]
+These sentences provide the information that there is a German language café in Didorf where volunteers help people learn German every Tuesday from 16:00 to 18:00.

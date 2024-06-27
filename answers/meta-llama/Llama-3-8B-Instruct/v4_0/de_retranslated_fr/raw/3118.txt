@@ -1,0 +1,9 @@
+The question is: Wie kann ich mich für einen Integrationskurs anmelden?
+
+The relevant sentences are:
+
+[13] An welche Agentur für Arbeit kann ich mich wenden?
+
+The answer to the question is not explicitly mentioned in the document, so the output is: []assistant
+
+[13]

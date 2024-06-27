@@ -1,0 +1,10 @@
+The question is: Wie kann ich mit dem Jugendamt des Rayons Kontakt aufnehmen?
+
+The relevant sentences are:
+
+[19] Kontakt
+[23] kreisjugendamt@rems-murr-kreis.de
+
+The output is: [19, 23]assistant
+
+The correct output

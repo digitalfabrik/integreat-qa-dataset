@@ -1,0 +1,3 @@
+[6, 7, 8, 9, 10, 16, 17, 19] are the relevant sentences.
+
+These sentences describe what the Bayerisches Familiengeld (Bavarian Family Grant) is and who is eligible for it (sent

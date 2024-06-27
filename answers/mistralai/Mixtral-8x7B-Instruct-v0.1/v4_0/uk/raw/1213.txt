@@ -1,0 +1,2 @@
+[9, 8, 6, 7, 5]
+These IDs were selected because the corresponding sentences provide information about the topics covered by the consulting service for the elderly in the Augsburg regional management. The topics include questions and problems related to aging, such as care, financing, assistance, and

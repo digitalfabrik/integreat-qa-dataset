@@ -1,0 +1,7 @@
+The question is: Wo befindet sich das spezialisierte Zentrum zur Prävention von Obdachlosigkeit?
+
+The relevant sentences are:
+
+[3] Sie ist in jedem der zwölf Münchner Sozialbürgerhäuser zu finden.
+
+The ID of the relevant sentence is:

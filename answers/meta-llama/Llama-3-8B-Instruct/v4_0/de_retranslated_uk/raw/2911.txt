@@ -1,0 +1,10 @@
+The question is: Was ist der Unterschied zwischen dem Zusammenleben und dem anschließenden Aufenthalt?
+
+The relevant sentences from the document are:
+
+[1]
+[2]
+
+The output is: [1,2]assistant
+
+The question is: Was ist der Unterschied zwischen dem Zusammenle

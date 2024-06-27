@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wo kann ich Unterstützung bei der beruflichen Weiterbildung finden?" which translates to "Where can I find support for vocational further education?".
+
+None of the sentences in the document directly answer this question. Therefore, the output is an empty list: []

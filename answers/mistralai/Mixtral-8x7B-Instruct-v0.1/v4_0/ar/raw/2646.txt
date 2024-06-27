@@ -1,0 +1,4 @@
+[7, 17, 25, 35, 44]
+These are the IDs of the sentences that answer the question. The sentences are:
+[7] العمر: من 10 سنوات
+[17] ال

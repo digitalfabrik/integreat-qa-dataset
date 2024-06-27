@@ -1,0 +1,6 @@
+[3, 17]assistant
+
+The sentences that answer the question "Welche Unterstützung bietet das Jugendamt des Distrikts neu angekommenen Jugendlichen?" are:
+
+[3] An das Jugendamt können sich alle kostenlos wenden, wenn sie Probleme haben.
+[17] El

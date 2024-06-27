@@ -1,0 +1,5 @@
+[2, 4, 5, 6]assistant
+
+The sentences that answer the question "Was sind die Vorteile des Energiesparens?" are:
+
+[2] Energiesparen bedeutet, die gewünschte „Leistung“ mit weniger End-Energie (elektr

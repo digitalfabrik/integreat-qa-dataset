@@ -1,0 +1,5 @@
+[6, 7, 12, 43, 44, 50]
+
+Explanation:
+
+The question asks how to enroll a child in school. While the document provides information about different types of schools, it does not explicitly explain the enrollment process. However

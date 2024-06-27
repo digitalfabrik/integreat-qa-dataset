@@ -1,0 +1,5 @@
+[2, 3, 4, 5, 6, 7]assistant
+
+The sentences that answer the question are:
+
+[2] Wenn Sie in Deutschland ankommen und einen Asylantrag stellen möchten, müssen Sie sich unmittelbar nach ihrer Ankunft bei einer der folgenden staat

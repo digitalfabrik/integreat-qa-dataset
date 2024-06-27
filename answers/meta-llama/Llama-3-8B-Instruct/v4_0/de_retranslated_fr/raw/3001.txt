@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Was versteht man in Deutschland unter 'Berufsbildung'?" and none of the sentences in the document answer this question.assistant
+
+That's correct! The question is about the concept of "Berufsbildung" in Germany,

@@ -1,0 +1,2 @@
+[6, 7]
+The sentences with IDs 6 and 7 answer the question. Sentence 6 states that some medicines, including antibiotics, are prescription-only, and sentence 7 explains that this means they cannot be bought without a prescription.

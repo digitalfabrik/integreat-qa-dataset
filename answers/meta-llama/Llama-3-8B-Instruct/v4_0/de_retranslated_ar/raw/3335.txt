@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "Wie kann ich eine Wohnklasse finden?" which translates to "How can I find a shared flat?".
+
+The document does not provide any information on how to find a shared flat. Therefore, there are no relevant sentences that answer the question.
+
+The output is: []

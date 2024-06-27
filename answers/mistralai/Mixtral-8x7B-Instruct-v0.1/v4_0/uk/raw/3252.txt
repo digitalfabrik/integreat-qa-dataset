@@ -1,0 +1,2 @@
+[11, 12]
+The sentences that answer the question are [11] and [12] as they provide information on how to contact the educational consultation service in Augsburg which can help with obtaining the certificate of complete general secondary education.

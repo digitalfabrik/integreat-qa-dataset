@@ -1,0 +1,1 @@
+Here are the IDs of the sentences that answer the question: []. The reason is that the question asks where to find information about integration courses in Schorndorf, but the document does not provide any information about this topic.

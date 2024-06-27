@@ -1,0 +1,2 @@
+[6, 7]
+Sentences 6 and 7 provide an answer to the question. They indicate that certain medications, including antibiotics, require a prescription and cannot be purchased without one.

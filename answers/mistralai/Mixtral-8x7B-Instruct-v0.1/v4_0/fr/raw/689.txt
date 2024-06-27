@@ -1,0 +1,4 @@
+The relevant sentence IDs are:
+[0, 1, 2, 7, 13]
+
+These sentences answer the question "Qui peut rejoindre JUNGS?" (Who can join JUNGS?). Sentences 0 and 1 introduce JUNGS

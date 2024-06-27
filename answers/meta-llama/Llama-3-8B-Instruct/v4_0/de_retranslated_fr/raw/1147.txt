@@ -1,0 +1,5 @@
+[22, 23]assistant
+
+The sentences that answer the question "Wann braucht man eine Genehmigung, um die Region des Aufnahmezentrums zu verlassen?" are:
+
+[22] Dann brauchst du eine Erlaubnis vom Bundesamt für Migration und Flücht

@@ -1,0 +1,5 @@
+[5, 6]assistant
+
+The sentences that answer the question "Was sind die Regeln für Lärm in meinem Haus?" are:
+
+[5] Lärm: Jeder Bewohner des Gebäudes ist dafür verantwortlich, den Lärmpegel so niedrig

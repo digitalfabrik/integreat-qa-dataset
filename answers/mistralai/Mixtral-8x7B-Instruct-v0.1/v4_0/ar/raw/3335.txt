@@ -1,0 +1,2 @@
+[3, 9, 10]
+These IDs were chosen because they provide information on how to find a flatshare, which is the closest answer to the question "how can I find a flatshare?"

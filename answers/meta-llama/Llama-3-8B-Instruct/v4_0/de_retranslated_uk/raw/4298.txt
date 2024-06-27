@@ -1,0 +1,5 @@
+Question: Welche medizinischen Untersuchungen gehören in Deutschland zum Schulgesundheitscheck?
+
+Document: [0] Gesundheitsuntersuchung im Vorschulalter
+[1] Gesundheitsuntersuchung im Vorschulalter
+[3] Alle Kinder in München werden vor

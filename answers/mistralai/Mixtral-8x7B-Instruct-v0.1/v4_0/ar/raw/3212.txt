@@ -1,0 +1,5 @@
+[0, 6, 10, 12]
+
+Explanation:
+
+The question asks how to apply for educational funding. While the document does not provide a direct answer to this question, it does provide resources where this information can be found. Therefore, the relevant IDs are those

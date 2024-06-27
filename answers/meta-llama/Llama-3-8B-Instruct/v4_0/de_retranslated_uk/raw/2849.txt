@@ -1,0 +1,5 @@
+[1, 2]assistant
+
+The sentences that answer the question "Welche Berufsausbildungsmöglichkeiten gibt es in Deutschland?" are:
+
+[1] Es gibt in Deutschland nicht ausschließlich die duale Ausbildung, sondern auch eine Ausbildung an einer Berufsf

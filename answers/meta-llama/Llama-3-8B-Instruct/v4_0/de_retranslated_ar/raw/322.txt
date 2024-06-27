@@ -1,0 +1,8 @@
+The question is: Wie viele Gewerkschaften gibt es in Deutschland?
+
+The relevant sentences are:
+
+[7] Gewerkschaften
+[9] Es gibt in Deutschland acht verschiedene Gewerkschaften, die alle Berufsbranchen abdecken.
+
+The IDs of the relevant sentences are:

@@ -1,0 +1,5 @@
+[13]assistant
+
+The question is "Was erhalte ich als Nachweis für meine Anmeldung?" which translates to "What do I receive as proof of my registration?".
+
+The answer is sentence [13] "Im Anschluss erhalten Sie den Ankunftsnachweis als Nachweis

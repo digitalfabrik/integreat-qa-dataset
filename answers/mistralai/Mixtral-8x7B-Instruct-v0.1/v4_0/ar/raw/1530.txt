@@ -1,0 +1,6 @@
+[40, 41, 42, 43]
+
+Explanation:
+The question asks about what happens during time change in Germany. The relevant sentences from the document that answer this question are:
+
+[40] تغيير الوقت

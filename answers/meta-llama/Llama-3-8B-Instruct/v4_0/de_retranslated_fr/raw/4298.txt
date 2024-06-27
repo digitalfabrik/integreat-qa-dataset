@@ -1,0 +1,7 @@
+The question is: Welche medizinischen Tests sind in einer Schulgesundheitsuntersuchung in Deutschland enthalten?
+
+The relevant sentences are:
+
+[4] So werden beispielsweise ihr Sehvermögen, ihr Gehör und ihre Sprachentwicklung überprüft.
+
+The output

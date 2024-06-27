@@ -1,0 +1,3 @@
+There are no sentences in the document that directly answer the question "Where can I get tested for coronavirus in Germany?" However, the document does provide some information about testing in sentences [15] and [31]. Here are the sentence IDs:
+
+[15, 31]

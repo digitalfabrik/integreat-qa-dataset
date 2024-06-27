@@ -1,0 +1,6 @@
+The question is: Welche Schulformen gibt es in Bayern nach der Grundschule?
+
+The relevant sentences are:
+
+[15] Bis zur 4. Klasse besuchen alle Kinder die Grundschule.
+[17] Am Ende der 4. Klasse (im Mai) bekommen sie ein Übertritt

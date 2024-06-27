@@ -1,0 +1,7 @@
+[1]assistant
+
+The sentence with ID [1] answers the question "Wo kann ich Deutschkurse finden?"assistant
+
+[1]assistant
+
+The sentence with ID [1] answers the question "Wo kann ich Deutschkurse finden?"assistant

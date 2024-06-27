@@ -1,0 +1,7 @@
+The question is: Was ist der Unterschied zwischen den Sprachstufen A1 und C2?
+
+The document does not mention the difference between Sprachstufen A1 and C2. Therefore, the output is: []assistant
+
+The correct output is indeed: []
+
+The question asks about the difference

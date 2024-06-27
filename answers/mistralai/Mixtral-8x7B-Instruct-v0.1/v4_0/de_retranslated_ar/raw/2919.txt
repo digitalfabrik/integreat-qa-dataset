@@ -1,0 +1,4 @@
+[17, 21, 22, 23]
+These IDs correspond to the sentences:
+[17] pflegestuetzpunkt@rems-murr-kreis.de
+[21] Montag - Freitag: 08

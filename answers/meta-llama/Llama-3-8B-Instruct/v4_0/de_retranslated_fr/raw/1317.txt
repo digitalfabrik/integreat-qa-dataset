@@ -1,0 +1,5 @@
+[7, 8, 9, 17, 18, 19]assistant
+
+The sentences that answer the question "Was ist das bayerische Familiengeld und zu welchem Zweck wird es gezahlt?" are:
+
+[7] Als „indirekte Erm

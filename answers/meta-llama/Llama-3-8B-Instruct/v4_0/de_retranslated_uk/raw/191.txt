@@ -1,0 +1,5 @@
+[2, 4, 5, 6, 11]assistant
+
+The sentences that answer the question "Was gilt als Arbeitsunfall?" are:
+
+[2] Wenn Sie während der Arbeitszeit oder auf dem Weg zu oder von der Arbeit einen Unfall haben, handelt es sich um

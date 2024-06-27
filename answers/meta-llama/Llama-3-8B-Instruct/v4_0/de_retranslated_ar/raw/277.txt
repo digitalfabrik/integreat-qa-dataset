@@ -1,0 +1,5 @@
+[8]assistant
+
+The sentence with ID [8] answers the question "Wie lange dauert die Schulausbildung im Allgemeinen?" (How long does the vocational training usually take?).assistant
+
+You are correct. The sentence with ID [8] answers the question "

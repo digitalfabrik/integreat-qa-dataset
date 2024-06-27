@@ -1,0 +1,5 @@
+[4, 5, 6, 7]assistant
+
+The sentences that answer the question "Wo kann man gegen die Ablehnung eines Asylantrags Berufung einlegen?" are:
+
+[4] Wenn ein Asylantrag durch das Bundesamt für Migration und Flüchtling

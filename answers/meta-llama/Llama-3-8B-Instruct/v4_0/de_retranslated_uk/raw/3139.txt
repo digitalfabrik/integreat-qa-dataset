@@ -1,0 +1,13 @@
+The question is: Wie findet man eine geeignete Wohnung?
+
+The relevant sentences are:
+
+[1] Eine freie Wohnung zu finden, ist schwierig.
+
+Therefore, the output is:
+
+[1]assistant
+
+The question is: Wie findet man eine geeignete Wohnung?
+
+The relevant sentences are

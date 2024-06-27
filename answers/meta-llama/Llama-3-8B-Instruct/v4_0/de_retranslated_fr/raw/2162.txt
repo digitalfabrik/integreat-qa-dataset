@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wie kann ich mich für Frühförderungsprogramme in Deutschland anmelden?" and the document does not provide any information about how to register for early intervention programs in Germany. Therefore, the output is an empty list, which is represented as "[]".

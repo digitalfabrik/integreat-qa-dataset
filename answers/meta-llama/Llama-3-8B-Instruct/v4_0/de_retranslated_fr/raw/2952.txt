@@ -1,0 +1,9 @@
+The question is: Wie kann ich feststellen, ob in meiner Umgebung eine Notfallbenachrichtigung gesendet wurde?
+
+The relevant sentences from the document are:
+
+[]
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]", as none of

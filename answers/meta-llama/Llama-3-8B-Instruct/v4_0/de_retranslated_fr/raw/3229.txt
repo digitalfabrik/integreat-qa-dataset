@@ -1,0 +1,7 @@
+[10, 11, 31]assistant
+
+The sentences that answer the question "Welche Deutschkurse werden für Zuwanderer angeboten?" are:
+
+[10] Festigung der deutschen Sprache (Sprachniveau B2)
+[11] Angebot
+[31] Die

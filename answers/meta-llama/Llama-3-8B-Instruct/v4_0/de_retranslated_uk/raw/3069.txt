@@ -1,0 +1,7 @@
+[4]assistant
+
+The sentence with ID [4] answers the question "Wo kann ich eine kostenlose medizinische Beratung in meiner Nähe erhalten?"assistant
+
+[4]assistant
+
+The sentence with ID [4] answers the question "Wo kann ich eine

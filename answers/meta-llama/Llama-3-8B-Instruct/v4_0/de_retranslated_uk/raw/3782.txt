@@ -1,0 +1,6 @@
+[1, 7, 8]assistant
+
+The sentences that answer the question are:
+
+[1] Hilfshotline für Gewalt gegen Frauen in 18 Sprachen
+[7] Die Online-Beratung ist dienstags zwischen 14 und 15 Uhr und donnerst

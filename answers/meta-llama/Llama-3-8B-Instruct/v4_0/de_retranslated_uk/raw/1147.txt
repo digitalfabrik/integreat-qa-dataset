@@ -1,0 +1,6 @@
+[22, 23]assistant
+
+The sentences that answer the question are:
+
+[22] Dann brauchst du eine Erlaubnis vom Bundesamt für Migration und Flüchtlinge.
+[23] Nach den drei Monaten brauchst Du eine Erlaubnis von der zuständ

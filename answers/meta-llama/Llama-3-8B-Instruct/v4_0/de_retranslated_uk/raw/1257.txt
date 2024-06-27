@@ -1,0 +1,5 @@
+[2]assistant
+
+The question is "Was ist mit 'Energieeinsparung' gemeint?" which translates to "What is meant by 'energy saving'?".
+
+The sentence that answers this question is [2] "Energiesparen bedeutet, die gewünschte „Le

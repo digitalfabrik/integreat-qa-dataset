@@ -1,0 +1,9 @@
+The question is: Was erhalte ich als Anmeldebestätigung?
+
+The relevant sentences are:
+
+[13] Im Anschluss erhalten Sie den Ankunftsnachweis als Nachweis für die Registrierung.
+
+The output is: [13]assistant
+
+The question is:

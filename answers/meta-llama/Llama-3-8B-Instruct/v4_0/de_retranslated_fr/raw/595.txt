@@ -1,0 +1,9 @@
+The question is: Ist das Gebäude des CIJ für Menschen mit Behinderungen zugänglich?
+
+The relevant sentences are:
+
+[8] Der Zugang zum Gebäude und zu den Räumlichkeiten ist barrierefrei.
+
+The output is: [8]assistant
+
+The question

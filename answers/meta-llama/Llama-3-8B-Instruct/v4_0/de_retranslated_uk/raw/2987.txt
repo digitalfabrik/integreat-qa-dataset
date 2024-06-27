@@ -1,0 +1,7 @@
+[1]assistant
+
+The sentence that answers the question is:
+
+[1] Unter wirtschaftlicher Jugendhilfe versteht man die finanzielle Hilfe zur Betreuung eines Kindes in Kindertageseinrichtungen oder bei einer Betreuungsperson.
+
+This sentence defines what is meant by

@@ -1,0 +1,2 @@
+[10, 11, 12]
+These IDs are chosen because they provide specific information about the documents required to join the graduation qualifications from the school, such as the high school diploma, the international baccalaureate, the technical school for adults, the university

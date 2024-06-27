@@ -1,0 +1,2 @@
+[4, 5, 7, 10, 11, 13]
+These IDs correspond to the sentences in the document that provide information about the labor rights of people who have fled to Germany.

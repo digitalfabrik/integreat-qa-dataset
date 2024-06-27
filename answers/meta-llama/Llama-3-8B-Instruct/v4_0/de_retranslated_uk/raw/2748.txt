@@ -1,0 +1,5 @@
+[ ]assistant
+
+The question is "Was ist unter integrativer Bildung zu verstehen?" and the document does not contain any information related to this question. Therefore, the output is an empty list: [ ]assistant
+
+I completely agree! The question is asking about "integrative

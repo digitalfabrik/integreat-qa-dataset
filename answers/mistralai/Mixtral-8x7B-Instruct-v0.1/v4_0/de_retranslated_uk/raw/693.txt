@@ -1,0 +1,4 @@
+[22, 24, 25, 25, 35]
+The relevant sentences are:
+[22] Wenn Sie aus der Immobilie ausziehen, erhalten Sie das Geld zurück.
+[24] Im Falle eines Schadens er

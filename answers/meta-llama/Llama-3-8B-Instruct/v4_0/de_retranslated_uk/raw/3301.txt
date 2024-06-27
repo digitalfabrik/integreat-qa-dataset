@@ -1,0 +1,7 @@
+The question is: Welche Dokumente sind für die Erteilung eines Schengen-Visums erforderlich?
+
+The relevant sentences are not found in the document, so the output is: []assistant
+
+The correct output is indeed: []
+
+The question asks about the required documents for obtaining a

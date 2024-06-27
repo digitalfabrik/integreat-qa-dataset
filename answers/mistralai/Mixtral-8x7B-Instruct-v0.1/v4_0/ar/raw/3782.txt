@@ -1,0 +1,7 @@
+[1, 7, 8]
+
+Explanation:
+
+The question asks about the support available for women who are subjected to violence.
+
+Sentence [1] provides a hotline for assistance in cases of violence against women in 18 languages, which is relevant to the question

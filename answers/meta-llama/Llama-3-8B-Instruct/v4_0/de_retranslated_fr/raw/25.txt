@@ -1,0 +1,5 @@
+[3, 6]assistant
+
+The sentences that answer the question "Wie kann ich vergünstigte Medikamente erhalten?" are:
+
+[3] Dann können Sie rezeptfreie Medikamente, die selbst gezahlt werden müssen, in einigen Apotheken zu einem ermäßig

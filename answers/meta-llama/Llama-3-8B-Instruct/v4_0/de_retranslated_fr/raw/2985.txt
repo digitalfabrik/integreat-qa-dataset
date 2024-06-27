@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID 2 contains the address and contact information of the Rathaus von Großenlach, which answers the question "Wo finde ich das Rathaus von Großenlach?".assistant
+
+[2]assistant
+
+The sentence with

@@ -1,0 +1,8 @@
+The question is: Für wen sind die Universitätskurse gedacht?
+
+The relevant sentences are:
+[9] Für wen: alle Münchner Bürgerinnen und Bürger
+
+The output is: [9]assistant
+
+The question is: Für wen sind die Universitätskurse ged

@@ -1,0 +1,3 @@
+[11] Du hast Deinen Antrag auf Asyl gestellt?
+[12] Dann bekommst Du eine Aufenthaltsgestattung.
+[13] Diese ist der Beleg für Deinen rechtmäßigen Aufenthalt in Deutschland und Deinen

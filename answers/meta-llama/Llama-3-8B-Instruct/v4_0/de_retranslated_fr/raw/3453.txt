@@ -1,0 +1,6 @@
+Question: Welche Dokumente werden für das Asylverfahren benötigt?
+
+Document: [0] Anhörung
+[1] Persönliche Anhörung
+[2] Dies ist der wichtigste Termin im Asylverfahren.
+[3] Du erhälst dazu eine Einladung.

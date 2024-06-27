@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the income limit for a minor employment, but the document does not provide this information. Therefore, no sentence in the document answers the question.assistant
+
+I completely agree! The output should indeed be an empty list `[]` since none of the sentences in

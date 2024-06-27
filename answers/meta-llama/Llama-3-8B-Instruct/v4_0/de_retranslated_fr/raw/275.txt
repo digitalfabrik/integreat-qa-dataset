@@ -1,0 +1,6 @@
+[3, 4, 6, 11]assistant
+
+The sentences that answer the question "Welche Arten von Ausbildung gibt es in Deutschland?" are:
+
+[3] In Deutschland gibt es zwei Arten von Ausbildungen:
+[4] Duales System (»» Duale

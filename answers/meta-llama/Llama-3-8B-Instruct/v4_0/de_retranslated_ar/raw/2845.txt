@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks if there are free counseling services for this procedure. The document does not mention anything about free counseling services, so no sentence answers the question.assistant
+
+You are correct. The question is not answered by any sentence in the document. Therefore, the output should be

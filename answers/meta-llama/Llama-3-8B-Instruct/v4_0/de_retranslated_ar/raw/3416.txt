@@ -1,0 +1,7 @@
+[1]assistant
+
+The question is "Wo finde ich Tipps zum Energiesparen in meinem Haus?" and the relevant sentence is [7].assistant
+
+[7]assistant
+
+The question is "Wo finde ich Tipps zum Energiesparen in meinem Haus?" and

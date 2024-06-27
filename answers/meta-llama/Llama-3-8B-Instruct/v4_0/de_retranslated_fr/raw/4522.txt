@@ -1,0 +1,5 @@
+[2, 3, 7]assistant
+
+The sentences that answer the question are:
+
+[2] Telefonische oder persönliche Beratung für Mädchen, Jungen, Frauen und Männer, die von Zwangsheirat oder "Gewalt im Namen der Ehre" betroffen

@@ -1,0 +1,7 @@
+[2, 3, 16, 17, 18, 23]
+
+Explanation:
+
+The question asks how to contact the "Office de la jeunesse du district". The following sentences from the document provide the necessary information:
+
+* Sent

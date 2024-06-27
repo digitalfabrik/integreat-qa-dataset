@@ -1,0 +1,3 @@
+[6]assistant
+
+The question is "Was ist das Niveau A1?" and the document is about Grundbildung and EasyUni. The sentence that answers the question is [6] Grundbildung, which does not provide any information about Niveau A1. Therefore, the output is an empty list

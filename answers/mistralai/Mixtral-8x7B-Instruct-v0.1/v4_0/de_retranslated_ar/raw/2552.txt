@@ -1,0 +1,6 @@
+[1]
+
+The sentence that answers the question is:
+[1] Der maximale Verdienst im Monat beträgt 520 € und ist steuerfrei.
+
+This sentence indicates the income limit for a mini-job, which is 520 euros per

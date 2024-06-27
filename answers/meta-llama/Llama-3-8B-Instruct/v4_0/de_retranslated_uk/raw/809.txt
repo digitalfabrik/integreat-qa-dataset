@@ -1,0 +1,5 @@
+The question is: Wie lange dauert die Sekundarschule?
+
+The document does not provide an answer to this question. Therefore, the output is: []assistant
+
+You are correct. The question asks about the duration of the Sekundarschule, but the document does not provide this information

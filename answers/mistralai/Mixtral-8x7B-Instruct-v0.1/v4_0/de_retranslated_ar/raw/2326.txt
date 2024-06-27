@@ -1,0 +1,3 @@
+[0, 1, 3, 13, 15, 17, 19, 21, 23, 25, 27]
+
+These are the sentence IDs that answer the question. Sentences 0 and 1 explicitly mention

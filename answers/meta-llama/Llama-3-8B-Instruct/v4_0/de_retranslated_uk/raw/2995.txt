@@ -1,0 +1,6 @@
+[11, 14, 16]assistant
+
+The sentences that answer the question "Wo kann ich Unterstützung in meinem Asylverfahren finden?" are:
+
+[11] Den Asylantrag stellen Sie beim BundesAmt für Migration und Flüchtlinge (BAMF).
+[14

@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Welche Sonderschulen gibt es in Deutschland?" and the document does not provide any information about Sonderschulen in Germany. Therefore, the output is an empty list.assistant
+
+I completely agree! Since the document does not provide any information about

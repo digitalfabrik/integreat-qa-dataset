@@ -1,0 +1,2 @@
+[1] Wichtig: Jeder Mensch muss in Deutschland eine Krankenversicherung haben.
+[0] Krankenversicherung ist Pflicht

@@ -1,0 +1,6 @@
+[8, 10, 11, 14]assistant
+
+The question asks which documents are required for an application for education financing. The relevant sentences are:
+
+[8] Informationen des Bayerischen Staatsministeriums für Familie, Arbeit und Soziales unter:
+[10] Förder

@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wie kann ich mich für die Kurse zur beruflichen Eingliederung anmelden?" and the document is about finding a job. None of the sentences in the document answer this question, so the output is an empty list: []assistant

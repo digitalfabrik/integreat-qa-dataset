@@ -1,0 +1,2 @@
+[8, 9]
+The sentences that answer the question are [8] and [9], as they mention the annual membership fee for the PSG. Sentence [8] introduces the topic of the membership fees, and sentence [9] gives the specific amount for the annual membership fee.

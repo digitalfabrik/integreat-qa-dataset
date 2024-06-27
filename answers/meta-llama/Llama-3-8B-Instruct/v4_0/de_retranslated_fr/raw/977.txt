@@ -1,0 +1,10 @@
+[5, 6]assistant
+
+The sentences that answer the question are:
+
+[5] Es gibt viele kostenlose Programme.
+[6] Die meisten von ihnen sind online und zeitlich flexibel:
+
+So the output is: [5, 6]assistant
+
+I apologize for the mistake

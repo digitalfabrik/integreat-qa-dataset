@@ -1,0 +1,6 @@
+[4, 5]assistant
+
+The sentences that answer the question "Welche Voraussetzungen muss ich für die Aufnahme am Bayerischen Kolleg erfüllen?" are:
+
+[4] mindestens 18 Jahre alt
+[5] Deutschkenntnisse auf N

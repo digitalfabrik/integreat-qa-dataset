@@ -1,0 +1,9 @@
+[7]assistant
+
+The question is: Wer sorgt dafür, dass die Kinder regelmäßig zur Schule gehen?
+
+The answer is: Die Eltern (Sentence 7).assistant
+
+[7]assistant
+
+Correct! The sentence with ID 7 answers the

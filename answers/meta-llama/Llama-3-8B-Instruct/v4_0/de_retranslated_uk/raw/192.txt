@@ -1,0 +1,5 @@
+[5, 6]assistant
+
+The sentences that answer the question "Wer trägt die Kosten bei einem Arbeitsunfall?" are:
+
+[5] Die Behandlung wird dann nicht von der Krankenkasse, sondern von der Unfallversicherung der Arbeitgeberin oder des Arbeitgebers

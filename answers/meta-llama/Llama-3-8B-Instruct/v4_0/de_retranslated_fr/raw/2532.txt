@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wo finde ich Informationen zu den Integrationskursen im Rathaus Spiegelberg?" and the document does not provide any information about the Integrationskursen in the Rathaus Spiegelberg. Therefore, the output is an empty list.assistant

@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wo kann ich Unterstützung bei der Berufsausbildung finden?" which translates to "Where can I find support for vocational training?".
+
+The document does not provide any information about where to find support for vocational training. Therefore, the output is an empty list

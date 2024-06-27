@@ -1,0 +1,6 @@
+[1, 3]assistant
+
+The sentences that answer the question "Wo können Menschen mit Behinderungen arbeiten?" are:
+
+[1] Menschen mit Behinderung können auf dem allgemeinen Arbeitsmarkt arbeiten.
+[3] Es gibt daher im Landkreis Augsburg auch spezi

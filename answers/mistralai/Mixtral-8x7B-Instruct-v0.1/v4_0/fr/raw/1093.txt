@@ -1,0 +1,4 @@
+[21, 22, 23, 24, 25]
+The relevant sentences are:
+[21] Au verso se trouve la carte européenne d'assurance maladie.
+[22] La carte européenne d'ass

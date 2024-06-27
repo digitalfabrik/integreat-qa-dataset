@@ -1,0 +1,10 @@
+The question is: Wo kann ich mehr Informationen über Moscheen in München finden?
+
+The relevant sentences are:
+
+[16] Moscheen
+[18] Weitere Informationen zu Moscheen in München finden Sie hier.
+
+The IDs of the relevant sentences are: [16, 18]
+
+Output: [16,

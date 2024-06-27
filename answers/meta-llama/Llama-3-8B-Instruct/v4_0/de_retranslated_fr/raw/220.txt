@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "Was ist die Hauptstadt des Freistaats Bayern?"assistant
+
+You are correct! The sentence with ID 2 answers the question: "Was ist die Hauptstadt des Freistaats Bayern?"assistant

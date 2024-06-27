@@ -1,0 +1,9 @@
+The question is: Warum sind Impfungen wichtig?
+
+The relevant sentences from the document are:
+
+[3] Impfungen können die Erkrankung und Ausbreitung verhindern.
+
+The output is: [3]assistant
+
+The question is: Warum sind Impfungen wichtig?

@@ -1,0 +1,9 @@
+The question is: Wie viele Menschen leben ungefähr in München?
+
+The relevant sentences are:
+
+[3] München ist die drittgrößte Stadt in Deutschland. Mit 1,56 Millionen Einwohnern...
+
+The answer is: 1,56 Millionen
+
+Output: [3]assistant

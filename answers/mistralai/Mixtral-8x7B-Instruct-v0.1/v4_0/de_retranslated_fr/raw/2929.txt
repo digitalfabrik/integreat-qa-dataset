@@ -1,0 +1,1 @@
+[3, 4, 16, 18, 165] are the relevant IDs that answer the question. The Kreisjugendamt (District Youth Office) supports newly arrived young people by offering help and advice in all matters related to their upbringing and development

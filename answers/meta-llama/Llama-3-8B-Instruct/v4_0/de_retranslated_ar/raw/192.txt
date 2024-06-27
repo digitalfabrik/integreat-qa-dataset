@@ -1,0 +1,6 @@
+[3, 5]assistant
+
+The sentences that answer the question "Wer trägt die Kosten eines Arbeitsunfalls?" are:
+
+[3] In diesem Fall sind Sie über den Betrieb (Arbeitgeberin oder Arbeitgeber) durch eine Unfallversicherung versichert.
+[5]

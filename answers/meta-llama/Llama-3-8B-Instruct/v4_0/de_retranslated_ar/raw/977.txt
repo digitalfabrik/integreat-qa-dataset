@@ -1,0 +1,8 @@
+[5, 6]assistant
+
+The sentences that answer the question "Gibt es kostenlose Programme, die das Amega Career Centre anbietet?" are:
+
+[5] Es gibt viele kostenlose Programme.
+[6] Die meisten von ihnen sind online und zeitlich flexibel:
+
+So the output is

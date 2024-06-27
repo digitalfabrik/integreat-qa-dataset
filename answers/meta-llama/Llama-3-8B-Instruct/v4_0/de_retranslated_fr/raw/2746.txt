@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Welche Fachschulen gibt es in Deutschland?" and the document does not mention any Fachschulen in Deutschland. Therefore, the output is an empty list.assistant
+
+I completely agree with you! Since the document does not mention any Fachschulen in

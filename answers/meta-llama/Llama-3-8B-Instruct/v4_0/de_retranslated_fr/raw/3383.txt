@@ -1,0 +1,9 @@
+[1]assistant
+
+The sentence that answers the question is:
+
+[1] Virtueller Wegweiser für Menschen mit Behinderung gibt viele Informationenassistant
+
+[1]assistant
+
+That's correct! The sentence with ID [1] answers the question "Wie findet

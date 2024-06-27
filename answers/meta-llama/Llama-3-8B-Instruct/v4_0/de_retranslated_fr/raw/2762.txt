@@ -1,0 +1,7 @@
+[1]assistant
+
+The sentence that answers the question "Wo kann ich Unterstützung für eine Berufsausbildung finden?" is:
+
+[1] Die Paulinenpflege unterstützt junge Flüchtlinge bei der Suche nach dem richtigen Ausbildungsplatz.
+
+So, the

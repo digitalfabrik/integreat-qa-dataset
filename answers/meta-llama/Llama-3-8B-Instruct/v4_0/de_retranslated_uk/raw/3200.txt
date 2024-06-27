@@ -1,0 +1,5 @@
+[4, 14, 15, 16, 17, 22, 23, 24, 27]assistant
+
+The sentences that answer the question "Welche Dokumente sind für die Beantragung von Asyl erforderlich?" are:
+
+* [4] Bundes

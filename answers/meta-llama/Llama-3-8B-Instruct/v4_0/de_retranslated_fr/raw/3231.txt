@@ -1,0 +1,7 @@
+The question is: Was ist der Unterschied zwischen den Sprachniveaus A1 und C2?
+
+The document does not contain any sentences that answer this question. Therefore, the output is:
+
+[]assistant
+
+That's correct! The question is about the difference between the language levels A1 and C

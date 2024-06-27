@@ -1,0 +1,9 @@
+The question is: Wie lange ist mein Aufenthaltstitel gültig?
+
+The relevant sentences are: [2], [3]
+
+Output: [2, 3]assistant
+
+[2, 3]assistant
+
+The correct output is indeed [2, 3].

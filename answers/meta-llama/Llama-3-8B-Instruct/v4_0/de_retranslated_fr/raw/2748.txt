@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Was ist inklusive Pädagogik?" which translates to "What is inclusive pedagogy?" However, none of the sentences in the document directly answer this question. Therefore, the output is an empty list: []assistant
+
+I completely agree with you

@@ -1,0 +1,5 @@
+[2, 3]assistant
+
+The sentences that answer the question "Welche Arten von Krankenscheinen werden benötigt?" are:
+
+[2] In der Regel muss Ihr Arzt bescheinigen, dass Sie nicht in der Lage sind zu arbeiten (Arbeitsunfähig

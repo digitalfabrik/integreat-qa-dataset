@@ -1,0 +1,6 @@
+[6, 10, 11]assistant
+
+The sentences that answer the question "Wie finde ich Beratungsstellen für Zwangsheirat?" are:
+
+[6] Beratungsstelle YASEMIN (Für Betroffene und vertraute Dritte)
+[10]

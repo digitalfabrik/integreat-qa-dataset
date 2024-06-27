@@ -1,0 +1,7 @@
+[4, 14]assistant
+
+The question is "Welche zusätzlichen Dienstleistungen bietet AbilityAid an?" which translates to "What additional services does AbilityAid offer?".
+
+The document mentions the following additional services:
+
+* Computerkurse (computer courses) in sentence [

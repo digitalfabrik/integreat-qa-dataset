@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wo finde ich Informationen zu Integrationskursen im Rathaus Schorndorf?" and none of the sentences in the document provide an answer to this question. Therefore, the output is an empty list: []assistant
+
+I completely agree with you!

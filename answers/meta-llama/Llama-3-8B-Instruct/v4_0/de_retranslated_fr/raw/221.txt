@@ -1,0 +1,5 @@
+Question: Wie viele Einwohner hat München ungefähr?
+
+Document: [0] Wissenswertes über die Stadt
+[1] Wissenswertes über die Stadt
+[2] München ist die Hauptstadt des Bundeslandes Bayern, das offiziell „Freistaat Bayern“
