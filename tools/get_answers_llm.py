@@ -10,17 +10,14 @@ from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, LLAMA2_7B, PROMPT_v1, PRO
     RESPONSES_SLUG, PROMPT_v3, MISTRAL_MODELS, PROMPT_v4, MODELS
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
-from prompt_gpt import prompt_gpt
 
-MODEL = GPT
+MODEL = MIXTRAL8x7B
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
-PROMPT_VERSION = PROMPT_v3
+PROMPT_VERSION = PROMPT_v4
 RUN = 0
 
 DATASET_PATH = '../datasets/splits'
-
-import re
 
 
 def extract_answer_lines(raw_input):
@@ -149,35 +146,34 @@ def get_all_answers(questions, path, language):
 def get_all_answers_gpt(questions, path, language):
     for question in questions:
         question_id = question['id']
-        prompt_gpt(get_instruction(question, language), question_id, path)
+        # prompt_gpt(get_instruction(question, language), question_id, path)
 
 
 if __name__ == '__main__':
-    languages = ['de', 'en']
+    languages = ['fr']
     prompt_run = f'{PROMPT_VERSION}_{RUN}'
 
-    for model in MODELS:
-        for language in languages:
-            CROSS_LANGUAGE = False
-            question_language = 'de' if language == 'en' else 'en'
-            language_slug = f'{language}_{question_language}' if CROSS_LANGUAGE else language
-            base_answer_path = f'../answers/{model}/{prompt_run}/{language_slug}'
-            answer_path = f'{base_answer_path}/{RAW_SLUG}'
-            os.makedirs(answer_path, exist_ok=True)
+    for language in languages:
+        CROSS_LANGUAGE = False
+        question_language = 'de' if language == 'en' else 'en'
+        language_slug = f'{language}_{question_language}' if CROSS_LANGUAGE else language
+        base_answer_path = f'../answers/{MODEL}/{prompt_run}/{language_slug}'
+        answer_path = f'{base_answer_path}/{RAW_SLUG}'
+        os.makedirs(answer_path, exist_ok=True)
 
-            dataset_path = f'{DATASET_PATH}/{language}/test_{language}.json'
-            questions = json.load(open(dataset_path, 'r'))
+        dataset_path = f'{DATASET_PATH}/{language}/test_{language}.json'
+        questions = json.load(open(dataset_path, 'r'))
 
-            # if CROSS_LANGUAGE:
-            #     translated_dataset_path = f'{DATASET_PATH}/{question_language}/test_{question_language}.json'
-            #     translated_dataset = json.load(open(translated_dataset_path, 'r'))
-            #     questions = [{**question, 'question': next(translated['question'] for translated in translated_dataset if translated['id'] == question['id'])} for question in questions]
-            #
-            # if MODEL == GPT:
-            #     os.makedirs(f'{base_answer_path}/{RESPONSES_SLUG}', exist_ok=True)
-            #     get_all_answers_gpt(questions, base_answer_path, language)
-            # else:
-            #     get_all_answers(questions, answer_path, language)
+        if CROSS_LANGUAGE:
+            translated_dataset_path = f'{DATASET_PATH}/{question_language}/test_{question_language}.json'
+            translated_dataset = json.load(open(translated_dataset_path, 'r'))
+            questions = [{**question, 'question': next(translated['question'] for translated in translated_dataset if translated['id'] == question['id'])} for question in questions]
 
-            predictions = postprocess_llm_answers(base_answer_path)
-            evaluate(questions, predictions, model, language)
+        if MODEL == GPT:
+            os.makedirs(f'{base_answer_path}/{RESPONSES_SLUG}', exist_ok=True)
+            get_all_answers_gpt(questions, base_answer_path, language)
+        else:
+            get_all_answers(questions, answer_path, language)
+
+        predictions = postprocess_llm_answers(base_answer_path)
+        evaluate(questions, predictions, MODEL, language)

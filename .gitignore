@@ -172,5 +172,6 @@ rows/**
 /train/**/spm.model
 /train/**/model.safetensors
 !predicted.json
+!predicted_dev.json
 evaluate/**
 /evaluate/
