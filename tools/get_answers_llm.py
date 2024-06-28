@@ -6,15 +6,16 @@ import re
 from transformers import pipeline, PretrainedConfig, AutoTokenizer
 from torch import bfloat16
 
-from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, LLAMA2_7B, PROMPT_v1, PROMPT_v2, IGEL, MIXTRAL8x7B, MIXTRAL8x22B, MISTRAL, GPT, \
-    RESPONSES_SLUG, PROMPT_v3, MISTRAL_MODELS, PROMPT_v4, MODELS
+from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, LLAMA2_7B, PROMPT_v1, PROMPT_v2, IGEL, MIXTRAL8x7B, MIXTRAL8x22B, \
+    MISTRAL, GPT, \
+    RESPONSES_SLUG, PROMPT_v3, MISTRAL_MODELS, PROMPT_v4, MODELS, PROMPT_v5
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
 
 MODEL = MIXTRAL8x7B
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
-PROMPT_VERSION = PROMPT_v4
+PROMPT_VERSION = PROMPT_v5
 RUN = 0
 
 DATASET_PATH = '../datasets/splits'

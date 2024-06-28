@@ -1,8 +1,8 @@
- Doc. & Q. & P. & R. & P. & R. \\
+ Document & Question & P & R & F & P & R & F \\
 \midrule
- Ger. & Ger. & 84.2 & 48.6 & 81.6 & 81.6 \\
- Ger. & Eng. & 82.3 & 48.7 & 75.6 & 81.6 \\
+ German & German & 85.5 & 46.6 & 60.3 & 69.8 & 67.3 & 68.5 \\
+ German & English & 85.8 & 48.2 & 61.7 & 70.9 & 70.9 & 70.9 \\
 \midrule
- Eng. & Eng. & 79.6 & 48.3 & 77.5 & 81.6 \\
- Eng. & Ger. & 80.0 & 48.8 & 81.6 & 81.6 \\
+ English & English & 84.8 & 46.7 & 60.2 & 74.5 & 63.6 & 68.6 \\
+ English & German & 83.2 & 45.6 & 58.9 & 73.5 & 65.5 & 69.2 \\
 \bottomrule

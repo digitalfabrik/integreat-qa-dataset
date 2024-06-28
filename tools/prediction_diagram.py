@@ -14,22 +14,23 @@ axis.set_title('')
 if __name__ == '__main__':
     languages = ['en']
 
-    # for model in [LLAMA3_70B]:
-    #     for language in languages:
-    #         predictions_path = f'../answers/{LLAMA3_70B}/v4_0/{language}/predicted.json'
-    #         dataset_path = f'../datasets/splits/{language}/dev_{language}.json'
-    #         predictions = json.load(open(predictions_path, 'r'))
-    #         questions = json.load(open(dataset_path, 'r'))
-    #         evaluation_df = prepare_evaluation(questions, predictions)
-    #         grouped_df = evaluation_df[evaluation_df.answer_count < 19].groupby(evaluation_df.answer_count)
-    #         precisions = grouped_df.precision.mean().plot.line(ax=axis, marker='s', label='precision', markersize=17,
-    #                                                            linewidth=3)
-    #         recalls = grouped_df.recall.mean().plot.line(ax=axis, marker='^', label='recall', markersize=17,
-    #                                                      linewidth=3)
+    # for language in languages:
+    #     predictions_path = f'../answers/{LLAMA3_70B}/v4_0/{language}/predicted.json'
+    #     dataset_path = f'../datasets/splits/{language}/test_{language}.json'
+    #     predictions = json.load(open(predictions_path, 'r'))
+    #     questions = json.load(open(dataset_path, 'r'))
+    #     evaluation_df = prepare_evaluation(questions, predictions)
+    #     grouped_df = evaluation_df[evaluation_df.answer_count < 19].groupby(evaluation_df.answer_count)
+    #     precisions = grouped_df.precision.mean()
+    #     recalls = grouped_df.recall.mean()
+    #     f1s = pd.DataFrame([f1(precisions[i], recalls[i]) for i in range(0, len(precisions))])
+    #     precisions.plot.line(ax=axis, marker='s', label='P', markersize=17, linewidth=3)
+    #     recalls.plot.line(ax=axis, marker='^', label='R', markersize=17, linewidth=3)
+    #     f1s.plot.line(ax=axis, marker='o', label='F', markersize=17, linewidth=3)
     # axis.set_xlabel('ground truth answers')
-    # axis.set_xticks([1, 2, 4, 6, 8, 10, 12, 14, 16])
-    # axis.legend()
-    # plt.savefig('resources/precision_recall_answers.pdf', format='pdf')
+    # axis.set_xticks([0, 2, 4, 6, 8, 10, 12, 14, 16])
+    # axis.legend(['P', 'R', 'F'])
+    # plt.savefig('resources/precision_recall_answers.pdf', format='pdf', bbox_inches='tight')
 
     for language in languages:
         precisions = []

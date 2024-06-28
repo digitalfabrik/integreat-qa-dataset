@@ -1,6 +1,7 @@
 import json
 
-from constants import PROMPT_v1, PROMPT_v2, PROMPT_v3, PROMPT_v4
+from constants import PROMPT_v1, PROMPT_v2, PROMPT_v3, PROMPT_v4, PROMPT_v5
+
 
 def v1(question, context):
     return f'''
@@ -106,6 +107,17 @@ Document: {context}
 '''}
 
 
+def v5_user(question, context):
+    return {'role': 'user', 'content': f'''Does the document below contain an answer to the question?
+Output only "YES" or "NO".
+Do NOT output any additional text.
+
+Question: {question}
+
+Document: {context}
+'''}
+
+
 def v3_assistant(answers):
     return {'role': 'assistant', 'content': json.dumps(answers)}
 
@@ -120,6 +132,12 @@ def v3(question, context, language, num_shots=5):
     return messages
 
 
+def v5(question, context, language):
+    messages = [{'role': 'system', 'content': 'Your task is to decide whether the document answers the question.'}]
+    messages.append(v5_user(question, context))
+    return messages
+
+
 def get_answer_prompt(question, context, version, language='de'):
     if version == PROMPT_v1:
         return v1(question, context)
@@ -129,5 +147,7 @@ def get_answer_prompt(question, context, version, language='de'):
         return v3(question, context, language)
     elif version == PROMPT_v4:
         return v3(question, context, language, 0)
+    elif version == PROMPT_v5:
+        return v5(question, context, language)
 
 

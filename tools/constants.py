@@ -19,7 +19,9 @@ PROMPT_v2 = 'v2'
 PROMPT_v3 = 'v3'
 # Zero shot
 PROMPT_v4 = 'v4'
-PROMPTS = [PROMPT_v2, PROMPT_v3, PROMPT_v4]
+# Unanswerability detection
+PROMPT_v5 = 'v5'
+PROMPTS = [PROMPT_v2, PROMPT_v3, PROMPT_v4, PROMPT_v5]
 
 # Temperature = 0.75
 RUN_0 = 0

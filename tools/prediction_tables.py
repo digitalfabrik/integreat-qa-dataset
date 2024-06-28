@@ -18,7 +18,7 @@ def add_latex_table_row(values, table):
 def round_mean_std(means, stds, is_max):
     rounded_means = [f'{mean * 100:.1f}' if not isinstance(mean, str) else mean for mean in means]
     rounded_stds = [f'\\textcolor{{gray}}{{\scriptsize $\pm$ {std * 100:.0f}}}' for std in stds] if stds is not None else [''] * len(means)
-    return [f'\\textbf{{{rounded_means[index]}}}{rounded_stds[index]}' if is_max[index] else f'{rounded_means[index]}{rounded_stds[index]}' for index in range(len(means))]
+    return [f'\\textbf{{{rounded_means[index]}}}{rounded_stds[index]}' if is_max and is_max[index] else f'{rounded_means[index]}{rounded_stds[index]}' for index in range(len(means))]
 
 
 def f1(a, b):
@@ -38,7 +38,7 @@ def evaluate_no_answer(questions, predictions):
     true_positives = dataset_df[(dataset_df.answers.str.len() == 0) & (dataset_df.predicted.str.len() == 0)]
     retrieved = dataset_df[dataset_df.predicted.str.len() == 0]
     relevant = dataset_df[dataset_df.answers.str.len() == 0]
-    print(len(set(retrieved.id).intersection(set(relevant.id))), len(retrieved), len(relevant))
+    # print(len(set(retrieved.id).intersection(set(relevant.id))), len(retrieved), len(relevant))
     precision = len(true_positives) / len(retrieved)
     recall = len(true_positives) / len(relevant)
     return [precision, recall, f1(precision, recall)]
