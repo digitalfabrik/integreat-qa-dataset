@@ -12,7 +12,7 @@ from constants import RAW_SLUG, LLAMA3_8B, LLAMA3_70B, LLAMA2_7B, PROMPT_v1, PRO
 from get_answer_prompt import get_answer_prompt
 from evaluate_answers import evaluate
 
-MODEL = MIXTRAL8x7B
+MODEL = LLAMA3_70B
 MODEL_PATH = f'/hpc/gpfs2/scratch/g/coling/models/{MODEL}'
 
 PROMPT_VERSION = PROMPT_v5
@@ -87,6 +87,40 @@ def postprocess_llm_answers(path):
     return predicted
 
 
+def postprocess_llm_unanswersability(path):
+    raw_dir_path = f'{path}/{RAW_SLUG}'
+    predicted_path = f'{path}/predicted.json'
+    slugs = os.listdir(raw_dir_path)
+
+    predicted = {}
+    matches_pattern = 0
+    both = 0
+    other_text = 0
+    assistant = 0
+    empty = 0
+
+    for slug in slugs:
+        raw_slug = slug.split('.txt')[0]
+        raw_path = f'{raw_dir_path}/{slug}'
+        raw_file = open(raw_path, 'r')
+        raw_answer = raw_file.read()
+
+        predicted[raw_slug] = '[no]' in raw_answer.lower()
+        if '[YES]' in raw_answer or '[NO]' in raw_answer:
+            matches_pattern += 1
+        if '[YES]' in raw_answer and '[NO]' in raw_answer:
+            both += 1
+        if 'assistant' in raw_answer:
+            assistant += 1
+        if not raw_answer.startswith('[') or not raw_answer.endswith(']'):
+            other_text += 1
+
+    dataset_json_file = open(predicted_path, 'w')
+    dataset_json_file.write(json.dumps(predicted))
+    print(f'{matches_pattern}/{len(slugs)} ({round(matches_pattern/len(slugs), 2)}) | {assistant} | {other_text} | {empty} ({round(empty/len(slugs), 2)})')
+    return predicted
+
+
 # Add line numbers to each line
 def enumerate_lines(text):
     lines = text.split('\n')
@@ -97,7 +131,7 @@ def enumerate_lines(text):
 
 
 def get_instruction(question, language):
-    context = enumerate_lines(question['context'])
+    context = enumerate_lines(question['context']) if PROMPT_VERSION != PROMPT_v5 else question['context']
     prompt = get_answer_prompt(question['question'], context, PROMPT_VERSION, language)
 
     # mistralai models don't support the system role
@@ -150,8 +184,19 @@ def get_all_answers_gpt(questions, path, language):
         # prompt_gpt(get_instruction(question, language), question_id, path)
 
 
+def evaluate_unanswerability(questions, predictions):
+    print(predictions)
+    true_positives = [question for question in questions if predictions[str(question['id'])] is True and len(question['answers']) == 0]
+    retrieved = [prediction for prediction in predictions.values() if prediction]
+    relevant = [question for question in questions if len(question['answers']) == 0]
+    precision = len(true_positives) / len(retrieved)
+    recall = len(true_positives) / len(relevant)
+    f1 = 2 * (precision * recall) / (precision + recall)
+    print(precision, recall, f1, f'({len(true_positives)} | {len(retrieved)} | {len(relevant)} | {len(questions)})')
+
+
 if __name__ == '__main__':
-    languages = ['fr']
+    languages = ['uk']
     prompt_run = f'{PROMPT_VERSION}_{RUN}'
 
     for language in languages:
@@ -176,5 +221,9 @@ if __name__ == '__main__':
         else:
             get_all_answers(questions, answer_path, language)
 
-        predictions = postprocess_llm_answers(base_answer_path)
-        evaluate(questions, predictions, MODEL, language)
+        if PROMPT_VERSION == PROMPT_v5:
+            predictions = postprocess_llm_unanswersability(base_answer_path)
+            evaluate_unanswerability(questions, predictions)
+        else:
+            predictions = postprocess_llm_answers(base_answer_path)
+            evaluate(questions, predictions, MODEL, language)

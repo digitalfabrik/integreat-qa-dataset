@@ -109,7 +109,8 @@ Document: {context}
 
 def v5_user(question, context):
     return {'role': 'user', 'content': f'''Does the document below contain an answer to the question?
-Output only "YES" or "NO".
+If the document contains an answer, output "[YES]".
+If the document does not contain an answer, output "[NO]".
 Do NOT output any additional text.
 
 Question: {question}
