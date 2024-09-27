@@ -41,6 +41,7 @@ A QA pair consists of
 - `answers` (number[]): Indices of answer sentences
 
 Furthermore, the following properties are present:
+- `id` (number): A unique id for the QA pair
 - `language` (string): The language of question and context.
 - `sourceLanguage` (string | null): If question and context are machine translated, the source language.
 - `city` (string): The city the page in the Integreat-App belongs to.
