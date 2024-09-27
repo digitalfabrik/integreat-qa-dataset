@@ -1,12 +1,18 @@
-![Integreat](resources/integreat.svg)
+<p float="left">
+<img src="resources/integreat.svg" height="80" />
+<img src="resources/digitalfabrik.png" height="80" />
+</p>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 [![GitHub license](https://img.shields.io/badge/license-CC_BY-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-# OMoS - Extractive QA Dataset for Integreat
+# Extractive QA Dataset for Integreat
 
-This repository contains our [**integreat-qa-omos** dataset](#dataset).
+This repository contains our [**integreat-qa** dataset](#dataset).
 The dataset contains German and English questions in a German migration context with contexts taken from the [Integreat-App](https://github.com/digitalfabrik/integreat-app), an open-source and multilingual integration platform.
+
+Our dataset and its construction as well as the evaluation of various approaches and models on this dataset are described in our paper
+[OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context](https://aclanthology.org/2024.konvens-main.25/).
 
 This repository also contains a web-based [annotation tool](#annotation-tool) to facilitate the manual extraction of answer sentences.
 Furthermore, we evaluate different approaches and models on our dataset.
@@ -15,7 +21,7 @@ Furthermore, we evaluate different approaches and models on our dataset.
 
 - [Dataset](#dataset): Our dataset for QA in Integreat
 - [Annotation Tool](#annotation-tool): A web-based annotation tool for answer sentence extraction
-- [Evaluation](evaluation): Evaluation of LLMs and encoder-only models on the integreat-qa-omos dataset 
+- [Evaluation](#evaluation): Evaluation of LLMs and encoder-only models on the integreat-qa dataset 
 
 ## Dataset
 
@@ -25,7 +31,7 @@ Questions are automatically generated using an LLM.
 The answers are manually annotated using voluntary crowdsourcing.
 
 Our dataset is licensed under [cc-by-4.0](https://choosealicense.com/licenses/cc-by-4.0).
-The dataset is also available on [hugging face](https://huggingface.co/datasets/digitalfabrik/integreat-qa-omos).
+The dataset is also available on [hugging face](https://huggingface.co/datasets/digitalfabrik/integreat-qa).
 
 ### Properties
 
@@ -70,3 +76,10 @@ The annotation tools consists of two components:
 <img src="resources/annotation_tool_answerable.png" width="49%" />
 <img src="resources/annotation_tool_unanswerable.png" width="49%" />
 </p>
+
+## Evaluation
+
+We describe our dataset construction process and the findings of our evaluation with different models and approaches in our paper:
+[OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context](https://aclanthology.org/2024.konvens-main.25/)
+
+The raw results and helper tools can be found in [evaluation](evaluation).
