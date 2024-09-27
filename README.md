@@ -1,4 +1,4 @@
-![Integreat](integreat.svg)
+![Integreat](resources/integreat.svg)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 [![GitHub license](https://img.shields.io/badge/license-CC_BY-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
