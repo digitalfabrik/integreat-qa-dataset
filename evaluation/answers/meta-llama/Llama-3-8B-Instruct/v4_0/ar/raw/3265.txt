@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "ما هي خدمات الدعم المتاحة للاجئين؟" which translates to "What support services are available for refugees?".
+
+After reviewing the document, I found that none of the sentences answer this question. Therefore, the output is:
+
+[]assistant

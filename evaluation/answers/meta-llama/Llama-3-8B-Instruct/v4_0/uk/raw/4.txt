@@ -1,0 +1,11 @@
+The question is: Як називається театр у Мюнхені?
+
+The relevant sentences from the document are:
+
+2 Münchner Kammerspiele - міський театр.
+
+The ID of the relevant sentence is: [2]
+
+Output: [2]assistant
+
+The question is: Як назива

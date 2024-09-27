@@ -1,0 +1,6 @@
+[4, 6, 8]assistant
+
+The sentences that answer the question "Que partage-t-on dans une colocation?" are:
+
+[4] Vivre en colocation signifie que l'on partage un appartement avec d'autres personnes.
+[6] On ne partage

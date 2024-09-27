@@ -1,0 +1,6 @@
+[7, 9]assistant
+
+The sentences that answer the question "Which languages do TranslAid's interpreters translate?" are:
+
+7. TranslAid places volunteer (non-professional) interpreters with refugees and migrants in Munich.
+9. In the following languages: Amharic

@@ -1,0 +1,7 @@
+[1, 10, 11]assistant
+
+The sentences that answer the question "What job placement agencies are there in Germany?" are:
+
+[1] Job exchange of the Federal Employment Agency and the IHK
+[10] Job exchange of the Federal Employment Agency and the IHK
+[11

@@ -1,0 +1,11 @@
+[7]assistant
+
+The sentence that answers the question is:
+
+[7] Die Eltern sorgen dafür, dass ihre Kinder die Schule regelmäßig besuchen.assistant
+
+[7]assistant
+
+The sentence that answers the question is:
+
+[7] Die

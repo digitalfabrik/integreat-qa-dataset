@@ -1,0 +1,7 @@
+The question is: Wie kann ich meinen Rundfunkvertrag (GEZ) kündigen?
+
+The relevant sentences are not found in the document, so the output is: []assistant
+
+The correct output is indeed: []
+
+The question asks about how to cancel a radio contract (GEZ),

@@ -1,0 +1,7 @@
+[40, 41, 42, 43, 44, 45, 46, 47]assistant
+
+Qui peut m'aider à traduire ma demande d'asile?
+
+[]assistant
+
+The question is asking who can help with translating an asylum request, but

@@ -1,0 +1,5 @@
+The relevant sentences are:
+[39, 40, 41, 44, 45, 46, 47]
+
+Sentence 39 states that interns sometimes receive money during their internship.
+Sentence 40 states that they do not

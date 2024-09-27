@@ -1,0 +1,3 @@
+[10]
+
+Explanation: The given question asks about the consequences for employees who report defects that could pose a risk. The relevant sentence in the document is [10], which states that "employees are obliged to comply with safety regulations, not to endanger other people during their

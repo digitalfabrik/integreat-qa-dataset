@@ -1,0 +1,9 @@
+[6, 10, 11, 12]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[6, 10, 11]
+
+Sentences 8 and 9 are contact information, not centers of consultation.assistant
+
+You're right! I apologize

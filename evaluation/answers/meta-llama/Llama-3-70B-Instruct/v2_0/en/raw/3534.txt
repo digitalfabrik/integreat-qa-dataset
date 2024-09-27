@@ -1,0 +1,17 @@
+41 You can download it here.
+42 Health insurance policies
+43 There are different health insurance policies in Germany.
+44 You can choose between statutory and private health insurance.
+45 Statutory health insurance
+46 Everyone who earns less than 57,600 euros per year must have statutory health insurance.
+47 You can choose from many different statutory health insurance companies.
+48 They all offer similar services.
+49 Private health insurance
+50 Everyone who earns more than 57,600 euros per year can choose private health insurance.
+51 You can also choose private health insurance if you are self-employed.
+52 Private health insurance companies offer different services.
+53 They are often more expensive than statutory health insurance companies.
+54 You can also have additional private health insurance.
+55 This is useful if you want more services than statutory health insurance offers.
+
+## Answer: statutory and private health insurance. ## Sentence numbers: 44, 45, 49, 50, 51, 52, 53, 54, 55.

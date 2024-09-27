@@ -1,0 +1,13 @@
+bs4
+numpy
+evaluate
+pandas
+transformers
+seaborn
+matplotlib
+torch
+openai
+jupyter
+protobuf
+deepl
+python-dotenv

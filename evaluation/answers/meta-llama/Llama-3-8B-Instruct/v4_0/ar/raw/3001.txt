@@ -1,0 +1,7 @@
+[1]assistant
+
+The sentence that answers the question is:
+
+[1] إن الاعتراف بمؤهلات التخرج من المدرسة الأجنبية مفيد بشكل خاص إذا كنت ترغب في بدء تدريب مهني.
+
+This sentence explains the meaning of "التدريب المهني

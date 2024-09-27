@@ -1,0 +1,5 @@
+[2, 3, 5]assistant
+
+The sentences that answer the question "Wohin können Sie sich wenden, wenn Sie in Gefahr sind, Ihre Wohnung zu verlieren?" are:
+
+[2] Wenn Ihnen der Verlust der Wohnung durch Kündigung, Räum

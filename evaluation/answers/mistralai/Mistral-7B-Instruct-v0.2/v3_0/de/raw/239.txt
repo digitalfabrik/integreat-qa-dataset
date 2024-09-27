@@ -1,0 +1,3 @@
+[3, 4, 11, 18-21, 28-31, 34]
+
+These sentences provide information about the age at which children are required to attend school in Germany and the different types of schools they can attend afterwards. The specific age mentioned is six

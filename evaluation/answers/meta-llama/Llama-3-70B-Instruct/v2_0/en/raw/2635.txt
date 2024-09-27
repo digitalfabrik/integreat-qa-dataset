@@ -1,0 +1,21 @@
+15 Phone: 07151 501-1234
+16 Fax: 07151 501-1235
+17 The integration management is a social counseling service for refugees in follow-up accommodation.
+18 The integration managers are trained social workers who provide support and guidance in various areas.
+19 They can help you with official matters, such as applying for social benefits or residence permits.
+20 They can also provide support in everyday life, such as explaining letters or helping with personal and family matters.
+21 They can also help you with contacts with authorities and answer other questions you may have.
+22 The integration managers can also help you draw up an individual integration plan.
+23 This plan is tailored to your specific needs and goals.
+24 It outlines the steps you need to take to achieve your goals.
+25 The integration managers can also provide information on local services and resources.
+26 They can also help you access these services and resources.
+27 The integration management is a free service.
+28 It is available to all refugees living in private accommodation or in municipal accommodation.
+29 The integration managers are trained to work with people from different cultural backgrounds.
+30 They can provide support in many languages.
+
+## Answer: The integration managers can support you in many areas, for example when applying for social benefits, residence permits with support in everyday life (for example, explaining letters) in personal and family matters for contacts with authorities for other questions. ## Sentence numbers: 2-7
+```
+## Answer: The integration managers can support you in many areas, for example when applying for social benefits, residence permits with support in everyday life (for example, explaining letters) in personal and family matters for contacts with authorities for other questions. ## Sentence numbers: 2-7
+```

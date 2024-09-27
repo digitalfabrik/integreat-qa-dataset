@@ -1,0 +1,6 @@
+[]
+
+Question: What is the A1 language level?
+
+Document: [2] The German courses for initial language orientation (also known as initial orientation courses) teach both basic German language skills and information about life in Germany.
+[3] They are a practical starting aid in the new living environment and

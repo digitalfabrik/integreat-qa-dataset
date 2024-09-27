@@ -1,0 +1,5 @@
+Based on the given question and document, the relevant sentences are:
+
+[2, 3, 5]
+
+These sentences answer the question as they describe the tasks and responsibilities of volunteers (Ehrenamtlichen) in helping migrants and refugees (Migranten und Geflüchtete)

@@ -1,0 +1,9 @@
+Question: Wo kann ich mich für Weiterbildungskurse anmelden?
+
+Document: [0-25]
+
+Answer: [6, 10, 25]assistant
+
+The sentences that answer the question are:
+
+6. Das interessante Angebot der Volkshochschule (VHS) Augsburger

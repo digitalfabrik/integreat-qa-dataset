@@ -1,0 +1,7 @@
+The question is: Welche Voraussetzungen müssen erfüllt sein, um in Deutschland eine Zulassung zu erhalten?
+
+The relevant sentences are: []
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]", as none of

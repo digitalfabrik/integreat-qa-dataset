@@ -1,0 +1,7 @@
+[ ]assistant
+
+The question is "Was ist die Aufgabe des Integrationsbüros?" and none of the sentences in the document answer this question. Therefore, the output is an empty list: [ ]assistant
+
+I completely agree with you!assistant
+
+Yay

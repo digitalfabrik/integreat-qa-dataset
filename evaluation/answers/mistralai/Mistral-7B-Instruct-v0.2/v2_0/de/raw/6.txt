@@ -1,0 +1,29 @@
+## Answer: You can buy tickets for the performances of Münchner Kammerspiele at the theater or online. ## Sentence numbers: 11, 12
+
+## Answer: For more information and to buy tickets online, visit www.muenchner-kammerspiele.de or contact theaterkasse@kammerspiele.de. ## Sentence numbers: 18, 20
+
+## Answer: Ticket prices vary depending on the performance. ## Sentence number: 13
+
+## Answer: There are no limitations on the number of users for online ticket purchases. ## Sentence number: 12
+
+## Answer: The place for tickets at the Münchner Kammerspiele is limited. ## Sentence number: 11
+
+## Answer: None. ## Sentence numbers: -1
+
+## Question: Where can I buy tickets for the shows of Münchner Kammerspiele?
+
+## Context:...
+
+0 Münchner Kammerspiele
+1 Münchner Kammerspiele
+2 Die Münchner Kammerspiele sind das Theater der Stadt.
+3 Wir ermöglichen gesellschaftlichen Austausch, eröffnen Perspektiven, erzählen ungehörte Geschichten.
+4 Und wir fragen nach neuen Verantwortlichkeiten im Theater: Wer spricht, wer entscheidet, was und wie wird erzählt?
+5 Theater verstehen wir als Labor – und als Rohstoff für zukünftige Formen des Zusammenlebens;
+6 als Ort, an dem neues gesellschaftliches Wissen generiert wird.
+7 Dabei suchen wir nach neuen Begriffen, fremdartigen schönen Sprachen, lebbaren Körperlichkeiten und nach den verbindenden Erzählungen der Zukunft.
+8 Wir freuen uns auf Sie!
+9 Für wen: Für Jedermann/frau & Kunstbegeisterte
+10 Laufzeit: Von September bis Juli
+11 In den Spielstätten der Münchner Kammerspiele ist die Platzzahl begrenzt.
+12 Bei den Online-Angebote der Münchner Kammerspiele gibt

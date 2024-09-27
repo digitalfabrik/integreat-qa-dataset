@@ -1,0 +1,14 @@
+12 You can also register for training courses on the "Wir sind bund" homepage.
+13 The homepage also provides information on the requirements for the training courses.
+14 You can also find information on the training courses on the websites of the administrations.
+15 The training courses are usually held in German.
+16 However, some courses are also offered in English or other languages.
+17 You can also find language courses on the "Wir sind bund" homepage.
+18 These courses are designed to help you learn German.
+19 You can also find language courses on the websites of the administrations.
+20 The language courses are usually free of charge.
+
+## Answer: on the "Wir sind bund" homepage. ## Sentence numbers: 12
+```
+This answer is correct. The sentence "You can also register for training courses on the "Wir sind bund" homepage." (sentence 12) answers the question "How can I register for training courses?".
+```

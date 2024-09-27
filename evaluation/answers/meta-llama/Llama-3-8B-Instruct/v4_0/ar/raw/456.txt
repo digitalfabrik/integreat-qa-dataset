@@ -1,0 +1,9 @@
+The question is: كم تبلغ تكلفة تذكرة ميونخ العائلية؟
+
+The relevant sentences from the document are:
+
+[14] التكلفة: 6 يورو
+
+The output is: [14]assistant
+
+The question is: كم تبلغ تكلفة تذ

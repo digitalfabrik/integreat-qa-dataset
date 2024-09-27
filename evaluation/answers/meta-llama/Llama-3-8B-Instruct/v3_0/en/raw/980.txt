@@ -1,0 +1,3 @@
+[2, 3, 6]assistant
+
+Note: The question asks "Who is women's shelter accommodation for?" and the relevant sentences are [2], [3], and [6], which all mention that women and their children are the target group for women's shelters.assistant

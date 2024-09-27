@@ -1,0 +1,3 @@
+The document mentions that the Youth Cultural Workshop is for children, teenagers, and young adults. Therefore, the relevant sentences are: 1, 2.
+
+Output: [1, 2]

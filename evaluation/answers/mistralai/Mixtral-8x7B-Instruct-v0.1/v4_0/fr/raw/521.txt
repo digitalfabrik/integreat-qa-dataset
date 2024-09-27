@@ -1,0 +1,5 @@
+Based on the provided document, the following sentences answer the question:
+
+[8, 12, 13, 14, 15]
+
+These sentences specify the conditions required to participate in ValiKom Transfer, including being at least 25 years old, not having a

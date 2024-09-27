@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Was ist der Unterschied zwischen einer Aufenthaltserlaubnis und einer Arbeitserlaubnis?" and the document does not mention these terms at all. Therefore, there are no relevant sentences in the document, and the output is an empty list: []

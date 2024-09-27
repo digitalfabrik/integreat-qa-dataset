@@ -1,0 +1,5 @@
+[11, 12, 14, 15, 16, 20, 24]assistant
+
+Note: The question is in Ukrainian, and the document is also in Ukrainian. The answer IDs provided are based on the Ukrainian text.assistant
+
+Thank you for the clarification!

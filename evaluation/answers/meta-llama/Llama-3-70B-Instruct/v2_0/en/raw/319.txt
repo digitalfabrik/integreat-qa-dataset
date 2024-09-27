@@ -1,0 +1,47 @@
+43 The Federal Employment Agency (BA) is also responsible for vocational training.
+44 The BA provides support in the search for an apprenticeship or an introductory qualification.
+45 The BA also provides information on the recognition of foreign qualifications.
+46 Further information can be found here.
+47 Federal Employment Agency
+48 Mariannestrasse 2-6
+49 muenchen@arbeitsagentur.de
+50 Website of the BA
+51 The Jobcenter Munich is also responsible for vocational training.
+52 The Jobcenter Munich provides support in the search for an apprenticeship or an introductory qualification.
+53 The Jobcenter Munich also provides information on the recognition of foreign qualifications.
+54 Further information can be found here.
+55 Jobcenter Munich
+56 Sonnenstrasse 19
+57 muenchen@jobcenter.de
+58 Website of the Jobcenter Munich
+59 The Munich Employment Office is also responsible for vocational training.
+60 The Munich Employment Office provides support in the search for an apprenticeship or an introductory qualification.
+61 The Munich Employment Office also provides information on the recognition of foreign qualifications.
+62 Further information can be found here.
+63 Munich Employment Office
+64 Neuhauser Strasse 16
+65 muenchen@agentur-arbeit.de
+66 Website of the Munich Employment Office
+67 The Munich Youth Employment Agency is also responsible for vocational training.
+68 The Munich Youth Employment Agency provides support in the search for an apprenticeship or an introductory qualification.
+69 The Munich Youth Employment Agency also provides information on the recognition of foreign qualifications.
+70 Further information can be found here.
+71 Munich Youth Employment Agency
+72 Sonnenstrasse 19
+73 muenchen@jugendberufsagentur.de
+74 Website of the Munich Youth Employment Agency
+75 The Munich Youth Welfare Office is also responsible for vocational training.
+76 The Munich Youth Welfare Office provides support in the search for an apprenticeship or an introductory qualification.
+77 The Munich Youth Welfare Office also provides information on the recognition of foreign qualifications.
+78 Further information can be found here.
+79 Munich Youth Welfare Office
+80 Sonnenstrasse 19
+81 muenchen@jugendamt.de
+82 Website of the Munich Youth Welfare Office
+83 The Munich Integration Office is also responsible for vocational training.
+84 The Munich Integration Office provides support in the search for an apprenticeship or an introductory qualification.
+85 The Munich Integration Office also provides information on the recognition of foreign qualifications.
+86 Further information can be found here.
+87 Munich Integration Office
+88 Sonnenstrasse 19
+89 muenchen@integration

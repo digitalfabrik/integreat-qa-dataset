@@ -1,0 +1,9 @@
+The question is: Які воркшопи пропонуються у ВНЗ?
+
+The relevant sentences from the document are:
+
+[6] У ВНЗ також є багато можливостей для учнів та шкіл.
+
+Therefore, the output is: [6]assistant
+
+The question is: Я

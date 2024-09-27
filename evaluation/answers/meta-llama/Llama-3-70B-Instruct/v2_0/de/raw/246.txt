@@ -1,0 +1,4 @@
+11 Volkshochschule
+12 Die Volkshochschule bietet Alphabetisierungs-Kurse an.
+
+## Answer: Das Portal bietet einen Deutschkurs zur Alphabetisierung. ## Sentence numbers: 9

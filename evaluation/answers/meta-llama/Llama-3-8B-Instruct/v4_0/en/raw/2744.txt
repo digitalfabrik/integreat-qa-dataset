@@ -1,0 +1,8 @@
+[2, 4]assistant
+
+The sentences that answer the question "Where can I find psychological support?" are:
+
+[2] You can also call the telephone counseling service (Telefon-Seelsorge).
+[4] The call costs nothing and you can call at any time.
+
+So, the output

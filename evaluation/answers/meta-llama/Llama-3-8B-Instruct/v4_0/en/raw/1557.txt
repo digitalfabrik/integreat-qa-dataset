@@ -1,0 +1,6 @@
+[10, 11]assistant
+
+The sentences that answer the question "What is Serlo ABC and how can it be used?" are:
+
+[10] Serlo-ABC
+[11] With the free literacy app Serlo ABC, you can learn the Latin alphabet and basic language skills independently,

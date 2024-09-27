@@ -1,0 +1,4 @@
+[10, 11, 12, 13]
+
+Explanation:
+The question asks about the process of an asylum procedure in Germany. The relevant sentences provide information about the first step of the process, which is making a personal asylum application at the BundesA

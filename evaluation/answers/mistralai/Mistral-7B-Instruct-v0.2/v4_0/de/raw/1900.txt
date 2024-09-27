@@ -1,0 +1,3 @@
+[2]
+
+Explanation: The question asks for the number of types of universities in Germany. Sentence 2 in the document states that there are different types of universities in Germany. Therefore, this sentence is relevant to the question.

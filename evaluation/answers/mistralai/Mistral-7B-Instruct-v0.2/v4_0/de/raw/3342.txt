@@ -1,0 +1,4 @@
+[18, 13, 15]
+
+Explanation:
+The question asks for the difference between a Bachelor and a Master degree. Sentences 13 and 15 provide information about the differences between universities (which offer Master degrees and are more research-oriented) and F

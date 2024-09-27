@@ -1,0 +1,5 @@
+The relevant sentences are:
+[29, 30, 31, 33, 34]
+
+Explanation:
+Sentence 29 introduces the topic of where to buy Halal food. Sentences 30 and 31 provide specific locations where

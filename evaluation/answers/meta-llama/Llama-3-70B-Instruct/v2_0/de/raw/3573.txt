@@ -1,0 +1,20 @@
+33 Hier finden Sie Informationen für Menschen mit Behinderung.
+34 Hier finden Sie Informationen für Menschen mit chronischen Krankheiten.
+35 Hier finden Sie Informationen für Menschen über 65 Jahre.
+36 Hier finden Sie Informationen für Menschen, die in Pflegeheimen leben.
+37 Hier finden Sie Informationen für Menschen, die in Altenheimen leben.
+38 Hier finden Sie Informationen für Menschen, die in Behindertenwerkstätten arbeiten.
+39 Hier finden Sie Informationen für Menschen, die in Werkstätten für Menschen mit Behinderung arbeiten.
+40 Hier finden Sie Informationen für Menschen, die in Tagesförderstätten arbeiten.
+41 Hier finden Sie Informationen für Menschen, die in ambulanten Diensten arbeiten.
+42 Hier finden Sie Informationen für Menschen, die in stationären Einrichtungen arbeiten.
+43 Hier finden Sie Informationen für Menschen, die in Pflegediensten arbeiten.
+44 Hier finden Sie Informationen für Menschen, die in ambulanten Pflegediensten arbeiten.
+45 Hier finden Sie Informationen für Menschen, die in stationären Pflegediensten arbeiten.
+46 Hier finden Sie Informationen für Menschen, die in Krankenhäusern arbeiten.
+47 Hier finden Sie Informationen für Menschen, die in Reha-Zentren arbeiten.
+48 Hier finden Sie Informationen für Menschen, die in ambulanten Reha-Diensten arbeiten.
+49 Hier finden Sie Informationen für Menschen, die in stationären Reha-Zentren arbeiten.
+50 Hier finden Sie Informationen für Menschen, die in ambulanten Reha-Diensten arbeiten.
+
+## Answer: Sie schließen eine Krankenversicherung bei einer Krankenkasse ab. ## Sentence numbers: 8

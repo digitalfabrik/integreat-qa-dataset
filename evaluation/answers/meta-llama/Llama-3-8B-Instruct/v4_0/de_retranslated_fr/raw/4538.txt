@@ -1,0 +1,7 @@
+The question is: Was bedeutet das Kompetenzniveau A1 in der deutschen Sprache?
+
+The relevant sentences are:
+
+[8] A1: Anfänger
+[16] A1: Anfänger
+[17] Sie können einfache Wörter und Sätze verstehen und verwenden.

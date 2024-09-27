@@ -1,0 +1,5 @@
+[1, 4]assistant
+
+The sentences that answer the question "An welchen Deutschkursen kann ich teilnehmen?" are:
+
+[1] Junge Erwachsene zwischen 16 und 21 Jahren, die noch nicht gut Deutsch sprechen und noch schulpflichtig sind

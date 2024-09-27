@@ -1,0 +1,7 @@
+[16, 21, 23, 24]assistant
+
+The question is "Wo kann ich Unterkunft und Verpflegung finden?" which translates to "Where can I find accommodation and food?".
+
+The relevant sentences from the document are:
+
+[16] Beantragung einer Aufenth

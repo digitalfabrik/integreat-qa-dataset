@@ -1,0 +1,3 @@
+[15, 16]
+
+Explanation: The question asks for what is given in simultaneous vaccinations with the Measles (Masern) vaccination. The document mentions that the Measles vaccination is given in a combination with other vaccinations, specifically against Mumps

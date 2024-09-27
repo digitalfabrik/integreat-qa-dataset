@@ -1,0 +1,9 @@
+The question is: Wofür steht die Abkürzung SHK?
+
+The relevant sentences from the document are:
+
+24 SHK bedeutet „Studentische Hilfskraft“.
+
+Therefore, the output is: [24]assistant
+
+The question is: Wofür steht die Abkür

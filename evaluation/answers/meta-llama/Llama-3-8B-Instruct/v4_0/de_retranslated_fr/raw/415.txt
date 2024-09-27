@@ -1,0 +1,3 @@
+[5]assistant
+
+The sentence with ID 5 answers the question: "Was passiert, wenn das Verwaltungsgericht München im Widerspruchsverfahren eine andere Entscheidung trifft als das Bundesamt für Migration und Flüchtlinge (BAMF)?"

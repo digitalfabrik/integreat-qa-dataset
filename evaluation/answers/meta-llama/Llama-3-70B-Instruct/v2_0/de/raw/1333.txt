@@ -1,0 +1,22 @@
+41 Die Broschüre ist kostenlos und kann hier heruntergeladen werden.
+42 Die Broschüre enthält wichtige Informationen über das deutsche Gesundheitswesen.
+43 Die Broschüre ist auch auf Englisch verfügbar.
+44 Die Broschüre enthält wichtige Informationen über die ambulante und stationäre medizinische Versorgung.
+45 Die Broschüre enthält wichtige Informationen über den Gesundheitsschutz der Bevölkerung.
+46 Die Broschüre enthält wichtige Informationen über die Angebote des Gesundheitsamtes.
+47 Die Broschüre enthält wichtige Informationen über die Angebote zur Gesundheitsförderung und Prävention.
+48 Die Broschüre enthält wichtige Informationen über die Angebote des ärztlichen Bereitschaftsdienstes.
+49 Die Broschüre enthält wichtige Informationen über die Angebote des Zahnärztlichen Notdienstes.
+50 Die Broschüre enthält wichtige Informationen über die Angebote des Apothekennotdienstes.
+51 Die Broschüre enthält wichtige Informationen über die Angebote des Gesundheitsamtes.
+52 Die Broschüre enthält wichtige Informationen über die Angebote zur Gesundheitsförderung und Prävention.
+53 Die Broschüre enthält wichtige Informationen über die Angebote des ärztlichen Bereitschaftsdienstes.
+54 Die Broschüre enthält wichtige Informationen über die Angebote des Zahnärztlichen Notdienstes.
+55 Die Broschüre enthält wichtige Informationen über die Angebote des Apothekennotdienstes.
+56 Die Broschüre enthält wichtige Informationen über die Angebote des Gesundheitsamtes.
+57 Die Broschüre enthält wichtige Informationen über die Angebote zur Gesundheitsförderung und Prävention.
+58 Die Broschüre enthält wichtige Informationen über die Angebote des ärztlichen Bereitschaftsdienstes.
+59 Die Broschüre enthält wichtige Informationen über die Angebote des Zahnärztlichen Notdienstes.
+60 Die Broschüre enthält wichtige Informationen über die Angebote des Apothekennotdienstes.
+61 Die Broschüre enthält wichtige Informationen über die Angebote des Gesundheitsamtes.
+62 Die Broschüre enthält wichtige Informationen über die Angebote zur Gesundheitsförderung und Pr

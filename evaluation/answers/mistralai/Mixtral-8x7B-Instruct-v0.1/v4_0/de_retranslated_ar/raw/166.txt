@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question are:
+
+[10, 13, 14]
+
+Sentence 10 states: "Für wen: für Kinder, Jugendliche, Erwachsene, Senior*innen. Für Menschen mit und ohne Beh

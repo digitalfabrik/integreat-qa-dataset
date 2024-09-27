@@ -1,0 +1,5 @@
+[]assistant
+
+I apologize for the mistake. Since the question asks about the required documents for the application for education financing, and the document does not provide that information, the correct output is indeed an empty list: []
+
+However, if the question was rephrased to ask about the types of education that

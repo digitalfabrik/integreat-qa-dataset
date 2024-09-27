@@ -1,0 +1,7 @@
+[18, 19, 21]assistant
+
+The question is "Quels sont les permis de conduire valables en Allemagne?"
+
+The relevant sentences are:
+
+[18] Dans ce cas, votre permis de conduire étranger est encore valable 6 mois après

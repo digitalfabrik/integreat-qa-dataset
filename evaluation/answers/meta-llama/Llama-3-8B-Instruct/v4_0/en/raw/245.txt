@@ -1,0 +1,7 @@
+[5]assistant
+
+The sentence that answers the question is:
+
+5 Serlo ABC is a free app for teenagers and young adults aged 15 to 30 that enables independent and intuitive learning of the Latin alphabet and teaches language skills at the same time.
+
+So, the output is: [5]

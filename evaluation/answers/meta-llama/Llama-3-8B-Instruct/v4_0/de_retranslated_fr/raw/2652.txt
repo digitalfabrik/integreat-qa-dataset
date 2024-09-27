@@ -1,0 +1,7 @@
+[4]assistant
+
+The question is "Wie sind die Kündigungsfristen in Deutschland?" and the relevant sentence is:
+
+4 Die Kündigungsfrist für Arbeitgeber beträgt normalerweise 4 Wochen zum Ende eines Monats.
+
+So the output is [4].

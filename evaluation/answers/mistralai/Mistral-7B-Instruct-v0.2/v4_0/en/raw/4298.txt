@@ -1,0 +1,4 @@
+[4, 5]
+
+Explanation:
+The given question asks about the medical tests included in a school health examination in Germany. Sentences [4] and [5] provide the answer as they mention that the sight, hearing and language development are checked during the examination.

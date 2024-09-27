@@ -1,0 +1,5 @@
+[1, 4]assistant
+
+The question is "Welche Dokumente sind für die Registrierung erforderlich?" which translates to "What documents are required for registration?".
+
+The answer is in sentence 4: "Sie werden alle beim Amt für Ausländerwesen

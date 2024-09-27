@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "What is the difference between LED and energy-saving lamps?" but this question is not present in the document. The document is about saving energy, not about the difference between LED and energy-saving lamps. Therefore, the output is an empty list.assistant
+
+I

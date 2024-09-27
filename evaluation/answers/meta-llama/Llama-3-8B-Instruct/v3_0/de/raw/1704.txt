@@ -1,0 +1,5 @@
+[]assistant
+
+I apologize for the mistake. The correct answer is actually an empty list, since none of the sentences in the document directly answer the question about the types of diplomas that can be earned at a "berufliche Schule".assistant
+
+You are correct. The correct output

@@ -1,0 +1,9 @@
+The question is: ما هي مدة صلاحية تصريح الإقامة؟
+
+The relevant sentences are:
+
+[8] يحدد كل تصريح إقامة المدى المسموح لك بالعمل فيه.
+
+The output is: [8]assistant
+
+The question is: ما

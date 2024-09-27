@@ -1,0 +1,5 @@
+[8]assistant
+
+The sentence that answers the question "ما الذي يوصى به للوقاية من العفن؟" is sentence 8, which states "و هذا يمنع تكوّن العفن، على سبيل المثال."assistant
+
+[8]

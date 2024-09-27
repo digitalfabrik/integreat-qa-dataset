@@ -1,0 +1,11 @@
+[7]assistant
+
+The sentence that answers the question is:
+
+7 C'est pourquoi il existe de nombreuses offres pour les personnes handicapées.
+
+So, the output is:
+
+[7]assistant
+
+I apologize for the mistake. The question asks about the available support offers for people who

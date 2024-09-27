@@ -1,0 +1,5 @@
+Based on the information provided, the following sentences answer the question:
+
+[7, 15, 16]
+
+Sentence 7 indicates that there are offers available on the Musenkuss München website. Sentence 15 states that some of the offers are free, and sentence

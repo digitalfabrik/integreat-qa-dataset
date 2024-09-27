@@ -1,0 +1,7 @@
+The question is: "Якими навичками володіє людина зі знанням мови на рівні В2?"
+
+The document does not contain any sentences that directly answer this question. Therefore, the output is:
+
+[]assistant
+
+The question is: "Якими навичками володіє людина зі знанням мови

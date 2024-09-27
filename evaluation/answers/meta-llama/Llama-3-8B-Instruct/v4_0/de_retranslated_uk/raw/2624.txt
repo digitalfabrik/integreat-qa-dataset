@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Was sind die Voraussetzungen für einen Freiwilligendienst mit Flüchtlingen?" and the document does not provide any information about the requirements for a volunteer service with refugees. Therefore, the output is an empty list: []

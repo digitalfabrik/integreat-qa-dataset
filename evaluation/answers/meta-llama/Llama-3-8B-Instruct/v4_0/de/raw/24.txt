@@ -1,0 +1,7 @@
+[8]assistant
+
+The sentence with ID 8 answers the question: "Was kostet der Eintritt ins Münchner Theater für Kinder?"assistant
+
+[8]assistant
+
+The sentence with ID 8 answers the question: "Was kostet der Eintr

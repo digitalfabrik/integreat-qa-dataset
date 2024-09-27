@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID 2 answers the question "What office should I contact if I am in danger of losing my home?"assistant
+
+[2]assistant
+
+The sentence with ID 2 answers the question "What office should I contact if I am

@@ -1,0 +1,5 @@
+22 The Münchner Kammerspiele is a theater in Munich.
+23 The Münchner Kammerspiele is a theater in Munich.
+24 The Münchner Kammerspiele is a theater in Munich.
+
+## Answer: theaterkasse@kammerspiele.de or Falckenbergstr. 2 or www.muenchner-kammerspiele.de ## Sentence numbers: 18, 16, 20

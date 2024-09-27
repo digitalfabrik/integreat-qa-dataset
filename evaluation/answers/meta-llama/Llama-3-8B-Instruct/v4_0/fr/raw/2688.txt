@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "En quoi consiste la procédure de reconnaissance des diplômes professionnels étrangers?" and the document does not contain any information about the procedure of recognition of foreign professional diplomas. Therefore, the output is an empty list: []assistant

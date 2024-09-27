@@ -1,0 +1,41 @@
+## Answer: Die Ausländerbehörde. ## Sentence numbers: 20
+
+## Answer: Die IHK oder HWK. ## Sentence numbers: 13
+
+## Answer: Das Regierungspräsidium. ## Sentence numbers: 1, 6
+
+## Answer: Personnen, die bereits seit drei Monaten im Besitz einer Duldung nach § 60a sind. ## Sentence numbers: 5
+
+## Answer: Ausbildung in einem staatlich anerkannten oder vergleichbar geregelten Ausbildungsberuf. ## Sentence numbers: 9
+
+## Answer: Regelausbildungsdauer mindestens zwei Jahre. ## Sentence numbers: 10
+
+## Answer: Geduldete. ## Sentence numbers: 4
+
+## Answer: Ausbildungsduldung (§60c). ## Sentence numbers: 0
+
+## Answer: Erfolgreiches Abschluss der Ausbildung. ## Sentence numbers: 2
+
+## Answer: Voraussetzungen. ## Sentence numbers: 8
+
+## Answer: Qualifizierte Ausbildung. ## Sentence numbers: 9
+
+## Answer: Regelausbildungsdauer mindestens zwei Jahre. ## Sentence numbers: 10
+
+## Answer: Bei Helfer- oder Assistenzausbildungen. ## Sentence numbers: 12
+
+## Answer: Ausbildungsplatzzusage. ## Sentence numbers: 12
+
+## Answer: Klarer Identität. ## Sentence numbers: 14, 15, 16
+
+## Answer: Einstiegsqualifizierung (EQ). ## Sentence numbers: 17
+
+## Answer: Vorbereitung auf eine Berufsausbildung. ## Sentence numbers: 18
+
+## Answer: Möglichkeit zum begleitenden Sprachkurs! ## Sentence numbers: 18
+
+## Answer: Fragen. ## Sentence numbers: 20
+
+## Answer: Ausländerbehörde. ## Sentence numbers: 20
+
+## Answer: Regierungspräsidium.

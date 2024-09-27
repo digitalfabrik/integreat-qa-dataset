@@ -1,0 +1,33 @@
+## Answer: You can apply for public health insurance in Germany by taking out health insurance with a health insurance company. ## Sentence numbers: 8, 10, 14, 18, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: How can I apply for public health insurance in Germany?
+
+Context: 0 Health insurance is mandatory
+1 Every person in Germany must have health insurance.
+2 Statutory or private health insurance?
+3 You have the option of taking statutory or private health insurance.
+4 Most people have statutory health insurance - unless they earn a lot at work and exceed a certain amount.
+5 When you work, health insurance is paid by you (the employee) and the employer.
+6 In order to qualify for private health insurance, a person must meet certain criteria (e.g. a predefined gross income threshold).
+7 Health insurance
+8 You take out health insurance with a health insurance company.
+9 There are many different health insurance providers in Germany.
+10 Every person has the right to choose their health insurer.
+11 Here, you will find an overview of the health insurance providers in Germany.
+12 Insurance card
+13 You will receive an insurance card from your health insurance company.
+14 With the insurance card of a health insurance company, you can receive medical services throughout Germany.
+15 On the rear side of card is also the European Health Insurance Card (EHIC).
+16 This means you are also well covered in all EU countries as well as many other European countries and even some non-European territories.
+17 Note:
+18 Please always remember to take your insurance card with you when you are treated by doctors, in hospitals or by accredited therapists.
+19 Note for asylum applicants
+20 There are different rules for asylum seekers.
+21 Read more in the section "Information for asylum seekers".
+22 Health promotion and prevention offers
+23 Most health insurance companies cover the costs of health promotion and prevention services that their members take advantage of.
+24 Health promotion and prevention services are designed to help maintain and care for health.
+25 The idea is to avoid illnesses and health problems, reducing the risk of becoming

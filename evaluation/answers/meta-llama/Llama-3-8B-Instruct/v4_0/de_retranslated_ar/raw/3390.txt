@@ -1,0 +1,9 @@
+Question: Was bedeutet "Berufs Deutsch" auf Deutsch?
+
+Document:...
+
+Answer: [5, 6, 7, 9, 16, 22, 26, 31, 40]assistant
+
+The sentences that answer the question are:
+
+* 5: Du kannst

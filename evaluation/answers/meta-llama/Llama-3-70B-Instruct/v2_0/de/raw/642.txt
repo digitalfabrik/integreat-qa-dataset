@@ -1,0 +1,24 @@
+79 Donnerstag 19:30 - 21:30
+80 Samstag 14:00 - 18:00
+81 Sonntag 14:00 - 18:00
+82 Radlkeller im Bellevue von Monaco
+83 Wir bieten Ihnen Fahrräder an, die von uns repariert wurden.
+84 Wir bieten Ihnen Ersatzteile an, die von uns repariert wurden.
+85 Wir bieten Ihnen Werkzeuge an, die von uns repariert wurden.
+86 Wir bieten Ihnen Beratung an, die von uns repariert wurde.
+87 Wir bieten Ihnen Platz an, die von uns repariert wurde.
+88 Wir bieten Ihnen Reparatur an, die von uns repariert wurde.
+89 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+90 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+91 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+92 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+93 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+94 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+95 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+96 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+97 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+98 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+99 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+100 Wir bieten Ihnen Fahrradkurse an, die von uns repariert wurden.
+
+## Answer: Deutsch, Türkisch, Russisch, Kroatisch, Englisch ## Sentence numbers: 28

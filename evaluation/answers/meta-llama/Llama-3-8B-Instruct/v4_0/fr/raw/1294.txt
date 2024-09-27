@@ -1,0 +1,5 @@
+[1, 2]assistant
+
+The sentences that answer the question "Qu'est-ce que je peux obtenir avec une ordonnance à la pharmacie?" are:
+
+[1] Si tu as besoin de médicaments, ton médecin te remettra une ordonnance.

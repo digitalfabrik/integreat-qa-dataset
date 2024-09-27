@@ -1,0 +1,5 @@
+## Answer: Das VHS-Lernportal bietet einen Deutschkurs zur Alphabetisierung. ## Sentence numbers: 8, 9
+
+## Answer: None. ## Numbers: 0, 1, 2, 3, 4, 5, 6, 10
+
+The question asks for the location of a German course for alphabetization. The context provides information about the importance of learning the Latin alphabet for reading and writing German, various tools for learning the Latin alphabet, and a free app called Serlo ABC that teaches the Latin alphabet and German language. However, it does not explicitly state that the VHS-Lernportal offers a German course specifically for alphabetization. Therefore, the answer is found in sentences 8 and 9, which mention that the portal offers a Deutschkurs (German course) and that it can be used in Alphabetisierungs-Kursen (alphabetization courses).

@@ -1,0 +1,5 @@
+[1, 2, 11, 21, 22]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking for the centers that provide counseling services for refugees who suffer from mental health issues.assistant
+
+You

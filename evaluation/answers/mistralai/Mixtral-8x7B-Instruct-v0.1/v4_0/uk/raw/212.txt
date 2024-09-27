@@ -1,0 +1,4 @@
+[21, 23]
+
+Explanation:
+The question asks for the languages supported by the translators in the support centers. Sentence 23 directly answers this question by listing the languages that translators are available in at the support centers. Sentence 21 is also

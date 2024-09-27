@@ -1,0 +1,7 @@
+[8]assistant
+
+The sentence that answers the question "ما هي تكلفة الدخول إلى مسرح ميونيخ للأطفال؟" is:
+
+8 تبدأ أسعار التذاكر من 12.70 يورو (حسب اختيار المقعد)
+
+So the output is:

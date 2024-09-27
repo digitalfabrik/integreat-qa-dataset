@@ -1,0 +1,4 @@
+[5, 9, 51, 53]
+
+Explanation:
+The required documents or information to apply for a driving license in Munich include having a valid identification document (sentence 5), being a resident of Munich (sentence 5), and meeting the minimum age

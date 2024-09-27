@@ -1,0 +1,7 @@
+The question is: Was ist Meinungsfreiheit in Deutschland?
+
+The relevant sentences are:
+
+1, 2, 4, 6, 7, 8, 9, 10, 11
+
+So the output is: [1, 2, 4, 6, 7

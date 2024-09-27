@@ -1,0 +1,9 @@
+The question is: Wie finde ich eine geeignete Unterkunft?
+
+The relevant sentences are: []
+
+There are no sentences in the document that directly answer the question about finding a suitable accommodation.assistant
+
+[ ]assistant
+
+I see what you did there! Yes, the correct output is

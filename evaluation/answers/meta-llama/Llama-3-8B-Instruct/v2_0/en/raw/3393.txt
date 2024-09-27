@@ -1,0 +1,31 @@
+## Answer: The Office for Foreigners and Integration of the Augsburg District Office. ## Sentence numbers: 4, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Who can help me register if I don't speak German?
+
+Context: 0 Registration after arrival
+1 Registration for people in private accommodation or in decentralized asylum accommodation
+2 Ukranian refugees live in private apartments.
+3 Or in decentralized asylum accommodation.
+4 They are all registered with the Office for Foreigners and Integration of the Augsburg District Office.
+5 Registration procedure
+6 This is how registration works:
+7 1. fill in the form
+8 You fill out the form for a simplified initial registration.
+9 A few days later you will receive a certificate by post.
+10 With the certificate you can then look for work.
+11 2. presentation at the Office for Foreigners and Integration
+12 Arrange a personal appointment at the Office for Foreigners and Integration of the Augsburg District Office.
+13 Go to this page: Online appointment system
+14 Select "Residence permit for humanitarian reasons (asylum)".
+15 Then select the alphabetical assignment of your surname (last name).
+16 In the online appointment system you will find all the appointments of the Foreigners' Registration Office for the next four weeks.
+17 If no dates are displayed, all dates are fully booked.
+18 New dates are added regularly.
+19 Try again at a later date!
+20 You should be patient.
+21 Many people need an appointment at the moment.
+22 For the appointment you need:
+23 Passport and birth certificate (alternatively: other proof of identity that proves your

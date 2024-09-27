@@ -1,0 +1,6 @@
+[]assistant
+
+The question is "De quels documents ai-je besoin pour obtenir mon diplôme de fin d'études secondaires?" and the document is:
+
+[0] Rattraper son retard scolaire
+[1] Tu souhaites obtenir un diplôme de fin

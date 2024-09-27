@@ -1,0 +1,5 @@
+[9]assistant
+
+The sentence with ID 9 answers the question "In welche Sprachen können TranslAid-Übersetzer übersetzen?"assistant
+
+You are correct! The sentence with ID 9 answers the question "In welche Sprachen können TranslA

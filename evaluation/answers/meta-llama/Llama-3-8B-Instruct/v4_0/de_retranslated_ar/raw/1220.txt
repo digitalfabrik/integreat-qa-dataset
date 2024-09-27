@@ -1,0 +1,6 @@
+[3, 4, 8]assistant
+
+The sentences that answer the question "Woran nehmen Sie in der Wohnklasse teil?" are:
+
+[3] Wenn Du für Dich allein eine Wohnung suchst, kann eine WG eine gute Alternative zu einer eigenen Wohnung sein.
+[4] In

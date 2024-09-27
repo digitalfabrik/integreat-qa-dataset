@@ -1,0 +1,4 @@
+[12, 14]
+
+Explanation:
+The question asks if there are any costs for visiting Café Glanz für Frauen. Sentences 12 and 14 answer this question by stating that there are no entrance fees and that children can be brought along for free.

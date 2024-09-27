@@ -1,0 +1,5 @@
+[8]assistant
+
+The question is "En général, combien de temps dure la formation scolaire?" and the relevant sentence is [8] "La formation scolaire dure généralement de 1 à 3 ans."assistant
+
+[8]

@@ -1,0 +1,8 @@
+[]assistant
+
+The question is "Which integration courses can I attend in Germany?".
+
+The relevant sentences from the document are:
+
+[2] Adult refugees from Ukraine have the opportunity to take part in an integration course free of charge.
+[10] You can find out which language schools offer integration courses and when

@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wie kann ich Unterstützung für die Wohnungssuche finden?" and the document does not provide any information about how to find support for apartment searching. Therefore, the output is an empty list.assistant
+
+I completely agree with you! The question is about

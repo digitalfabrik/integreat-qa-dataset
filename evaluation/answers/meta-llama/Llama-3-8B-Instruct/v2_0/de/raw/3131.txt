@@ -1,0 +1,27 @@
+## Answer: Die Voraussetzungen für eine Arbeitsgenehmigung in Deutschland sind: 
+## Sentence numbers: 2, 5, 6, 7, 9, 11-18, 20, 21, 22, 24, 25, 27, 30, 31, 32, 33, 34, 35, 37, 38, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 53, 54, 55, 56, 57, 58, 59, 61, 62, 63, 64, 65, 66 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Was sind die Voraussetzungen für eine Arbeitsgenehmigung in Deutschland?
+
+Context: 0 Arbeit und Aufenthalt
+1 Nicht jede Person darf in Deutschland arbeiten.
+2 Ein wichtiges Kriterium ist Deine Staatsbürgerschaft beziehungsweise Dein Aufenthaltstitel.
+3 Uneingeschränkter Zugang zum Arbeitsmarkt
+4 Folgende Personen haben einen uneingeschränkten Zugang zum deutschen Arbeitsmarkt:
+5 Staatsangehörige eines EU-Landes
+6 Staatsangehörige des Europäischen Wirtschaftsraums (EWR)
+7 Personen mit einer schweizer Staatsangehörigkeit
+8 Diese Personen benötigen für die Beschäftigung in Deutschland keine besondere Erlaubnis.
+9 Personengruppen mit besonderen Regelungen
+10 Für bestimmte Gruppen gibt es besondere Regelungen.
+11 Zum Beispiel für:
+12 Fach­kräf­te
+13 Hoch­qua­li­fizier­te
+14 Inhaberinnen und Inhaber der Blauen Kar­te EU
+15 For­schende
+16 Selb­stän­di­g Tätige
+17 Ar­beitsu­chen­de
+18 Mitarbeitende, die im Rahmen von Trans­fers in ihrem Unternehmen nach Deutschland kommen

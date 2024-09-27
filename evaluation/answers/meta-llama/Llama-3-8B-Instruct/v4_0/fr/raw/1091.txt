@@ -1,0 +1,7 @@
+[3, 4, 5, 7, 8, 9]assistant
+
+The question is "Quels sont les différents types d'assurance maladie en Allemagne?"
+
+The relevant sentences from the document are:
+
+[3] Il y a l'assurance

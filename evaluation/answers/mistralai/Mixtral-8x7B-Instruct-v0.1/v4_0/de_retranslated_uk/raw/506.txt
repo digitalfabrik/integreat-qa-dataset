@@ -1,0 +1,5 @@
+Based on the given document, the following sentences answer the question "Welche Navigations-App empfehlen Sie für München?":
+
+[22, 40, 44, 45, 46, 48]
+
+These sentences mention the following navigation

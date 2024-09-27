@@ -1,0 +1,9 @@
+The question is: Sous quelles conditions un permis d'établissement peut-il être délivré?
+
+The relevant sentences from the document are:
+
+2, 4-12, 13
+
+So, the output is: [2, 4-12, 13]assistant
+
+The correct

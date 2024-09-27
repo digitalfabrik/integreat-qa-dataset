@@ -1,0 +1,7 @@
+The relevant sentences' IDs are: [1, 3, 5]
+
+Explanation:
+
+Sentence 1 gives a general idea of what an open treff or café is, which is a place where people meet.
+
+Sentence 3 explains that these meetings offer the opportunity

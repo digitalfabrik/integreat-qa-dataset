@@ -1,0 +1,6 @@
+[27, 29, 38]assistant
+
+The sentences that answer the question "Où trouver des bibliothèques et des clubs dans le quartier?" are:
+
+[27] Les bibliothèques sont un endroit idéal pour les personnes qui aiment lire.
+[29

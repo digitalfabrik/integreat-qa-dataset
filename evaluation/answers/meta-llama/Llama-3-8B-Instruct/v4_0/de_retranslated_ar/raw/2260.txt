@@ -1,0 +1,11 @@
+The question is: Wie lautet die Notrufnummer in Deutschland?
+
+The relevant sentences from the document are:
+
+2 110
+4 112
+6 112
+
+The IDs of the relevant sentences are: [2,4,6]assistant
+
+[2,4,6]

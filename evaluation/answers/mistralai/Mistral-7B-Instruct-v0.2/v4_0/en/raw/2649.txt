@@ -1,0 +1,3 @@
+[5, 8, 9]
+
+Explanation: The sentences that mention "integration" or "integration courses" are the most likely to answer the question. Sentences 5, 8, and 9 provide information about the integration management and the integration courses offered by the City

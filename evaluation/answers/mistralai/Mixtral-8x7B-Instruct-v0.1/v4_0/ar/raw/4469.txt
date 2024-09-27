@@ -1,0 +1,7 @@
+[4, 5, 6]
+
+Explanation:
+
+The question asks for the rules regarding noise in the house or apartment. The relevant sentences from the document that answer this question are:
+
+[4] وأهمها - This sentence introduces the most important rules

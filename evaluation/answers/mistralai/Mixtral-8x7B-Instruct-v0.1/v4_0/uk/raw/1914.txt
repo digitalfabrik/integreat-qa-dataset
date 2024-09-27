@@ -1,0 +1,6 @@
+The relevant sentences from the document that answer the question are:
+
+IDs: [2, 4]
+
+Sentences:
+2 Якщо ви є громадянином країни-члена ЄС, ви, як правило, можете легально в'їхати

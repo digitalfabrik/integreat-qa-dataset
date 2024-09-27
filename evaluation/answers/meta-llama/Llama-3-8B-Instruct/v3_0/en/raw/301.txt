@@ -1,0 +1,3 @@
+[5, 12, 13]assistant
+
+Note: Sentence 5 mentions that the integration courses are free of charge for refugees and other target groups who receive social benefits, which is a relevant answer to the question. Sentences 12 and 13 mention specific groups of people who can attend integration

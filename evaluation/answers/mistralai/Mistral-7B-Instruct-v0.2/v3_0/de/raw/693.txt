@@ -1,0 +1,5 @@
+If the question is asking when you cannot get the entire kaution back, the relevant sentences are:
+
+[15, 21, 22, 23, 24]
+
+So the answer would be: [15, 21, 22,

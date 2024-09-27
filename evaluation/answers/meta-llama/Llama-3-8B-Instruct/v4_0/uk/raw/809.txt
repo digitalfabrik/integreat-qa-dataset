@@ -1,0 +1,9 @@
+Question: Скільки триває середня школа?
+
+Document:
+
+The answer to the question is not found in the document. Therefore, the output is:
+
+[]assistant
+
+You are correct. The question asks about the duration of a middle school, but the document does not provide this information. Therefore,

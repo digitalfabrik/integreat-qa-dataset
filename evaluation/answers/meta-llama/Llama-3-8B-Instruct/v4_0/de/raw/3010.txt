@@ -1,0 +1,5 @@
+[6]assistant
+
+The question is "Was versteht man unter dem Sprachniveau A1?" and the document does not contain any information about the meaning of Sprachniveau A1. Therefore, the output is an empty list: []
+
+However, if you're looking for sentences that

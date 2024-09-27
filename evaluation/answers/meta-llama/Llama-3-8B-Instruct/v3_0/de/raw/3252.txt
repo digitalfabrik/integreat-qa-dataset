@@ -1,0 +1,7 @@
+[]assistant
+
+I apologize for the mistake. The correct output is actually:
+
+[]assistant
+
+You are correct. The question asks about the documents needed to obtain a school diploma, but the document does not provide any information about the specific documents required. Therefore, the output should be an empty list

@@ -1,0 +1,9 @@
+The question is: An wen richten sich die HEi-Kurse?
+
+The relevant sentences are:
+
+[9] Für wen: alle Münchner Bürgerinnen und Bürger
+
+The output is: [9]assistant
+
+The question is: An wen richten sich die HEi-Kurse?

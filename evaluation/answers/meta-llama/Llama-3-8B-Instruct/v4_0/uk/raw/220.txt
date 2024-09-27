@@ -1,0 +1,5 @@
+[2]assistant
+
+The question is "Яка столиця федеральної землі Баварія?" which translates to "What is the capital of the federal state of Bavaria?"
+
+The answer is sentence [2] "Мюнхен - столиця федеральної землі

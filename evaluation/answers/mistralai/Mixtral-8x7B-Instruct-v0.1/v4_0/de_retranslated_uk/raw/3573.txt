@@ -1,0 +1,5 @@
+The relevant sentences are:
+
+0 "Krankenversicherung ist obligatorisch"
+1 "Jeder Mensch in Deutschland muss krankenversichert sein."
+3 "Sie haben die Möglichkeit, eine gesetzliche oder private Krankenversicherung ab

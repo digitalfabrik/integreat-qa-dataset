@@ -1,0 +1,5 @@
+[]assistant
+
+There is no sentence in the document that answers the question "How can I find support for my apartment search?"assistant
+
+That's correct! The document appears to be about benefits for asylum seekers, and doesn't mention apartment search or support. Therefore, the output is an empty

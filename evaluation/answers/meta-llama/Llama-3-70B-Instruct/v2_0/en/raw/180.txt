@@ -1,0 +1,20 @@
+26 You can find more information about the German education system on the Internet.
+27 There are also counseling services that can help you with your questions.
+28 What are the rules of conduct in Germany?
+29 In Germany, there are rules of conduct that apply to everyone.
+30 These rules are based on the principles of mutual respect, tolerance and understanding.
+31 You are expected to respect these rules.
+32 What are the consequences if I do not comply with the rules of conduct?
+33 If you do not comply with the rules of conduct, there may be consequences.
+34 These consequences can be warnings, fines or even imprisonment.
+35 What are the rules of conduct in my new home?
+36 In your new home, there are also rules of conduct that apply to everyone.
+37 These rules are based on the principles of mutual respect, tolerance and understanding.
+38 You are expected to respect these rules.
+39 What are the consequences if I do not comply with the rules of conduct in my new home?
+40 If you do not comply with the rules of conduct in your new home, there may be consequences.
+41 These consequences can be warnings, fines or even imprisonment.
+
+## Answer: a guardian. ## Sentence numbers: 6
+```
+The answer is "a guardian" and it is mentioned in sentence 6: "This person is called a guardian."

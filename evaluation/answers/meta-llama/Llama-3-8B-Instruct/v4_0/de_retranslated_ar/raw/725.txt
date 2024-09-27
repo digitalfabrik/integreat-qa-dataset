@@ -1,0 +1,7 @@
+[4]assistant
+
+The sentence with ID 4 answers the question: "Werden während der Freynets-Sitzungen Fotos oder Videos gemacht?"assistant
+
+[4]assistant
+
+The sentence with ID 4 answers the question: "Werden während der Freyn

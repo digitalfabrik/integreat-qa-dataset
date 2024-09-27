@@ -1,0 +1,4 @@
+3, 4, 8.
+
+Explanation:
+The question asks for the three areas of the German healthcare system. The document provides this information in sentence 3, which states that "Das Gesundheitssystem hat drei Bereiche: 1. Ambulante medizin

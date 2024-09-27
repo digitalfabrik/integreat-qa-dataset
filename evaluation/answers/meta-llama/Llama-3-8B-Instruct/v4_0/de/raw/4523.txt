@@ -1,0 +1,7 @@
+The question is: Welche Aktivitäten werden in der Jugendkulturwerkstatt organisiert?
+
+The relevant sentences from the document are:
+
+* 8 Es gibt offene Programme, individuelle Workshops, Workshop-Abende und Programme für Klassen und Gruppen.
+
+The IDs of the relevant sentences are:

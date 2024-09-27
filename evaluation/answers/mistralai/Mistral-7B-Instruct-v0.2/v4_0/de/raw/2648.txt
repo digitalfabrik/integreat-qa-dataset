@@ -1,0 +1,6 @@
+Based on the given question and document, the relevant sentences are:
+
+[6, 7, 24]
+
+Explanation:
+The question asks for information on where to enroll for integration courses. Sentences 6 and 7 provide the email address for integration-related matters in

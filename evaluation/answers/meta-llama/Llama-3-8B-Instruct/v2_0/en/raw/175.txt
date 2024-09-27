@@ -1,0 +1,13 @@
+## Answer: Residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 1, 2, 25, 34, 35, 40, 41 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 11, 22, 25, 34 [/INST] 
+## Answer: None. ## Numbers: -1 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 12, 22, 25, 35 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 11, 22, 25, 34 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 2, 22, 25, 35 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 12, 22, 25, 35 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 11, 22, 25, 34 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 2, 22, 25, 35 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 12, 22, 25, 35 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 11, 22, 25, 34 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ## Sentence numbers: 6, 2, 22, 25, 35 [/INST] 
+## Answer: proof of arrival, residence permit, fictitious certificate, residence permit, acquiescence. ##

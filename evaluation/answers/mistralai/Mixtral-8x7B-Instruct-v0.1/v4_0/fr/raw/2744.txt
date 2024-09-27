@@ -1,0 +1,5 @@
+[2, 6, 11, 16, 17, 18, 19] 
+
+Here's the reasoning:
+
+* Sentence 2 suggests calling the "Telefonseelsorge" service, which provides phone counseling and support.

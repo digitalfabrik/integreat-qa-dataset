@@ -1,0 +1,7 @@
+## Answer: The healthcare system provides medical treatment for sick people outside of hospitals. ## Sentences: 4, 5
+
+## Answer: Patients receive treatment and then go home. ## Sentences: 4, 5
+
+## Answer: None. ## Numbers: -1
+
+(Note: The context does not provide a definition or explanation of the term "outpatient" specifically in the context of the German healthcare system outside of the given sentences.)

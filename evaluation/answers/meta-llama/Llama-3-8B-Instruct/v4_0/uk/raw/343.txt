@@ -1,0 +1,9 @@
+Question: Які мови перекладають перекладачі TranslAid?
+
+Document: 9
+
+Output: [9]assistant
+
+The sentence that answers the question is:
+
+9 Такими мовами: Амхарська, арабська, арамейська, бенг

@@ -1,0 +1,6 @@
+[2, 3, 21, 16]assistant
+
+The sentences that answer the question "What financial support can families receive?" are:
+
+[2] Families can receive financial support.
+[3] In addition to direct cash benefits such as parental or child benefit, families will also benefit from tax

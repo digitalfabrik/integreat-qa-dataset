@@ -1,0 +1,4 @@
+[11, 13, 19, 24]
+
+Explanation:
+The question asks how to enroll in an online German course at B1 level. Sentences 11 and 13 mention the Telenovela "Jojo sucht das Glück

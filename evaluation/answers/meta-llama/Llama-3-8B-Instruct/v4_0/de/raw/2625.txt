@@ -1,0 +1,10 @@
+The question is: Was beinhaltet die Integrationsarbeit von Ehrenamtlichen?
+
+The relevant sentences are:
+2, 3
+
+Output: [2, 3]assistant
+
+The question is: Was beinhaltet die Integrationsarbeit von Ehrenamtlichen?
+
+The relevant sentences are:

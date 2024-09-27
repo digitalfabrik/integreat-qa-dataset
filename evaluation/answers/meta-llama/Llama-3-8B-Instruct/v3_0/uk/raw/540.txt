@@ -1,0 +1,7 @@
+[12]assistant
+
+Note: The sentence [12] explicitly mentions the availability of multilingual explanatory videos on the topic "Income of citizens", which answers the question.assistant
+
+[12]assistant
+
+Note: The sentence [12] explicitly mentions the availability of multilingual

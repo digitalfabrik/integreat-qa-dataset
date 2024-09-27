@@ -1,0 +1,5 @@
+[3, 6]assistant
+
+The sentences that answer the question "Comment puis-je obtenir des médicaments à prix réduit?" are:
+
+[3] Ensuite, vous pouvez obtenir des médicaments sans ordonnance, qui doivent être payés par vous-même,

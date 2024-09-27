@@ -1,0 +1,9 @@
+The question is: Які пільги пропонує своїм працівникам місто Мюнхен?
+
+The relevant sentences are:
+
+9 Ми також пропонуємо привабливі можливості для навчання та розвитку.
+
+Therefore, the output is: [9]assistant
+
+The question is: Я

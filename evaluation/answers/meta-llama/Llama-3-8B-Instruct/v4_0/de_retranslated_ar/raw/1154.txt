@@ -1,0 +1,7 @@
+[7, 10, 14]assistant
+
+The sentences that answer the question "Welche Art von finanzieller Unterstützung wird für die Ausbildung gewährt?" are:
+
+[7] Ausbildungsförderung
+[10] Förderungen für Studierende
+[14

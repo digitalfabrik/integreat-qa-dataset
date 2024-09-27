@@ -1,0 +1,4 @@
+[10, 11, 12]
+The sentences that answer the question are:
+- [10] "Serlo-ABC" (introduces the subject)
+- [11] "Avec l'application gratuite d'alphabétisation Serlo

@@ -1,0 +1,5 @@
+Based on the given question and document, the following sentences answer the question:
+
+[11, 12, 19, 20, 21]
+
+These sentences mention the various services offered by the Augsburg District Office, including help and advice centers, and the availability of contact

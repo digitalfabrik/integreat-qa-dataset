@@ -1,0 +1,17 @@
+Answer: Private liability insurance covers damages for which the insured is liable, while statutory health insurance covers medical expenses.
+Sentence numbers: 25, 1
+
+Answer: Statutory health insurance is a compulsory insurance in Germany, while private liability insurance is not.
+Sentence numbers: 2, 25, 19
+
+Answer: Private liability insurance pays for damages caused by the insured and their children, while statutory health insurance covers medical expenses for the insured.
+Sentence numbers: 25, 1
+
+Answer: Private liability insurance is not a compulsory insurance in Germany.
+Sentence numbers: 26
+
+Answer: Statutory health insurance is a compulsory insurance in Germany.
+Sentence numbers: 3, 5
+
+Answer: None.
+Numbers: 11-17, 27-30

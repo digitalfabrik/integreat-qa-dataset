@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "ما هي مراكز العمل الموجودة في ألمانيا؟" which translates to "What are the job centers available in Germany?".
+
+However, none of the sentences in the document provide information about job centers in Germany. Therefore, the output is an empty list:

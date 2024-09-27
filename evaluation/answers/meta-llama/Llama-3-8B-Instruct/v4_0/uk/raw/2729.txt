@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Де я можу отримати безкоштовну їжу в моєму місті?" and the document is about leisure activities and climate protection. None of the sentences in the document answer this question, so the output is an empty list: []assistant

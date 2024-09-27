@@ -1,0 +1,5 @@
+[10, 12, 13]
+
+Here's why these IDs were selected:
+
+- ID 10 defines the gross pay (الراتب الإجمالي), which is the base salary without deductions, and the total amount of taxes

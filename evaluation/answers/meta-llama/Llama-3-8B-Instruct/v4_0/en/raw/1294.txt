@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID [2] answers the question: "What can I get with a prescription at the pharmacy?"assistant
+
+You are correct. The sentence with ID [2] answers the question: "What can I get with a prescription at the pharmacy?"

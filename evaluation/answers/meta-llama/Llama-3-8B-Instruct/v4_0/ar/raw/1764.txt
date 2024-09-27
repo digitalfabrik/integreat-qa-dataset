@@ -1,0 +1,11 @@
+[17]assistant
+
+The correct answer is [17].assistant
+
+The correct answer is [17].assistant
+
+[17]assistant
+
+Your task is to select sentences from a document that answer a given question.assistant
+
+It may also be

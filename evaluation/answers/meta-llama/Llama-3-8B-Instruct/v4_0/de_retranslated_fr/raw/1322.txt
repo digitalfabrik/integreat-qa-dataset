@@ -1,0 +1,7 @@
+[4, 5, 6]assistant
+
+The sentences that answer the question are:
+
+[4] Genaue Informationen findest Du im Wegweiser des Landratsamtes.
+[5] Bei der Suche nach einem Arbeitsplatz helfen verschiedene Stellen.
+[6] Eine Übersicht

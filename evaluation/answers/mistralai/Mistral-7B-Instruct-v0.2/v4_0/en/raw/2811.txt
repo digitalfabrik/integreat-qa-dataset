@@ -1,0 +1,5 @@
+If you are an asylum seeker from a safe country of origin, the following sentences in the document describe the process for finding a job:
+
+[10, 12] Then you can apply for an employment permit at the Foreigners' Registration Office.
+
+Therefore, the output

@@ -1,0 +1,3 @@
+[22, 39, 40, 41, 42, 43, 44, 46, 47, 48]assistant
+
+Note: The question asks for a navigation app for Munich, and the relevant sentences are those that mention the MAPS.ME app, which is

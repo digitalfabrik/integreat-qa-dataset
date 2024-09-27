@@ -1,0 +1,15 @@
+18 Tel. 07151 501-5555
+19 Die Selbsthilfekontaktstelle bietet Beratung und Unterstützung an.
+20 Die Selbsthilfekontaktstelle vermittelt Kontakte zu Selbsthilfegruppen.
+21 Die Selbsthilfekontaktstelle bietet Schulungen und Fortbildungen an.
+22 Die Selbsthilfekontaktstelle bietet Öffentlichkeitsarbeit an.
+23 Die Selbsthilfekontaktstelle bietet Vernetzung an.
+24 Die Selbsthilfekontaktstelle bietet Projektarbeit an.
+25 Die Selbsthilfekontaktstelle bietet Veranstaltungen an.
+26 Die Selbsthilfekontaktstelle bietet Materialien an.
+27 Die Selbsthilfekontaktstelle bietet Beratung und Unterstützung für Selbsthilfegruppen.
+28 Die Selbsthilfekontaktstelle bietet Beratung und Unterstützung für Betroffene.
+29 Die Selbsthilfekontaktstelle bietet Beratung und Unterstützung für Angehörige.
+30 Die Selbsthilfekontaktstelle bietet Beratung und Unterstützung für Fachleute.
+
+## Answer: None. ## Numbers: -1

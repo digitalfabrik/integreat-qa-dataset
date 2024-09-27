@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wo kann ich Ärzte mit Unfallversicherung finden?" and the relevant sentence is "Durchgangsärztinnen oder Durchgangsärzte finden Sie auf der Webseite der Deutschen Gesetzlichen Unfallversicherung." which is sentence [

@@ -1,0 +1,9 @@
+The question is: Welche Personengruppen sind von der Beschäftigung ausgeschlossen?
+
+The relevant sentences from the document are:
+
+6 Einigen Personengruppen ist eine Arbeitsaufnahme nicht erlaubt.
+
+Therefore, the output is: [6]assistant
+
+The question is:

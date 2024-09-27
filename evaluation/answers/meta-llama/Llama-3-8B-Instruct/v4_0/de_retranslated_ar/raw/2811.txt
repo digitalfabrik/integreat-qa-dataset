@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wie kann ich als Asylbewerber einen Arbeitsplatz finden?" and the document does not provide any information on how an asylum seeker can find a job. Therefore, the output is an empty list, which is represented as "[]".assistant
+
+I

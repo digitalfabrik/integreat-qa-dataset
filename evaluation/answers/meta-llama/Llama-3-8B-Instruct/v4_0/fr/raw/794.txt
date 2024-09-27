@@ -1,0 +1,5 @@
+[2, 6, 7, 8, 9, 10]assistant
+
+The sentences that answer the question "Quel est le but de la réglementation en matière de sécurité au travail?" are:
+
+* 2 Pour tous les types de travail, les réglement

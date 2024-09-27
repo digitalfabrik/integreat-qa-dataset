@@ -1,0 +1,7 @@
+The answer to the question "Quel est le numéro d'urgence en Allemagne?" can be found in the document with the IDs:
+[2, 4, 6]
+
+Explanation:
+
+ID 2: "Police : 110"
+ID

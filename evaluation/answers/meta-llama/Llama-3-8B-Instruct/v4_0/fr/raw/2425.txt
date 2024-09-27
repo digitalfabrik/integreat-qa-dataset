@@ -1,0 +1,5 @@
+[12]assistant
+
+The sentence with ID 12 answers the question: "Comment puis-je faire du bénévolat en Allemagne pour aider à mon intégration?"
+
+The sentence suggests contacting the local municipality if you are interested in volunteering, which is a way to integrate into the community

@@ -1,0 +1,3 @@
+["0", "1", "2", "4", "6", "8", "9", "10"]
+
+These sentences provide information about the support available for integration. They explain that there is a service called "Gestion de l'intégration" that provides assistance with various aspects

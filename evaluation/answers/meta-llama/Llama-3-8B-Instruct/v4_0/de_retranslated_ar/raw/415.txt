@@ -1,0 +1,6 @@
+[4, 5]assistant
+
+The sentences that answer the question are:
+
+4. Im Rahmen einer Klage überprüft das Verwaltungsgericht München die Entscheidung des Bundesamtes.
+5. Kommt das Gericht zu einer anderen Entscheidung, verpflichtet

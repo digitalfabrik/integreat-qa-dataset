@@ -1,0 +1,5 @@
+[7]assistant
+
+The sentence with ID 7 answers the question: "Quel est le niveau de langue requis pour étudier en Allemagne?"assistant
+
+You are correct. The sentence with ID 7 answers the question: "Quel est le niveau de langue

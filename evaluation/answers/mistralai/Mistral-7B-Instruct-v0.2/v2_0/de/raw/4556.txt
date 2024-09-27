@@ -1,0 +1,29 @@
+## Answer: I can cast my vote for a person or for a list. ## Sentence numbers: 17, 18, 27, 28, 29, 38, 39
+
+## Answer: I can change my list selection and add or remove candidates' names. ## Sentence numbers: 33, 34, 35, 36
+
+## Answer: I must not give more than three Stimmen to one person. ## Sentence number: 25
+
+## Answer: I can support a person with more than one Stimme. ## Sentence numbers: 21, 22, 23
+
+## Answer: I can vote for a list and distribute my remaining votes to persons on that list. ## Sentence numbers: 29, 30, 31, 32, 38, 39, 40, 41, 42, 43, 44
+
+## Answer: I can test my voting process using an online test Stimmzettel. ## Sentence numbers: 11, 12, 47, 48, 49
+
+## Answer: In the election in Germany, I decide who gets a place in the Migrationsbeirat. ## Sentence number: 2
+
+## Answer: There are 40 votes for each person. ## Sentence number: 4, 13, 14, 15
+
+## Answer: The nominations (lists) with the candidates for the election of the Migrationsbeirat are completed at the end of January. ## Sentence number: 4
+
+## Answer: The nominations (lists) and a sample ballot are available here. ## Sentence number: 8, 9, 11
+
+## Answer: The ballot has all proposals sorted alphabetically from A to Z. ## Sentence number: 6
+
+## Answer: Each person's name, nationality, and profession are listed. ## Sentence number: 7
+
+## Answer: Here you will find all ## Sentence number: 8
+
+## Answer: You can also find a ## Sentence number: 11
+
+## Answer: Test the voting

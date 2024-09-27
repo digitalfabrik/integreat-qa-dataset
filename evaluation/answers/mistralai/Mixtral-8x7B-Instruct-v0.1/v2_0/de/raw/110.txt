@@ -1,0 +1,3 @@
+## Answer: Nein, U-Untersuchungen in Bayern sind kostenfrei. ## Sentence numbers: 15, 16
+
+The context states that U-Untersuchungen in Bayern are per Gesetz vorgeschrieben und verpflichtend, and they are always kostenfrei (free of charge).

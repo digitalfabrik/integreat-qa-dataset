@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Які служби підтримки доступні для біженців?" which translates to "What support services are available for refugees?".
+
+After analyzing the document, I found that none of the sentences provide information about support services available for refugees. Therefore, the output is an

@@ -1,0 +1,5 @@
+Based on the given question and document, the relevant sentences are:
+
+[8] In order to promote your integration in Germany, an individual plan (integration plan) can be drawn up.
+
+Therefore, the output would be: [8]

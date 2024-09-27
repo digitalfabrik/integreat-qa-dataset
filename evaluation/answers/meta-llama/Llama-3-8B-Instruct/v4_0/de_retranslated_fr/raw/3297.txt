@@ -1,0 +1,7 @@
+The question is: Was ist der Unterschied zwischen dem Asylstatus und dem Flüchtlingsstatus?
+
+The document does not contain any sentences that directly answer this question. Therefore, the output is:
+
+[]assistant
+
+The question is: Was ist der Unterschied zwischen dem Asylstatus und dem

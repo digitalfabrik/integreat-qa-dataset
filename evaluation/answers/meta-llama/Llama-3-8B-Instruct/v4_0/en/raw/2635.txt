@@ -1,0 +1,6 @@
+[1, 2, 9]assistant
+
+The sentences that answer the question "What support is available for integration?" are:
+
+1. If you are a refugee living in private accommodation or in municipal accommodation, you have access to integration management.
+2. The integration managers can support you in many areas

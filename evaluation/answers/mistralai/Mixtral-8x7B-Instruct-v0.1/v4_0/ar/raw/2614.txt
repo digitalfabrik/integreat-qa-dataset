@@ -1,0 +1,2 @@
+[7, 8, 9, 11, 12, 13, 14]
+These IDs were chosen because they answer the question about the types of tickets available for local public transportation. They include individual tickets, one-day tickets, weekly or monthly passes, as well

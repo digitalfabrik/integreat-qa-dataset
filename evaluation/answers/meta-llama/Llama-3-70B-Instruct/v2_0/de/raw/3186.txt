@@ -1,0 +1,35 @@
+16 Sie müssen die Kosten für das Internet von Ihrem eigenen Geld bezahlen.
+17 Sie können sich auch einen neuen Anbieter suchen.
+18 Sie haben dann eine Kündigungsfrist (meistens zwei Wochen).
+19 Danach können Sie zum Anbieter Ihrer Wahl wechseln.
+20 Das Verbraucherportal gibt einen neutralen Überblick über alle Anbieter.
+21 Sie können dort auch Preise vergleichen: www.verbraucherportal.de.
+22 Tipp: Das Team Internet-Check - SKM Augsburg berät Leistungsempfänger nach Einzug kostenlos zu ihrem Internetverbrauch.
+23 Alle Informationen dazu findest Du hier:
+24 www.internet-check.de.
+25 Miete
+26 Die Miete wird vom Jobcenter übernommen.
+27 Sie müssen die Miete nicht von Ihrem eigenen Geld bezahlen.
+28 Sie können sich auch einen neuen Vermieter suchen.
+29 Sie haben dann eine Kündigungsfrist (meistens zwei Wochen).
+30 Danach können Sie zum Vermieter Ihrer Wahl wechseln.
+31 Das Mieterverband gibt einen neutralen Überblick über alle Vermieter.
+32 Sie können dort auch Preise vergleichen: www.mieterverband.de.
+33 Tipp: Das Team Miete-Check - SKM Augsburg berät Leistungsempfänger nach Einzug kostenlos zu ihrer Miete.
+34 Alle Informationen dazu findest Du hier:
+35 www.miete-check.de.
+36 Lebensmittel
+37 Lebensmittel werden nicht vom Jobcenter übernommen.
+38 Sie müssen die Lebensmittel von Ihrem eigenen Geld bezahlen.
+39 Sie können sich auch einen neuen Anbieter suchen.
+40 Sie haben dann eine Kündigungsfrist (meistens zwei Wochen).
+41 Danach können Sie zum Anbieter Ihrer Wahl wechseln.
+42 Das Verbraucherportal gibt einen neutralen Überblick über alle Anbieter.
+43 Sie können dort auch Preise vergleichen: www.verbraucherportal.de.
+44 Tipp: Das Team Lebensmittel-Check - SKM Augsburg berät Leistungsempfänger nach Einzug kostenlos zu ihrem Lebensmittelverbrauch.
+45 Alle Informationen dazu findest Du hier:
+46 www.lebensmittel-check.de.
+
+## Answer: Das Jobcenter bietet die Leistung Miete an. ## Sentence numbers: 26
+```
+Please note that the answer is not a direct sentence in the context, but it can be inferred from the context. The

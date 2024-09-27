@@ -1,0 +1,5 @@
+The question asks for the documents required for registration, so the relevant sentences are those that mention the required documents. Here are the IDs of those sentences:
+
+[22, 23, 24, 25, 29]
+
+These sentences mention the following documents that are required

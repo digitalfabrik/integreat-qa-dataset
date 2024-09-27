@@ -1,0 +1,11 @@
+The question is: На яку вікову групу розрахований воркшоп з молодіжної культури?
+
+The relevant sentences are:
+
+9 Для кого: діти віком від 7 до 15 років
+
+The IDs of the relevant sentences are:
+
+[9]
+
+Note: There is only one sentence

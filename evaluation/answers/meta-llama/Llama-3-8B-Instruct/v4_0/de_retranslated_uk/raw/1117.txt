@@ -1,0 +1,5 @@
+[2]assistant
+
+The question is "Welche Arten von Kindergärten gibt es in Deutschland?" and the document is about the childcare in Germany. The sentence that answers the question is:
+
+2 In Deutschland gibt es zahlreiche Angebote der Kindertagesbetreuung in Kindert

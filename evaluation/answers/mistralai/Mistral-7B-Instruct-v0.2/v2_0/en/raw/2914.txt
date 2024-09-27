@@ -1,0 +1,7 @@
+## Answer: The opening hours of the town hall in Schwaikheim are mentioned in the context. ## Sentence numbers: 12-23
+
+## Answer: The town hall in Schwaikheim is open from 08:00 to 12:00 on Mondays and Thursdays, from 07:00 to 16:00 on Tuesdays, from 14:00 to 18:00 on Wednesdays, and from 08:00 to 12:00 on Fridays. ## Sentence numbers: 13, 14-16, 17-18, 19-20, 12
+
+## Answer: None. ## Numbers: -1
+
+(If the question asked for the contact information of the town hall or specific individuals, the answer would be different.)

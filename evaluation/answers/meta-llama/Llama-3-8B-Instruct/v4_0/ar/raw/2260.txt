@@ -1,0 +1,7 @@
+Question: ما هو رقم الطوارئ في ألمانيا؟
+
+Document:...
+
+Answer: [2, 4, 6]
+
+Explanation: The question asks for the emergency number in Germany. Sentences 2, 4, and 6 mention the numbers 110 and 112, which are the emergency numbers

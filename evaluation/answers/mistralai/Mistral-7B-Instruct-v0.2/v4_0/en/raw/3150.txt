@@ -1,0 +1,3 @@
+[12]
+
+Explanation: The sentence "Childcare in Germany is funded by the state. Parents pay a contribution based on their income." (which is missing from the document) would have also answered the question, but the document does not contain that information.

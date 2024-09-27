@@ -1,0 +1,5 @@
+[1, 7, 9, 20, 21, 24]assistant
+
+The question is "Wie melde ich mich für einen Online-Deutschkurs an?" which translates to "How do I sign up for an online German course?".
+
+The relevant sentences from the document

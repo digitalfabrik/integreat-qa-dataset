@@ -1,0 +1,9 @@
+The question is: Quel type de soutien financier est proposé pour la formation?
+
+The relevant sentences are:
+[2] C'est pourquoi il existe un soutien financier pour :
+[3] Formation
+[5] Formation continue
+[7] Aide à la formation
+
+The IDs of the relevant sentences are

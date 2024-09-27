@@ -1,0 +1,7 @@
+The question is: Welche Veranstaltungen finden im Rahmen der Jugendkulturwerkstatt statt?
+
+The relevant sentences from the document are:
+
+8 Es gibt offene Programme, individuelle Workshops, Workshop-Abende und Programme für Klassen und Gruppen.
+
+Therefore, the output is: [8]

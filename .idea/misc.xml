@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
     <option name="sdkName" value="Python 3.7" />
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/annotation-backend" />
+    <file type="web" url="file://$PROJECT_DIR$/annotation-tool/backend" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (pythonProject)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="thesis (2)" project-jdk-type="Python SDK" />
 </project>

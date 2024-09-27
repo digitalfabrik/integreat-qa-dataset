@@ -1,0 +1,3 @@
+[3], [4]
+
+Explanation: The document mentions a team leader for integration management and a contact person for new arrivals at Caritas, which is likely an organization that provides services for new arrivals in the town. Therefore, the sentences that mention these contacts are relevant to the question.

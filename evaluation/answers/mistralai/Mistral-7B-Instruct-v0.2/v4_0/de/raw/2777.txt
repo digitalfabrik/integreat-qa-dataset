@@ -1,0 +1,4 @@
+[4, 5, 11]
+
+Explanation:
+The question asks for the length of time one must live in Germany to apply for an unlimited residence permit (Niederlassungserlaubnis). The document provides information about the requirements for this permit, including the five-year

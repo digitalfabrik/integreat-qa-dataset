@@ -1,0 +1,3 @@
+4
+
+This list contains the ID of the sentence that answers the question. The sentence states that "no photos or video recordings are made" during the meetings of FrienTS.

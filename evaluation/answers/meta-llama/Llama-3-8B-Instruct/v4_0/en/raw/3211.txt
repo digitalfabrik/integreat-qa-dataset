@@ -1,0 +1,10 @@
+[10, 14]assistant
+
+The sentences that answer the question "What kind of educational grants are available in Germany?" are:
+
+[10] Grants for students
+[14] Promotion of further training
+
+So, the output is: [10, 14]assistant
+
+[10

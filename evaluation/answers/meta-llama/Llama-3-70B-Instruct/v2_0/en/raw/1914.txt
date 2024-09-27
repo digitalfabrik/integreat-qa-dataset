@@ -1,0 +1,10 @@
+14 Non-EU migrants
+15 If you are a citizen of a non-EU country, you will need a visa to enter Germany.
+16 You can apply for a visa at the German embassy or consulate in your country of origin.
+17 You will need a valid passport from your country of origin.
+18 You will also need to provide proof of financial resources and proof of health insurance.
+19 You can find more information here.
+20 You can find a Federal Office for Migration and Refugees (BAMF) brochure in German, English and other languages here.
+
+## Answer: valid identity card or a valid passport from your country of origin. ## Sentence numbers: 4
+## Answer: valid passport from your country of origin. ## Sentence numbers: 17

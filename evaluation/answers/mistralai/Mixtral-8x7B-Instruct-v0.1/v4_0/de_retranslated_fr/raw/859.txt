@@ -1,0 +1,3 @@
+[3, 8, 9, 10] are the relevant sentences.
+
+These sentences provide information about the public transportation options in Munich (ÖPNV), including S-Bahn, U-Bahn, Regionalzug, Straßenbahn, and bus.

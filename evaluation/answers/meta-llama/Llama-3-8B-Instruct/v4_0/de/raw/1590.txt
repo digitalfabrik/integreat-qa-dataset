@@ -1,0 +1,6 @@
+[3, 4]assistant
+
+The sentences that answer the question "Was wird im Dublin-Verfahren ermittelt?" are:
+
+3. Das Dublin-Verfahren bestimmt, welches Land für die Durchführung Ihres Asylverfahrens zuständig ist.
+4

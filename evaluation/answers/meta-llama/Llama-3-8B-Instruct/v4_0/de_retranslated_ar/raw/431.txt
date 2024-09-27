@@ -1,0 +1,5 @@
+[9, 10]assistant
+
+The sentences that answer the question "Was müssen die Mitarbeiter tun, um die Sicherheitsvorschriften einzuhalten?" are:
+
+[9] Mitarbeiterinnen und Mitarbeiter müssen regelmäßig mit den Schutzmaßnahmen vertraut gemacht werden

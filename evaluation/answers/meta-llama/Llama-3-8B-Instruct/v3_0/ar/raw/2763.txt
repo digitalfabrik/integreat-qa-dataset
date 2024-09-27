@@ -1,0 +1,5 @@
+[]assistant
+
+Note: The question is in Arabic, and I assume it translates to "What are the training requirements for refugees?".
+
+Since the document is in German, and the question is in Arabic, it's unlikely that any sentence in the document answers the question. Therefore, the output is an empty

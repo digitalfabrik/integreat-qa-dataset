@@ -1,0 +1,1 @@
+[1, 2] answer the question, as they provide information about the working hours in Germany according to the Working Hours Act.

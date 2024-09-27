@@ -1,0 +1,13 @@
+The question is: What language level is required to study in Germany?
+
+The relevant sentences are:
+
+[7] You need language level C1 to study.
+
+The output is: [7]assistant
+
+The question is: What language level is required to study in Germany?
+
+The relevant sentences are:
+
+[7

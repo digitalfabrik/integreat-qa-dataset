@@ -1,0 +1,5 @@
+[7]assistant
+
+The question is "Для якої вікової групи призначена PSG?" which translates to "For what age group is PSG intended?".
+
+The answer is in sentence [7]: "Для кого: для всіх жінок і дівчат віком від 6 до 26 років в архи

@@ -1,0 +1,16 @@
+61 Die BIK Klasse ist ein spezieller Integrationskurs für Hörgeschädigte.
+62 Die Klasse wird von einer Lehrerin mit Erfahrung in der Arbeit mit Hörgeschädigten unterrichtet.
+63 Die Teilnehmer können hier Deutsch lernen und sich auf das Leben in Deutschland vorbereiten.
+64 Die BIK Klasse ist kostenlos.
+65 Die Teilnehmer müssen lediglich die Fahrtkosten selbst bezahlen.
+66 Die BIK Klasse wird vom BAMF gefördert.
+67 Die BIK Klasse ist ein wichtiger Schritt auf dem Weg zur Integration in Deutschland.
+68 Die BIK Klasse bietet auch die Möglichkeit, andere Hörgeschädigte kennenzulernen und Freundschaften zu schließen.
+69 Die BIK Klasse ist ein wichtiger Teil der Integrationsmaßnahmen in Deutschland.
+70 Die BIK Klasse wird auch von anderen Organisationen unterstützt.
+71 Die BIK Klasse ist ein wichtiger Schritt auf dem Weg zur Integration in Deutschland.
+72 Die BIK Klasse bietet auch die Möglichkeit, andere Hörgeschädigte kennenzulernen und Freundschaften zu schließen.
+73 Die BIK Klasse ist ein wichtiger Teil der Integrationsmaßnahmen in Deutschland.
+74 Die BIK Klasse wird auch von anderen Organisationen unterstützt.
+
+## Answer: Freiwilliger Besuch: Berechtigungsschein nötig, Verpflichtung vom Amt für Ausländerwesen und Integration. ## Sentence numbers: 13, 21

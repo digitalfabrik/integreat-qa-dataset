@@ -1,0 +1,2 @@
+[5, 6, 9, 16]
+These sentences mention the required documents and age for applying for a driver's license in Munich.

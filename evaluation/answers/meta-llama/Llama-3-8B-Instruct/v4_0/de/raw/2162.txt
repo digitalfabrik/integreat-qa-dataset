@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wie kann ich mich für Programme der Frühen Hilfen in Deutschland bewerben?" and the document does not provide any information about how to apply for programs of early intervention in Germany. Therefore, the output is an empty list, which is represented as "[]".

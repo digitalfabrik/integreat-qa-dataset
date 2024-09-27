@@ -1,0 +1,5 @@
+Based on the provided document, the following sentences answer the question: "Who can use the free instant translation services offered by TranslAid?"
+
+[7, 11, 12, 15, 18]
+
+Sentence 7 explains that TranslAid provides volunteer

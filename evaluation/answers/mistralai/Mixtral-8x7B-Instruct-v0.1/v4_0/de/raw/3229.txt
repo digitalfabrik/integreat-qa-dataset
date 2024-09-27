@@ -1,0 +1,2 @@
+[4, 12]
+Sentence 4 answers the question by mentioning that the course is offered to people from another country. Sentence 12 provides additional information about the intensive support for improving German language skills.

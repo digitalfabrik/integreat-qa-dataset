@@ -1,0 +1,4 @@
+The relevant sentence IDs are:
+[3, 4]
+
+Sentence 3 says "Vor Ort, national und international, seine ca. 30.000 Mitglieder" which translates to "Locally, nationally and internationally, its approximately 30,

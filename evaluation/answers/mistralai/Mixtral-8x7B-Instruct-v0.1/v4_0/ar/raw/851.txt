@@ -1,0 +1,5 @@
+[1, 12, 13] are the relevant sentences.
+
+Explanation:
+Sentence [1] introduces the topic of support for the homeless, but it does not answer the question of who can get financial assistance.
+Sentences [2], [3], [4],

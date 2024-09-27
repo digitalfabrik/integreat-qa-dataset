@@ -1,0 +1,4 @@
+[2]
+
+Explanation:
+The question asks for the length of stay for holders of a valid Schengen visa in the Schengen area. The document provides the answer in sentence [2]: "Holders of a valid Schengen visa may stay in the entire Schengen

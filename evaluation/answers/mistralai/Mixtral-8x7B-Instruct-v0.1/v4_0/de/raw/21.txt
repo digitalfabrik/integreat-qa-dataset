@@ -1,0 +1,6 @@
+The relevant ID is [6].
+
+Here's the reasoning:
+
+* The question asks for the groups of people who are not allowed to start working.
+* Sentence 6 directly answers this question by stating that some groups of people are not allowed to start working.

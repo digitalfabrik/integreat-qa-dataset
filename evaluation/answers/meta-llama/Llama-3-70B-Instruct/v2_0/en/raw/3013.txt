@@ -1,0 +1,17 @@
+44 But they cannot vote in these elections:
+45 Bundestag election
+46 State parliament election
+47 Mayoral election
+48 Senior citizens' council election
+49 The first vote is for a direct candidate.
+50 The second vote is for a party list.
+51 The first vote decides who will be the direct candidate.
+52 The second vote decides how many seats a party gets in the Bundestag.
+53 The party with the most votes gets the most seats.
+54 The party with the fewest votes gets the fewest seats.
+55 The first vote and the second vote are counted separately.
+56 The results of the first vote and the second vote are added together.
+57 The party with the most seats in the Bundestag forms the government.
+58 The leader of this party becomes the Chancellor of Germany.
+
+## Answer: The first vote is for a direct candidate, the second vote is for a party list. The first vote decides who will be the direct candidate, the second vote decides how many seats a party gets in the Bundestag. ## Sentence numbers: 49-52

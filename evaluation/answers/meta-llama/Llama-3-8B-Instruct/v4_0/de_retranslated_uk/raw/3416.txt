@@ -1,0 +1,7 @@
+[1]assistant
+
+The question is "Wie finde ich Energiespartipps für mein Haus?" and the relevant sentence is [1] "Wie und wo lässt sich Energie einsparen?".assistant
+
+[1]assistant
+
+The question is "Wie finde ich

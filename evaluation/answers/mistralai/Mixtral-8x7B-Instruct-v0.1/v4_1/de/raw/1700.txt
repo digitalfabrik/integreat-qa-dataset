@@ -1,0 +1,2 @@
+[11, 12, 13, 14, 15, 16, 17, 18, 19]
+These sentences provide information about the Berufsberatung, who it is available for, and how to request a consultation.

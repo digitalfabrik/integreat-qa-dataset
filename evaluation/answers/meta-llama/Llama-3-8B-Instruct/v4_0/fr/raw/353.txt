@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Que se passe-t-il lorsqu'on signe un contrat qu'on ne comprend pas?" and the relevant sentences from the document are:
+
+9 Si vous n'êtes pas sûr de pouvoir payer les frais ou si vous n'avez vraiment pas tout compris, ne

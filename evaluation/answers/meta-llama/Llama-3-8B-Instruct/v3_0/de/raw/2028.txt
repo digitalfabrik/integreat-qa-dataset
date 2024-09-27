@@ -1,0 +1,5 @@
+[]assistant
+
+I apologize for the mistake. Since the question is about the meaning of a German language certificate on the levels B1, B2, or C1, and the document does not contain any information about this, the correct output is indeed an empty list: []
+
+If you provide a new document

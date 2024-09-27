@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the prerequisites for volunteering with people on the run. None of the sentences in the document explicitly answer this question. Therefore, the output is an empty list: []assistant
+
+I completely agree with you! The question is not answered by any of the sentences in

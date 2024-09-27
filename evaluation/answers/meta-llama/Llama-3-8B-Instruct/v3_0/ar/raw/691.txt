@@ -1,0 +1,7 @@
+[15, 20, 21]assistant
+
+Note: The question is in Arabic, and the document is in German. The answer IDs provided are based on the German text.assistant
+
+Thank you for the clarification.assistant
+
+You're welcome!assistant

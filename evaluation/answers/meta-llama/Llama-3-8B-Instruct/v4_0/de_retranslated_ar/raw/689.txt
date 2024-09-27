@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wer kann am Young Leaders Programme der Vereinten Nationen teilnehmen?" but the document does not mention the Young Leaders Programme of the United Nations. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant

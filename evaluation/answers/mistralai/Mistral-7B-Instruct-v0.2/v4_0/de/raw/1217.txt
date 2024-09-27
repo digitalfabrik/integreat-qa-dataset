@@ -1,0 +1,4 @@
+[3]
+
+Explanation:
+The question asks about the minimum contract duration that must be observed for Internet and TV services. Sentence 3 in the document answers this question by stating that "Oft müssen Sie bei Ihrem alten Anbieter eine Mindestvertr

@@ -1,0 +1,5 @@
+[3]assistant
+
+The question is "З якого віку діти в Німеччині повинні ходити до школи?" which translates to "At what age do children in Germany have to go to school?"
+
+The answer is in sentence [3]: "Відвідування школи в Німеччині є обов

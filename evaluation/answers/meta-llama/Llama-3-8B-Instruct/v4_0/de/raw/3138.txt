@@ -1,0 +1,6 @@
+[5, 6]assistant
+
+The question is "Welche Unterlagen werden für eine Wohnungsbewerbung benötigt?" and the relevant sentences are:
+
+[5] Die Bewerbungsmappe sollte folgende Unterlagen enthalten:
+[6] Anschreiben (Wer bin ich/s

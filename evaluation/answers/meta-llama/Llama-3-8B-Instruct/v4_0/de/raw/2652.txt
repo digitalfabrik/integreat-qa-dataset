@@ -1,0 +1,5 @@
+[4, 5, 6, 7]assistant
+
+The sentences that answer the question "Welche Fristen gelten für eine Kündigung in Deutschland?" are:
+
+4. Die Kündigungsfrist für Arbeitgeber beträgt normalerweise 4 Wochen zum Ende

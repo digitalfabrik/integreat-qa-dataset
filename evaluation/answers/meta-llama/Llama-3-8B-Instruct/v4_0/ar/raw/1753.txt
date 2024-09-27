@@ -1,0 +1,7 @@
+[8]assistant
+
+The sentence with ID [8] answers the question: "ما هو الموقع الإلكتروني الذي يوفر معلومات حول تأسيس شركة في ألمانيا؟"assistant
+
+[8]assistant
+
+The sentence with ID [8] answers the

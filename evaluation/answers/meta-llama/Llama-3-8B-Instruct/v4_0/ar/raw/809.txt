@@ -1,0 +1,9 @@
+The question is: ما هي مدة الدراسة الثانوية؟
+
+The relevant sentences are:
+
+[2] تبدأ الدراسة في مدرسة ريلشول من الصف الخامس إلى الصف العاشر.
+
+The answer is: [2]assistant
+
+[2]assistant

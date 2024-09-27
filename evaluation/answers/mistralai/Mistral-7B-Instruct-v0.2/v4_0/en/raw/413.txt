@@ -1,0 +1,3 @@
+[9, 10, 11]
+
+Explanation: The document provides information about telecommunications contracts in Germany, specifically cell phone contracts. Sentences 9 and 10 state that a fixed-term contract is automatically renewed if not cancelled in writing, and sentence 1

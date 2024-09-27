@@ -1,0 +1,5 @@
+[23]assistant
+
+The sentence with ID 23 answers the question: "Welche Sprachen werden von den Dolmetschern* in den Unterstützungszentren unterstützt?"assistant
+
+You are correct! The sentence with ID 23 answers the question: "Wel

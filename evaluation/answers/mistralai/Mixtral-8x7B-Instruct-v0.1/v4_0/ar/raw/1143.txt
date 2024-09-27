@@ -1,0 +1,5 @@
+The relevant sentence IDs are:
+["14"]
+
+Explanation:
+The question asks about the minimum interval between measles vaccinations. Sentence ID 14 states "الحد الأدنى للفترة الفاصلة ب

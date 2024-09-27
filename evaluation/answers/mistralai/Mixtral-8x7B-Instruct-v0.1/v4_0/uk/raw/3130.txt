@@ -1,0 +1,5 @@
+Based on the given document, the following sentences answer the question "How can I apply for a work permit?":
+
+[37, 38, 39]
+
+These sentences provide information on how to apply for a work permit in Germany.

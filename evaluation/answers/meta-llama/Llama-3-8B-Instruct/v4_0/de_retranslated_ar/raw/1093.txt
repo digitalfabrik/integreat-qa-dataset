@@ -1,0 +1,6 @@
+[21, 22]assistant
+
+The sentences that answer the question "Was ist die Europäische Krankenversicherungskarte (EHIC)?" are:
+
+[21] Auf der Rückseite befindet sich die Europäische Krankenversicherungskarte.
+[22] Die

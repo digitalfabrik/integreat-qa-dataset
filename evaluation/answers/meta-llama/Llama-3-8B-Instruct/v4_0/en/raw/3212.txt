@@ -1,0 +1,6 @@
+[10, 12, 14, 9]assistant
+
+The sentences that answer the question "How can I apply for education funding?" are:
+
+[10] Grants for students
+[12] Information from the Deutsches Studentenwerk at: www.studentenwerke.de/de/stud

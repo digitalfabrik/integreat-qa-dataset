@@ -1,0 +1,6 @@
+[2, 6]assistant
+
+The sentences that answer the question "Que ne faut-il pas faire avant de signer un contrat?" are:
+
+[2] Ne signe jamais quelque chose que tu n'as pas compris ou que tu ne peux pas lire.
+[6] Ne laisse personne

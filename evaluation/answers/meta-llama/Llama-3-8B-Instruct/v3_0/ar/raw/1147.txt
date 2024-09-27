@@ -1,0 +1,5 @@
+[20, 21, 22, 23]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking when you need permission to leave the reception area.assistant
+
+You're right! I apologize for not noticing the

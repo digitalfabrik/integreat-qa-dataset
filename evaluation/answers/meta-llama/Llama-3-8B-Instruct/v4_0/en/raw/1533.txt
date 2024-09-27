@@ -1,0 +1,6 @@
+[27, 29, 38]assistant
+
+The sentences that answer the question "Where can one find libraries and clubs in the district?" are:
+
+[27] Libraries are a great place for people who love to read.
+[29] On the education portal a3 (www.bildungsportal

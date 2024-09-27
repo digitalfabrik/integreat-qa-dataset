@@ -1,0 +1,6 @@
+[6, 11, 12]assistant
+
+The sentences that answer the question "Wo finde ich Ärzte für die Unfallversicherung?" are:
+
+[6] Den Namen der Unfallversicherung erfahren Sie von Ihrer Arbeitgeberin oder Ihrem Arbeitgeber.
+[11] müssen

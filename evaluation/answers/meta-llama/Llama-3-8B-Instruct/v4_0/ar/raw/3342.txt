@@ -1,0 +1,9 @@
+The question is: ما الفرق بين درجة البكالوريوس ودرجة الماجستير؟
+
+The relevant sentences from the document are:
+
+[18] تقدم جميع الجامعات برامج البكالوريوس والماجستير.
+
+The output is: [18]assistant
+
+The question is

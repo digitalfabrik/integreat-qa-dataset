@@ -1,0 +1,5 @@
+[1, 2, 11, 13, 14, 17, 18, 20, 21, 22]assistant
+
+The sentences that answer the question "ما هي القواعد الخاصة بمراكز اللجوء؟" are:
+
+[1] يجب أن

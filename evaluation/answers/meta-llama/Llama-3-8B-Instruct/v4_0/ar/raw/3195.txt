@@ -1,0 +1,9 @@
+The question is: ماذا يعني مصطلح "اللغة السهلة"?
+
+The document does not contain any sentence that answers this question. Therefore, the output is:
+
+[]assistant
+
+The question is: ماذا يعني مصطلح "اللغة السهلة"?
+
+The document

@@ -1,0 +1,10 @@
+67 Registration
+68 You must register with the authorities.
+69 You can do this at the Foreigners' Registration Office at the Augsburg District Office.
+70 You will receive a residence permit.
+71 You can also register your children.
+72 You can do this directly at the school responsible for your place of residence (primary or secondary school).
+73 The same applies to the daycare center.
+74 Please contact your respective municipality.
+
+## Answer: Foreigners' Registration Office at the Augsburg District Office. ## Sentence numbers: 7, 69.

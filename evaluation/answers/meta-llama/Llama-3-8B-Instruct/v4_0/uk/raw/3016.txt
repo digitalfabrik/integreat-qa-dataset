@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the difference between paid and unpaid breaks, but the document does not provide any information about paid and unpaid breaks. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant
+
+I completely agree with you! The

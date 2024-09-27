@@ -1,0 +1,7 @@
+[3, 4, 11]assistant
+
+The sentences that answer the question "What types of training are there in Germany?" are:
+
+[3] There are two types of training in Germany:
+[4] Dual system ("" Dual training)
+[11] School-based training is usually found in

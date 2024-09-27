@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Quelles sont les agences de placement en Allemagne?" and the document does not mention any specific agencies of placement in Germany. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant
+
+I

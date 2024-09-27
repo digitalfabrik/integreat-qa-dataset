@@ -1,0 +1,15 @@
+18 Phone: 07151 501-5555
+19 Fax: 07151 501-5556
+20 Opening hours: Monday to Friday from 9:00 a.m. to 12:00 p.m.
+21 The self-help contact point is open to all citizens of the Rems-Murr district.
+22 The self-help contact point is a neutral and independent institution.
+23 The self-help contact point is not affiliated with any specific self-help group.
+24 The self-help contact point is not a self-help group itself.
+25 The self-help contact point is a point of contact for all questions and concerns about self-help.
+26 The self-help contact point provides information about self-help groups in the Rems-Murr district.
+27 The self-help contact point provides information about self-help initiatives in the Rems-Murr district.
+28 The self-help contact point provides information about self-help projects in the Rems-Murr district.
+29 The self-help contact point provides information about self-help events in the Rems-Murr district.
+30 The self-help contact point provides information about self-help activities in the Rems-Murr district.
+
+## Answer: Examples: How do other affected people deal with the illness or the problem in certain situations in everyday life? What information is available on specific diseases or problems? ## Sentence numbers: 5, 6 ##

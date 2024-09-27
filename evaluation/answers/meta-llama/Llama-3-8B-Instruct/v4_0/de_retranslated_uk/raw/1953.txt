@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wie hoch ist der aktuelle Mindestlohn in Deutschland?" and the document does not provide the exact amount of the current minimum wage in Germany. Therefore, the output is an empty list, which means no sentence in the document answers the question.assistant

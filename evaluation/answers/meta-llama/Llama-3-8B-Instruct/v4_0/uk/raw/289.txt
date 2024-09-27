@@ -1,0 +1,7 @@
+Question: Хто може надати підтримку, якщо ви хочете оскаржити негативне рішення в суді?
+
+Document:...
+
+Answer: [22, 23, 24]
+
+Explanation: Sentences 22, 23, and 24 mention that you can receive support from the service for

@@ -1,0 +1,3 @@
+[3]
+
+The sentence "With 1.56 million inhabitants, Munich is the third largest city in Germany." answers the question approximately how many inhabitants does Munich have.

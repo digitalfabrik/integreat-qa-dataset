@@ -1,0 +1,6 @@
+The question is: Welche öffentlichen Verkehrsmittel gibt es in München?
+
+The relevant sentences are:
+
+3 Der öffentliche Nahverkehr in München heißt ÖPNV (öffentlicher Personennahverkehr).
+13 S-Bahn: S1, S2, S3, S4,

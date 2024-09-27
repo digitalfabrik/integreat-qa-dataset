@@ -1,0 +1,7 @@
+[6, 7, 8, 9, 10]assistant
+
+The sentences that answer the question "What types of certificates of good conduct are there?" are:
+
+[6] There are different types of certificate of good conduct:
+[7] - for private purposes
+[8] -

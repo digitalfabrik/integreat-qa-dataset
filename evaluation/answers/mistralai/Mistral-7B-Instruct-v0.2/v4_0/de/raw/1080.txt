@@ -1,0 +1,3 @@
+[36, 37, 38, 41, 44]
+
+Explanation: The question asks who can do a voluntary internship. The document mentions that "Jede Person kann ein freiwilliges Praktikum machen" (Every person can

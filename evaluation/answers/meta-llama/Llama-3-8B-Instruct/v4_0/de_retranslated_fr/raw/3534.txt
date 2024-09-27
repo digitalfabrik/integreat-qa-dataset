@@ -1,0 +1,7 @@
+The question is: Welche Krankenversicherungen gibt es in Deutschland?
+
+The document does not mention Krankenversicherungen, so there are no relevant sentences. The output is: []assistant
+
+The question is: Welche Krankenversicherungen gibt es in Deutschland?
+
+The document does not

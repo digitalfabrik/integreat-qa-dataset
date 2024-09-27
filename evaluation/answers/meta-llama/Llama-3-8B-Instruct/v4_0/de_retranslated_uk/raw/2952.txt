@@ -1,0 +1,7 @@
+The question is: Wie kann ich herausfinden, ob in meinem Gebiet eine Notfallbenachrichtung verschickt wurde?
+
+The relevant sentences are not found in the document. Therefore, the output is: []assistant
+
+The correct output is indeed: []
+
+The question asks about finding out if an

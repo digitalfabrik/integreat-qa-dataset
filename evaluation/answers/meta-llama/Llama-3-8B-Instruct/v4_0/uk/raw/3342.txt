@@ -1,0 +1,7 @@
+The question is: У чому різниця між ступенем бакалавра та магістра?
+
+The relevant sentences from the document are:
+
+[18] Усі університети пропонують програми бакалаврату та магістратури.
+
+Therefore, the output is: [18]assistant

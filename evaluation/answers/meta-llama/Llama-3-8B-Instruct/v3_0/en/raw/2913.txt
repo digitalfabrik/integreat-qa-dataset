@@ -1,0 +1,7 @@
+[2, 3, 11, 13-22]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[2, 3, 11]
+
+The other IDs listed are related to opening hours, which do not answer the question of how to contact the town hall.

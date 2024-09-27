@@ -1,0 +1,5 @@
+[2, 4, 11, 14, 25, 27, 31, 32, 39, 40, 41]assistant
+
+The sentences that answer the question "What documents are required for asylum procedures?" are:
+
+[2] Every person who comes to Germany

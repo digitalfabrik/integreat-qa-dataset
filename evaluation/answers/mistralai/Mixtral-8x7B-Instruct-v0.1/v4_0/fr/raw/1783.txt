@@ -1,0 +1,2 @@
+[0, 1, 3]
+These sentences provide context about the document being from the German Federal Office for Migration and Refugees (BAMF) and that it indicates how the asylum procedure has been decided. However, it does not explain how the procedure itself was decided.

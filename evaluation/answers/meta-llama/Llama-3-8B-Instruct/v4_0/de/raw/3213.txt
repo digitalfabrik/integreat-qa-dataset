@@ -1,0 +1,10 @@
+[2, 3, 4, 5]assistant
+
+The sentences that answer the question are:
+
+[2] Deshalb gibt es finanzielle Unterstützung für:
+[3] Ausbildung
+[4] Studium
+[5] Weiterbildung
+
+These sentences list the types of education

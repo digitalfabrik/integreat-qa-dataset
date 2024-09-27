@@ -1,0 +1,11 @@
+The question is: كيف يعمل التصويت الأول والثاني؟
+
+The relevant sentences are:
+
+[21, 22]
+
+These sentences explain the first and second vote, which is the right to vote and the right to run for elections, respectively.assistant
+
+The correct output is:
+
+[21,

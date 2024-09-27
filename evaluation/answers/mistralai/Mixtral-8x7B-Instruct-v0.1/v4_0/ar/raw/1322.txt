@@ -1,0 +1,3 @@
+[3, 4, 5]
+
+Explanation: Sentences [3, 4, 5] provide information about where to find jobs for people with disabilities. Sentence [3] mentions the existence of specific job opportunities in the Augsburg region, sentence [4]

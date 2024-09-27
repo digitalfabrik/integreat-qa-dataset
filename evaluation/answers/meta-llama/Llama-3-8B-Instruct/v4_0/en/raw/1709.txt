@@ -1,0 +1,8 @@
+[1, 2]assistant
+
+The sentences that answer the question "How can I find an apartment?" are:
+
+* 0 How do I find an apartment?
+* 1 Where can you look for an apartment?
+
+So, the output is: [0, 1]assistant

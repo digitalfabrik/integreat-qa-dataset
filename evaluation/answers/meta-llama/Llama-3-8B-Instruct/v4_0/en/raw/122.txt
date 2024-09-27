@@ -1,0 +1,7 @@
+[6, 7, 8, 9, 10, 11]assistant
+
+The sentences that answer the question are:
+
+[6] The specialist center for the prevention of homelessness advises on the following topics:
+[7] Assumption of rent arrears
+[8] Legality

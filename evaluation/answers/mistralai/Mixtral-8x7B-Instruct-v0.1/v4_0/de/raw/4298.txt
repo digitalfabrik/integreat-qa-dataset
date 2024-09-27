@@ -1,0 +1,1 @@
+[3, 4, 5] Diese Sätze geben Informationen darüber, welche medizinischen Untersuchungen zu einer schulärztlichen Untersuchung in Deutschland gehören.

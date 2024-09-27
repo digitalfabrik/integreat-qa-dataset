@@ -1,0 +1,4 @@
+The relevant sentences from the document that answer the question are:
+[5, 6, 12, 14]
+
+These sentences state that to apply for a driving license in Munich, you need a valid identification document, a place of residence in Munich, and must be at least

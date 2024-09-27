@@ -1,0 +1,13 @@
+## Answer: Praktikanten lernen Berufe und Tätigkeitsfelder kennen, sehen, welcher Beruf der richtige für sie ist, und knüpfen Kontakte, die beim Einstieg in das Arbeitsleben hilfreich sein können. ## Sentence numbers: 6, 12, 15
+
+## Answer: Ein Praktikum ist vor dem Einstieg in das Arbeitsleben sehr hilfreich. ## Sentence number: 10
+
+## Answer: None. ## Numbers: -1
+
+## Explanation:
+
+The question asks for the reasons why an internship is helpful before entering the job market. The context provides several sentences that mention the benefits of internships, such as learning a new profession, getting to know a work environment, and deepening theoretical knowledge with practical experience. Additionally, internships can help individuals make contacts that may be useful in their future job search. Therefore, the answer sentences are those that specifically mention these benefits.
+
+Sentence 10 states that an internship is helpful before entering the job market, so it is a direct answer to the question. However, it does not provide any additional information about the reasons why. Therefore, it is not included in the answer sentences, but it is mentioned in the explanation to show that the context does indeed answer the question.
+
+There is no answer in the context for the question "Wofür ist ein Praktikum vor dem Einstieg in das Arbeitsleben hilfreich?" if we take the question literally, as it asks for a specific reason or benefit that applies to every internship. However, the context does provide several reasons why internships can be helpful, so the answer sentences are constructed to cover those reasons in a general sense.

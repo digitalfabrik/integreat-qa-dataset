@@ -1,0 +1,9 @@
+The question is: ما هي المدارس الحكومية التي تقدم دروس اللغة الألمانية للأطفال؟
+
+The relevant sentences are:
+
+* 5 شبرنغلشول.
+
+The output is: [5]assistant
+
+The question is: ما هي المدارس الحكومية

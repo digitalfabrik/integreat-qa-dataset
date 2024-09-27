@@ -1,0 +1,8 @@
+[5, 6]assistant
+
+The sentences that answer the question are:
+
+[5] Il existe de nombreux programmes gratuits.
+[6] La plupart d'entre eux sont en ligne et flexibles en termes de temps :
+
+These sentences indicate that there are free programs offered by the Centre

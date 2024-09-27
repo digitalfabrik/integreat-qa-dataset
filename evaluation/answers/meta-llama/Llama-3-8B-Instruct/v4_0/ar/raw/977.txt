@@ -1,0 +1,7 @@
+[5, 6]assistant
+
+The question is "هل هناك أي برامج مجانية يقدمها مركز أميجا الوظيفي؟" which translates to "Are there any free programs offered by the Amiga Career Center?".
+
+The sentences that answer this question are:
+
+[5] هناك

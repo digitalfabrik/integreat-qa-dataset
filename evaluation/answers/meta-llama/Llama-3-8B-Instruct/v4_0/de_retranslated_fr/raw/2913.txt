@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "Wie kontaktiere ich das Rathaus?" which translates to "How do I contact the town hall?".
+
+The document does not provide any information on how to contact the town hall. Therefore, there are no relevant sentences that answer the question.
+
+The output is: []

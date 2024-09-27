@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence that answers the question is:
+
+[2] In diesem Fall können Sie möglicherweise Unterhaltsvorschüsse (finanzielle Unterstützung) für Ihr Kind erhalten.
+
+This sentence explains what an "Unterhaltsvorschusszahlung"

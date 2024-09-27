@@ -1,0 +1,10 @@
+[]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[2, 9, 10, 11]assistant
+
+You are correct. The sentences that answer the question "How can I register for training courses?" are:
+
+[2] Then apply there!
+[9

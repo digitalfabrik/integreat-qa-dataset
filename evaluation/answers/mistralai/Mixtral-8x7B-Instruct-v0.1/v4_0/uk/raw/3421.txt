@@ -1,0 +1,6 @@
+The relevant sentence IDs are:
+[1, 2, 4, 5]
+
+Sentence 1 defines the legal equality between women and men in Germany.
+Sentence 2 explains that this equality means that women and men have the same rights in Germany.
+Sentence 4 emphas

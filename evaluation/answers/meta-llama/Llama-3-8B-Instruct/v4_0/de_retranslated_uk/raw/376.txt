@@ -1,0 +1,6 @@
+The question is: Zu welchen Themen berät die Offene Hilfe?
+
+The relevant sentences are:
+[4, 5]
+
+These sentences answer the question by listing the topics that the Offene Hilfe advises on, which include "rund ums Thema 'Wohnen' und/oder 'Wohnungs

@@ -1,0 +1,9 @@
+The question is: Welches ist das Kurzwort für Unterhalts-Vorschuss-Gesetz?
+
+The relevant sentences from the document are:
+
+[12] Das kurze Wort für Unterhalts-Vorschuss-Gesetz ist: UVG.
+
+Output: [12]assistant
+
+The question

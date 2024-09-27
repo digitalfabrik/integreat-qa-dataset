@@ -1,0 +1,6 @@
+12 Die Ausbildung zum Integrationslotsen umfasst 12 Monate.
+13 Sie beinhaltet die Vermittlung von Deutschkenntnissen, Rechtskunde und Sozialkompetenz.
+14 Der Integrationslotsen unterstützt Menschen mit Migrationshintergrund bei der Integration in Deutschland.
+15 Er hilft ihnen bei der Orientierung im neuen Land und bei der Bewältigung von Herausforderungen.
+
+## Answer: Die Vermittlung von Deutschkenntnissen, Rechtskunde und Sozialkompetenz. ## Sentence numbers: 13

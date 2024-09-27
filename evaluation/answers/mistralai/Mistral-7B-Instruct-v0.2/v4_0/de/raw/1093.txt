@@ -1,0 +1,4 @@
+[21, 22, 23, 24, 25]
+
+Answer explanation:
+The European Health Insurance Card (EHIC) is mentioned in sentences 21 to 25. These sentences describe the EHIC as a card that allows the holder to

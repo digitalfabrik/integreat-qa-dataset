@@ -1,0 +1,3 @@
+[1, 2, 3, 9, 11, 13]
+
+The sentences 1, 2, 3, 9, 11, and 13 in the document provide information about the Schwerbehindertenausweis (Handicapped ID

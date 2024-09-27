@@ -1,0 +1,10 @@
+The question is: Kann man bei Musenkuss München kostenlose Angebote finden?
+
+The relevant sentences are:
+
+16 Sie können bei den Angeboten nach „kostenlos“ filtern.
+15 Manche Angebote kosten etwas, andere sind kostenlos.
+
+The IDs of the relevant sentences are: [15, 16]
+
+Output

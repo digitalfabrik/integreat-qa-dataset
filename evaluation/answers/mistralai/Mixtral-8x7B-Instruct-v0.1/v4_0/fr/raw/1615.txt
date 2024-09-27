@@ -1,0 +1,2 @@
+[14, 15, 16, 17]
+These sentences provide information about what a speculative application is and when it should be used.

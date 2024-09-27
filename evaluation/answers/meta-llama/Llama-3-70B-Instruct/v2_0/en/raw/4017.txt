@@ -1,0 +1,9 @@
+18 The Schengen area includes 26 European countries.
+19 These countries are: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland
+20 The Schengen area is a group of countries that have abolished border controls at their common borders.
+21 The Schengen area is not the same as the European Union (EU).
+22 The Schengen area includes some countries that are not part of the EU.
+23 The Schengen area is not the same as the eurozone.
+24 The Schengen area includes some countries that do not use the euro as their currency.
+
+## Answer: 180 days up to 90 days. ## Sentence numbers: 2

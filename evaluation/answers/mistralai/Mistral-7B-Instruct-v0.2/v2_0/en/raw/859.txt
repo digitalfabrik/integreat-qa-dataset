@@ -1,0 +1,7 @@
+Answer: S-Bahn, U-Bahn, regional train, tram, and bus are the public transport options available in Munich.
+Sentence numbers: 3, 8 (for S-Bahn, U-Bahn, and regional train), 15 (for tram), 16 (for bus)
+
+Answer: None.
+Numbers: 0, 2, 4-7, 9-11, 17-22, 24, 26, 27, 29
+
+These sentences do not provide information about the specific public transport options available in Munich. Instead, they discuss various ways to access maps and timetables, or provide general information about the city and its transportation system.

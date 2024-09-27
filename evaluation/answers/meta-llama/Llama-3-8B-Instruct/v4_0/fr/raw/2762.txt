@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Où puis-je trouver du soutien pour une formation professionnelle?" and none of the sentences in the document provide an answer to this question. Therefore, the output is an empty list: []assistant
+
+You're correct! I apologize for the

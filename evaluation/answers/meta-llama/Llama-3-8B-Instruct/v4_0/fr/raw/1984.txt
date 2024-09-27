@@ -1,0 +1,7 @@
+The question is: Quels sont les programmes de formation professionnelle disponibles pour les réfugiés en Allemagne?
+
+The relevant sentences are not found in the document. Therefore, the output is: []assistant
+
+The correct output is indeed: []
+
+The document does not mention any programs of professional training

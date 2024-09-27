@@ -1,0 +1,7 @@
+[22, 23]assistant
+
+The correct answer is [22, 23].assistant
+
+The question is: Коли потрібен дозвіл на виїзд за межі району, в якому знаходиться приймальник-розподільник?
+
+The sentences that answer this

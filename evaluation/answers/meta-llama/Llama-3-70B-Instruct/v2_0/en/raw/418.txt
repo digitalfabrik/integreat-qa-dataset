@@ -1,0 +1,29 @@
+34 The airport is also accessible by taxi.
+35 The journey takes around 30-40 minutes depending on traffic.
+36 The taxi ride costs around 60-70 euros.
+37 The airport is also accessible by bike.
+38 The journey takes around 2-3 hours depending on your fitness level.
+39 The bike path is signposted and leads through the scenic countryside.
+40 The airport is also accessible on foot.
+41 The journey takes around 4-5 hours depending on your fitness level.
+42 The footpath is signposted and leads through the scenic countryside.
+43 The airport is also accessible by car.
+44 The journey takes around 30-40 minutes depending on traffic.
+45 The parking fees are around 5-10 euros per day.
+46 The airport is also accessible by shuttle bus.
+47 The journey takes around 30-40 minutes depending on traffic.
+48 The shuttle bus costs around 10-15 euros per person.
+49 The airport is also accessible by Uber.
+50 The journey takes around 30-40 minutes depending on traffic.
+51 The Uber ride costs around 40-50 euros.
+52 The airport is also accessible by private car service.
+53 The journey takes around 30-40 minutes depending on traffic.
+54 The private car service costs around 60-70 euros.
+55 The airport is also accessible by helicopter.
+56 The journey takes around 10-15 minutes depending on traffic.
+57 The helicopter ride costs around 200-300 euros.
+58 The airport is also accessible by private jet.
+59 The journey takes around 10-15 minutes depending on traffic.
+60 The private jet ride costs around 1000-2000 euros.
+
+## Answer: buses. ## Sentence numbers: 20, 21, 22.

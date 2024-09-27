@@ -1,0 +1,8 @@
+[18, 19, 20]assistant
+
+The sentences that answer the question are:
+
+18. There are also many groups and pages on Facebook where apartments are offered.
+19. For example: www.de-de.facebook.com/Wohnung.assistant
+
+[18, 20]

@@ -1,0 +1,6 @@
+[3, 4, 5]assistant
+
+The sentences that answer the question "Welche verschiedenen Arten von Krankenversicherungen gibt es in Deutschland?" are:
+
+[3] Es gibt die gesetzliche und die private Krankenversicherung.
+[4] Die meisten Menschen haben

@@ -1,0 +1,6 @@
+[5, 8, 10, 11]assistant
+
+The sentences that answer the question "Які групи існують у Projekt-Laden International Haidhausen?" are:
+
+[5] Міжнародна жіноча група є відкритою групою.
+[8] Міжнародна

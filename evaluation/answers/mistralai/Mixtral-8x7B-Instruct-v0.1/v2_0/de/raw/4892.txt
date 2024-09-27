@@ -1,0 +1,3 @@
+## Answer: Keine öffentlichen Schulen, die speziell Deutschunterricht für Kinder anbieten, werden in der Context genannt. ## Numbers: -1
+
+Die Context enthält Informationen über die Grundschule und weiterführende Schulen in Bayern, aber es wird nicht erwähnt, welche Schulen Deutschunterricht für Kinder anbieten.

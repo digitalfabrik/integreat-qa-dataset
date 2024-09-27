@@ -1,0 +1,5 @@
+Based on the question and the document provided, the following sentences answer the question:
+
+[10, 11, 12, 13, 14, 15, 16, 17]
+
+These sentences provide information about various internet portals and websites where

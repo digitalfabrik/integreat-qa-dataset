@@ -1,0 +1,7 @@
+The question is: What is the minimum interval between the two measles vaccinations?
+
+The relevant sentences are:
+
+[12, 14]
+
+These sentences answer the question by stating that the 2nd vaccination should be given before the 2nd birthday at the latest, and that the minimum interval between the two vaccinations is four weeks

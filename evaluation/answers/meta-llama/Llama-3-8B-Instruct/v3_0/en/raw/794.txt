@@ -1,0 +1,7 @@
+[2, 6, 7, 8, 9, 10]assistant
+
+I apologize for the mistake. Here is the corrected output:
+
+[2, 6, 7, 8, 9, 10]
+
+These sentences provide information about the purpose of occupational safety regulations

@@ -1,0 +1,7 @@
+The relevant sentences from the document that answer the question are:
+
+[4, 5, 9, 10, 11]
+
+Here are the sentences themselves:
+4. Spécialiste en psychiatrie et psychothérapie
+5. Un spécialiste en psychiat

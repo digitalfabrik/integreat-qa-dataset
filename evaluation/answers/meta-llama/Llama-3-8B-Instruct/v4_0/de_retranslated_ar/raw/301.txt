@@ -1,0 +1,5 @@
+[7, 8, 9, 10, 11, 12, 13]assistant
+
+The sentences that answer the question "Wer kann an den kostenlosen Integrationskursen teilnehmen?" are:
+
+[7] wenn Sie aus einem Land der EU kommen oder Späta

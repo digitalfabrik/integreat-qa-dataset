@@ -1,0 +1,3 @@
+[11, 12, 13, 14-17, 19, 20-29]
+
+Explanation: The relevant sentences provide information about the equipment required for bicycles, which can be assumed to be related to the safe transportation of bicycles on

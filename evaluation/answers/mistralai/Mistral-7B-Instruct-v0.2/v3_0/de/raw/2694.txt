@@ -1,0 +1,3 @@
+The question asks about the differences between Führerschein classes. The document provides information about getting a Führerschein in Germany, but it does not explicitly mention the differences between the classes. Therefore, no sentences answer the question.
+
+Output: []

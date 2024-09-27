@@ -1,0 +1,7 @@
+The relevant sentences from the document that answer the question "Welche Behörden sind für die Registrierung zuständig?" (Which authorities are responsible for registration?) are:
+
+[44, 45]
+
+The sentences are:
+
+44: "Bei man

@@ -1,0 +1,5 @@
+The relevant sentences from the document are:
+[1, 5, 6, 7]
+
+Sentence [1] explains that if you need medication, you will receive a prescription from your doctor.
+Sentence [5] states that if you don't have a prescription, you always have

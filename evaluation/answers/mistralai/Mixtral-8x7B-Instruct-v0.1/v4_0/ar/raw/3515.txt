@@ -1,0 +1,2 @@
+[1, 3]
+The sentences that answer the question are [1] and [3]. Sentence [1] states that persons with disabilities can work in the general labor market, except if their disability makes it impossible. Sentence [3] mentions that there are also special job opportunities

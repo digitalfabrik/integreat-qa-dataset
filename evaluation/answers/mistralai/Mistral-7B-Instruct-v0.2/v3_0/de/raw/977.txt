@@ -1,0 +1,3 @@
+[5, 8, 11, 12]
+
+These sentences mention that there are "many cost-free programs" (5), "seminars and workshops" (8), the "Amiga-Career Day" (11), and "offers for international students"

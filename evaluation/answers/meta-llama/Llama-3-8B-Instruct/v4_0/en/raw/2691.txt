@@ -1,0 +1,7 @@
+[5, 6, 7, 8, 9, 10]assistant
+
+The sentences that answer the question are:
+
+[5] It is issued if deportation is currently impossible for legal, factual, humanitarian or personal reasons.
+[6] A work permit is generally required.
+[7

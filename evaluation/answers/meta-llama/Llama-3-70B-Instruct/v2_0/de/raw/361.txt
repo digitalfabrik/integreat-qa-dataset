@@ -1,0 +1,16 @@
+23 80335 München
+24 Telefon: 089 233-23333
+25 Fax: 089 233-23334
+26 Öffnungszeiten:
+27 Montag bis Donnerstag:
+28 8:00 Uhr bis 16:00 Uhr
+29 Freitag:
+30 8:00 Uhr bis 14:00 Uhr
+31 Samstag:
+32 geschlossen
+33 Sonntag:
+34 geschlossen
+35 Feiertage:
+36 geschlossen
+
+## Answer: Wer kann einen Antrag auf Einbürgerung stellen? Wenn Sie seit mindestens acht Jahren rechtmäßig und gewöhnlich in Deutschland leben, können Sie einen Antrag auf Einbürgerung stellen. Jugendliche ab 16 Jahren können selbst einen Antrag auf Einbürgerung stellen. ## Sentence numbers: 2, 4

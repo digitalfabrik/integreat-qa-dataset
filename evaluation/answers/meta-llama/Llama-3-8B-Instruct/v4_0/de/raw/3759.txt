@@ -1,0 +1,7 @@
+The question is: Welche Dokumente muss ich mitbringen, wenn ich mich als Asylbewerber registrieren lasse?
+
+The relevant sentences are not present in the document. Therefore, the output is: []assistant
+
+The correct output is indeed: []
+
+The question asks about the

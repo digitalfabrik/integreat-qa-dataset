@@ -1,0 +1,11 @@
+The question is: What happens if the childminder is ill?
+
+The relevant sentences are:
+
+[29] If the caregiver falls ill, there is a substitute caregiver.
+
+The output is: [29]assistant
+
+The question is: What happens if the childminder is ill?
+
+The relevant sentences are

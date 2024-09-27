@@ -1,0 +1,4 @@
+19 Die Schulsuche hilft Dir bei der Suche nach der passenden Schule.
+20 Die Schulsuche bietet Dir eine Übersicht über alle Schulen im Landkreis Augsburg.
+
+## Answer: Das "Sprengelprinzip" bedeutet, dass jede Grundschule oder Mittelschule für ein bestimmtes Gebiet (genannt: "Sprengel") zuständig ist. ## Sentence numbers: 13

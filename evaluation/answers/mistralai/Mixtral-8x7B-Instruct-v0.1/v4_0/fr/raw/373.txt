@@ -1,0 +1,5 @@
+The relevant sentence IDs are [12, 13].
+
+Sentence 12 answers the question because it states that if you already receive help for housing costs, you cannot receive housing assistance in addition.
+
+Sentence 13 also answers the question because it states that people who receive benefits

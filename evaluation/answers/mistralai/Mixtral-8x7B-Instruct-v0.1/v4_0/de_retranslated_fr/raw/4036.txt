@@ -1,0 +1,3 @@
+The answer to the question is not explicitly stated in the document. However, general advice for a medical emergency can be inferred from sentences that provide resources for medical help. Here are the IDs of those sentences:
+
+[2, 15, 16, 13, 14]

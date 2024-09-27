@@ -1,0 +1,4 @@
+[6, 8-11]
+
+Explanation:
+The question asks about the different types of leadership certificates (Führungszeugnisse). Sentences [6] and [11] provide information about the different types of leadership certificates, specifically those for private purposes, for

@@ -1,0 +1,10 @@
+31 Die Verbraucherzentrale bietet auch kostenlose Beratung an.
+32 Die Beratung ist vertraulich und unabhängig.
+33 Die Beraterinnen und Berater sind sachkundig und erfahren.
+34 Sie helfen Dir bei Fragen zu Versicherungen und Finanzen.
+35 Die Verbraucherzentrale ist eine unabhängige Verbraucherorganisation.
+36 Sie setzt sich für die Interessen der Verbraucher ein.
+37 Die Verbraucherzentrale bietet kostenlose Beratung und Informationen an.
+38 Sie hilft Dir bei Fragen zu Versicherungen und Finanzen.
+
+## Answer: Krankenversicherung, Kfz-Haftpflichtversicherung, Gesetzliche Rentenversicherung ## Sentence numbers: 3, 4, 5

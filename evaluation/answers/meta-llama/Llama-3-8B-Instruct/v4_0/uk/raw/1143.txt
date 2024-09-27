@@ -1,0 +1,9 @@
+The question is: Який мінімальний інтервал між двома щепленнями проти кору?
+
+The relevant sentences are:
+
+[13, 14]
+
+These sentences answer the question by stating that the minimum interval between two vaccinations against measles is four weeks.assistant
+
+[13, 14]

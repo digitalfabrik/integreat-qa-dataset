@@ -1,0 +1,7 @@
+The question is: Was ist der Unterschied zwischen einer Allgemeinarztpraxis und einer Spezialklinik?
+
+The document does not contain any sentences that directly answer this question. Therefore, the output is:
+
+[]assistant
+
+The question is: Was ist der Unterschied zwischen einer Allgemeinarzt

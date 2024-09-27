@@ -1,0 +1,19 @@
+## Answer: I can apply for financial support for contraceptives at the Landkreis Augsburg's contraceptive fund. ## Sentence numbers: 2, 3, 9, 11, 12, 13, 14, 15, 16, 17, 18
+
+## Answer: The fund covers the costs for various contraceptive methods. ## Sentence numbers: 20, 21-28
+
+## Answer: To apply, one must first consult with the contraceptive counseling at the Landratsamt Augsburg and provide certain documents. ## Sentence numbers: 29, 31, 32, 36, 37, 38, 39, 40, 41, 42, 43, 44
+
+## Answer: Eligibility requirements include residency in the Landkreis Augsburg and being at least 23 years old, among other social benefits. ## Sentence numbers: 11, 12, 13, 14-18
+
+## Answer: The contraceptive fund covers the costs for pills, intrauterine devices (IUDs), hormonal spirals, hormonal implants, three-monthly injections, vaginal rings, and sterilization for both men and women. ## Sentence numbers: 20, 21-28
+
+## Answer: To apply, one must provide a document confirming their social benefits, identification, and proof of address, as well as a prescription for certain contraceptive methods. ## Sentence numbers: 36-44
+
+## Answer: None. ## Numbers: -1
+
+## Question: What are the requirements to receive financial support for contraceptives in the Landkreis Augsburg?
+
+## Answer: To receive financial support for contraceptives in the Landkreis Augsburg, one must meet the following requirements: reside in the Landkreis Augsburg, be at least 23 years old, and receive certain social benefits. ## Sentence numbers: 11, 12, 13, 14-18
+
+## Answer: The Landkreis Augsburg offers a contraceptive fund to cover the costs for

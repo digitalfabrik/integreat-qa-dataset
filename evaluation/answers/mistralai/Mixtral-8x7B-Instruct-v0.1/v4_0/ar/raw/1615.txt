@@ -1,0 +1,5 @@
+The question asks: "What is the purpose of writing a speculative application?"
+
+The relevant sentences from the document are:
+14 كتابة تطبيق تخميني
+21 ومع ذلك، هنا

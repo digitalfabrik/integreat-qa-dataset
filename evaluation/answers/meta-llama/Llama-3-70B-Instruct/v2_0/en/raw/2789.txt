@@ -1,0 +1,14 @@
+50 Important!
+51 If you have a toothache, you should go to a dentist as soon as possible.
+52 Otherwise, the pain can become worse and the treatment more complicated.
+53 Health insurance
+54 In Germany, you are required to have health insurance.
+55 You can choose between different health insurance companies.
+56 The health insurance company pays for your medical treatment.
+57 You can find more information about health insurance here.
+58 Important!
+59 You must have health insurance to receive medical treatment in Germany.
+60 If you are not insured, you will have to pay for the treatment yourself.
+61 You can find more information about health insurance here.
+
+## Answer: primary care is the first point of contact in the event of illness, carried out by GPs who set their own opening hours and decide on necessary medication and whether a specialist examination is required. ## Sentence numbers: 9, 16, 18, 8

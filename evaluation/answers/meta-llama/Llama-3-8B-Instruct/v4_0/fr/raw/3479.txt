@@ -1,0 +1,7 @@
+The question is: Quels sont les cours d'intégration proposés?
+
+The relevant sentences from the document are not found, so the output is: []assistant
+
+The correct output is indeed: []
+
+The question asks about the courses of integration offered, but none of the sentences in the document mention

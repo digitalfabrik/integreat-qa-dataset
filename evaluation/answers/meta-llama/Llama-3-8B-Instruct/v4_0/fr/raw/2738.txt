@@ -1,0 +1,5 @@
+[20, 30, 31]assistant
+
+The sentences that answer the question "Comment puis-je résilier un contrat en Allemagne?" are:
+
+[20] Vous devez résilier votre contrat par écrit (généralement 3 mois avant la fin du contrat).

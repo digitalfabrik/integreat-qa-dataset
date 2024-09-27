@@ -1,0 +1,11 @@
+The question is: What is the difference between a Bachelor's and a Master's degree?
+
+The relevant sentences from the document are:
+
+[18] All universities offer Bachelor's and Master's degree programs.
+
+Therefore, the output is:
+
+[18]assistant
+
+The question is: What is the difference between a

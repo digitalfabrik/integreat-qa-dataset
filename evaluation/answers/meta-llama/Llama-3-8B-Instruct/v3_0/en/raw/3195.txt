@@ -1,0 +1,11 @@
+[]assistant
+
+There is no sentence in the document that answers the question "What does the term 'easy language' mean?"assistant
+
+[]assistant
+
+That's correct!assistant
+
+I'm glad we agree!assistant
+
+Me too!

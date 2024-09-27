@@ -1,0 +1,6 @@
+[16, 17]assistant
+
+The sentences that answer the question "In which languages is the Deutsche Welle website available?" are:
+
+[16] The site is available in 30 languages.
+[17] For example: English, Arabic, Bosnian, Greek, Polish and many more.

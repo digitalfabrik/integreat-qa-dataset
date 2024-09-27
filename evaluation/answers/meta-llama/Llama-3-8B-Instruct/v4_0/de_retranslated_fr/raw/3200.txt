@@ -1,0 +1,7 @@
+[4, 13, 22, 23, 24]assistant
+
+The question is "Welche Dokumente sind für den Asylantrag erforderlich?" which translates to "What documents are required for the asylum application?"
+
+The relevant sentences from the document are:
+
+* [4]

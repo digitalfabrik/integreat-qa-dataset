@@ -1,0 +1,6 @@
+[41, 42, 43]assistant
+
+The question is "Was passiert während des Epochenwechsels in Deutschland?" and the relevant sentences from the document are:
+
+[41] Auch in Deutschland gibt es eine Zeitumstellung.
+[42] Das bedeutet, dass die Uhr von

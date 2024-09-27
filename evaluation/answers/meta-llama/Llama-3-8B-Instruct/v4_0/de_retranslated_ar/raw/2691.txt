@@ -1,0 +1,6 @@
+[4, 5]assistant
+
+The sentences that answer the question are:
+
+[4] Eine Duldung ist eine Aussetzung der Abschiebung und kein rechtmäßiger Aufenthalt.
+[5] Sie wird erteilt, wenn eine Abschiebung aus rechtlichen,

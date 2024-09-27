@@ -1,0 +1,5 @@
+[8, 9, 10, 11, 13, 14]assistant
+
+The question is "Was sind die Voraussetzungen für eine Berufszulassung in Deutschland?" and the relevant sentences are:
+
+[8] Informationen zu Jobsuche, Bewerbungen

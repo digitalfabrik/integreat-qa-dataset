@@ -1,0 +1,7 @@
+The question is: У чому різниця між мовним рівнем А1 та С2?
+
+The relevant sentences from the document are not found, so the output is: []assistant
+
+The question is: У чому різниця між мовним рівнем А1 та С2?
+
+The relevant sentences from the

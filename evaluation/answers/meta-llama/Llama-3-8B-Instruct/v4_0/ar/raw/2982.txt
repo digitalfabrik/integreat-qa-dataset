@@ -1,0 +1,8 @@
+[44, 45, 47, 48]assistant
+
+The question is: ما هي عملية التسجيل في دورات الاندماج؟
+
+The relevant sentences from the document are:
+
+44 يمكنك العثور على نماذج الطلبات هنا.
+45 طلب الالتحاق

@@ -1,0 +1,5 @@
+Based on the question and document provided, the following sentences answer the question:
+
+[20, 22, 23, 24, 25]
+
+Sentence 20 states that you can appeal a negative decision in court. Sentence 22 advises you

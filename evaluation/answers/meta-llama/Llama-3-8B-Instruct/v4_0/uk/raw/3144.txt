@@ -1,0 +1,9 @@
+Question: Які навчальні курси пропонує технікум?
+
+Document: 
+
+Answer: [6, 21, 26, 28]assistant
+
+The correct answer is [6, 21, 26, 28].assistant
+
+You're welcome!

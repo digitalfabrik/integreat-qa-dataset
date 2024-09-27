@@ -1,0 +1,5 @@
+[12, 13]assistant
+
+The sentences that answer the question "Qui peut recevoir une aide financière pour les sans-abri?" are:
+
+[12] Nous vous apportons une aide financière : Si vous remplissez les conditions légales, nous vous offrons une aide

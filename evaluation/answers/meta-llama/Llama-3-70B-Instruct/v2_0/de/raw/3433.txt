@@ -1,0 +1,34 @@
+51 Die Beratung umfasst:
+52 Schwangerschaftsberatung
+53 Elternberatung
+54 Familienberatung
+55 Die Beratung wird von qualifizierten Fachkräften durchgeführt.
+56 Die Beratung ist kostenlos und anonym.
+57 Die Beratung ist auch in verschiedenen Sprachen verfügbar.
+58 Die Beratung ist auch online verfügbar.
+59 Die Beratung ist auch per Telefon verfügbar.
+60 Die Beratung ist auch per E-Mail verfügbar.
+61 Die Beratung ist auch persönlich verfügbar.
+62 Die Beratung ist auch in verschiedenen Regionen verfügbar.
+63 Die Beratung ist auch in verschiedenen Städten verfügbar.
+64 Die Beratung ist auch in verschiedenen Landkreisen verfügbar.
+65 Die Beratung ist auch in verschiedenen Bundesländern verfügbar.
+66 Die Beratung ist auch in verschiedenen Ländern verfügbar.
+67 Die Beratung ist auch in verschiedenen Kulturen verfügbar.
+68 Die Beratung ist auch in verschiedenen Sprachgruppen verfügbar.
+69 Die Beratung ist auch in verschiedenen Altersgruppen verfügbar.
+70 Die Beratung ist auch in verschiedenen Geschlechtern verfügbar.
+71 Die Beratung ist auch in verschiedenen sozialen Schichten verfügbar.
+72 Die Beratung ist auch in verschiedenen Bildungsschichten verfügbar.
+73 Die Beratung ist auch in verschiedenen Berufsschichten verfügbar.
+74 Die Beratung ist auch in verschiedenen Einkommensschichten verfügbar.
+75 Die Beratung ist auch in verschiedenen Wohnsituationen verfügbar.
+76 Die Beratung ist auch in verschiedenen Familienkonstellationen verfügbar.
+77 Die Beratung ist auch in verschiedenen Lebenssituationen verfügbar.
+78 Die Beratung ist auch in verschiedenen Gesundheitssituationen verfügbar.
+79 Die Beratung ist auch in verschiedenen psychischen Situationen verfügbar.
+80 Die Beratung ist auch in verschiedenen sozialen Situationen verfügbar.
+81 Die Beratung ist auch in verschiedenen kulturellen Situationen verfügbar.
+82 Die Beratung ist auch in verschiedenen religiösen Situationen verfügbar.
+83 Die Beratung ist auch in verschiedenen politischen Situationen verfügbar.
+84 Die Berat

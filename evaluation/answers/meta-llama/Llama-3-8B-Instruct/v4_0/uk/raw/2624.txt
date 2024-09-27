@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "Які вимоги до волонтерської роботи з біженцями?" which translates to "What are the requirements for volunteering with refugees?".
+
+After reviewing the document, I found that none of the sentences answer this question directly. Therefore, the output is:
+
+[]

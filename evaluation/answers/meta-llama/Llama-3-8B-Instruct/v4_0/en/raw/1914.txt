@@ -1,0 +1,11 @@
+[]assistant
+
+The question is "What documents are needed to enter Germany?" and the relevant sentences from the document are:
+
+4. You will need a valid identity card or a valid passport from your country of origin.
+
+So, the output is:
+
+[4]assistant
+
+You are correct.

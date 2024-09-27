@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Where can I find advice centers for foreigners?" and the document does not provide any information about advice centers for foreigners. Therefore, the output is an empty list, which is represented as "[]".assistant
+
+I completely agree with you! The question is not

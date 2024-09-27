@@ -1,0 +1,3 @@
+[]assistant
+
+The question is in Ukrainian, and the document is in German. It seems that the question is asking where to find information about integration courses in the town hall of Spiegelberg, but the document does not provide any information about integration courses. Therefore, the output is an empty list.

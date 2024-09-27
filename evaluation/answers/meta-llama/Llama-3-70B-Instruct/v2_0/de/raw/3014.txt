@@ -1,0 +1,5 @@
+8 Die wöchentliche Arbeitszeit beträgt maximal 48 Stunden.
+9 Die wöchentliche Arbeitszeit kann in Ausnahmefällen auf maximal 60 Stunden verlängert werden, wenn innerhalb von 4 Monaten im Durchschnitt 48 Stunden wöchentlich nicht überschritten wurden.
+10 Die wöchentliche Arbeitszeit beträgt maximal 48 Stunden.
+
+## Answer: Die Arbeitszeit beträgt maximal 48 Stunden die Woche, kann in Ausnahmefällen auf maximal 60 Stunden verlängert werden. Mehr als 8 Stunden am Tag darf nicht gearbeitet werden, in Ausnahmefällen kann die Arbeitszeit bis zu 10 Stunden verlängert werden. ## Sentence numbers: 1, 2, 8, 9

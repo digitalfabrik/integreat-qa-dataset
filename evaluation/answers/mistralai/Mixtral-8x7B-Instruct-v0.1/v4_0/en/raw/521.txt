@@ -1,0 +1,7 @@
+The relevant sentences from the document that answer the question are:
+["9", "11-15"]
+
+Explanation:
+The question asks for the prerequisites for participating in ValiKom Transfer. The document states that the prerequisites are:
+
+* at least

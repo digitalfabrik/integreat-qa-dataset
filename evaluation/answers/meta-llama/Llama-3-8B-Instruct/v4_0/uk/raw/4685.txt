@@ -1,0 +1,6 @@
+[2, 3, 9]assistant
+
+The sentences that answer the question are:
+
+[2] JuLeZ - це програма для дівчат* та молодих жінок* віком до 27 років, які відчувають потяг до людей своєї статі.
+[3] Ju

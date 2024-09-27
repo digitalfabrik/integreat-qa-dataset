@@ -1,0 +1,5 @@
+[1, 7, 8, 9, 10, 11, 12]assistant
+
+The sentences that answer the question "ما هي مراكز المشورة المتوفرة في ريمس-مور-كرايس؟" are:
+
+1. في منطقة ر

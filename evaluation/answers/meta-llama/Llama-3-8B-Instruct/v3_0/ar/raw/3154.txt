@@ -1,0 +1,5 @@
+[21, 23, 41, 42]assistant
+
+Note: The question is in Arabic, and the document is in German. The sentences that answer the question are those that provide information on where to find housing and food.assistant
+
+I apologize for the mistake. Since the

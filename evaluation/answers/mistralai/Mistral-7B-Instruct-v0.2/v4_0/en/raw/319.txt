@@ -1,0 +1,3 @@
+[4, 8, 19]
+
+Explanation: The question asks for the two types of training in Germany. Sentences 4, 8, and 19 provide the answer by mentioning "School-based training" and the "Dual system" as the two

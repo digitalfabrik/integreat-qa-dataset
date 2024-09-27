@@ -1,0 +1,1 @@
+[10, 13] These sentences explain that Bruttolohn (gross salary) is the total salary before deductions, and Nettobetrag (net salary) is usually the amount paid out, which is the gross salary minus deductions.

@@ -1,0 +1,19 @@
+## Answer: A doctor who provides first-line medical care in the community, often acting as a gatekeeper to specialized medical care. ## Sentences: 9, 11, 12, 13, 15, 16, 17, 18
+
+## Answer: A medical specialist who deals with the health issues of infants, children, and adolescents. ## Sentences: 23, 24, 25, 26, 27, 28
+
+## Answer: A doctor who specializes in a specific area of medicine and performs specialized examinations. ## Sentences: 31, 32, 33
+
+## Answer: A doctor who specializes in the health issues of women, including reproductive health and preventive medical check-ups. ## Sentences: 35, 36, 37, 38, 39, 40, 41, 42
+
+## Answer: A doctor who specializes in the health issues of men, including diseases of the male reproductive organs and preventive medical check-ups. ## Sentences: 43, 44, 45
+
+## Answer: A healthcare professional who provides dental care and performs check-ups to maintain oral health. ## Sentences: 47, 48, 49
+
+## Answer: A type of doctor who provides primary care and is the first point of contact for individuals with health concerns or questions. ## Sentences: 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
+
+## Answer: None. ## Numbers: -1
+
+## Answer: A doctor who specializes in the health issues of women, including reproductive health and preventive medical check-ups, and who performs gynecological examinations. ## Sentences: 35, 36, 37, 38, 39, 40, 41, 42
+
+## Answer: A doctor who specializes in the health issues of men, including diseases of the male re

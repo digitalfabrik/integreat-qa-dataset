@@ -1,0 +1,7 @@
+[44, 45, 46]assistant
+
+The question is "Що станеться, якщо пропустити термін подачі заяви на возз'єднання сім'ї?".
+
+The relevant sentences from the document are:
+
+[44] Ви пропустили дедлайн?

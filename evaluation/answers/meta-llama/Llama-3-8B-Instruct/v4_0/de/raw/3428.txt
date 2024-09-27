@@ -1,0 +1,11 @@
+The question is: Warum ist eine Impfung wichtig?
+
+The relevant sentences are: [3]
+
+The output is: [3]assistant
+
+The question is: Warum ist eine Impfung wichtig?
+
+The relevant sentences are: [3]
+
+The output is: [3]assistant

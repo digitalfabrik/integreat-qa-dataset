@@ -1,0 +1,5 @@
+[6, 10, 11]assistant
+
+The sentences that answer the question "Where can I find courses for older people?" are:
+
+6. You can find the current program at www.vhs-augsburger-land.de, in the town halls of the municipalities and at the Augsburg District

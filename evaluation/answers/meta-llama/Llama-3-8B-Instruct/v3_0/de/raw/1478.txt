@@ -1,0 +1,5 @@
+[10, 11]assistant
+
+The sentence with ID 10 is not relevant to the question, as it is a heading and not a sentence that answers the question.
+
+The sentence with ID 11 answers the question: "Kann ich mich kostenlos gegen das Coronavirus impfen lassen?" (Can I

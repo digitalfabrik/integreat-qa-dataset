@@ -1,0 +1,5 @@
+[0]assistant
+
+The question is "Wie findet man bezahlbaren Wohnraum?" and the document does not provide any information about finding affordable housing. Therefore, the output is an empty list: []assistant
+
+You're right! I apologize for the mistake. Since the question

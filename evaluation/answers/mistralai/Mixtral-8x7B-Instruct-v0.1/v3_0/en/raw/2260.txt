@@ -1,0 +1,1 @@
+[1, 2, 4, 5] These IDs cover the emergency numbers for police, fire brigade, and ambulance in Germany.

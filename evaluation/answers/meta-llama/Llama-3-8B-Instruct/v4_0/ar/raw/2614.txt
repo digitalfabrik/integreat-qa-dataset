@@ -1,0 +1,5 @@
+[7, 8, 9, 11, 12, 13, 14, 15]assistant
+
+The sentences that answer the question "ما هي أنواع التذاكر المتاحة للنقل العام المحلي؟" are:
+
+7 تذاكر فردية

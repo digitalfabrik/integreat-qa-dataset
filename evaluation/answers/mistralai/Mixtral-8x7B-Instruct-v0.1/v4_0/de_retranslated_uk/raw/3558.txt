@@ -1,0 +1,3 @@
+The question asks about types of health insurance in Germany, but the document does not provide any information on this topic. Therefore, there are no relevant sentences in the document, and the output should be:
+
+[]

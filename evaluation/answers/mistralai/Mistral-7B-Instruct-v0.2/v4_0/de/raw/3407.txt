@@ -1,0 +1,4 @@
+[1, 2]
+
+Explanation:
+The question asks how one can register for trainings or apprenticeships in the public sector. Sentences 1 and 2 answer this question by encouraging the reader to apply for such opportunities in the public sector.

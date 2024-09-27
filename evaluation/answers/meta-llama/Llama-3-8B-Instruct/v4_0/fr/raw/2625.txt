@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "En quoi consiste le travail d'intégration des bénévoles?" and the document does not provide any information about the work of integrating volunteers. Therefore, the output is an empty list: []assistant
+
+I completely agree with you! The

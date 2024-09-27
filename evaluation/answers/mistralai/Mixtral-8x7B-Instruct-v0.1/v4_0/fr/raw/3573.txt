@@ -1,0 +1,2 @@
+["0", "1", "3", "4", "5"]
+These sentences provide information about the requirement for health insurance and the option of public health insurance in Germany.

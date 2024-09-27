@@ -1,0 +1,11 @@
+Answer: The duration of elementary school is 4 years.
+Sentence numbers: 1
+
+There is no answer for the question in the following sentences: 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18.
+
+Therefore, the answer is:
+## Answer: The duration of elementary school is 4 years.
+## Sentence numbers: 1
+
+## Answer: None.
+## Numbers: 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18.

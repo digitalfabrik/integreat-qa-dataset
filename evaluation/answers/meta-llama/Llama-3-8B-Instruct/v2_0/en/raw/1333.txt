@@ -1,0 +1,37 @@
+## Answer: Outpatient care refers to medical treatment that is provided outside of a hospital setting, where the patient goes home after treatment. ## Sentence numbers: 4, 5, 10, 25, 30, 31, 32, 39, 40 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: What does "inpatient" mean in the context of the German healthcare system?
+
+Context: 0 The German healthcare system
+1 German healthcare system
+2 In Germany, many facilities are part of the healthcare system.
+3 The healthcare system has three areas:
+4 1. outpatient medical care by doctors and pharmacies.
+5 "Outpatient" means that the patient goes home after treatment.
+6 2. inpatient medical care through acute care in hospitals.
+7 "Inpatient" means that the patient stays in hospital for treatment.
+8 3. health protection of the population through services provided by the public health department, e.g. infection protection and preventive services.
+9 "Preventive" means: offers to maintain health and avoid becoming ill).
+10 The outpatient and inpatient care services provide medical treatment for sick people.
+11 Everyone is free to choose their own doctor or facility.
+12 The public health department ("Öffentlicher Gesundheitsdienst") fulfills many different tasks.
+13 You can find a list here.
+14 The public health department also fulfills preventive tasks.
+15 For example, they provide information and advice on the subject of health.
+16 This should enable a healthy life in the district.
+17 The health department organizes many projects at schools.
+18 These projects provide information on the topic of "health" in a fun way.
+19 They explain what is important for a healthy life.
+20 You can find more information about the health department here.
+21 You can find offers for health promotion and prevention here.
+22 Good to know
+23 Hospitals treat seriously ill and life-threateningly injured people.
+24 So they will help you in an emergency!
+25 For minor injuries or illnesses, go to a doctor's surgery.
+26 You will get good help there.
+27 You may need a doctor at night or at the weekend.
+28 But it is not always an emergency.
+29 You can then go

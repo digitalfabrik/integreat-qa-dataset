@@ -1,0 +1,5 @@
+[30, 31, 32]assistant
+
+The question is "De quels documents ai-je besoin pour m'inscrire au Landratsamt d'Augsbourg?" and the relevant sentences are:
+
+[30] Voici ce dont tu as besoin pour pouvoir utiliser le bureau virtuel

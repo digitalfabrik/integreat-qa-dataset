@@ -1,0 +1,6 @@
+[3, 4, 5]assistant
+
+The sentences that answer the question "Welche Voraussetzungen gibt es für eine berufliche Ausbildung als Flüchtling?" are:
+
+[3] Sie sind jung?
+[4] Sie mochten einen Beruf erlernen

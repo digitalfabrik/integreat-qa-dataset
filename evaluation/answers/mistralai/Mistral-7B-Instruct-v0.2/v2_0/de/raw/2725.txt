@@ -1,0 +1,32 @@
+## Answer: Es gibt verschiedene Methoden, wenn Sie nicht schwanger werden wollen oder die Infektion mit sexuell übertragbaren Krankheiten verhindern möchten.
+## Sentence numbers: 14, 15, 16
+
+## Answer: Sie können sich bei einem Frauenarzt oder einer Frauenärztin über die Verhütungsmethoden informieren.
+## Sentence numbers: 21
+
+## Answer: Es gibt zum Beispiel Barriere-Methoden wie das Kondom, oder Methoden mit Hormonen wie die Pille.
+## Sentence numbers: 16
+
+## Answer: Vor sexuell übertragbaren Krankheiten wie HIV schützt ein Kondom.
+## Sentence numbers: 20
+
+## Answer: Sie können sich bei einem Frauenarzt oder einer Frauenärztin über die Verhütungsmethoden informieren, um zu wissen, wie sie die „Pille danach“ nehmen sollen.
+## Sentence numbers: 21, 26
+
+## Answer: Sie können die „Pille danach“ ohne Rezept in einer Apotheke kaufen.
+## Sentence numbers: 28
+
+## Answer: Dann werden Sie trotz der Verhütung schwanger.
+## Sentence numbers: 25
+
+## Answer: In diesen Fällen könne Sie die „Pille danach“ nehmen.
+## Sentence numbers: 26, 27
+
+## Answer: Sie müssen die „Pille danach“ so schnell wie möglich einnehmen, am besten in den ersten zwölf Stunden nach dem Geschlechtsverkehr.
+## Sentence numbers: 27
+
+## Answer: Es gibt auch die Möglichkeit, nach einem ungeschützten Geschlechtsverkehr Verhütungsmittel einzunehmen, um eine ungewollte Schwangerschaft zu verhindern.
+## Sentence numbers: 15, 22, 23, 24, 26
+
+## Answer: None.
+## Numbers: 0, 1, 2, 3, 4,

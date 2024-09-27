@@ -1,0 +1,9 @@
+The question is: ما هو الغرض من كتابة طلب تخميني؟
+
+The relevant sentences from the document are:
+
+[14, 17, 20, 21, 22]
+
+These sentences answer the question by explaining the purpose of writing a speculative application.assistant
+
+The IDs of

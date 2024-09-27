@@ -1,0 +1,7 @@
+[6]assistant
+
+The question is "Quelles sont les catégories de personnes qui ne sont pas autorisées à travailler?" and the relevant sentence is:
+
+6 Certaines catégories de personnes ne sont pas autorisées à travailler.
+
+So, the output is: [

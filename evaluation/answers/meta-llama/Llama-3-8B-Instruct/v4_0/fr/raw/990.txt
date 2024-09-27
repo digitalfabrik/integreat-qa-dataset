@@ -1,0 +1,7 @@
+The question is: Quel visa est valable pour séjourner dans l'ensemble de l'espace Schengen?
+
+The relevant sentences are:
+
+[1, 2]
+
+These sentences answer the question by mentioning the visa Schengen as the one that is valid for staying in the Schengen area.

@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wie hoch sind die aktuellen Mindestlöhne in Deutschland?" and the document does not provide the current minimum wage amount. Therefore, there are no relevant sentences in the document that answer the question.assistant
+
+I completely agree! The output should indeed be

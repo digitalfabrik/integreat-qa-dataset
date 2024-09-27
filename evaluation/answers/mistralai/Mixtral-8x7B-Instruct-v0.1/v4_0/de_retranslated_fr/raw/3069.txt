@@ -1,0 +1,3 @@
+[2, 3, 4, 12, 13, 14, 15] are the relevant sentences.
+
+These sentences provide information about where to find free medical consultation in Germany, specifically in Augsburg (based on the question context), for people without health insurance. The

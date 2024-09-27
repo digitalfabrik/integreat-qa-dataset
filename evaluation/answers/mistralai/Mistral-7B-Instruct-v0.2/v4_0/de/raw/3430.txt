@@ -1,0 +1,4 @@
+[8, 9, 11]
+
+Explanation:
+The question asks which vaccinations are free in Germany. The relevant sentences are [8] and [9], which state that all children in Germany (above one year old) must be vaccinated or immune against measles. The

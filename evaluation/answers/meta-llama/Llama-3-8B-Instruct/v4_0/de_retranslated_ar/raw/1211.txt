@@ -1,0 +1,5 @@
+[9, 25, 26, 27, 28, 29, 30, 31, 32, 33]assistant
+
+The sentences that answer the question "Welche Organisationen bieten älteren Menschen in Augsburg Hilfe an?" are:
+
+[9] Die Sen

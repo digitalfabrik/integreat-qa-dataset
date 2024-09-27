@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the age range for the professional integration school, but none of the sentences in the document provide this information. Therefore, the output is an empty list: []assistant
+
+I completely agree with you! The question asks about the age range for the professional integration school

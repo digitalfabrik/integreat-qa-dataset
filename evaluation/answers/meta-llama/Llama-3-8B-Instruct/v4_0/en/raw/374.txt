@@ -1,0 +1,8 @@
+The question is: What do I have to submit to receive housing benefit?
+
+The relevant sentences are:
+15 To receive housing benefit, you must submit an application and various supporting documents:
+16 the annual income of all household members and the pension
+17 the rent or the costs.
+
+The IDs of the relevant sentences are: [

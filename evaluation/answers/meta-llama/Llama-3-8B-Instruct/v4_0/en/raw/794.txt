@@ -1,0 +1,6 @@
+[2, 6, 7]assistant
+
+The sentences that answer the question "What is the purpose of occupational safety regulations?" are:
+
+* Sentence 2: For all kinds of work, the occupational safety regulations(ArbSchG) set out:
+* Sentence 6: These occupational safety rules

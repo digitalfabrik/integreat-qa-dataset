@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wie kann ich kostenlose Deutschkurse finden?" which translates to "How can I find free German courses?".
+
+The document does not provide any information about finding free German courses. Therefore, there are no sentences that answer the question. The output is an empty list: []

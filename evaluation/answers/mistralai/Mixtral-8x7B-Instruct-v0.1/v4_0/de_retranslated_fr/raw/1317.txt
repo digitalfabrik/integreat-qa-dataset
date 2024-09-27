@@ -1,0 +1,2 @@
+[7, 8, 9, 10]
+The sentences answer the question about what the Bavarian Family Grant is and for what purpose it is paid.

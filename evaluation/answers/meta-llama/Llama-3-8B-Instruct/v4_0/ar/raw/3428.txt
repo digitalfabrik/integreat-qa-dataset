@@ -1,0 +1,5 @@
+[3]assistant
+
+The question is "ما أهمية التطعيم؟" which translates to "What is the importance of vaccination?".
+
+The sentence that answers this question is [3] "يمكن للتطعيمات أن تمنع المرض وانتشاره." which translates to "

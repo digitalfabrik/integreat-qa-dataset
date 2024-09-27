@@ -1,0 +1,10 @@
+34 Die Fahrtzeit beträgt circa 30-40 Minuten je nach Verkehr.
+35 Die Parkgebühren am Flughafen betragen circa 4-5 Euro pro Stunde.
+36 Die Parkgebühren sind je nach Parkplatz unterschiedlich.
+37 Die Parkgebühren sind je nach Parkplatz unterschiedlich.
+38 Die Parkgebühren sind je nach Parkplatz unterschiedlich.
+
+## Answer: Busverbindungen ## Sentence numbers: 20, 21
+```
+The answer is "Busverbindungen" and the sentence numbers are 20 and 21.
+```

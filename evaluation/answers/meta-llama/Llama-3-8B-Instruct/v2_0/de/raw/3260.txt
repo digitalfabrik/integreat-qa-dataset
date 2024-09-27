@@ -1,0 +1,36 @@
+## Answer: Du kannst finanzielle Unterstützung für Verhütungsmittel bei der Schwangerschaftsberatung im Landratsamt Augsburg beantragen. ## Sentence numbers: 31, 32, 35, 41, 42, 44 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Wie kann ich finanzielle Unterstützung für Verhütungsmittel bekommen?
+
+Context: 0 Verhütungsmittelfonds
+1 Die selbstbestimmte Entscheidung über den Zeitpunkt einer Schwangerschaft und die Anzahl der Kinder sollte jede Frau und jedes Paar für sich treffen können.
+2 Aus diesem Grund stellt der Landkreis Augsburg einen Verhütungsmittelfonds zur Verfügung.
+3 Das heißt: Für bestimmte Personen übernimmt der Landkreis die Kosten für die Verhütungsmittel.
+4 Bitte beachte: Der Fonds ist gedeckelt.
+5 Es ist ein bestimmter Betrag für den Verhütungsmittelfonds vorgesehen.
+6 Ist er ausgeschöpft, können keine Kosten mehr übernommen werden.
+7 Es besteht kein Rechtsanspruch.
+8 Es ist eine freiwillige Leistung des Landkreises.
+9 Für wen werden die Kosten übernommen?
+10 Diese Voraussetzungen müssen erfüllt sein:
+11 Wohnsitz im Landkreis Augsburg
+12 mindestens 23 Jahre alt (unter 23 Jahre übernimmt die gesetzliche Krankenkasse die Kosten)
+13 Bezug von Sozialleistungen:
+14 Bürgergeld (SGB II),
+15 Sozialhilfe (SGB XII),
+16 Wohngeld,
+17 Kinderzuschlag oder
+18 Leistungen nach dem Asylbewerberleistungsgesetz (AsylbLG).
+19 Welche Kosten werden übernommen?
+20 Die Kosten für:
+21 Pille
+22 Kupferspirale
+23 Hormonspirale
+24 Hormonimplantat
+25 Dreimonatsspritze
+26 Vaginalring
+27 Verhütungspflaster
+28 Steril

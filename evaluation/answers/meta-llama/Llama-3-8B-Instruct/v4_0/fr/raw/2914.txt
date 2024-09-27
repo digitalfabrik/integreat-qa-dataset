@@ -1,0 +1,7 @@
+[12, 13, 14, 15, 16, 17, 18, 19, 20, 21]assistant
+
+The sentences that answer the question are:
+
+12. Horaires d'ouverture :
+13. Lundi
+14. 08:00 -

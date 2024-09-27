@@ -1,0 +1,5 @@
+54 Die Voraussetzungen für den Besuch einer Fachschule sind:
+55 eine abgeschlossene Berufsausbildung
+56 und eine bestimmte Berufserfahrung.
+
+## Answer: eine abgeschlossene Berufsausbildung und eine bestimmte Berufserfahrung. ## Sentence numbers: 54-56

@@ -1,0 +1,4 @@
+Based on the question "Які ліки я можу купити в аптеці?", the relevant sentences from the document are:
+
+11 "Існують рецептурні та безрецептурні препарати."
+14 "Безре

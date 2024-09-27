@@ -1,0 +1,11 @@
+The question is "What is the duration of the Realschule?"
+
+The relevant sentences are:
+
+[2] The Realschule goes from year 5 to year 10.
+
+So, the output is:
+
+[2]assistant
+
+The question is "What is the duration of the Reals

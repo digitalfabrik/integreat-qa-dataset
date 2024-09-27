@@ -1,0 +1,6 @@
+[1, 2, 3, 5]assistant
+
+The sentences that answer the question "Was sind die Vorteile eines Minijobs in Deutschland?" are:
+
+[1] Der maximale Verdienst im Monat beträgt 520 € und ist steuerfrei.
+[

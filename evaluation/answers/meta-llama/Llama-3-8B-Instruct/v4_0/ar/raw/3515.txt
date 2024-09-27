@@ -1,0 +1,8 @@
+[1, 2]assistant
+
+The sentences that answer the question are:
+
+[1] يمكن للأشخاص ذوي الإعاقة العمل في سوق العمل العام.
+[2] إلا إذا كانت الإعاقة تجعل ذلك مستحيلاً.
+
+These sentences provide information about the rights of people

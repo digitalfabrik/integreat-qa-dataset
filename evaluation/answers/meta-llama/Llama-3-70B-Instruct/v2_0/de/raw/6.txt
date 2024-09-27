@@ -1,0 +1,3 @@
+22 Die Münchner Kammerspiele sind ein Theater der Stadt München.
+
+## Answer: theaterkasse@kammerspiele.de, Falckenbergstr. 2, www.muenchner-kammerspiele.de ## Sentence numbers: 18, 16, 20

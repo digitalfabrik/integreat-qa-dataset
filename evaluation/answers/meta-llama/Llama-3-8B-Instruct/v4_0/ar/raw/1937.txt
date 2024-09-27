@@ -1,0 +1,9 @@
+The question is: ما هو القانون الأكثر أهمية بالنسبة لألمانيا؟
+
+The relevant sentences are:
+
+[3] القانون الأهم بالنسبة لألمانيا هو القانون الأساسي.
+
+The output is: [3]assistant
+
+The question is: ما هو القانون الأكثر أهمية

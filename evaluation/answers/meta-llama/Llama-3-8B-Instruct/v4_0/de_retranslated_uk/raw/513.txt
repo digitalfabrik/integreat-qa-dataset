@@ -1,0 +1,5 @@
+[1]assistant
+
+The question is: Welche Fragen können an einen spezialisierten Beratungsdienst für religiöse und weltanschauliche Vielfalt gerichtet werden?
+
+The relevant sentence is: [1] Fachberatung für religiöse und

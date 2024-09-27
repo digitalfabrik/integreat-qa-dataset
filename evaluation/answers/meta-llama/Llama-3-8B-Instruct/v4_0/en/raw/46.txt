@@ -1,0 +1,6 @@
+[14, 15]assistant
+
+The sentences that answer the question "Where can I apply for a residence permit?" are:
+
+[14] You must apply for the residence permit at the "Foreigners' Registration Office."
+[15] It is important that you apply for a residence permit while your visa

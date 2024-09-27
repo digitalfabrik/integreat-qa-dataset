@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "Welchem Gericht ist das Verwaltungsgericht München unterstellt?"assistant
+
+[2]assistant
+
+The sentence with ID 2 answers the question: "Welchem Gericht

@@ -1,0 +1,5 @@
+[]assistant
+
+I apologize for the mistake. Since the question asks about documents required for the asylum procedure, and the document provided does not mention any specific documents, the correct output is indeed an empty list: []
+
+However, if the question was rephrased to ask about the purpose or process of the

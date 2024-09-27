@@ -1,0 +1,3 @@
+7
+
+This list contains the IDs of the sentences that answer the question. In this case, sentence 7 is the one that mentions that "Es gibt einige Veranstaltungen kostenfrei." which answers the question "Gibt es kostenlose Veranstaltungen bei KulturB

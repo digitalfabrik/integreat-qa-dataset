@@ -1,0 +1,2 @@
+[0], [1]
+The sentences with IDs [0] and [1] answer the question, as they define what Krankenversicherung (health insurance) is and that it is mandatory for every person in Germany.

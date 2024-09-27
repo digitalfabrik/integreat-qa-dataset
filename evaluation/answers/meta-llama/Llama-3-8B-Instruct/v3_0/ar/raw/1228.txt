@@ -1,0 +1,5 @@
+[2, 3, 4]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "Was ist die finanzielle Unterstützung, die Familien erhalten können?"assistant
+
+You're right!

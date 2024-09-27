@@ -1,0 +1,7 @@
+[10, 11, 13]assistant
+
+The sentences that answer the question "Que signifient les abréviations LGBTQIA+ ou LSBTTIQ?" are:
+
+[10] Que signifie LGBTQIA+ ou LGBT?
+[11] LGBTQIA+ ou
+[13]

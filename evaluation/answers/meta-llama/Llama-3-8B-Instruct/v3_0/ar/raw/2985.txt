@@ -1,0 +1,5 @@
+[2]assistant
+
+Note: The question is in Arabic, and the document is in German. The answer is the sentence with the ID [2], which provides the address and contact information of the town hall in Großerlach.assistant
+
+Thank you for the clarification.

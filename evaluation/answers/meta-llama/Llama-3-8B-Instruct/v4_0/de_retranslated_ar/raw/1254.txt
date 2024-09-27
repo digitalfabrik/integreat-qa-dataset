@@ -1,0 +1,15 @@
+The question is: Wie lange dauert die Grundschulzeit?
+
+The relevant sentences are:
+
+1. Dauer: 4 Jahre
+
+The output is: [1]assistant
+
+The question is: Wie lange dauert die Grundschulzeit?
+
+The relevant sentences are:
+
+[1]
+
+The output

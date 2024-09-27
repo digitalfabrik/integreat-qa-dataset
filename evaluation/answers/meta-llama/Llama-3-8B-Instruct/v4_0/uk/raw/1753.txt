@@ -1,0 +1,7 @@
+[8, 10]assistant
+
+The sentences that answer the question are:
+
+[8] Портал Wir-gründen-in-Deutschland пропонує корисну інформацію про всі аспекти заснування бізнесу в Німеччині.
+
+[10] Адреси регіональних

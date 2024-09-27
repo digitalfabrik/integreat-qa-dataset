@@ -1,0 +1,5 @@
+The question asks about the differences between categories of driver's licenses. However, the document does not provide any information about the differences between categories of driver's licenses. Therefore, there are no relevant sentences in the document.
+
+So, the output is:
+
+[]

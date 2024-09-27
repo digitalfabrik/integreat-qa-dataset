@@ -1,0 +1,6 @@
+8 Breaks are either paid or unpaid.
+9 Paid breaks are included in the working hours.
+10 Unpaid breaks are not included in the working hours.
+11 The difference between paid and unpaid breaks is that paid breaks are included in the working hours and unpaid breaks are not included in the working hours.
+
+## Answer: Paid breaks are included in the working hours and unpaid breaks are not included in the working hours. ## Sentence numbers: 11

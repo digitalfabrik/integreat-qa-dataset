@@ -1,0 +1,11 @@
+The question is: Wo kann ich Kurse für ältere Menschen finden?
+
+The relevant sentences are:
+
+[4, 5, 6, 10, 11]
+
+These sentences provide information on where to find courses for older people.assistant
+
+The correct output is:
+
+[4, 5,

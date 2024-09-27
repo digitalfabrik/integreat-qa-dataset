@@ -1,0 +1,5 @@
+[4, 5, 8, 10, 11, 13, 14, 28]assistant
+
+I apologize for the mistake. Here is the corrected output:
+
+[4, 5, 8, 10, 11, 13, 14, 28

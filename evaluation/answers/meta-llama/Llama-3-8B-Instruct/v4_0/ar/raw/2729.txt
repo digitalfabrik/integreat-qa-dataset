@@ -1,0 +1,7 @@
+The question is: أين يمكنني الحصول على طعام مجاني في مدينتي؟
+
+The document does not contain any sentences that answer this question. Therefore, the output is:
+
+[]assistant
+
+The question is: أين يمكنني الحصول على طعام مجاني في مدي

@@ -1,0 +1,5 @@
+58 Der München-Pass ist ein spezielles Angebot für Touristen.
+59 Er bietet Ihnen eine Vielzahl von Vorteilen und Rabatten auf Attraktionen, Sehenswürdigkeiten und öffentliche Verkehrsmittel.
+60 Der München-Pass ist auf der Website der MVG erhältlich.
+
+## Answer: MAPS.ME und MVG-App ## Sentence numbers: 22, 17

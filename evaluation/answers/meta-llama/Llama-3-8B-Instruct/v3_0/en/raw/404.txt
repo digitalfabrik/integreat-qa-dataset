@@ -1,0 +1,6 @@
+[12, 35]assistant
+
+The sentences that answer the question "Which freedoms are inviolable according to Article 5?" are:
+
+* [12] (1) Human dignity is inviolable.
+* [35] (1) Everyone has the right to freely express and disseminate his

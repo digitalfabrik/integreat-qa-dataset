@@ -1,0 +1,7 @@
+Question: Які програми професійного навчання існують для біженців у Німеччині?
+
+Document:...assistant
+
+[]assistant
+
+The question asks about programs for professional training for refugees in Germany, but none of the sentences in the document mention such programs specifically for refugees. Therefore,

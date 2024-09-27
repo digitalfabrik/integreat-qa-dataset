@@ -1,0 +1,3 @@
+17, 28, 29, 31, 32, 34, 35, 37 (37 is the ID for the sentence "integration@schorndorf.de")
+
+These sentences provide information on where to find information about Integrations

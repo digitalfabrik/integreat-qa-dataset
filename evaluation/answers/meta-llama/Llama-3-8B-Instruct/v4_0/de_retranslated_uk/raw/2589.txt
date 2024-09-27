@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wie lautet die Adresse der Einwanderungsbehörde in Rams Murray Crescent?" and the document does not mention the address of the immigration authority in Rams Murray Crescent. Therefore, the output is an empty list: []assistant
+
+I completely agree with

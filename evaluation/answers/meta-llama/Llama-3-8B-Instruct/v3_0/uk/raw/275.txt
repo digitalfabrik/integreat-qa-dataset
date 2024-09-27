@@ -1,0 +1,7 @@
+[3, 4, 5, 7, 8, 9, 11]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[3, 4, 5]
+
+The other sentences do not directly answer the question about the types of educational programs in Germany.

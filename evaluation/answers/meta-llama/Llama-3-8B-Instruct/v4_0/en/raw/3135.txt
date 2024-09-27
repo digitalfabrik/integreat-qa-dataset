@@ -1,0 +1,8 @@
+[4, 5]assistant
+
+The sentences that answer the question "Which insurance policies are compulsory in Germany?" are:
+
+4. For drivers: Motor vehicle liability insurance
+5. For employees: Statutory pension insurance
+
+So, the output is: [4, 5]assistant

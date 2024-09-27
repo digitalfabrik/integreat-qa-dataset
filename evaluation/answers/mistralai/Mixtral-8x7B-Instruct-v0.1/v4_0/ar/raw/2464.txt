@@ -1,0 +1,7 @@
+[1, 2, 3, 4, 5]
+
+Explanation:
+
+The question asks about "advance child maintenance payments" in Germany. The relevant sentences from the document are:
+
+[1] This sentence mentions "advance child maintenance payments" (مد

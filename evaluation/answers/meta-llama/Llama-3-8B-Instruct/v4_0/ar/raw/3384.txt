@@ -1,0 +1,10 @@
+The question is: ما هي مهمة مكتب الدمج؟
+
+The relevant sentences are:
+
+[4] فريق الدمج
+[7] فريق الدمج في مقاطعة أوغسبورغ
+
+The output is: [4, 7]assistant
+
+The question is: ما هي مهمة

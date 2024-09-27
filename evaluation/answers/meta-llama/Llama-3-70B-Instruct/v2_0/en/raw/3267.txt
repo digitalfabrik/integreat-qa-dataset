@@ -1,0 +1,12 @@
+11 The district of Augsburg is also committed to the inclusion of refugees.
+12 Refugees are people who have had to leave their home country due to war, persecution or natural disasters.
+13 They often have to start from scratch in a new country.
+14 The district of Augsburg offers various services to help them.
+15 These services include language courses, job placement and assistance with finding accommodation.
+16 Refugees who have been recognized as such by the German authorities receive a residence permit.
+17 This permit allows them to stay in Germany for a certain period of time.
+18 Refugees who have a residence permit can also apply for a work permit.
+19 The work permit allows them to work in Germany.
+20 The district of Augsburg also offers assistance with finding a job.
+
+## Answer: The residence permit allows them to stay in Germany for a certain period of time, while the work permit allows them to work in Germany. ## Sentence numbers: 17, 19

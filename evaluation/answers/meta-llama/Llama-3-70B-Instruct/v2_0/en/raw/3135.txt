@@ -1,0 +1,16 @@
+31 You can also find information on the website of the consumer advice center.
+32 The website is available in several languages.
+33 You can find the website at www.verbraucherzentrale.de.
+34 You can also get information from the consumer advice center by phone.
+35 The phone number is 040/248 499 0.
+36 You can also get information from the consumer advice center by email.
+37 The email address is info@verbraucherzentrale.de.
+38 You can also get information from the consumer advice center in person.
+39 The consumer advice center has offices in many cities.
+40 You can find the addresses of the offices on the website.
+41 You can also get information from the consumer advice center by post.
+42 The postal address is Verbraucherzentrale Hamburg, Göttersstr. 108, 20539 Hamburg.
+43 You can also get information from the consumer advice center by fax.
+44 The fax number is 040/248 499 29.
+
+## Answer: Health insurance, Motor vehicle liability insurance, Statutory pension insurance. ## Sentence numbers: 3, 4, 5.

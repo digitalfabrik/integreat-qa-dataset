@@ -1,0 +1,7 @@
+[6]assistant
+
+The sentence with ID 6 answers the question "Wo kann ich Informationen über diese Treffen und Cafés finden?"assistant
+
+[6]assistant
+
+The sentence with ID 6 answers the question "Wo kann ich Informationen über diese Treffen und Caf

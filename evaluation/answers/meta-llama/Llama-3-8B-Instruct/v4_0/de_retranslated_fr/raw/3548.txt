@@ -1,0 +1,8 @@
+The question is: Ist es möglich, Wohnungen über Facebook-Seiten zu finden?
+
+The relevant sentences are:
+
+19 Es gibt auch viele Gruppen und Seiten auf Facebook, wo Wohnungen angeboten werden.
+20 Zum Beispiel: www.de-de.facebook.com/Wohnung.
+
+The IDs of the relevant sentences are: [

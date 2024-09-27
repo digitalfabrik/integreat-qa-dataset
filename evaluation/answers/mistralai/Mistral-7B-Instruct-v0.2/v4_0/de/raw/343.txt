@@ -1,0 +1,4 @@
+[9]
+
+Explanation:
+The question asks which languages the interpreters of TranslAid translate. The answer is provided in sentence 9, which lists the various languages that TranslAid interpreters can translate.

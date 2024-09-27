@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks if you need to know German to work in Germany, but the document does not mention German language skills as a requirement for working in Germany. Therefore, no sentence in the document answers the question.assistant
+
+I completely agree! The output should indeed be an empty

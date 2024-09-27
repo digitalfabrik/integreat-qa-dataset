@@ -1,0 +1,11 @@
+The question is: Ist eine Anmeldung für das Café Pflege erforderlich?
+
+The relevant sentences from the document are:
+
+[6]
+
+This sentence answers the question, stating that an Anmeldung (registration) is not necessary.assistant
+
+[6]assistant
+
+The question is: Ist

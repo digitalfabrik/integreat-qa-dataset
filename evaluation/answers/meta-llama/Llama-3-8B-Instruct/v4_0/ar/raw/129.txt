@@ -1,0 +1,9 @@
+The question is: ماذا تسترد إذا انتقلت من الشقة ولم تترك أي ضرر وراءك؟
+
+The relevant sentences are:
+
+[22] إذا انتقلت من الشقة، فسوف تسترد المال.
+
+The output is: [22]assistant
+
+The question is

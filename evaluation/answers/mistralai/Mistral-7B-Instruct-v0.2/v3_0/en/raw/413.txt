@@ -1,0 +1,3 @@
+[9, 10]
+
+These sentences answer the question by stating that to avoid automatic contract renewal, one must cancel the contract in writing before the renewal date.

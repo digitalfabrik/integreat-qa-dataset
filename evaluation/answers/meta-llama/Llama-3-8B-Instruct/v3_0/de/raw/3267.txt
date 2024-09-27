@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the difference between an Aufenthaltsgenehmigung and an Arbeitserlaubnis, but none of the sentences in the document address this topic. Therefore, the output is an empty list, indicating that no relevant sentences were found.assistant
+
+I

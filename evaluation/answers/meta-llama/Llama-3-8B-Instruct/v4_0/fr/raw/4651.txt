@@ -1,0 +1,9 @@
+The question is: Quel est l'âge requis pour commencer l'enseignement secondaire en Allemagne?
+
+The relevant sentences are: []
+
+There is no sentence in the document that answers this question.assistant
+
+The correct output is indeed "[]".assistant
+
+I

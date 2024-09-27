@@ -1,0 +1,5 @@
+[3, 5, 15]assistant
+
+The sentences that answer the question "Wie melde ich mein Kind an einer Schule in Deutschland an?" are:
+
+* 3: Nach spätestens 6 Monaten in Deutschland, müssen Sie Ihr Kind an einer Schule anmelden.

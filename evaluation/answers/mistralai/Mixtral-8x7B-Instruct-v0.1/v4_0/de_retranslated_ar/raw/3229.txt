@@ -1,0 +1,2 @@
+[4, 12]
+Sentence 4 answers the question regarding who the German courses are for, mentioning that they are for people from another country. Sentence 12 states that there is intensive support for improving German, which is the language course for migrants.

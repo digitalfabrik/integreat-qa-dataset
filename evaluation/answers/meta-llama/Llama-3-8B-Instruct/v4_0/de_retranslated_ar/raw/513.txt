@@ -1,0 +1,5 @@
+[2, 7]assistant
+
+The sentences that answer the question "Welche Fragen können beim Beratungsdienst für religiöse und konfessionelle Vielfalt gestellt werden?" are:
+
+[2] Wir sind eine offene Anlaufstelle für Fragen zu Religion

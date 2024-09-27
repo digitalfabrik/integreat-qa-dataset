@@ -1,0 +1,6 @@
+Based on the given question, the relevant sentences in the document are:
+
+[1, 2, 4, 5]
+
+Explanation:
+The question asks about the definition and context of "Advance Maintenance Payments" in Germany. Sentences [1] and [2

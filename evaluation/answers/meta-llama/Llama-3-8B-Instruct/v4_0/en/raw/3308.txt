@@ -1,0 +1,6 @@
+[15, 16, 17, 18]assistant
+
+The sentences that answer the question "What documents are required for the residence permit?" are:
+
+15. You must bring the following documents with you to the appointment:
+16. Passport and birth certificate, alternatively: other proof of identity proving origin

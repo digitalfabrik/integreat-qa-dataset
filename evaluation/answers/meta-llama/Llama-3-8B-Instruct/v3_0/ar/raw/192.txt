@@ -1,0 +1,5 @@
+[3, 5]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "Wer deckt die Kosten eines Arbeitsunfalls?" (Who covers the costs of an occupational accident?).assistant
+
+You're

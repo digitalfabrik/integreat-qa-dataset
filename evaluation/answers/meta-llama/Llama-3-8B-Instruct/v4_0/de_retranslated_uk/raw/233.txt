@@ -1,0 +1,7 @@
+The question is: Für welche Altersgruppe von Kindern ist Zu Hause Gesund Werden gedacht?
+
+The relevant sentences are:
+
+7 Ihr krankes Kind ist mindestens 6 Monate und höchstens 12 Jahre alt.
+
+The IDs of the relevant sentences are: [7]

@@ -1,0 +1,5 @@
+[4, 13, 14, 19, 20, 22, 23, 24]assistant
+
+The sentences that answer the question "Quels documents sont nécessaires pour la demande d'asile?" are:
+
+[4] Office fédéral de la migration

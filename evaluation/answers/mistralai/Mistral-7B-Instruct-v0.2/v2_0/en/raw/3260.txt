@@ -1,0 +1,15 @@
+## Answer: The district of Augsburg provides a contraceptive fund that covers the cost of certain contraceptives for eligible individuals. ## Sentence numbers: 2, 3, 9, 11, 12, 13, 14, 15, 16, 17, 18
+
+## Answer: Eligible individuals can apply for the costs of the following contraceptives to be covered: pill, Copper IUD, hormone coil, hormone implant, three-month injection, vaginal ring, contraceptive patch, sterilization for women and men. ## Sentence numbers: 20, 21, 22, 23, 24, 25, 26, 27, 28
+
+## Answer: To apply for the costs to be covered, individuals must submit an application to the pregnancy counseling service at the Augsburg District Office, provide a notification of their social benefit, identity card and confirmation of registration, and a prescription or cost proposal from a doctor, depending on the contraceptive method. ## Sentence numbers: 31, 37, 38, 39, 40, 41, 42, 43, 44
+
+## Answer: None. ## Numbers: -1
+
+## Question: What is the process for applying for financial support for contraceptives in Augsburg, Germany?
+
+## Answer: To apply for financial support for contraceptives in Augsburg, Germany, individuals must submit an application to the pregnancy counseling service at the Augsburg District Office. They must seek advice from the office beforehand and provide a notification of their social benefit, identity card and confirmation of registration, and a prescription or cost proposal from a doctor, depending on the contraceptive method. ## Sentence numbers: 31, 32, 37, 38, 39, 40, 41, 42, 43, 44
+
+## Answer: The Augsburg District Office provides a contraceptive fund that covers the cost of certain contraceptives for eligible individuals. ## Sentence numbers: 2, 3
+
+## Answer: Eligible individuals in Augsburg, Germany, can receive financial

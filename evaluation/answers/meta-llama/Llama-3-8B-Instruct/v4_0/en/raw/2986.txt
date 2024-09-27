@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the services offered by Großenlach Town Hall for new arrivals, but the document does not provide any information about such services. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant
+
+I completely agree

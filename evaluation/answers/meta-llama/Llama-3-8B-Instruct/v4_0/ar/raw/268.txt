@@ -1,0 +1,8 @@
+The question is: كيف يؤثر الدخل على دفع الضريبة؟
+
+The relevant sentences are:
+
+6 كلما زاد الدخل، زاد المبلغ الذي يتعين عليك دفعه.
+7 إذا كنت تكسب الكثير، فإنك تدفع ضرائب أكثر.
+
+The IDs of the relevant sentences

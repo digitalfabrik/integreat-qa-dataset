@@ -1,0 +1,5 @@
+[4, 9, 13, 22, 23, 24, 27]assistant
+
+The question is "Welche Unterlagen werden für den Asylantrag benötigt?" and the relevant sentences are:
+
+* [4] Bundesamt für Migration und Flüchtlinge (

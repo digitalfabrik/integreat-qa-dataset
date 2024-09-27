@@ -1,0 +1,5 @@
+Question: Combien d'habitants environ compte Munich?
+
+Document: [0] Ce qu'il faut savoir sur la ville
+[1] Ce qu'il faut savoir sur la ville
+[2] Munich est la capitale du Land de Bavière, officiellement appelé "État libre de B

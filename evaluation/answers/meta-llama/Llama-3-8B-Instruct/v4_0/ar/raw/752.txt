@@ -1,0 +1,7 @@
+[9]assistant
+
+The question is: ما هي اللغات التي يمكن لمترجمي TranslAid ترجمتها؟
+
+The answer is: [9] which lists the languages that TranslAid translators can translate.assistant
+
+You are correct. The sentence that answers the

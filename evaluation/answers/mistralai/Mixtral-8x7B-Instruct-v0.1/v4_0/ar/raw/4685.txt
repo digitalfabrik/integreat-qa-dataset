@@ -1,0 +1,3 @@
+[0, 1, 2, 3, 4, 7, 9]
+
+These IDs are selected because the corresponding sentences provide information about the support that the JuLeZ program offers to lesbian, gay, bisexual, and transgender youth. Specifically, the program

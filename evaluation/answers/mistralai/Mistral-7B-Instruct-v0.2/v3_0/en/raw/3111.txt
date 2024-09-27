@@ -1,0 +1,3 @@
+[0, 1]
+
+The document answers the question by stating that everyone in Germany must have health insurance, making it compulsory.

@@ -1,0 +1,15 @@
+The question is: Wie viele Mitglieder hat der BPW ungefähr?
+
+The relevant sentences are:
+
+4
+
+The output is: [4]assistant
+
+The question is: Wie viele Mitglieder hat der BPW ungefähr?
+
+The relevant sentences are:
+
+4
+
+The output is: [4

@@ -1,0 +1,5 @@
+[15, 16]assistant
+
+Note: Sentence 16 states that the U-examinations are always free of charge, which answers the question about whether the U examinations in Bavaria are subject to a charge.assistant
+
+You're absolutely right! I apologize for the mistake earlier.

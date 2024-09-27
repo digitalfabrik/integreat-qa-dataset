@@ -1,0 +1,9 @@
+Question: Was ist in einem Notfall zu tun?
+
+Document: 
+
+The answer to the question is not present in the document. Therefore, the output is:
+
+[]assistant
+
+I apologize for the mistake. Upon re-reading the question and the document, I realized that the question is asking about what to

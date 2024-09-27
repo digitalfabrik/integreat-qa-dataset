@@ -1,0 +1,7 @@
+[5, 17]assistant
+
+The sentences that answer the question are:
+
+[5] The Youth Welfare Office offers or arranges help in accordance with the Child Welfare Act and Youth Welfare Act (SGB VIII).
+
+[17] Parents and other legal guardians, but also the young person themselves, can

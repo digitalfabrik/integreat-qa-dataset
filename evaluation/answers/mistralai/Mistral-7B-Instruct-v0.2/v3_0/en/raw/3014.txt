@@ -1,0 +1,3 @@
+1, 2, 3-7
+
+This list includes all the sentences in the document that mention working hours or breaks, as they could potentially provide information on the topic. However, the question specifically asks about "working hours like in Germany," so it would be more accurate to focus on sentences 1 and

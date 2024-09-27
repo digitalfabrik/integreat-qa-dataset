@@ -1,0 +1,4 @@
+[2, 3, 5, 6]
+
+Explanation:
+The question asks about the meaning of A1 language level. However, the document does not provide any information about language levels. Instead, it talks about basic education and courses for people who cannot read or write properly. Therefore,

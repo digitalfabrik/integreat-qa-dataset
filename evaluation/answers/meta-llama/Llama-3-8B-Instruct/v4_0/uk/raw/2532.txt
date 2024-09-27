@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Де я можу знайти інформацію про інтеграційні курси в ратуші Шпігельберга?" and the document is about the town hall of Spiegelberg. None of the sentences in the document mention integration courses, so the answer

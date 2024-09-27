@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID 2 answers the question "Where can I find the Großenlach town hall?"assistant
+
+[2]assistant
+
+The sentence with ID 2 answers the question "Where can I find the Großenlach town hall

@@ -1,0 +1,5 @@
+[2, 21, 22, 26, 27]assistant
+
+The sentences that answer the question "Was ist der Schwerpunkt des Münchner Jobcenters Plus?" are:
+
+[2] Das Jobcenter der Landeshauptstadt München ist zuständig für die Grunds

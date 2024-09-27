@@ -1,0 +1,5 @@
+[3, 17]assistant
+
+The sentences that answer the question "Comment puis-je m'adresser à l'office de la jeunesse du district?" are:
+
+[3] Tout le monde peut s'adresser gratuitement à l'Office de la jeunesse en cas de problème

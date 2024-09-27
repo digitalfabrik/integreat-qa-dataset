@@ -1,0 +1,5 @@
+[6]assistant
+
+The sentence with ID [6] answers the question: "Im Fokus steht die mündliche Kommunikation: Die Teilnehmerinnen und Teilnehmer sollen so schnell wie möglich lernen, sich im Alltag zurechtzufinden."assistant
+
+I

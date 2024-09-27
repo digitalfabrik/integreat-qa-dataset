@@ -1,0 +1,6 @@
+[5, 6, 8, 9, 14]assistant
+
+The sentences that answer the question "Хто може отримати фінансову підтримку через BuT?" are:
+
+[5] Всі діти, підлітки та молоді люди,
+[6] сім

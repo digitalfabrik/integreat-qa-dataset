@@ -1,0 +1,5 @@
+[8]assistant
+
+The sentence with ID 8 answers the question: "Où puis-je obtenir la qualification d'entrée dans l'enseignement supérieur?"
+
+The sentence states: "Au lycée professionnel (Fachoberschule - FOS) et

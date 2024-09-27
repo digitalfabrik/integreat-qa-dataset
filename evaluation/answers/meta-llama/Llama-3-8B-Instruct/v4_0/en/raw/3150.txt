@@ -1,0 +1,7 @@
+[12]assistant
+
+The question is "What childcare allowances are available in Germany?" and the document does not mention childcare allowances. Therefore, the output is an empty list: []
+
+However, if you're looking for information on childcare services in Germany, the relevant sentence is:
+
+2 In Germany, there are

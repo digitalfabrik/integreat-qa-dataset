@@ -1,0 +1,10 @@
+The question is: Where can I request a certified translation?
+
+The relevant sentences are:
+
+41 If you need a certified translation, you can contact the Augsburg interpreter pools.
+42 They will find you a qualified translator.
+
+The IDs of the relevant sentences are: [41, 42]assistant
+
+[41

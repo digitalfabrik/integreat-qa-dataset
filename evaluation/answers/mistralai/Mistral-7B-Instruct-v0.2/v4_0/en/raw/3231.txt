@@ -1,0 +1,3 @@
+[11, 10, 12]
+
+Explanation: The sentences 11, 10, and 12 provide information about the language level in the international class. Sentence 11 mentions that intensive support is offered to improve the German language, sentence

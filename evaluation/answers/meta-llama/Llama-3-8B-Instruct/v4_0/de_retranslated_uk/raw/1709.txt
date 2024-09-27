@@ -1,0 +1,8 @@
+The question is: Wie finde ich eine Wohnung?
+
+The relevant sentences are:
+[1, 2, 11]
+
+These sentences provide information on how to find an apartment, including searching on the internet and in local newspapers.assistant
+
+[1, 2, 11]assistant

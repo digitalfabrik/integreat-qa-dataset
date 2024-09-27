@@ -1,0 +1,5 @@
+[1, 2, 7]assistant
+
+The sentences that answer the question "Was kann ich auf Rezept in der Apotheke bekommen?" are:
+
+[1] Wenn Du Medikamente brauchst, bekommst Du von Deiner Ärztin / Deinem Ar

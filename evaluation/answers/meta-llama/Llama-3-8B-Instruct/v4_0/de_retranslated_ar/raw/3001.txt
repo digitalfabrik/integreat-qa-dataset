@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks "Was ist eine 'Berufsausbildung' in Deutschland?" which is not answered by any of the sentences in the document. Therefore, the output is an empty list.assistant
+
+I completely agree with you! The question is asking about the definition

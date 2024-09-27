@@ -1,0 +1,2 @@
+The answer to the question is in the document, and the relevant sentence IDs are: [2, 16].
+Sentence [2] states that the Realschule goes from grade 5 to grade 10, which implies that the Realschule lasts for six years.

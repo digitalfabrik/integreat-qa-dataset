@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "Qui peut obtenir un repas gratuit à l'école ou à la garderie?"
+
+The sentence states: "Pour les enfants et les jeunes qui sont dans une situation d'urgence économique ou sociale, le dé

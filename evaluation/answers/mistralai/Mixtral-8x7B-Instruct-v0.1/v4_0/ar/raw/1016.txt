@@ -1,0 +1,4 @@
+[11, 12, 14]
+
+Explanation:
+Sentence 11 provides information about converting a foreign driver's license, which is relevant to the question. Sentence 12 states that a foreign driver's license can be used for up to six

@@ -1,0 +1,4 @@
+[2, 5]
+
+Explanation:
+The question asks for the difference between LED and energy-saving lamps. However, the document does not contain any information about LED or energy-saving lamps specifically. Instead, it talks about energy savings in general. The sentences [2]

@@ -1,0 +1,5 @@
+[]assistant
+
+Note: The question is in Arabic, and the document is in German. It seems that the question is asking how to find accessible apartments, but the document does not provide any information about that. Therefore, the output is an empty list.assistant
+
+You're absolutely right!

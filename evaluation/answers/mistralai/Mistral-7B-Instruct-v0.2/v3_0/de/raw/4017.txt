@@ -1,0 +1,3 @@
+2, 4, 13, 14, 15
+
+Explanation: The question asks for the length of stay allowed with a Schengen Visa in Germany. Sentences 2 and 4 provide the answer, stating that a holder of a valid Schengen Vis

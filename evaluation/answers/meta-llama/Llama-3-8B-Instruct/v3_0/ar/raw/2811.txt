@@ -1,0 +1,5 @@
+[]assistant
+
+Note: The question is in Arabic, and the document is in German. It seems that the question is asking about how to find a job as a refugee, but the document does not provide any relevant information. Therefore, the output is an empty list.assistant
+
+You're

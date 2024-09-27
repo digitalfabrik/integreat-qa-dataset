@@ -1,0 +1,6 @@
+[4, 5]assistant
+
+The sentences that answer the question "Quelles conditions dois-je remplir pour être admis au Bayernkolleg?" are:
+
+[4] avoir au moins 18 ans
+[5] connaissances en allemand de niveau B1 et en anglais

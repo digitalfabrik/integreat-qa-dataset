@@ -1,0 +1,1 @@
+If no damage is left behind when moving out, the deposit will be returned in full. The IDs of the relevant sentences are: [21, 22, 24].

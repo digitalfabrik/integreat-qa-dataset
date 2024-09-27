@@ -1,0 +1,5 @@
+[1, 2, 5, 6]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "Was sind die beruflichen Ausbildungsmöglichkeiten in Deutschland?"assistant
+
+You

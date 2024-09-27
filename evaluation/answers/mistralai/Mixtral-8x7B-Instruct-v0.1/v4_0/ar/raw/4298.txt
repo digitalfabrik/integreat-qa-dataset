@@ -1,0 +1,1 @@
+[3, 4, 5] provide information about the medical exams that are part of the school entry health exam in Munich, Germany.

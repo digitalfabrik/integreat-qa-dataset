@@ -1,0 +1,2 @@
+[1, 2, 3]
+These sentences indicate that having health insurance is mandatory in Germany.

@@ -1,0 +1,7 @@
+The question is: What is the difference between gross and net salary?
+
+The relevant sentences are:
+[10] Gross salary (salary without deductions - gross tax amount and gross social security amount)
+[12] Type and amount of deductionsNet amount (after all deductions)
+
+The IDs of the relevant sentences are: [10,

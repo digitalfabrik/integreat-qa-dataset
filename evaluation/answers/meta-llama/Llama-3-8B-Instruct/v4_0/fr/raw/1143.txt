@@ -1,0 +1,7 @@
+The question is: Quel doit être l'intervalle minimum entre les deux vaccinations contre la rougeole?
+
+The relevant sentences are:
+
+[9, 14]
+
+These sentences answer the question by providing the minimum interval between the two vaccinations against measles (also known as the "rougeole" in French).

@@ -1,0 +1,5 @@
+13 Unterstützung für die Wohnungssuche
+14 Die Ausländerbehörde bietet Unterstützung an.
+15 Sie vermittelt Kontakte zu Wohnungsanbietern und hilft bei der Wohnungssuche.
+
+## Answer: Die Ausländerbehörde bietet Unterstützung an. Sie vermittelt Kontakte zu Wohnungsanbietern und hilft bei der Wohnungssuche. ## Sentence numbers: 14, 15

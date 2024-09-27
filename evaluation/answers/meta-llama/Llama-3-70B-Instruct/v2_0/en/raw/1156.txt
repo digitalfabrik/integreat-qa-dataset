@@ -1,0 +1,7 @@
+16 The guide is available in easy language.
+17 The guide is available in Braille.
+18 The guide is available in audio format.
+19 The guide is available in sign language.
+20 The guide is available in plain language.
+
+## Answer: severely disabled person's pass ## Sentence numbers: 4

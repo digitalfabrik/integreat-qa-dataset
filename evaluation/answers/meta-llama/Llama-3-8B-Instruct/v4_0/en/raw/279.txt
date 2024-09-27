@@ -1,0 +1,8 @@
+[4, 5]assistant
+
+The sentences that answer the question "Is female genital mutilation punishable in Germany?" are:
+
+[4] Female genital mutilation is a punishable offense in Germany.
+[5] It is also punishable if female genital mutilation is carried out abroad.
+
+So, the output

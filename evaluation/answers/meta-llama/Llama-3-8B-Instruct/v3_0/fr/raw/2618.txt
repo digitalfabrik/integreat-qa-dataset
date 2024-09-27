@@ -1,0 +1,5 @@
+[2, 3]assistant
+
+Note: The question asks about the duration of validity of a residence permit, and sentences [2] and [3] provide the relevant information.assistant
+
+I apologize for the mistake. The correct answer is indeed [2, 3]. Thank you

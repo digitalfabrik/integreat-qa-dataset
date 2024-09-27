@@ -1,0 +1,5 @@
+[2, 4, 9, 10, 12, 14]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking about the type of financial support provided for training.assistant
+
+You're right!

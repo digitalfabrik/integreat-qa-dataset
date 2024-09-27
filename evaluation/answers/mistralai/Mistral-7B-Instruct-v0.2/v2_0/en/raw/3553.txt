@@ -1,0 +1,13 @@
+## Answer: To apply for a residence permit for family reunification, you must go to the Foreigners' Registration Office after entering Germany and receiving a national visa. ## Sentence numbers: 6, 7
+
+## Answer: Spouses who have been living together for at least 3 years can receive an independent right of residence. ## Sentence numbers: 23, 24, 26, 27
+
+## Answer: If you do not yet speak German well and are applying for a residence permit for the first time, you may be obliged to attend an integration course. ## Sentence numbers: 13, 14
+
+## Answer: People who have a residence permit for family reunification are allowed to work in Germany. ## Sentence numbers: 15, 16, 18, 19, 20
+
+## Answer: For victims of violence, an independent right of residence can be granted earlier. ## Sentence numbers: 25, 26, 27
+
+## Answer: After registering at the residents' registration office, you will receive a registration certificate and can apply for a residence permit at the Foreigners' Registration Office. ## Sentence numbers: 4, 7, 8
+
+## Answer: None. ## Numbers: -1 (Question asks for information on family reunification visas, but the context does not provide information on how to apply for the visa itself)

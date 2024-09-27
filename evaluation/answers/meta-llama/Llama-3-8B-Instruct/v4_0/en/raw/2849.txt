@@ -1,0 +1,6 @@
+[1, 2, 4]assistant
+
+The sentences that answer the question "What vocational training opportunities are there in Germany?" are:
+
+[1] In Germany, there is not only dual training, but also training at a vocational college.
+[2] The vocational school also provides completed vocational training

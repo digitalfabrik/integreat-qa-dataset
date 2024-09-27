@@ -1,0 +1,5 @@
+[6, 7]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "Kann ich Antibiotika ohne Rezept kaufen?" (Can I buy antibiotics without a prescription?).assistant
+
+You're

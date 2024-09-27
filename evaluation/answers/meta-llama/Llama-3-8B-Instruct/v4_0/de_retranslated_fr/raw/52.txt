@@ -1,0 +1,7 @@
+[10]assistant
+
+The sentence with ID 10 answers the question: "Was braucht man, um eine betriebliche (duale) Ausbildung zu absolvieren?"assistant
+
+[10]assistant
+
+The sentence with ID 10 answers the question: "

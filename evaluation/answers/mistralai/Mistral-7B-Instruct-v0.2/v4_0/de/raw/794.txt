@@ -1,0 +1,4 @@
+[2, 6, 7]
+
+Explanation:
+The question asks for the purpose of work safety regulations. The document provides information about work safety regulations (vorschriften zur Sicherheit am Arbeitsplatz), the responsibilities of employers and employees regarding these regulations, and the consequences of

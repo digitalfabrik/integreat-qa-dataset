@@ -1,0 +1,6 @@
+[8, 9, 10]assistant
+
+The sentences that answer the question "Que doivent faire les employés pour se conformer aux règles de protection?" are:
+
+[8] Les employeurs sont responsables de leur respect et de leur mise en œuvre.
+[9] Les

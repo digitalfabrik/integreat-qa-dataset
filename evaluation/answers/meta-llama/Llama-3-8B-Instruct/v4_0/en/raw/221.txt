@@ -1,0 +1,8 @@
+The question is: Approximately how many inhabitants does Munich have?
+
+The relevant sentences are:
+[3] Munich is the third largest city in Germany. With 1.56 million inhabitants, Munich is the third largest city in Germany.
+
+The IDs of the relevant sentences are: [3]assistant
+
+[3

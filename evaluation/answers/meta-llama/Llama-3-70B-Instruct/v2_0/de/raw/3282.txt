@@ -1,0 +1,9 @@
+39 Fahrradmitnahme in Zügen
+40 Die Deutsche Bahn AG bietet die Fahrradmitnahme in Zügen an.
+41 Die Fahrradmitnahme ist in den Zügen der Deutschen Bahn AG möglich, wenn Du ein Fahrrad-Ticket kaufst.
+42 Die Fahrradmitnahme ist in den Zügen der Deutschen Bahn AG möglich, wenn Du ein Fahrrad-Ticket kaufst und Dein Fahrrad in einem Fahrradwagen transportierst.
+43 Die Fahrradmitnahme ist in den Zügen der Deutschen Bahn AG möglich, wenn Du ein Fahrrad-Ticket kaufst und Dein Fahrrad in einem Fahrradwagen transportierst, der extra für Fahrräder reserviert ist.
+44 Die Fahrradmitnahme ist in den Zügen der Deutschen Bahn AG möglich, wenn Du ein Fahrrad-Ticket kaufst und Dein Fahrrad in einem Fahrradwagen transportierst, der extra für Fahrräder reserviert ist und Du vorher reserviert hast.
+45 Fahrradmitnahme in Zügen bedeutet, dass Du Dein Fahrrad in einem Zug transportieren kannst, wenn Du ein Fahrrad-Ticket kaufst und Dein Fahrrad in einem Fahrradwagen transportierst, der extra für Fahrräder reserviert ist und Du vorher reserviert hast.
+
+## Answer: Fahrradmitnahme in Zügen bedeutet, dass Du Dein Fahrrad in einem Zug transportieren kannst, wenn Du ein Fahrrad-Ticket kaufst und Dein Fahrrad in einem Fahrradwagen transportierst, der extra für Fahrräder reserviert ist und Du vorher reserviert hast. ## Sentence numbers: 45

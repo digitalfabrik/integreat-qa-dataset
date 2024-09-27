@@ -1,0 +1,13 @@
+19 The school year in Bavaria
+20 usually starts on September 15th.
+21 The school year is divided into two semesters.
+22 The first semester runs from September 15th to February 15th.
+23 The second semester runs from February 16th to July 15th.
+24 The summer holidays are from July 16th to September 14th.
+25 The winter holidays are from December 24th to January 6th.
+26 The Easter holidays are from Good Friday to Easter Monday.
+27 The Whitsun holidays are from the Friday before Whitsunday to the Tuesday after Whitsunday.
+28 The autumn holidays are from October 31st to November 5th.
+29 The Christmas holidays are from December 24th to January 6th.
+
+## Answer: 4 years ## Sentence numbers: 1

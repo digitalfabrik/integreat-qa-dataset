@@ -1,0 +1,5 @@
+[3, 5, 6]assistant
+
+The sentences that answer the question "Qui prend en charge les coûts en cas d'accident du travail?" are:
+
+[3] Dans ce cas, vous êtes couvert par une assurance-accidents via l'entreprise (employeur

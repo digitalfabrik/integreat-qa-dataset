@@ -1,0 +1,6 @@
+[5, 6]assistant
+
+The sentences that answer the question are:
+
+[5] Sie oder er wird Ihnen ein sogenanntes "Grünes Rezept" oder ein Privatrezept ausstellen.
+[6] Dieses legen Sie in einer teilnehmenden Apothe

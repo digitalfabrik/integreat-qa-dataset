@@ -1,0 +1,10 @@
+17 Die Betreuung kann dann den Rundfunkbeitrag für Dich übernehmen.
+18 Wenn Du keine Rechnung bekommst, musst Du Dich nicht um den Rundfunkbeitrag kümmern.
+19 Wenn Du eine Rechnung bekommst und die Betreuung den Rundfunkbeitrag nicht übernehmen möchte, 
+20 kannst Du den Rundfunkbeitrag kündigen.
+21 Hierfür musst Du ein Kündigungsschreiben an die GEZ senden.
+22 Das Schreiben muss unterschrieben sein.
+23 Die Adresse der GEZ findest Du auf der Rechnung.
+24 Wenn Du keine Rechnung hast, kannst Du die Adresse auch auf der Website der GEZ finden.
+
+Answer: You can cancel the Rundfunkbeitrag (GEZ) by sending a cancellation letter to the GEZ. ## Sentence numbers: 21, 22, 23, 24.

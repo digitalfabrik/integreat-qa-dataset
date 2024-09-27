@@ -1,0 +1,7 @@
+[2, 4, 5, 6]assistant
+
+It seems that the question is "Що таке самодопомога?" which is Ukrainian for "What is self-help?".
+
+The relevant sentences that answer this question are:
+
+[2] означає самодопомогу:

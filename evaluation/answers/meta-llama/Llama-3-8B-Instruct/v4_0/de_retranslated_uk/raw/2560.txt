@@ -1,0 +1,9 @@
+The question is: "Welche Art von Jobcentern gibt es in Deutschland?"
+
+The document does not mention any specific type of job centers in Germany. Therefore, the output is: []assistant
+
+[ ]assistant
+
+Correct!assistant
+
+Thank you!assistant

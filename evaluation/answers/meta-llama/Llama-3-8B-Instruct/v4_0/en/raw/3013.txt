@@ -1,0 +1,9 @@
+The question is: How do the first and second votes work?
+
+The relevant sentences are:
+
+[21, 22, 31, 32, 33]
+
+These sentences explain the first and second votes, which are the right to vote and the right to stand for election, respectively.assistant
+
+The

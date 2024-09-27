@@ -1,0 +1,12 @@
+The question is: What is compulsory insurance?
+
+The relevant sentences from the document are:
+
+[0] Health insurance is compulsory
+[1] Important: Everyone in Germany must have health insurance.
+
+The IDs of the relevant sentences are: [0,1]
+
+Output: [0,1]assistant
+
+[

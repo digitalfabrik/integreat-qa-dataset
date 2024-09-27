@@ -1,0 +1,7 @@
+[3]assistant
+
+The sentence with ID 3 answers the question "Was wird durch das Dublin-Verfahren bestimmt?"assistant
+
+[3]assistant
+
+The sentence with ID 3 answers the question "Was wird durch das Dublin-Verfahren bestimmt

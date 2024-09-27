@@ -1,0 +1,5 @@
+[4, 5, 6]assistant
+
+Note: The question is in French, and the document is in German. The sentences that answer the question are translated from German to French for clarity.
+
+The question is: "Les mutilations génitales féminines sont-elles punissables

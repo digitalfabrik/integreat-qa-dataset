@@ -1,0 +1,4 @@
+The relevant sentence is:
+9 Für wen: Für junge LGBTIQ*-Menschen und ihre Freunde bis zum Alter von 27 Jahren.
+
+The answer is: [9]

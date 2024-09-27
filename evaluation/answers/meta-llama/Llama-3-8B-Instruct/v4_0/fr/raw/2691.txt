@@ -1,0 +1,6 @@
+[4, 5, 6, 7, 8, 9]assistant
+
+The sentences that answer the question are:
+
+[4] Un "Duldung" est une suspension de l'expulsion et non un séjour légal.
+[5] Elle est délivr

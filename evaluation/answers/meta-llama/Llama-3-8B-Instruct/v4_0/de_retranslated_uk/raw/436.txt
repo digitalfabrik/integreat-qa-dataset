@@ -1,0 +1,5 @@
+[2, 4, 7]assistant
+
+The sentences that answer the question "Welche Unterstützung bietet das Career Centre?" are:
+
+[2] Wir beraten internationale Fachkräfte und Studierende zu Karriereplanung, Jobsuche & Berufseinstieg in

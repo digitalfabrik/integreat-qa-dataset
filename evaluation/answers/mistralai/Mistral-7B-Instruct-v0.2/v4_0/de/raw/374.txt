@@ -1,0 +1,3 @@
+[14, 15, 16, 17, 18, 19]
+
+Explanation: The question asks for the requirements to receive housing benefit (Wohngeld). The document provides information on the conditions and application process for Wohngeld. Sent

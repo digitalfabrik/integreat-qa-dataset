@@ -1,0 +1,44 @@
+58 Phone: 0821 327-2411
+59 Fax: 0821 327-2412
+60 If you don't speak German, you can get help from the following organizations:
+61 The Augsburg Refugee Council
+62 The Caritas Association for the Diocese of Augsburg
+63 The German Red Cross
+64 The Bavarian Refugee Council
+65 The Catholic Relief Organization Caritas
+66 The Protestant Relief Organization Diakonie
+67 The German Red Cross
+68 The Bavarian Refugee Council
+69 The Catholic Relief Organization Caritas
+70 The Protestant Relief Organization Diakonie
+71 The German Red Cross
+72 The Bavarian Refugee Council
+73 The Catholic Relief Organization Caritas
+74 The Protestant Relief Organization Diakonie
+75 The German Red Cross
+76 The Bavarian Refugee Council
+77 The Catholic Relief Organization Caritas
+78 The Protestant Relief Organization Diakonie
+79 The German Red Cross
+80 The Bavarian Refugee Council
+81 The Catholic Relief Organization Caritas
+82 The Protestant Relief Organization Diakonie
+83 The German Red Cross
+84 The Bavarian Refugee Council
+85 The Catholic Relief Organization Caritas
+86 The Protestant Relief Organization Diakonie
+87 The German Red Cross
+88 The Bavarian Refugee Council
+89 The Catholic Relief Organization Caritas
+90 The Protestant Relief Organization Diakonie
+91 The German Red Cross
+92 The Bavarian Refugee Council
+93 The Catholic Relief Organization Caritas
+94 The Protestant Relief Organization Diakonie
+95 The German Red Cross
+96 The Bavarian Refugee Council
+97 The Catholic Relief Organization Caritas
+98 The Protestant Relief Organization Diakonie
+99 The German Red Cross
+100 The Bavarian Refugee Council
+## Answer: The Augsburg Refugee Council, The Caritas Association for the Diocese of Augsburg, The German Red Cross, The Bavarian Refugee Council, The Catholic Relief Organization Caritas, The Protestant Relief Organization Diakonie. ## Sentence numbers: 60-100.

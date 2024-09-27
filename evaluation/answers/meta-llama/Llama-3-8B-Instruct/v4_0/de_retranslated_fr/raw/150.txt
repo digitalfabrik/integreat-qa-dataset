@@ -1,0 +1,6 @@
+[2, 3, 15, 16, 17, 18]assistant
+
+The sentences that answer the question are:
+
+2. Mit der Niederlassungserlaubnis können Sie ohne zeitliche oder örtliche Einschränkung in Deutschland leben und arbeiten.
+3

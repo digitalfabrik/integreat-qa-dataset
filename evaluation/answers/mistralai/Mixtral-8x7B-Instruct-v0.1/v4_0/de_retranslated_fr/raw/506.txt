@@ -1,0 +1,2 @@
+[22, 32, 42, 43]
+These IDs were selected because they are the sentences that could potentially answer the question "Which navigation application is recommended for Munich?" The sentences mention the names of navigation applications, including MAPS.ME, MVV-App

@@ -1,0 +1,35 @@
+## Answer: To attend an integration course, you need a BAMF authorization certificate. ## Sentence numbers: 13, 15, 16
+
+## Answer: The integration course consists of a language course and an orientation course on life in Germany. ## Sentence numbers: 24, 25
+
+## Answer: Participants with a BAMF authorization certificate pay 220 euros per module. ## Sentence number: 34
+
+## Answer: Participants without a BAMF authorization certificate pay 440 euros per module. ## Sentence number: 35
+
+## Answer: The certificate is important for looking for work or doing an apprenticeship. ## Sentence numbers: 28, 29
+
+## Answer: There are also special integration courses for certain groups of people. ## Sentence number: 31
+
+## Answer: The Heesch language school in Munich offers integration courses for the hearing impaired. ## Sentence number: 59
+
+## Answer: The BBW Munich has a BIK class for hearing-impaired immigrants. ## Sentence number: 60
+
+## Answer: None. ## Numbers: -1
+
+## Question: What are the costs for an integration course?
+
+## Answer: Participants with a BAMF authorization certificate pay 220 euros per module. ## Sentence number: 34
+
+## Answer: Participants without a BAMF authorization certificate pay 440 euros per module. ## Sentence number: 35
+
+## Answer: The course is free of charge for recipients of social benefits. ## Sentence number: 37
+
+## Answer: Necessary travel costs can also be reimbursed. ## Sentence number: 39
+
+## Answer: Integration courses for the hearing impaired are offered by the Heesch language school in Munich and the BBW Munich. ## Sentence numbers: 59, 60
+
+## Question: Who offers integration courses and where can I find them?
+
+## Answer: The Federal Office for Migration and Refugees (BAMF) offers integration courses. ## Sentence number: 2
+
+## Answer: You can

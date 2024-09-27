@@ -1,0 +1,7 @@
+[2]assistant
+
+The correct answer is [2].assistant
+
+The question is: ما الذي يعتبر حادثاً في العمل؟
+
+The sentence that answers this question is: [2] إذا تعرضت لحادث أثناء ساعات العمل أو في طريقك إلى

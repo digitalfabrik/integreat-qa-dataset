@@ -1,0 +1,7 @@
+The question is: What are the three areas of the German healthcare system?
+
+The relevant sentences are:
+3 The healthcare system has three areas:
+4 1. outpatient medical care by doctors and pharmacies.
+5 "Outpatient" means that the patient goes home after treatment.
+6 2. inpatient medical care through acute

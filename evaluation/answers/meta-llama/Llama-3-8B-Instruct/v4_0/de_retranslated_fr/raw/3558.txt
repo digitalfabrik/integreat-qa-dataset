@@ -1,0 +1,7 @@
+The question is: Welche Krankenversicherungen gibt es in Deutschland?
+
+The document does not answer this question. Therefore, the output is: []assistant
+
+The question is: Welche Krankenversicherungen gibt es in Deutschland?
+
+The document does not answer this question. Therefore, the output

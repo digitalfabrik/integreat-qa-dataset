@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "ما هو حد الدخل للوظيفة الصغيرة؟" which translates to "What is the income limit for a small job?".
+
+The document does not mention the income limit for a small job. Therefore, there are no sentences that answer the question. The output

@@ -1,0 +1,6 @@
+The relevant sentences from the document that answer the question are:
+
+[6, 7, 8, 11]
+
+Sentence 6: "TranslAid" (introduces the name of the service)
+Sentence 7: "TranslAid vermittelt

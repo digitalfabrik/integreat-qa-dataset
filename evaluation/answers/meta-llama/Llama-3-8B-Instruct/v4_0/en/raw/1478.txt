@@ -1,0 +1,8 @@
+[10, 11]assistant
+
+The sentences that answer the question "Can I get vaccinated against coronavirus for free?" are:
+
+[10] Corona vaccination
+[11] You can be vaccinated against coronavirus free of charge.
+
+So, the output is: [10, 11]assistant

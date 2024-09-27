@@ -1,0 +1,6 @@
+[7, 8, 9, 10, 11, 14]assistant
+
+The sentences that answer the question are:
+
+[7] Ausbildungsförderung
+[8] Informationen des Bayerischen Staatsministeriums für Familie, Arbeit und Soziales unter:

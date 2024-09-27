@@ -1,0 +1,2 @@
+[5, 6, 7]
+These sentences provide information about the deadlines for cancellation in Germany. The deadlines depend on the duration of the employment relationship. For example, if the employment relationship has lasted for 5 years, the notice period is 2 months. If the probationary period is

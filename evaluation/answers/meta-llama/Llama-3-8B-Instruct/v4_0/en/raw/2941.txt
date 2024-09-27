@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks where to find information on integration courses in Schorndorf Rathaus, but none of the sentences in the document provide this information. Therefore, the output is an empty list.assistant
+
+You are correct. The question is not answered by any of the sentences

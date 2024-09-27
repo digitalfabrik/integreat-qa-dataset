@@ -1,0 +1,7 @@
+Question: Who can request a counselling appointment for vocational guidance?
+
+Document: 0 Career planning in the Rems-Murr district
+
+Answer: [14, 20]
+
+Explanation: Sentences 14 and 20 mention that counselling is available to certain groups of people, including pupils, trainees, students, graduates,

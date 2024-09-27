@@ -1,0 +1,5 @@
+[12, 13, 15, 16]assistant
+
+The sentences that answer the question "Comment puis-je déposer une plainte auprès du Tribunal de l'industrie?" are:
+
+[15] Les revendications et les applications peuvent être déclarées ici

@@ -1,0 +1,6 @@
+[3, 4, 5, 7, 10, 12, 14, 15]assistant
+
+The sentences that answer the question "Quels sont les types d'aides à l'éducation disponibles en Allemagne?" are:
+
+[3] Formation
+[4

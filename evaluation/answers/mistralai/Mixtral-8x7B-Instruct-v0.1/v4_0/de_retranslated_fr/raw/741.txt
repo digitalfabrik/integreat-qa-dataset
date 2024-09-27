@@ -1,0 +1,5 @@
+The question asks for approximately how many BPW members there are. The relevant sentence from the document is:
+
+4 "30.000 Mitglieder in rund 100 Ländern"
+
+So the answer is [4].

@@ -1,0 +1,11 @@
+The question is: What activities are organized in the Youth Cultural Workshop?
+
+The relevant sentences are:
+5, 7, 8
+
+Output: [5, 7, 8]assistant
+
+The question is: What activities are organized in the Youth Cultural Workshop?
+
+The relevant sentences are:
+5,

@@ -1,0 +1,9 @@
+The question is: Müssen Frauen für den Besuch des Cafés Glanz bezahlen?
+
+The relevant sentences from the document are:
+
+12 Keine Eintrittspreise, kein Kauf von Speisen/Getränken erforderlich.
+
+The ID of the relevant sentence is: [12]
+
+Output:

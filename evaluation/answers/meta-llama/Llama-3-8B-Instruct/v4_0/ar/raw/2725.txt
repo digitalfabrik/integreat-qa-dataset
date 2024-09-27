@@ -1,0 +1,5 @@
+The relevant sentences that answer the question "ما هي وسائل منع الحمل المتوفرة؟" are:
+
+[15, 16, 20, 21, 22, 28]
+
+These sentences mention different methods of contraception, such as condoms, hormonal methods like birth control pills, and emergency contraception

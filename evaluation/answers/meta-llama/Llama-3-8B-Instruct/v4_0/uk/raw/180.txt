@@ -1,0 +1,7 @@
+Question: Хто є опікуном неповнолітнього біженця без супроводу?
+
+Document: 0-25
+
+Answer: [2, 3, 5, 6]
+
+Explanation: Sentences 2, 3, and 6 mention the concept of an "оп

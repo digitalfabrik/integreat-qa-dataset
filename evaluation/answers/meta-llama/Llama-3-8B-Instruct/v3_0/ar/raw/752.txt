@@ -1,0 +1,5 @@
+[9]assistant
+
+Note: The question is in Arabic, and the document is in German. The answer is a list of languages that can be translated by TranslAid, which is mentioned in sentence 9.assistant
+
+Thank you for the clarification.assistant

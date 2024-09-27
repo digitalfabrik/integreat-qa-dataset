@@ -1,0 +1,7 @@
+The question is: How can I make an appointment at the Augsburg District Office?
+
+The relevant sentences are:
+[27] So you can make some appointments online from home.
+[29] You can find out which services you can use via the Virtual Citizens' Office here.
+
+The IDs of the relevant sentences are: [

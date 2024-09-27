@@ -1,0 +1,5 @@
+[3]assistant
+
+The question is "Quels types de formations existe-t-il en Allemagne?" and the relevant sentence is [3] "En Allemagne, il existe deux types de formations :".assistant
+
+[3, 4]assistant

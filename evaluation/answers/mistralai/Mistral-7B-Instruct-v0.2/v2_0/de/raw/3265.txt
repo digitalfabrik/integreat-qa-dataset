@@ -1,0 +1,7 @@
+## Answer: Es gibt zahlreiche Angebote für Menschen mit Behinderung. ## Sentence numbers: 7
+
+## Answer: None. ## Numbers: 1, 2, 3, 4, 5, 6
+
+## Answer: Die Angebote für Menschen mit Behinderung können im Landratsamt Augsburg informiert werden. ## Sentence numbers: 8
+
+## Answer: Die Informationen über die Angebote können über Text, Bild oder Sprache abgerufen werden. ## Sentence numbers: 9

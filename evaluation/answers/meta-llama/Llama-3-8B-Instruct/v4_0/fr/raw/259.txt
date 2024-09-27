@@ -1,0 +1,5 @@
+[29, 30, 31]assistant
+
+The sentences that answer the question "Qui peut travailler s'il a un titre de séjour pour regroupement familial?" are:
+
+[29] Les personnes qui ont un titre de séjour pour regroupement familial sont autorisées à

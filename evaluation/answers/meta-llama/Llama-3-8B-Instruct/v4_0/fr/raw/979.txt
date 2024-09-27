@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks "Quel bureau dois-je contacter si je risque de perdre ma maison?" and none of the sentences in the document provide a direct answer to this question. Therefore, the output is an empty list: []assistant
+
+I completely agree with

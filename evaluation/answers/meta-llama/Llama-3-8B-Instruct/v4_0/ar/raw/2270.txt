@@ -1,0 +1,7 @@
+[37, 42]assistant
+
+The question is "أين يمكنني إجراء اختبار فيروس كورونا في ألمانيا؟" which translates to "Where can I take a COVID-19 test in Germany?"
+
+The relevant sentences are:
+
+[37] يمكن الاطلاع على مز

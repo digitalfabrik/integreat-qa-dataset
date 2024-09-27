@@ -1,0 +1,8 @@
+[4, 5]assistant
+
+The question is: Ist weibliche Genitalverstümmelung in Deutschland eine Straftat?
+
+The sentences that answer this question are:
+
+[4] Weibliche Genitalverstümmelung ist in Deutschland strafbar.
+[

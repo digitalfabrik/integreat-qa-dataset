@@ -1,0 +1,7 @@
+Question: What do you get back if you move out of an apartment and have not left any damage behind?
+
+Document: [0] Rent an apartment
+[1] Rent an apartment
+[2] Rental agreement
+[3] The amount of rent is agreed in the rental contract.
+[4] If the tenant

@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Які щеплення в Німеччині є безкоштовними?" which translates to "Which vaccinations in Germany are free?".
+
+The document does not provide information about which vaccinations in Germany are free. Therefore, the output is an empty list: []assistant

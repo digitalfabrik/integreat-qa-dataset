@@ -1,0 +1,4 @@
+The relevant sentences from the document that answer the question are:
+[1, 2, 4, 5]
+
+Sentence 1 and 2 state that any individual who has been living legally and habitually in Germany for at least eight years can apply for naturalization. Sentence 4

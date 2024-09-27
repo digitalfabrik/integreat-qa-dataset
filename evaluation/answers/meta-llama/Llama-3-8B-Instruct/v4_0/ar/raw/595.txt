@@ -1,0 +1,9 @@
+The question is: هل يمكن للأشخاص ذوي الإعاقة الوصول إلى مبنى JIZ؟
+
+The relevant sentences are:
+
+[8] الوصول إلى المبنى والمبنى خالٍ من العوائق.
+
+The IDs of the relevant sentences are: [8]
+
+Output: [8]

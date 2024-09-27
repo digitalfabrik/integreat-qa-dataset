@@ -1,0 +1,9 @@
+[]assistant
+
+The question asks about the meaning of "vocational training" in Germany, but this term is not mentioned in the document. Therefore, there are no relevant sentences to output.assistant
+
+[]assistant
+
+Correct!assistant
+
+I'm glad I

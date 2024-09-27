@@ -1,0 +1,8 @@
+The question is: Welche Zielgruppe spricht der Musenkuss München an?
+
+The relevant sentences are:
+
+10 Für wen: für Kinder, Jugendliche, Erwachsene, Senior*innen.
+11 Für Menschen mit und ohne Behinderung.
+
+The IDs of the relevant sentences are: [10,

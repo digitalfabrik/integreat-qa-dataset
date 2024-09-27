@@ -1,0 +1,8 @@
+[34, 35]assistant
+
+The sentences that answer the question "Where can I get tested for coronavirus in Germany?" are:
+
+[34] contact your GP by telephone
+[35] If corona virus is suspected, you will be further observed and treated.
+
+So, the output is: [

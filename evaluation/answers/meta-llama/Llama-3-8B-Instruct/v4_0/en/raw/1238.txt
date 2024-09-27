@@ -1,0 +1,5 @@
+[3, 5, 7, 9, 11, 13, 14]assistant
+
+The sentences that answer the question "Where and how can I find attractive and up-to-date jobs?" are:
+
+[3] Where and how can I find attractive and up-to-date jobs?

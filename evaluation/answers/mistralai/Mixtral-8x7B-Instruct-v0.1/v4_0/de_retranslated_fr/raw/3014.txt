@@ -1,0 +1,2 @@
+[1, 2]
+The question asks about working hours in Germany, and sentences 1 and 2 provide information about the maximum number of hours that can be worked in a day and the exceptions to this rule. Sentences 3-7 provide information about required breaks, which is not what the question

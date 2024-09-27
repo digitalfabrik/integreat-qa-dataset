@@ -1,0 +1,4 @@
+The relevant sentence IDs are:
+[11]
+
+Sentence 11 directly answers the question by suggesting that the person can become a volunteer and get to know people in their area, which can support their integration in Germany.

@@ -1,0 +1,9 @@
+The question is: Sind U-Prüfungen in Bayern gebührenpflichtig?
+
+The relevant sentences from the document are:
+
+16 Sie finden zu einem bestimmten Zeitpunkt statt und sind immer kostenfrei.
+
+The ID of the relevant sentence is: [16]
+
+Output: [16]assistant

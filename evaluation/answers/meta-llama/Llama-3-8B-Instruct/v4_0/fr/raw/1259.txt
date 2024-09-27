@@ -1,0 +1,5 @@
+[2, 6]assistant
+
+The sentences that answer the question "Quels sont les avantages des économies d'énergie?" are:
+
+[2] Économiser l'énergie signifie atteindre la "performance" souhaitée avec moins d'énergie finale (courant élect

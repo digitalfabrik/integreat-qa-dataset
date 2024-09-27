@@ -1,0 +1,9 @@
+[8]assistant
+
+The sentence that answers the question is:
+
+8 Karten gibt es ab 12,70 € (je nach Platzwahl)
+
+This sentence states the price of a ticket for a Munich theater for children, which is 12.70 €.assistant
+
+I'm glad

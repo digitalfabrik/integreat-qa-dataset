@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wie fülle ich den Antrag auf Wohnsitzwechsel aus?" and the document is about Umverteilungsantrag. None of the sentences in the document directly answer this question, so the output is an empty list: []assistant

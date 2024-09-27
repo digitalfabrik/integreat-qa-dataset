@@ -1,0 +1,25 @@
+Answer: The emergency numbers in Germany are 110 for the police and 112 for the fire department, ambulance, and other emergencies.
+Sentence numbers: 1, 4, 5, 8, 14, 15, 16, 17, 18, 19, 20, 21, 24, 26, 27, 28, 29, 30, 31, 32, 33
+
+Answer: The emergency number for the fire department in Germany is 112.
+Sentence numbers: 3, 4, 8, 14, 15, 16, 17, 18, 19, 20, 21, 24, 30
+
+Answer: The emergency number for the ambulance and other emergencies in Germany is 112.
+Sentence numbers: 5, 8, 14, 15, 16, 17, 18, 19, 20, 21, 24, 31, 32, 33
+
+Answer: The emergency number for the police in Germany is 110.
+Sentence numbers: 1, 8, 14, 15, 16, 17, 18, 19, 20, 21
+
+Answer: The emergency numbers for mobile phones in Germany function at all times, even with a prepaid card without balance or money.
+Sentence numbers: 9
+
+Answer: Important information for a distress call includes: who is calling (your name), where the incident occurred (address), what happened, how many people are injured or ill, what types of injuries or illnesses are present, and to wait for questions.
+Sentence numbers: 11, 12, 13, 14, 15
+
+Answer: Stay calm and speak slowly and clearly during a distress call.
+Sentence numbers: 17, 18
+
+Answer: Do not hang up during a distress call.
+Sentence numbers: 19
+
+Answer: The distress call center

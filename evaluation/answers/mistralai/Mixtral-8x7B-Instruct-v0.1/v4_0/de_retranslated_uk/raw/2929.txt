@@ -1,0 +1,4 @@
+[3, 16, 18, 165] are the relevant IDs that answer the question.
+
+The sentences are:
+[3] An das Jugendamt können sich alle kostenlos wenden, wenn sie Probleme haben. Auch Kinder und Jugendliche!

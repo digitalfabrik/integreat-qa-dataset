@@ -1,0 +1,9 @@
+Question: Який номер екстреного виклику в Німеччині?
+
+Document: 
+
+Answer: []
+
+The question asks for the emergency call number in Germany, but the document does not provide this information.assistant
+
+You are correct. The document does not provide the emergency call number in Germany. Therefore

@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question are:
+
+[8, 9, 10, 14]
+
+Sentence 8 provides a general overview of the requirements for an apprenticeship with tolerance. Sentences 9 and 10 specify the requirement of a

@@ -1,0 +1,6 @@
+[24, 25, 26, 27, 32, 33, 35]assistant
+
+The sentences that answer the question are:
+
+[24] Puis-je travailler en Allemagne avec un permis de séjour pour protection temporaire?
+[25] O

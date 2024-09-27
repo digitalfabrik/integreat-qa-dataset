@@ -1,0 +1,3 @@
+[11, 12, 13, 17, 18, 21, 23]
+
+The difference between statutory and private health insurance is that with statutory health insurance, the state sets the benefits and the premiums are based on income, while

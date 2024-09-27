@@ -1,0 +1,4 @@
+[15, 18, 21, 24]
+
+Explanation:
+The question asks when you cannot get the entire deposit (Kaution) back. Sentences 15, 21, and 24 answer this question by stating that the deposit is

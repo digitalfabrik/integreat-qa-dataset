@@ -1,0 +1,6 @@
+[16, 17, 18, 19, 20]
+
+The relevant sentences are:
+[16] Do you have a foreign driver's license?
+[17] Do you have a foreign driver's license and live in Germany?
+[1

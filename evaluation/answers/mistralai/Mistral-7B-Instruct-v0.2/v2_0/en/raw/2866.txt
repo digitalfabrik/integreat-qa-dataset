@@ -1,0 +1,8 @@
+Answer: The Employment Agency's career guidance service (BBiE) provides career advice in working life.
+Sentence numbers: 16, 17, 18, 19, 20, 21
+
+Answer: You can find career advice and information about vocational training and further education opportunities at the Employment Agency.
+Sentence numbers: 0, 1, 5, 16, 17, 18, 19, 20, 21
+
+Answer: None.
+Numbers: 2-15. These sentences do not directly answer the question about where to find career advice for working life. However, they provide information about vocational training and financial support for refugees.

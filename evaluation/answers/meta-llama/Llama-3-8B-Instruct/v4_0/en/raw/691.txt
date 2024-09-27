@@ -1,0 +1,7 @@
+[19, 20, 21]assistant
+
+The sentences that answer the question "What is a security deposit in renting an apartment?" are:
+
+[19] Security deposit
+[20] The security deposit is a payment you make to the landlord.
+[21] The amount of the deposit is a

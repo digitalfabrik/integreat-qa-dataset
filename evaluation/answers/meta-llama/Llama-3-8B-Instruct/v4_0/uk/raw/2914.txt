@@ -1,0 +1,7 @@
+The question is: Які години роботи ратуші в Швайкгаймі?
+
+The relevant sentences are:
+
+13, 14, 16, 18, 20, 22
+
+So, the output is: [13, 14, 16, 18, 20,

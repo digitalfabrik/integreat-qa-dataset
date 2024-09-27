@@ -1,0 +1,7 @@
+Based on the provided question and document, the relevant sentences are:
+
+[4] Inclusion team
+[9] or: Kathrin Klostermair (Disability Officer)
+[10] or: Lisa Manhart (Inclusion Officer)
+
+Therefore, the output should be "[

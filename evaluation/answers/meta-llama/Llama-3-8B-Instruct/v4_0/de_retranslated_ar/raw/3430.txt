@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Was sind kostenlose Impfungen in Deutschland?" and the document does not mention "kostenlose Impfungen" at all. Therefore, there are no sentences in the document that answer the question.assistant
+
+I completely agree with you! The correct output

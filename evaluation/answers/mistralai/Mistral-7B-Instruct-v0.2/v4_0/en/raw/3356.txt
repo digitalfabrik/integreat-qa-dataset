@@ -1,0 +1,3 @@
+[21, 23, 24]
+
+Explanation: The sentences that answer the question are those that provide information on making an appointment at the Central Foreigners Authority Swabia (ZAB). Sentences 21, 23, and 24 provide the opening

@@ -1,0 +1,7 @@
+The question is: ما هي الفئة العمرية التي تستهدفها مجموعة "فراينيتس" الترفيهية؟
+
+The relevant sentences are:
+
+[2, 6]
+
+These sentences answer the question by stating the age range of the target group, which is between 14 and 27 years old

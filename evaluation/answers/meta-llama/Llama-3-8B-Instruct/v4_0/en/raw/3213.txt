@@ -1,0 +1,6 @@
+[8, 9, 11, 14]assistant
+
+The sentences that answer the question are:
+
+[8] Information from the Bavarian State Ministry for Family, Labor and Social Affairs at:
+[9] www.stmas.bayern.de, search term "Ausbildungsför

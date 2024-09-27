@@ -1,0 +1,2 @@
+[5, 21, 24]
+These IDs correspond to the sentences in the document that describe the different types of residence documents: proof of arrival for asylum seekers (ID 5-10), fictitious certificate for recognized refugees (ID 21-22),

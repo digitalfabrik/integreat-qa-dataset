@@ -1,0 +1,3 @@
+[1, 2, 6]
+
+These sentences provide the emergency numbers in Germany: Police - 110, and Emergency services (including ambulance and fire department) - 112.

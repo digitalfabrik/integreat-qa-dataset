@@ -1,0 +1,2 @@
+[5, 6, 8, 10]
+The answer to the question can be found in the sentences [5] (Öffnungszeiten), [6] (Montag), [8] (Dienstag), and [10] (Donnerstag). These sentences

@@ -1,0 +1,5 @@
+[3, 5, 7, 9, 10, 13, 14]assistant
+
+The sentences that answer the question "Де і як я можу знайти привабливу та актуальну роботу?" are:
+
+[3] Де і як я можу знай

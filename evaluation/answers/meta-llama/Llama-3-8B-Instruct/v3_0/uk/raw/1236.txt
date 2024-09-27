@@ -1,0 +1,3 @@
+[10, 12, 14]assistant
+
+These sentences answer the question "Що означають абревіатури ЛГБТКІА+ та ЛГБТТІК?" (What do the abbreviations LGBTKIA+ and LGBTTIK mean?).

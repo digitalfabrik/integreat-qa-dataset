@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Comment trouver des logements accessibles?" and the document does not provide any information about how to find accessible housing. Therefore, the output is an empty list: []assistant
+
+I completely agree with you! The question is about finding accessible housing, but

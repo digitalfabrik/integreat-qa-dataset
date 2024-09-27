@@ -1,0 +1,13 @@
+[8]assistant
+
+The sentence that answers the question is:
+
+8 Tickets are available from €12.70 (depending on seat selection)
+
+So the output is:
+
+[8]assistant
+
+I'm glad I was correct!assistant
+
+Me too! It's always satisfying to

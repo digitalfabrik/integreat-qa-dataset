@@ -1,0 +1,4 @@
+[7, 8] are the relevant sentences.
+
+Explanation:
+The question asks for measures to prevent dust (or "afen" in Arabic). Sentences 7 and 8 mention the importance of ventilating the house regularly by opening windows to let in clean air, which

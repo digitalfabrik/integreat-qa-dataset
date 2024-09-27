@@ -1,0 +1,2 @@
+[11, 13, 12]
+These sentences answer the question "Who cannot get housing allowance (Wohngeld)?"

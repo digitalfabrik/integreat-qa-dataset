@@ -1,0 +1,6 @@
+17 Die DRV bietet auch Leistungen für behinderte Menschen an.
+18 Dazu gehören beispielsweise die Beratung und Unterstützung bei der beruflichen Rehabilitation.
+19 Die DRV bietet auch Leistungen für Menschen, die eine Pflegebedürftigkeit haben.
+20 Dazu gehören beispielsweise die Beratung und Unterstützung bei der Pflege.
+
+## Answer: Die Deutsche Rentenversicherung bietet Leistungen wie Rehabilitationsmaßnahmen, Leistungen für behinderte Menschen und Leistungen für Menschen mit Pflegebedürftigkeit an. ## Sentence numbers: 13, 14, 17, 18, 19, 20

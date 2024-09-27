@@ -1,0 +1,1 @@
+The answer to the question is in the document, and its IDs are [3, 8, 9, 10, 11]. Sentence 3 directly answers the question by stating that a work permit is required to work in Germany as an employee. Sentence 8 explains that

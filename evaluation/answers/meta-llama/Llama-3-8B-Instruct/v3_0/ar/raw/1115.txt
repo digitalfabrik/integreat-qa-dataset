@@ -1,0 +1,7 @@
+[7, 16, 26]assistant
+
+Note: The question is in Arabic, and the document is in German. The relevant sentences are translated to English for better understanding.
+
+The question asks about the languages available on the Deutsche Welle website. The relevant sentences are:
+
+* [7] You

@@ -1,0 +1,9 @@
+The question is: Was ist der Unterschied zwischen einem Aufnahmezentrum und einer normalen Wohnung?
+
+The relevant sentences from the document are:
+
+[]
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]", as none of the sentences in the document

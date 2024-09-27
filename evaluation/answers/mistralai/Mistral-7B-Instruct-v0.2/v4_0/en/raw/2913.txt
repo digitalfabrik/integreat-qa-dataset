@@ -1,0 +1,5 @@
+Based on the question and document provided, the relevant sentences are:
+
+1. "gemeinde@schwaikheim.de"
+
+Therefore, the output would be: ["2"]

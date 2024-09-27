@@ -1,0 +1,33 @@
+## Answer: Call the Department of Health (Staatliches Gesundheitsamt) or the Special Social Services (BSD) for advice. ## Sentence numbers: 16, 17, 20, 21, 22, 23, 24, 25, 26, 27, 28 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: What should I do in case of a medical emergency?
+
+Context: 0 Medical treatment and advice
+1 In the district of Augsburg there are excellent medical treatment facilities available.
+2 Are you looking for an institution, a doctor's practice or a hospital?
+3 Then the following pages will help you:
+4 Find a doctor:
+5 www.aerzte-im-netz.de,
+6 www.kinderaerzte-im-netz.de,
+7 https://www.weisse-liste.de/de/arzt/arztsuche/,
+8 https://dienste.kvb.de/arztsuche/app/einfacheSuche.htm
+9 Psychiatric care in Swabia:
+10 www.bezirk-schwaben.de/gesundheit
+11 Assistance in old age and care, disability or mental illness:
+12 www.bezirk-schwaben.de/soziale-hilfen
+13 Hospitals:
+14 www.augsburg.de (Search word "hospitals")
+15 Do you need advice on the topic of "health" or "the health system in Germany"?
+16 The Department of Health (Staatliches Gesundheitsamt) will be happy to help:
+17 Department of Health (Staatliches Gesundheitsamt)
+18 gesundheitsamt@LRA-a.bayern.de
+19 Special Social Services (BSD) are on hand to help adults and their relatives in difficult situations.
+20 The specialists are on hand to provide support in contact with the authorities and to advise on offers of assistance.
+21 Special Social Services (BSD) for adults
+22 bsd@LRA-a.bayern.de
+23 The HiFF project supports adult refugees with traumatic experiences and / or mental illnesses in coping with their life situation.
+24 For this purpose, individual psychotherapy sessions, stabilisation groups and social and asylum procedure counselling are offered.
+25 Referral to other support

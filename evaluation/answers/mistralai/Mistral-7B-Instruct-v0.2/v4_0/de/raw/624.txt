@@ -1,0 +1,1 @@
+[5, 11, 12, 13] # These sentences mention groups in Projekt-Laden International Haidhausen that are relevant to the question.

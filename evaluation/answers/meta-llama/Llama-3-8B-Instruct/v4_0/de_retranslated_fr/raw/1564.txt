@@ -1,0 +1,7 @@
+[44, 45, 46]assistant
+
+The question is: Was passiert, wenn die Frist für die Einreichung von Anträgen auf Familienzusammenführung nicht eingehalten wird?
+
+The relevant sentences are:
+
+[44] Haben Sie die Frist

@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks what documents to bring when registering as an asylum seeker. None of the sentences in the document answer this question, so the output is an empty list: []assistant
+
+I completely agree with you! The question asks about the documents to bring when registering as an asylum

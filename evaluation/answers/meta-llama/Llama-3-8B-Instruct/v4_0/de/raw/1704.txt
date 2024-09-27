@@ -1,0 +1,5 @@
+[2, 3]assistant
+
+The sentences that answer the question "Welche Abschlüsse kann man an einer 'beruflichen Schule' erwerben?" are:
+
+2. Hier können alle Schulabschlüsse erworben werden, vom Hauptschulabschluss

@@ -1,0 +1,9 @@
+The question is: Quelle est la différence entre le bachelor et le master?
+
+The relevant sentences are:
+
+[18] Tous les établissements d'enseignement supérieur proposent des cursus de bachelor et de master.
+
+The ID of the relevant sentence is: [18]
+
+Output: [

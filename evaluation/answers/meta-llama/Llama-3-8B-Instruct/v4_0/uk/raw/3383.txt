@@ -1,0 +1,5 @@
+[2]assistant
+
+The question is "Як знайти доступне житло?" which translates to "How to find accessible housing?".
+
+The sentence that answers this question is [2] "Ви можете знайти всі можливості та пропозиції у віртуальному путівнику для людей з обмеж

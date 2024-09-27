@@ -1,0 +1,6 @@
+[2, 11]assistant
+
+The sentences that answer the question "Où puis-je trouver un soutien psychologique?" are:
+
+[2] En outre, vous pouvez également appeler le service d'assistance téléphonique (Telefonseelsorge).
+[11

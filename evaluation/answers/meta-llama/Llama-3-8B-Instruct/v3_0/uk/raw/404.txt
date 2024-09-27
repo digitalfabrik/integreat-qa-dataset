@@ -1,0 +1,5 @@
+[12, 15, 17, 23, 31, 34, 35]assistant
+
+According to the document, the sentences that answer the question "Які свободи є непорушними відповідно до статті 5?" are:
+
+* Стаття 5 (1)

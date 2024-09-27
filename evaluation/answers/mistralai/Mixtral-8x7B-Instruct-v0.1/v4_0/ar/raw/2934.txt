@@ -1,0 +1,1 @@
+The question asks how to find consultation centers for forced marriage. In the document, sentence 6 mentions a consultation center, "مركز ياسمين للمشورة", which is a relevant answer. Therefore, the output is "[6]".

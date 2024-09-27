@@ -1,0 +1,5 @@
+[7, 8, 9, 17, 18, 19]assistant
+
+The sentences that answer the question are:
+
+[7] Als „indirekte Ermäßigung“ der Kita-Gebühren erhalten alle Eltern mit Kindern im zweiten und dritten

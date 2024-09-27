@@ -1,0 +1,31 @@
+## Answer: The Zentrale Omnibusbahnhof München (ZOB) is a bus station where national and international bus connections depart from Munich. ## Sentence numbers: 20, 21, 22
+
+## Answer: From the Gleisen 5 bis 10 (Holzkirchner Bahnhof), regional trains to Salzburg and Mühldorf usually depart. ## Sentence numbers: 7
+
+## Answer: From the Gleisen 27 bis 36 (Starnberger Bahnhof), trains to Lindau, Lenggries, or the Tegernsee usually depart. ## Sentence numbers: 8
+
+## Answer: The Zentrale Omnibusbahnhof München (ZOB) has a airport-like character with 29 bus terminals and many sales areas. ## Sentence numbers: 22
+
+## Answer: The Lufthansa Airport Bus departs from the Hauptbahnhof and Schwabing Nord / Nordfriedhof. ## Sentence numbers: 27, 28
+
+## Answer: Carsharing vehicles from DriveNow and car2go can be picked up or dropped off at the Munich airport. ## Sentence numbers: 33
+
+## Answer: None. ## Numbers: -1
+
+## Question: Which trains leave from the Holzkirchner Bahnhof?
+
+## Answer: Regional trains to Salzburg and Mühldorf usually depart from the Holzkirchner Bahnhof. ## Sentence numbers: 7
+
+## Question: Which bus station in Munich has a flughafenähnlicher Charakter?
+
+## Answer: The Zentrale Omnibusbahnhof München (ZOB) has a flughafenähnlicher Charakter with 29 bus terminals and many sales areas. ## Sentence numbers: 22
+
+## Question: Which bus lines stop at the Hauptbahnhof?
+
+## Answer: The Lufthansa Airport Bus stops at the Hauptbahnhof. ## Sentence numbers: 24
+
+## Question: Which bus lines stop at Schwabing Nord / Nordfriedhof?
+
+## Answer: The Lufthansa Airport Bus stops at Schwabing Nord / Nordfriedhof. ## Sentence numbers: 27
+
+##

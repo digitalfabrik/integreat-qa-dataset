@@ -1,0 +1,38 @@
+## Answer: Lebensmittelgeschäfte, die ausschließlich Halal-Lebensmittel verkaufen, finden Sie südlich des Hauptbahnhofes. ## Sentence numbers: 30 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Wo finde ich Lebensmittelgeschäfte mit Halal-Lebensmitteln?
+
+Context: 0 Einkaufen
+1 Einkaufen
+2 Günstig einkaufen
+3 Die Kosten für ein Leben in München sind relativ hoch.
+4 Lebensmittel werden von den großen Discountern günstig angeboten.
+5 Mit einem geringen Einkommen lohnt es sich auch, das Angebot der Sozialkaufhäuser zu nutzen.
+6 Dort können Sie neben Kleidung auch Möbel und Gebrauchsgegenstände günstig kaufen.
+7 Daneben gibt es zahlreiche Second Hand Läden und Flohmärkte.
+8 Sozialkaufhäuser in München
+9 Kaufhaus diakonia secondhand
+10 Dachauer Straße 192
+11 http://diakonia-kaufhaus.de
+12 Montag bis Freitag 10:00 - 19:00
+13 Samstag 10:00 - 15:00
+14 Weitere Standorte der Diakonia Dienstleistungbetriebe GmbH
+15 Weißer Rabe soziale Betriebe und Dienste GmbH
+16 Second-Hand-Bekleidungsgeschäft
+17 Landsberger Straße 146
+18 http://www.weisser-rabe.de
+19 Halle 2 - Gebrauchtwarenhaus
+20 Schnäppchenmarkt der AWM
+21 Sachsenstraße 29
+22 http://www.awm-muenchen.de/privathaushalte/abfallvermeidung/halle-2.html
+23 Second Hand Läden
+24 Eine Liste aller Second Hand Läden in München finden Sie
+25 hier.
+26 Flohmärkte
+27 Eine Liste aller Flohmärkte in München finden Sie
+28 hier.
+29 Halal Lebensmittel einkaufen
+30 Lebensmittelgeschäfte, die ausschließlich Halal-Le

@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the documents required for a Schengen visitor visa, but none of the sentences in the document provide this information. Therefore, the output is an empty list, which is represented as "[]".assistant
+
+I'm glad we agree on that!

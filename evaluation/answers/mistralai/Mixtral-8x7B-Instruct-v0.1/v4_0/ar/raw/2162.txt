@@ -1,0 +1,5 @@
+[0, 6, 7]
+
+Explanation:
+
+The sentences that provide information about how to apply for early assistance programs in Germany are [6] and [7]. Sentence [0] provides context about what early assistance programs are, which is helpful for understanding the overall topic.

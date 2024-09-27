@@ -1,0 +1,5 @@
+[1, 2, 3, 4, 5]assistant
+
+The sentences that answer the question "Welche Art von Hilfe leisten Freiwillige für Migranten und Flüchtlinge?" are:
+
+[1] In fast allen Städten und Gemeinden des

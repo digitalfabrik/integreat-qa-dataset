@@ -1,0 +1,5 @@
+[2, 3, 6]assistant
+
+The question is "Was sollte man nicht tun, bevor man einen Vertrag unterschreibt?" and the relevant sentences from the document are:
+
+[2] Unterschreibe niemals etwas, was Du nicht verstanden hast oder nicht lesen

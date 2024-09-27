@@ -1,0 +1,3 @@
+[]assistant
+
+It seems that the question is in Russian, and the document is in German. The question is asking about the cost of entering an open-air pool in Munich, but the document does not provide any information about the cost. Therefore, the answer is an empty list: []assistant

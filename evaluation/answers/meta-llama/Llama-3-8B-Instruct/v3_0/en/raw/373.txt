@@ -1,0 +1,3 @@
+[12, 13]assistant
+
+Note: The question asks "Who cannot receive housing benefit?" and the sentences that answer this question are [12] "Then you cannot receive additional housing benefit." and [13] "People who receive benefits under the Asylum Seekers' Benefits Act are also not

@@ -1,0 +1,7 @@
+[23, 24, 25, 28, 29, 30, 31, 32, 33]assistant
+
+The correct answer is:
+
+[23, 24, 25, 28, 29, 30]
+
+These sentences answer the question "Welche Organisation

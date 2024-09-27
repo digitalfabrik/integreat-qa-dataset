@@ -1,0 +1,3 @@
+[3, 7, 8, 10, 12]
+
+Explanation: The question asks how an asylum seeker can find a job. The relevant sentences are those that discuss the conditions under which an asylum seeker can apply for and obtain a work permit from

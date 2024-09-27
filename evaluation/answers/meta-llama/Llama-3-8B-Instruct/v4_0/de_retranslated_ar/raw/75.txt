@@ -1,0 +1,3 @@
+[3]assistant
+
+The question is "Ab welchem Alter müssen Kinder in Deutschland zur Schule gehen?" and the answer is in sentence [3] "In Deutschland gibt es eine gesetzliche Schulpflicht: Alle Kinder zwischen 6 und 15 Jahren müssen in die Schule gehen."

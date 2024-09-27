@@ -1,0 +1,6 @@
+[16, 18]assistant
+
+The sentences that answer the question "Où puis-je trouver plus d'informations sur les mosquées à Munich?" are:
+
+[16] Mosquées
+[18] Pour plus d'informations sur les mosquées à Munich,

@@ -1,0 +1,4 @@
+The relevant sentences are:
+[1, 2, 15, 16, 17, 18]
+
+These sentences provide the information required to answer the question. Specifically, they mention the documents needed to apply for a residence permit: a passport and birth certificate, proof

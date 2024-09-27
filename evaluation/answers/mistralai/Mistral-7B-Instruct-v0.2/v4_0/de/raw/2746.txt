@@ -1,0 +1,4 @@
+[7, 8]
+
+Explanation:
+The question asks for "Welche Förderschulen gibt es in Deutschland?" which translates to "What are the special schools in Germany?" The sentences [7] and [8] answer this question by mentioning "Fördersch

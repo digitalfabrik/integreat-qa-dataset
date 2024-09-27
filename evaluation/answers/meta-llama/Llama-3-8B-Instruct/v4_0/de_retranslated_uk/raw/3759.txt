@@ -1,0 +1,11 @@
+The question is: Welche Dokumente muss ich bei der Registrierung als Asylbewerber mitbringen?
+
+The relevant sentences are:
+
+[None]
+
+The document does not mention which documents need to be brought for registration as an asylum seeker.assistant
+
+The output is: []
+
+This

@@ -1,0 +1,7 @@
+[5]assistant
+
+The sentence that answers the question "What deadlines apply for termination in Germany?" is sentence 5, which states "The deadline for employees depends on the duration of the employment relationship."assistant
+
+[5]assistant
+
+The sentence that answers the question "

@@ -1,0 +1,9 @@
+## Answer: The documents required to apply for a driver's license in Munich include a valid identification document and a residence in Munich.
+ ## Sentence numbers: 5, 25
+
+ ## Answer: None.
+ ## Numbers: -1
+
+ ## Question: What is the process to apply for a driver's license in Munich?
+ ## Answer: To apply for a driver's license in Munich, one must first complete a certain number of practical and theoretical driving hours and then take and pass both a practical and theoretical test. To register for the test and apply for the license, one needs a valid identification document and a residence in Munich.
+ ## Sentence numbers: 0, 2, 4, 5, 25

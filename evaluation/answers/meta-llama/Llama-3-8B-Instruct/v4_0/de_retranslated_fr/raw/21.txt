@@ -1,0 +1,11 @@
+The question is: Welche Kategorien von Personen dürfen nicht arbeiten?
+
+The relevant sentences are:
+
+6 Einigen Personengruppen ist eine Arbeitsaufnahme nicht erlaubt.
+
+The ID of the relevant sentence is: [6]
+
+Output: [6]assistant
+
+The question is

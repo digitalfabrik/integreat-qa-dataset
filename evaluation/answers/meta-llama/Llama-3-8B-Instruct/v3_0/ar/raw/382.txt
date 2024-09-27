@@ -1,0 +1,5 @@
+[1, 2, 9]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking about the court that the administrative court in Munich is subject to.assistant
+
+You're right! I apologize for not noticing the

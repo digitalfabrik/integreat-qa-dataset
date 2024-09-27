@@ -1,0 +1,5 @@
+The question is: Was beinhaltet der Begriff "leichte Sprache"?
+
+The relevant sentences are: []assistant
+
+The correct answer is indeed an empty list, as the question asks about the concept of "leichte Sprache" and none of the sentences in the document mention or explain this

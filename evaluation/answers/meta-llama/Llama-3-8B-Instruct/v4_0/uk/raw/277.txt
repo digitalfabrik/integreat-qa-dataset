@@ -1,0 +1,5 @@
+[8]assistant
+
+The correct answer is indeed [8].assistant
+
+The sentence with ID [8] answers the question "Скільки часу зазвичай триває шкільна освіта?" (How long does school education usually take?) by stating that "Нав

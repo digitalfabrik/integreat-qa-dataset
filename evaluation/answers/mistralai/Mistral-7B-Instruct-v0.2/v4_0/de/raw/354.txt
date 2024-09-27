@@ -1,0 +1,3 @@
+[9, 10]
+
+Explanation: The question asks about the costs that can arise when one signs something they cannot read or understand. Sentences 9 and 10 directly address this issue by advising against signing contracts without fully understanding their contents and potential costs.

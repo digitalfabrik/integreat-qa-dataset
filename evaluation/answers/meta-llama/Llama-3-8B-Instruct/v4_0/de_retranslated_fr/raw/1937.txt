@@ -1,0 +1,10 @@
+The question is: Welches ist das wichtigste Gesetz für Deutschland?
+
+The relevant sentences are:
+[3] Das wichtigste Gesetz für Deutschland ist das Grundgesetz.
+
+The output is: [3]assistant
+
+The question is: Welches ist das wichtigste Gesetz für Deutschland?
+
+The

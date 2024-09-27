@@ -1,0 +1,11 @@
+[11]assistant
+
+The sentence that answers the question is:
+
+11 Tip: The Team Stromsparcheck - SKM Augsburg advises benefit recipients free of charge on their energy consumption after moving in.
+
+So the output is:
+
+[11]assistant
+
+I apologize for the mistake. The

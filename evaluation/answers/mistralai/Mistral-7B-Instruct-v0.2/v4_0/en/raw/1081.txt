@@ -1,0 +1,3 @@
+[43, 44, 45]
+
+Explanation: The document provides information about what an internship is, its advantages, and the different types of internships. However, it specifically mentions that interns are entitled to payment if the internship lasts longer than three months and

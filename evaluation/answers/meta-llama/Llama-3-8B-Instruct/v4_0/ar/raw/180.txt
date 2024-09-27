@@ -1,0 +1,7 @@
+The question is: من هو ولي أمر اللاجئ القاصر غير المصحوب بذويه؟
+
+The relevant sentences from the document are:
+
+[5, 6, 16]
+
+These sentences answer the question by explaining that if a refugee under 18 years old comes to Germany without family members,

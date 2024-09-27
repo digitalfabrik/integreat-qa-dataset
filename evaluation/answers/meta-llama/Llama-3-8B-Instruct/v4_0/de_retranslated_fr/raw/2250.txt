@@ -1,0 +1,7 @@
+[]assistant
+
+The question "Do I need to know German to work in Germany?" is not answered by any of the sentences in the document.assistant
+
+I completely agree! The question is not addressed in the document, so the output should indeed be an empty list: []
+
+Thank you for

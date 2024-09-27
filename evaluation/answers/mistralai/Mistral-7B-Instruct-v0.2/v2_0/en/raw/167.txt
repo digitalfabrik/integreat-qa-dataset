@@ -1,0 +1,7 @@
+## Answer: Yes, there are free offers at Musenkuss München. ## Sentences: 5, 9, 15, 16
+
+## Answer: Some offers are free of charge. ## Sentences: 5, 15
+
+## Answer: You can filter the offers by "free of charge". ## Sentences: 16
+
+## Answer: None. ## Numbers: -1 (There is no explicit statement in the context about specific free offers or their availability at the time of visiting the website.)

@@ -1,0 +1,7 @@
+The question is: Wie kontaktiere ich das nächstgelegene Gesundheitszentrum?
+
+The relevant sentences are: []
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]" because none of the sentences in the document provide information on how to contact

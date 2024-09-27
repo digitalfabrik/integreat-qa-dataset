@@ -1,0 +1,11 @@
+[8]assistant
+
+The sentence that answers the question is:
+
+8 So verhindern Sie beispielsweise, dass Schimmel entsteht.
+
+The ID of this sentence is 8.assistant
+
+[8]assistant
+
+Correct!assistant

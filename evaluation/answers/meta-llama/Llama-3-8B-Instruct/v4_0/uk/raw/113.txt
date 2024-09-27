@@ -1,0 +1,7 @@
+[13, 20]assistant
+
+The question is "Коли не застосовуються звичайні умови возз'єднання сім'ї?" which translates to "When are the usual conditions for family reunification not applied?".
+
+The sentences that answer this question are:
+
+[13] Возз'є

@@ -1,0 +1,3 @@
+12
+
+This list contains the ID of the sentence that answers the question.

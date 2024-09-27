@@ -1,0 +1,6 @@
+[2, 3, 4]assistant
+
+The sentences that answer the question "Welche finanzielle Unterstützung können Familien erhalten?" are:
+
+[2] Familien können finanzielle Unterstützung erhalten.
+[3] Neben direkten Geldleistungen wie dem Eltern

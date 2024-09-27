@@ -1,0 +1,5 @@
+[39, 40, 41, 44, 45, 46, 47]
+
+Explanation:
+
+The relevant sentences that answer the question "Dans quelles circonstances les stagiaires ont-ils droit à une rémunération

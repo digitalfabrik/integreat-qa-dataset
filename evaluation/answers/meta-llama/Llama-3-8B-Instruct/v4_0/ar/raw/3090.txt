@@ -1,0 +1,3 @@
+[2, 4, 6, 8, 11, 13, 17, 18, 21, 23, 25, 27, 32, 34, 36, 39]assistant
+
+The relevant sentences that answer the question "ما هي المست

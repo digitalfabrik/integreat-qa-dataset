@@ -1,0 +1,5 @@
+The relevant sentences are:
+[3, 4, 11]
+
+Sentence 3 directly answers the question by stating that the Dublin procedure determines which country is responsible for conducting the asylum application process.
+Sentence 4 provides further clarification that this is usually the country where the person

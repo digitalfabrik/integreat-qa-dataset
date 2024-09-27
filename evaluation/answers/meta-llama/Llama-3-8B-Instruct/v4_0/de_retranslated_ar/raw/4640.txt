@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Wie kann ich eine Klage beim Arbeitsgericht einreichen?" and none of the sentences in the document provide a direct answer to this question. Therefore, the output is an empty list: []assistant
+
+I completely agree with you! Since none of

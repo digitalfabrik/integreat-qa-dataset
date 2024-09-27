@@ -1,0 +1,5 @@
+[11, 14, 16]assistant
+
+The sentences that answer the question "Quels sont les médicaments que je peux acheter dans une pharmacie?" are:
+
+11. Il existe des médicaments délivrés sur ordonnance et des médicaments délivr

@@ -1,0 +1,11 @@
+The question is: ما هو اسم المسرح في مدينة ميونيخ؟
+
+The relevant sentences are:
+
+* 2 مسرح مونشنر كامرسبيله هو مسرح المدينة.
+
+The IDs of the relevant sentences are:
+
+[2]assistant
+
+The question is:

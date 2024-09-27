@@ -1,0 +1,6 @@
+The relevant sentences are:
+1 Pflicht-Versicherungen
+2 Diese Versicherungen musst Duin Deutschland haben:
+4 Für Autofahrende: Kfz-Haftpflichtversicherung
+
+So the output is: "[1, 2, 4]".

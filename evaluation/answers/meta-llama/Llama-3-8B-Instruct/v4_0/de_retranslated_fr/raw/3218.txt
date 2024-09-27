@@ -1,0 +1,9 @@
+The question is: Wie finde ich Unterstützung bei der Wohnungssuche?
+
+The document does not contain any sentences that answer this question. Therefore, the output is:
+
+[]assistant
+
+The question is: Wie finde ich Unterstützung bei der Wohnungssuche?
+
+The document does not contain any sentences that

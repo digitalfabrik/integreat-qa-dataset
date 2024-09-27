@@ -1,0 +1,6 @@
+[2, 4, 5, 6]assistant
+
+The sentences that answer the question "What are the benefits of saving energy?" are:
+
+[2] Saving energy means achieving the desired "performance" with less final energy (electricity, fuels and combustibles).
+[4] We can

@@ -1,0 +1,8 @@
+[2, 3, 4, 5, 13]assistant
+
+The sentences that answer the question "What kind of financial support is offered for training?" are:
+
+[2] That is why there is financial support for:
+[3] Education
+[4] Study
+[5]

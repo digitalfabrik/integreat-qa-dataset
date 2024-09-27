@@ -1,0 +1,7 @@
+[11]assistant
+
+The sentence with ID 11 answers the question: "Wer berät die Begünstigten kostenlos über ihren Energieverbrauch?"assistant
+
+[11]assistant
+
+The sentence with ID 11 answers the question: "Wer berät die

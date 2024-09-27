@@ -1,0 +1,3 @@
+[1] refers to a special school in Germany, so the ID is included in the output.
+[3] provides the prerequisite for attending a special school, so the ID is included in the output.
+[6] mentions that the teachers in these schools are specially trained, so the

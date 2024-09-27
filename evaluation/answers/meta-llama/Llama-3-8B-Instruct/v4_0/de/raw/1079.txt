@@ -1,0 +1,7 @@
+The question is: Wofür ist ein Praktikum vor dem Einstieg in das Arbeitsleben hilfreich?
+
+The relevant sentences are:
+
+10 Ein Praktikum ist vor dem Einstieg in das Arbeitsleben sehr hilfreich.
+
+Therefore, the output is: [10]

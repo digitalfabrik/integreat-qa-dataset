@@ -1,0 +1,5 @@
+[18]assistant
+
+The question is "How can I get help to understand my rental agreement in Germany?" and the document does not provide any information on how to get help to understand a rental agreement in Germany. Therefore, the output is an empty list: []
+
+Note: The document only provides information about

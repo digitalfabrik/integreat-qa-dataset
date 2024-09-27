@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question are:
+
+[7, 9, 10, 11]
+
+These sentences provide information on where to find help for psychological problems, specifically mentioning the Beratungsstelle and Krisen-, Klärungs- und Vermitt

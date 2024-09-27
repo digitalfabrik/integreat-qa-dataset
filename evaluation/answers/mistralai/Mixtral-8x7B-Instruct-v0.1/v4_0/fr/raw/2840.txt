@@ -1,0 +1,2 @@
+[10, 11, 12, 13, 14, 15, 16]
+These are the IDs of the sentences that answer the question. Sentences 10-16 describe the types of medications that can be bought in a pharmacy

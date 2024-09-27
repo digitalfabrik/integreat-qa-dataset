@@ -1,0 +1,5 @@
+[3]assistant
+
+The sentence with ID 3 answers the question: "Quelle est souvent la durée minimale du contrat à respecter?"assistant
+
+You are correct! The sentence with ID 3 answers the question: "Quelle est souvent la durée minimale

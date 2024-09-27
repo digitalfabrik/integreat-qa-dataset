@@ -1,0 +1,4 @@
+The relevant sentences are:
+0: "Munich's train stations / ZOB / airport"
+20: "The central bus station in Munich (ZOB)"
+22: "With 29 bus terminals and many sales areas, the ZOB has an airport-like character

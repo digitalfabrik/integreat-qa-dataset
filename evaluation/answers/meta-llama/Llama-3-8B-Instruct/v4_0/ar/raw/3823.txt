@@ -1,0 +1,7 @@
+The question is: "ما هي المهارات التي يمتلكها الشخص الذي يتمتع بمهارات لغوية B2؟"
+
+The document does not contain any sentences that directly answer this question. Therefore, the output is:
+
+[]assistant
+
+The question is: "ما هي المهارات التي يمت

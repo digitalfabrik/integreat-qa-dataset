@@ -1,0 +1,11 @@
+[8]assistant
+
+The sentence that answers the question is:
+
+8 Therefore, you usually need certain language certificates at B2/C1 level (European reference framework).
+
+The ID of this sentence is 8.assistant
+
+[8]assistant
+
+Correct!assistant

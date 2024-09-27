@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question "Як відбувається процес реєстрації на інтеграційні курси?" are:
+
+[44, 45, 47, 48]
+
+Sentence 44 states that application forms

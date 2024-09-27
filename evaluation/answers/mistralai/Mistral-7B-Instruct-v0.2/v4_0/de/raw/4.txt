@@ -1,0 +1,3 @@
+[2]
+
+Explanation: The question asks for the name of the theater in Munich. Sentence 2 in the document states that "Die Münchner Kammerspiele sind das Theater der Stadt." which translates to "Münchner Kammerspiele is the

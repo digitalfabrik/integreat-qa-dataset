@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "ما هي التطعيمات المجانية في ألمانيا؟" which translates to "What are the free vaccinations in Germany?".
+
+The document does not mention free vaccinations in Germany, so there are no relevant sentences that answer this question. Therefore, the output is an empty

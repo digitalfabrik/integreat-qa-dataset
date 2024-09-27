@@ -1,0 +1,7 @@
+[2, 8]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[2, 8, 4]
+
+The sentence with ID 2 mentions that the Integrationsmanager can support with many themes, including the one mentioned in the question. The sentence with ID 8 mentions

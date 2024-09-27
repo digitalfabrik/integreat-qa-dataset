@@ -1,0 +1,5 @@
+[4, 6, 14]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking where to get these vaccinations, and the relevant sentences in the document are providing information on where to get vaccinations.assistant
+
+You

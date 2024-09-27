@@ -1,0 +1,7 @@
+[20, 22]assistant
+
+The sentences that answer the question "When do you need permission to leave the district of the reception center?" are:
+
+[20] This means that you may only stay in the district of your reception center.
+
+[22] Then you need a permit from the Federal Office

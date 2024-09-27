@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "كيف يمكنني التصويت في الانتخابات في ألمانيا؟" and the document is in Arabic. Since the question is about voting in German elections, and the document is in Arabic, it's unlikely that any sentence in the document will answer the question.
+
+Therefore

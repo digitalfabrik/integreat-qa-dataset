@@ -1,0 +1,7 @@
+The question is: An welche Altersgruppe von Kindern richtet sich das Programm Zu Hause Gesund Werden?
+
+The relevant sentences are:
+
+7 Ihr krankes Kind ist mindestens 6 Monate und höchstens 12 Jahre alt.
+
+The IDs of the relevant sentences are: [

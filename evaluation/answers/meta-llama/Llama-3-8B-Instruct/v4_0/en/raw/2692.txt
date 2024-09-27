@@ -1,0 +1,6 @@
+[18, 21]assistant
+
+The sentences that answer the question "Which driving licenses are valid in Germany?" are:
+
+[18] In this case, your foreign driver's license is valid for 6 months after you move to Germany.
+[21] Persons from EU/EEA countries with a

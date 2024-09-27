@@ -1,0 +1,5 @@
+[2, 3]assistant
+
+The sentences that answer the question "Quel type d'aide les bénévoles apportent-ils aux migrants et aux réfugiés?" are:
+
+[2] Les bénévoles aident les migrants à s'orienter dans leur environ

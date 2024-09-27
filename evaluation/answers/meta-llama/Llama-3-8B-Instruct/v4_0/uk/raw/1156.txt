@@ -1,0 +1,7 @@
+The question is: Яка важлива картка рекомендована для людей з інвалідністю?
+
+The relevant sentences are: [1, 2, 3]
+
+These sentences mention the importance of the ID card for people with disabilities.assistant
+
+[1, 2, 3]

@@ -1,0 +1,9 @@
+Question: Ist es notwendig, sich für das Care Café anzumelden?
+
+Document:...
+
+Answer: [6]assistant
+
+The sentence with ID 6 answers the question: "Eine Anmeldung ist nicht notwendig."assistant
+
+Question: Ist es notwendig, sich

@@ -1,0 +1,6 @@
+[]
+
+Question: What is meant by "vocational training" in Germany?
+
+Document: [11] Initial vocational training is possible at vocational schools and vocational colleges.
+[12] Training can take place both in the dual system (training company and vocational school) or

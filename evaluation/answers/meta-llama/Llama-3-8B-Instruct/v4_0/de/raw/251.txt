@@ -1,0 +1,8 @@
+[14, 15]assistant
+
+The sentences that answer the question "Wer kann Kinder beim Antrag auf Unterhalts-Vorschuss beraten und helfen?" are:
+
+[14] Das Jugendamt kann Sie beraten.
+[15] Es hilft Ihnen beim Antrag.
+
+So the output is

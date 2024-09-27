@@ -1,0 +1,3 @@
+[4, 5]
+
+Explanation: The question asks for the meaning of "ambulant" in the context of the German healthcare system. The document provides the definition of "ambulant" in sentence 5: "Ambulant heißt: Der Patient geht nach

@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID [2] answers the question "Qu'entend-on par 'économies d'énergie'?"assistant
+
+You are correct. The sentence with ID [2] answers the question "Qu'entend-on par 'économ

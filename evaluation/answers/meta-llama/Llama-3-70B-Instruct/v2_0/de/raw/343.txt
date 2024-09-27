@@ -1,0 +1,8 @@
+20 TranslAid
+21 TranslAid
+22 TranslAid
+23 TranslAid
+24 TranslAid
+25 TranslAid
+
+## Answer: Amharisch, Arabisch, Aramäisch, Bengali, Bulgarisch, Chinesisch, Dari, Englisch, Farsi, Französisch, Fula, Georgisch, Griechisch, Hindi, Italienisch, Jula, Krio, Kurdisch (Kurmandschi), Kurdisch (Sorani), Laotisch, Mandingo, Pashto, Polnisch, Portugiesisch, Punjabi, Rumänisch, Russisch, Slowakisch, Somalisch, Spanisch, Susu, Swahili, Tigrinya, Tigre, Tschechisch, Turkmenisch, Türkisch, Uigurisch, Ukrainisch, Ungarisch, Urdu, Usbekisch, Wolof. ## Sentence numbers: 9

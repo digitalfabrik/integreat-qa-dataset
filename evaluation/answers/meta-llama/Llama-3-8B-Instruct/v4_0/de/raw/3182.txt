@@ -1,0 +1,7 @@
+The question is: Was ist der Unterschied zwischen Integrations- und normalen Sprachkursen?
+
+The document does not contain any sentences that answer this question. Therefore, the output is:
+
+[]assistant
+
+The question is: Was ist der Unterschied zwischen Integrations- und normalen Sprach

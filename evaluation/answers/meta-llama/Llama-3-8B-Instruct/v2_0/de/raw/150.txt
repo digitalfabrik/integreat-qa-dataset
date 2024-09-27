@@ -1,0 +1,24 @@
+## Answer: Niederlassungserlaubnis und Erlaubnis zum Daueraufenthalt – EU. ## Sentence numbers: 2, 3, 15, 16, 17, 18, 20, 21 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Welche Aufenthaltstitel ermöglichen ein dauerhaftes Leben und Arbeiten in Deutschland?
+
+Context: 0 Dauerhafter Aufenthalt
+1 Dauerhafter Aufenthalt
+2 Niederlassungserlaubnis nach § 9 Aufenthaltsgesetz
+3 Mit der Niederlassungserlaubnis können Sie ohne zeitliche oder örtliche Einschränkung in Deutschland leben und arbeiten.
+4 Voraussetzungen (Auswahl):
+5 rechtmäßiger Aufenthalt in Deutschland seit mindestens fünf Jahren (frühere Studiums- und Ausbildungszeiten werden zu 50 Prozent angerechnet)
+6 gültiger Aufenthaltstitel, der nicht zu einem vorübergehenden Zweck (Studium) oder aus humanitären Gründen erteilt wurde
+7 Nachweis über gesicherten Lebensunterhalt und Wohnraum
+8 Nachweis über ausreichende Altersvorsorge (mindestens 60 Monate Pflichtbeiträge oder freiwillige Beiträge zur gesetzlichen Rentenversicherung in Deutschland)
+9 ausreichende deutsche Sprachkenntnisse und Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse in Deutschland– in der Regel nachgewiesen durch:
+10 die erfolgreiche Teilnahme an einem Integrationskurs
+11 oder
+12 durch Zeugnisse und Studiennachweise über eine in Deutschland abgeschlossene Berufsausbildung oder sonstige Sprachnachweise
+13 Im Einzelfall können noch weitere Unterlagen benötigt werden.
+14 Weitere Informationen zu den Voraussetzungen finden Sie hier.
+15 Daueraufenthalt – EU
+16 Die Erlaubnis zum Daueraufenth

@@ -1,0 +1,7 @@
+The question is: Welche Dienstleistungen bietet das Arbeitsamt an?
+
+The document does not mention any services offered by the Arbeitsamt (Jobcenter). Therefore, the answer is:
+
+[]assistant
+
+You are correct. The question asks about the services offered by the Arbeitsamt, but the document

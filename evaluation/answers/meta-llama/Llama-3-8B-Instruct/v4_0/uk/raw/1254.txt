@@ -1,0 +1,15 @@
+The question is: Скільки триває початкова школа?
+
+The relevant sentences are:
+
+[1]
+
+The answer is 4 роки, which is mentioned in sentence 1.assistant
+
+The correct output is:
+
+[1]assistant
+
+I'm glad I was correct!
+
+The

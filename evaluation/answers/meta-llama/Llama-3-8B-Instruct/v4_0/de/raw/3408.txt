@@ -1,0 +1,5 @@
+The question is: Was beinhaltet die Ausbildung zum Integrationslotsen?
+
+The document does not mention the Ausbildung zum Integrationslotsen, so no sentence answers the question. The output is: []assistant
+
+The question is: Was beinhaltet die Ausbildung zum Integrationslotsen

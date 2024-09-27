@@ -1,0 +1,6 @@
+[2, 9]assistant
+
+The sentences that answer the question "ما هو الدعم المتاح للتكامل؟" (What support is available for integration?) are:
+
+2. يمكن لمديري التكامل دعمك في العديد من المجالات، على سبيل المثال
+9

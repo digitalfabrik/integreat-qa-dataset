@@ -1,0 +1,2 @@
+[0], [1]
+The sentences with IDs [0] and [1] answer the question, as they both state that health insurance is mandatory in Germany (Pflichtversicherung = mandatory insurance).

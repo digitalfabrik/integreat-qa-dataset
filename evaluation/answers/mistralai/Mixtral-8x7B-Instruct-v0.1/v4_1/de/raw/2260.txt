@@ -1,0 +1,3 @@
+The relevant sentences are:
+[2] 110 (answers the question, but it's the police number, not the general emergency number)
+[4] 112 (this is the general emergency number in Germany)

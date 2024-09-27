@@ -1,0 +1,9 @@
+The question is: Wo kann ich Beratungsstellen für Ausländer finden?
+
+The relevant sentences are:
+
+* []
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]", as none of the sentences in the document provide information on where to find Ber

@@ -1,0 +1,9 @@
+The question is: من الذي يتأكد من انتظام الأطفال في المدرسة بانتظام؟
+
+The relevant sentences are:
+
+[7] يضمن الآباء حضور أطفالهم إلى المدرسة بانتظام.
+
+The output is: [7]assistant
+
+The question is: من

@@ -1,0 +1,9 @@
+Question: Чи потрібно реєструватися для участі в Café Pflege?
+
+Document:...
+
+Answer: [6]assistant
+
+The sentence with ID 6 answers the question: "Реєстрація не обов'язкова." (Registration is not obligatory.)assistant
+
+You are

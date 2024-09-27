@@ -1,0 +1,6 @@
+[8, 9]assistant
+
+The sentences that answer the question "Welche Impfungen sind in Deutschland kostenlos?" are:
+
+[8] All diese Kinder müssen gegen Masern geimpft oder immun sein.
+[9] Das gilt für Kinder ab dem vollendeten ersten Lebensjahr.

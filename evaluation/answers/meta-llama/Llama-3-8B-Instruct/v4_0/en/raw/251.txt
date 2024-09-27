@@ -1,0 +1,9 @@
+The question is: Who can advise and help children apply for advance maintenance payments?
+
+The relevant sentences are:
+[14] The youth welfare office can advise you.
+[15] It will help you with your application.
+
+The IDs of the relevant sentences are: [14, 15]assistant
+
+[14

@@ -1,0 +1,6 @@
+The question is: What is the emergency number in Germany?
+
+The relevant sentences are:
+[2, 4, 6]
+
+These sentences provide the emergency numbers in Germany, which are 110 for the police, 112 for the fire brigade and ambulance, and 112 for the ambulance and emergency doctor.

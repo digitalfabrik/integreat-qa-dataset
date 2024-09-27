@@ -1,0 +1,13 @@
+## Answer: Augsburger Dolmetscherpools ## Sentence numbers: 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 41, 42
+
+## Answer: state-approved translators ## Sentence numbers: 34, 35, 39, 41
+
+## Answer: None. ## Numbers: 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+## Question: Where can one request a certified translation?
+
+## Answer: You can request a certified translation from the Augsburg Translator Pools. ## Sentence numbers: 21, 41, 42
+
+## Answer: Only state-approved translators can perform certified translations in Germany. ## Sentence numbers: 34, 39, 41
+
+## Answer: None. ## Numbers: 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19

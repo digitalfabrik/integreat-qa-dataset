@@ -1,0 +1,1 @@
+[10, 12, 13] are the relevant sentences. Sentence 10 defines the "salaire brut", sentence 12 defines the "déductions" and sentence 13 explains that the "montant net" is generally the amount of the payment.

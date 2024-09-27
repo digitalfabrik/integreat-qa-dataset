@@ -1,0 +1,11 @@
+[9]assistant
+
+The sentence that answers the question is:
+
+9 We also offer attractive training and development opportunities.
+
+The ID of this sentence is 9.assistant
+
+[9]assistant
+
+Correct! The sentence that answers the question is indeed sentence 9.

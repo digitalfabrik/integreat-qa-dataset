@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "ما الفرق بين دورات الاندماج ودورات اللغة العادية؟" which translates to "What is the difference between integration courses and normal language courses?".
+
+None of the sentences in the document answer this question, so the output is an empty list: []

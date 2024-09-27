@@ -1,0 +1,9 @@
+The question is: Welchen Personengruppen ist eine Arbeitsaufnahme nicht erlaubt?
+
+The relevant sentences from the document are:
+
+6 Einigen Personengruppen ist eine Arbeitsaufnahme nicht erlaubt.
+
+The ID of the relevant sentence is: [6]
+
+Output: [6]

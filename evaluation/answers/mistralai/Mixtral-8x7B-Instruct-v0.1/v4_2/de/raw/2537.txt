@@ -1,0 +1,7 @@
+Based on the given document, the following sentences answer the question:
+
+Wie kann ich Anschluss an LGBTIQ* Gemeinschaften finden?
+
+[7, 16, 21, 22, 23, 24]
+
+These sentences

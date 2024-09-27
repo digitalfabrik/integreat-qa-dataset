@@ -1,0 +1,27 @@
+## Answer: Kinderärzte. ## Sentence numbers: 12, 13
+
+The question asks who typically conducts examinations on children. The answer is Kinderärzte (children's doctors) and the corresponding sentences are 12 and 13.assistant<s> [INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Wer führt üblicherweise Untersuchungen an Kindern durch?
+
+Context: 0 Arztbesuch
+1 Arztbesuch
+2 Hausärzte und Fachärzte
+3 Wenn Sie krank sind, gehen Sie zu Ihrer Hausärztin oder Ihrem Hausarzt.
+4 Diese dürfen Sie selbst wählen.
+5 Hausärztinnen und Hausärzte haben meistensam Montag, Dienstag und Donnerstag ganztägig geöffnet.
+6 Am Mittwoch und Freitag Nachmittag kann die Hausarztpraxis geschlossen sein.
+7 Die Öffnungszeiten legen die Hausärztinnen und Hausärzte selbst fest.
+8 Vereinbaren Sie daher einen Termin, wenn Sie hausärztliche Hilfe benötigen.
+9 Hausärztinnen und Hausärzte führenwichtige Untersuchungen durch undsind Ihre erste Kontaktstelle bei Krankheiten.
+10 Sie entscheiden auch über notwendige Medikamenteund ob eine fachärztliche Untersuchung notwendig ist.
+11 Ihre Hausärztin oder Ihr Hausarzt überweist Sie bei Bedarf an eine fachärztliche Praxis, in der spezielle Untersuchungen durchgeführt werden können.
+12 Kinderärzte
+13 Kinder werden üblicherweise von Kinderärztinnen und Kinderärzten untersucht.
+14 Regelmäßige Vorsorgeuntersuchungen und Impfungen sind für die Gesundheit jedes Kindes wichtig.
+15 Die Vorsorgeuntersuchungen, die in Bayern per Gesetz vorgeschrieben und verpflichtend sind, heißen "U-Untersuchungen".
+16 Sie finden zu einem bestimmten Zeitpunkt statt und sind immer kostenfrei.
+17 Bitte informieren Sie sich über die U-Untersuchungen bei einer

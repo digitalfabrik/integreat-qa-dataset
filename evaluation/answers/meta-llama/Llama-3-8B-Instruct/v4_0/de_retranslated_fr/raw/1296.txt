@@ -1,0 +1,7 @@
+The question is: Was ist der Unterschied zwischen rezeptpflichtigen und rezeptfreien Medikamenten?
+
+The relevant sentences are:
+
+[1, 5, 6, 7]
+
+These sentences explain the difference between rezeptpflichtigen (prescription-only) and rezeptfreien (

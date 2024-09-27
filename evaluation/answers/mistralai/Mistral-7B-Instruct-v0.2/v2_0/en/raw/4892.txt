@@ -1,0 +1,4 @@
+Answer: The Sprengelschule offers information about German language classes for children.
+Sentences: 5, 6, 9
+
+Explanation: The context mentions that parents can find information about registration at the Sprengelschule, and it is also stated that the Sprengelschulen can provide further information. While the text does not explicitly state that German language classes are offered at the Sprengelschule, it is reasonable to assume that since it is a public school, it may offer German language classes along with the regular curriculum.

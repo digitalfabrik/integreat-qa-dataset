@@ -1,0 +1,7 @@
+Question: Wo kann ich mich für Fortbildungskurse anmelden?
+
+Document: [0-25]
+
+Answer: []assistant
+
+The question asks where you can sign up for further education courses. The document does not provide a direct answer to this question. Therefore, the output is an empty list: []

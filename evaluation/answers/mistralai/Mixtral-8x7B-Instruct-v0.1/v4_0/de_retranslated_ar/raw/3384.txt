@@ -1,0 +1,3 @@
+The question asks for the task of the Integrationsbüro (Integration Office). However, the document does not provide any information about the Integrationsbüro or its tasks. Therefore, none of the sentences answers the question.
+
+Output: []

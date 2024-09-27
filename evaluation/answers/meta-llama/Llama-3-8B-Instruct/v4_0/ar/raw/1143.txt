@@ -1,0 +1,9 @@
+The question is: ما هو الحد الأدنى للفترة الفاصلة بين تطعيمي الحصبة؟
+
+The relevant sentences are:
+
+[14]
+
+This sentence answers the question, stating that the minimum interval between two vaccinations is four weeks.assistant
+
+[14]assistant

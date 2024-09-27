@@ -163,8 +163,15 @@ cython_debug/
 # Project specific files that can easily be generated
 data/integreat_pages/**/*.txt
 data/**/*.txt
-answers/**/*.txt
+# answers/**/*.txt
 data/**/dataset*.json
 rows/**
-train/**
+**/checkpoint-*/**
+/train/**/*.json
+/train/**/*.bin
+/train/**/spm.model
+/train/**/model.safetensors
+!predicted.json
+!predicted_dev.json
 evaluate/**
+/evaluate/

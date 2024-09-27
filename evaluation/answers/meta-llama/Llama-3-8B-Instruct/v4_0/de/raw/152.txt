@@ -1,0 +1,7 @@
+The question is: Unter welchen Voraussetzungen kann eine Niederlassungserlaubnis erteilt werden?
+
+The relevant sentences are:
+
+2, 5, 6, 7, 8, 9
+
+So the output is: [2, 5, 6,

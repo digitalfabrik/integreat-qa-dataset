@@ -1,0 +1,3 @@
+[1, 2, 4, 5, 7, 8, 10, 11, 12]assistant
+
+Note: The question is in Ukrainian, and the document is also in Ukrainian. The answer list includes all the sentences that seem to provide support for women who have

@@ -1,0 +1,6 @@
+[2, 3, 6]assistant
+
+The sentences that answer the question "Quels types d'écoles proposent une formation professionnelle continue?" are:
+
+[2] La formation professionnelle continue est possible dans différentes écoles professionnelles.
+[3] En font partie les écoles

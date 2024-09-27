@@ -1,0 +1,2 @@
+["Regeln des Zusammenlebens", "Sie sollten regelmäßig die Fenster öffnen, um frische Luft hereinzulassen. So verhindern Sie beispielsweise, dass Schimmel entsteht."]
+IDs: [4, 7]

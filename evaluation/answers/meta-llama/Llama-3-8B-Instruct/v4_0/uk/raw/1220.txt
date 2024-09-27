@@ -1,0 +1,5 @@
+[4, 6]assistant
+
+The sentences that answer the question "Що ви ділите у квартирі?" (What do you share in an apartment?) are:
+
+[4] Проживання у спільній квартирі означає, що ви ділите житло з іншими людьми

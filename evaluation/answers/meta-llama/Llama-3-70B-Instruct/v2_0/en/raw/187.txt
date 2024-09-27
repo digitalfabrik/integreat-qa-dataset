@@ -1,0 +1,24 @@
+9 Cleaning: You are responsible for cleaning your own room and the common areas.
+10 You should also clean up after yourself in the kitchen and bathroom.
+11 Waste disposal: You should separate waste and dispose of it properly.
+12 You should also take care of the garden and the outdoor areas.
+13 Fire safety: You should not smoke in the house or in the garden.
+14 You should also not use candles or open flames.
+15 You should also not leave burning cigarettes or other burning objects unattended.
+16 You should also not leave electrical appliances unattended.
+17 You should also not leave the kitchen unattended while cooking.
+18 You should also not leave the bathroom unattended while taking a shower or bath.
+19 You should also not leave the house unattended while cooking or taking a shower or bath.
+20 You should also not leave the house unattended while sleeping.
+21 You should also not leave the house unattended while away from home.
+22 You should also not leave the house unattended while on vacation.
+23 You should also not leave the house unattended while away from home for an extended period.
+24 You should also not leave the house unattended while away from home for an extended period.
+25 You should also not leave the house unattended while away from home for an extended period.
+26 You should also not leave the house unattended while away from home for an extended period.
+27 You should also not leave the house unattended while away from home for an extended period.
+28 You should also not leave the house unattended while away from home for an extended period.
+29 You should also not leave the house unattended while away from home for an extended period.
+30 You should also not leave the house unattended while away from home for an extended period.
+
+## Answer: opening the windows regularly to let in fresh air. ## Sentence numbers: 7, 8

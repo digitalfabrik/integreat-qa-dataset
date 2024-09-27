@@ -1,0 +1,5 @@
+[2, 4, 16, 18, 19, 20, 32, 39, 40, 41]assistant
+
+The sentences that answer the question "Welche Dokumente werden für Asylverfahren benötigt?" are:
+
+[2] Jede Person

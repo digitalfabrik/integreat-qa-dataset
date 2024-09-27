@@ -1,0 +1,46 @@
+## Answer: A work permit is required for citizens of a third country. ## Sentence numbers: 20, 22, 34, 38, 40, 43, 48, 56, 57, 61, 63, 64, 65, 66 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: What are the requirements for a work permit in Germany?
+
+Context: 0 Work and residence
+1 Not everyone is allowed to work in Germany.
+2 An important criterion is your citizenship or residence permit.
+3 Unrestricted access to the labor market
+4 The following persons have unrestricted access to the German labor market:
+5 Nationals of an EU country
+6 Nationals of the European Economic Area (EEA)
+7 Persons with Swiss nationality
+8 These persons do not require a special permit for employment in Germany.
+9 Groups of persons with special regulations
+10 There are special regulations for certain groups.
+11 For example for:
+12 Specialists
+13 Highly qualified
+14 Holders of the EU Blue Card
+15 Researchers
+16 Self-employed persons
+17 Jobseekers
+18 Employees who come to Germany as part of transfers within their company
+19 Persons with a residence permit
+20 Citizens of a third country require a permit for permanent residence in Germany.
+21 This is called a "residence permit".
+22 The residence permit also includes access to the labor market.
+23 Labor market access for refugees
+24 Refugees with a residence permit
+25 Recognized refugees with a residence permit are allowed to work.
+26 Access to the labor market is normally unrestricted for them.
+27 Asylum seekers in ongoing proceedings
+28 In AnkER facilities
+29 Do you live in an AnkER facility?
+30 Then you are not allowed to work for nine months.
+31 After nine months, you are entitled to a work permit if
+32 you come from a safe country of origin or
+33 your asylum application has been accepted by the BAMF.
+34 The employment agency checks the working conditions.
+35 However, there is no priority check.
+36 Priority check means checking whether the position can be filled by a person registered as a jobseeker in Germany.
+37 You can obtain a work permit from the Office for Immigration and Integration.
+38 You must

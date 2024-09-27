@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Was ist das Sprachniveau A1?" and the document does not mention Sprachniveau A1. Therefore, no sentence in the document answers the question.assistant
+
+I completely agree! The output should indeed be "[]" since none of the

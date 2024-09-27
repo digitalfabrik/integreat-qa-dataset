@@ -1,0 +1,29 @@
+## Answer: You can buy medicines in a pharmacy. ## Sentence numbers: 1, 2
+
+## Answer: Some medicines are rezeptpflichtig (prescription required). ## Sentence numbers: 11, 12, 13
+
+## Answer: Some medicines are rezeptfrei (prescription free). ## Sentence numbers: 11, 14, 15, 16
+
+## Answer: You can find pharmacies by searching for Apotheken or Apotheken-Notdienst. ## Sentence numbers: 8, 9
+
+## Answer: Pharmacies have different opening hours. ## Sentence number: 6
+
+## Answer: If you need a prescription medicine outside of pharmacy hours, look for the name and address of the open pharmacy at each pharmacy. ## Sentence number: 7
+
+## Answer: There are different colors for prescription pads. ## Sentence numbers: 17, 18, 19, 20, 21, 22, 23, 24, 25
+
+## Answer: Some prescription pads are for statutory health insurance patients, some for private health insurance patients. ## Sentence numbers: 17, 27, 28, 29
+
+## Answer: You have to pay a contribution for prescription medicines with a prescription. ## Sentence numbers: 26, 27, 28, 29
+
+## Answer: You have to pay for non-prescription medicines yourself. ## Sentence number: 30
+
+## Answer: Even with a prescription, not all medicines are free for asylum seekers and refugees. ## Sentence number: 31
+
+## Answer: Ask your doctor or pharmacist for information about prescription and non-prescription medicines. ## Sentence number: 32
+
+## Answer: Medicines can be bought in pharmacies. ## Sentence numbers: 10
+
+## Answer: Some medicines require a prescription. ## Sentence numbers: 11, 12, 13
+
+## Answer: Some medicines do not require a prescription. ## Sentence numbers: 11, 1

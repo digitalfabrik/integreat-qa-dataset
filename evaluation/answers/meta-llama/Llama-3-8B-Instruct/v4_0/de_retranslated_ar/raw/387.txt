@@ -1,0 +1,5 @@
+[22] Das Gesetz verpflichtet Asylbewerberinnen und Asylbewerber, zunächst für die Dauer von bis zu drei Monaten in einer Erstaufnahmeeinrichtung zu wohnen.
+
+Output: [22]assistant
+
+[22]

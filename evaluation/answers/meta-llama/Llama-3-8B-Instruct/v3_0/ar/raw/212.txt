@@ -1,0 +1,5 @@
+[23]assistant
+
+Note: The question is in Arabic, and the document is in German. The answer is based on the assumption that the question is asking about the languages supported by the translators in the support centers.assistant
+
+Thank you for the clarification. In that case, the relevant

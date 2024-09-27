@@ -1,0 +1,25 @@
+39 Download
+40 Standesamt
+41 Montag:
+42 08:00 - 12:00 Uhr
+43 Dienstag:
+44 08:00 - 12:00 Uhr
+45 Mittwoch:
+46 08:00 - 12:00 Uhr
+47 Donnerstag:
+48 15:00 - 19:00 Uhr
+49 Freitag:
+50 08:00 - 12:00 Uhr
+51 Bitte beachten Sie die gesonderten Öffnungszeiten des Bürgerbüros, Ausländer- und Standesamts.
+52 Anerkennungsverfahren für ausländische Berufsabschlüsse
+53 Das Anerkennungsverfahren für ausländische Berufsabschlüsse beinhaltet die Überprüfung der Gleichwertigkeit des ausländischen Berufsabschlusses mit einem deutschen Berufsabschluss.
+54 Die Anerkennung eines ausländischen Berufsabschlusses ist Voraussetzung für die Ausübung bestimmter Berufe in Deutschland.
+55 Die Anerkennung kann auf Antrag durchgeführt werden.
+56 Die zuständige Stelle für das Anerkennungsverfahren ist das Regierungspräsidium Stuttgart.
+57 Weitere Informationen erhalten Sie unter:
+58 www.anerkennung-in-deutschland.de
+59 oder
+60 www.zab.de
+61
+
+## Answer: die Überprüfung der Gleichwertigkeit des ausländischen Berufsabschlusses mit einem deutschen Berufsabschluss. ## Sentence numbers: 53

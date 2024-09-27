@@ -1,0 +1,11 @@
+Question: Чи можна знайти безкоштовні пропозиції в Musenkuss München?
+
+Document:
+
+The relevant sentences are:
+
+[5, 7, 15, 16]
+
+These sentences answer the question by mentioning the availability of free proposals on the Musenkuss München website.assistant
+
+[5

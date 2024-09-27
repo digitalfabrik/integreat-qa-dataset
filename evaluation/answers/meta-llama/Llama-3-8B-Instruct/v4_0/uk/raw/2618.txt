@@ -1,0 +1,7 @@
+The question is: Як довго діє посвідка на тимчасове проживання?
+
+The relevant sentences are: []
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]", as none of the sentences in the document provide information about the duration of a

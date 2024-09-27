@@ -1,0 +1,6 @@
+The relevant sentences from the document that answer the question are:
+
+[1, 7, 8]
+
+Sentence 1 gives the name of the workshop and makes it clear that it is related to children and youth culture.
+Sentence 7 describes that the participants work independently and develop their own

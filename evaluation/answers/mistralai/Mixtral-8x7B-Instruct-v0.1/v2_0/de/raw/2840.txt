@@ -1,0 +1,11 @@
+## Answer: Sie können rezeptfreie Medikamente in jeder Apotheke kaufen. ## Sentence numbers: 10, 14-16
+
+## Answer: Sie können rezeptpflichtige Medikamente in jeder Apotheke kaufen, wenn Sie ein Rezept von einem Arzt oder einer Ärztin haben. ## Sentence numbers: 2, 10, 12-13
+
+## Answer: Die Kosten für Medikamente, die auf rosa Rezepten verordnet werden, werden teilweise von der Krankenkasse übernommen, Sie müssen jedoch einen Eigenanteil von mindestens 5 € selbst bezahlen. ## Sentence numbers: 27-28
+
+## Answer: Medikamente, die nicht rezeptpflichtig sind, müssen Sie selbst bezahlen. ## Sentence numbers: 30
+
+## Answer: Auch mit einem Rezept sind nicht alle Medikamente für Asylbewerber und Asylbewerberinnen kostenlos. ## Sentence numbers: 31
+
+## Answer: Wenn Sie außerhalb der Öffnungszeiten dringend ein Medikament brauchen, finden Sie an jeder Apotheke ein Schild mit Name und Adresse der Apotheke, die für den Notdienst geöffnet hat. ## Sentence numbers: 7

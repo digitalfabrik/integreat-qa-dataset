@@ -1,0 +1,6 @@
+[1, 2, 3]assistant
+
+The sentences that answer the question "What are the advantages of a mini-job in Germany?" are:
+
+* [1] The maximum earnings per month are € 520 and are tax-free.
+* [2] The employee does not have to pay any

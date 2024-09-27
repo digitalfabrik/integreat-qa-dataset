@@ -1,0 +1,6 @@
+[4, 6]assistant
+
+The sentences that answer the question "Was teilt man in einer WG?" are:
+
+[4] In einer WG wohnen heißt, dass man sich mit anderen Menschen eine Wohnung teilt.
+[6] Man teilt sich nur die Gemeinschaftsr

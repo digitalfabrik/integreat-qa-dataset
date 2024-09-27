@@ -1,0 +1,9 @@
+The question is: هل التأمين الصحي إلزامي؟
+
+The relevant sentences are:
+
+1 التأمين إلزامي في ألمانيا.
+
+The ID of the relevant sentence is: [1]
+
+Note: The question is asking if health insurance is mandatory, and the answer is yes, according to sentence

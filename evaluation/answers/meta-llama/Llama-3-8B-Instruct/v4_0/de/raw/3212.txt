@@ -1,0 +1,6 @@
+[7, 9, 11, 14]assistant
+
+The sentences that answer the question "Wie kann ich Bildungsfinanzierungshilfen beantragen?" are:
+
+[7] Ausbildungsförderung
+[9] www.stmas.bayern.de, Suchwort

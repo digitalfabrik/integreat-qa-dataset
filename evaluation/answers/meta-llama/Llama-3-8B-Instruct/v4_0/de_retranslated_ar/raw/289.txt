@@ -1,0 +1,7 @@
+Question: Wer kann Sie unterstützen, wenn Sie gegen den ablehnenden Bescheid gerichtlich vorgehen wollen?
+
+Document: [20, 24]assistant
+
+The sentences that answer the question are:
+
+20. Wenn Sie mit der ablehnenden Entscheidung nicht einverstanden sind,

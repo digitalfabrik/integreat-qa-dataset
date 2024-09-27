@@ -1,0 +1,4 @@
+[23, 24, 25, 27, 28, 29]
+
+Explanation:
+The question asks for the documents required for registration. The relevant sentences are those that mention specific documents that are needed for registration. These sentences are 23,

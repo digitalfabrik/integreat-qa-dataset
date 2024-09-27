@@ -1,0 +1,7 @@
+[12]assistant
+
+The sentence with ID 12 answers the question "How can I volunteer in Germany to help with my integration?"assistant
+
+[12]assistant
+
+The sentence with ID 12 answers the question "How can I volunteer in Germany to help with my integration

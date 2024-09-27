@@ -1,0 +1,1 @@
+The question asks where one can find services for counseling for foreigners. However, the document does not provide any information regarding the location of counseling services for foreigners. Therefore, none of the sentences in the document answer the question. We output "[]" to indicate that no sentence is relevant.

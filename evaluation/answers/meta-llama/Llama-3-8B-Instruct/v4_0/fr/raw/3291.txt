@@ -1,0 +1,5 @@
+The question is: Combien coûte la vaccination d'un enfant en Allemagne?
+
+The document does not provide the cost of vaccination in Germany, so the output is: []
+
+Note: The document only provides information on vaccination recommendations and schedules, but does not mention the cost of vaccination.assistant

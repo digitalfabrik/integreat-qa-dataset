@@ -1,0 +1,3 @@
+[9, 15, 20, 21, 24, 25, 29, 31, 32, 33]assistant
+
+The sentences that answer the question "Quels sont les services qui proposent une aide aux seniors dans le district d'Augsbourg?" are

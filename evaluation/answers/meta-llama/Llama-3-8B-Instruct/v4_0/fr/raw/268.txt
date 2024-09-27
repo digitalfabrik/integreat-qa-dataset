@@ -1,0 +1,8 @@
+The question is: Quel est l'impact du revenu sur le paiement des impôts?
+
+The relevant sentences are:
+[5, 6, 7]
+
+These sentences answer the question by stating that the amount of taxes paid increases with the income.assistant
+
+The correct output is indeed

@@ -1,0 +1,3 @@
+[26, 27, 28, 29]
+The sentences that answer the question are the ones that mention the type of certificate needed to obtain a permis d'établissement (settlement permit). These sentences are:
+- Sentence 26: "P

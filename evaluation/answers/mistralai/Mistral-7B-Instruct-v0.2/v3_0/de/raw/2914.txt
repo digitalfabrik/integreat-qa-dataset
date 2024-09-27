@@ -1,0 +1,3 @@
+11, 12
+
+The sentences 11 and 12 contain the information about the opening hours of the Bürgerbüro (citizen's office) at the Rathaus (town hall) in Schwaikheim.

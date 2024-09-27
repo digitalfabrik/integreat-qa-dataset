@@ -1,0 +1,11 @@
+Question: ما المقصود ب "الرعاية الأولية"؟
+
+Document:...
+
+The relevant sentences are:
+
+9 يجري الأطباء العامون فحوصات مهمة وهم نقطة الاتصال الأولى في حالة المرض.
+
+Output: [9]assistant
+
+Question: ما

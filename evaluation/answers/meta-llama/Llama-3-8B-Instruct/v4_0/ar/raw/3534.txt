@@ -1,0 +1,9 @@
+The question is: ما هي وثائق التأمين الصحي المتوفرة في ألمانيا؟
+
+The relevant sentences from the document are:
+
+[]
+
+There are no sentences in the document that directly answer the question about the available insurance documents in Germany.assistant
+
+The correct output is indeed "

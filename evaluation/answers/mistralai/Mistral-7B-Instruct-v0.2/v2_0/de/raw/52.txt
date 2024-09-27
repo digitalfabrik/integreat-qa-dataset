@@ -1,0 +1,13 @@
+## Answer: Ein Mittelschulabschluss ist notwendig, um eine duale berufliche Ausbildung zu beginnen. ## Sentence numbers: 10
+
+There is no explicit sentence stating that a qualifizierender Mittelschulabschluss (Quali) is also required for a dual vocational training. However, since the context mentions that a Mittelschulabschluss is necessary and it is the only type of Mittelschulabschluss mentioned in the context, it can be inferred that a Quali is not required in addition to a Mittelschulabschluss for a dual vocational training.
+
+Therefore, the answer is:
+
+## Answer: Ein Mittelschulabschluss ist notwendig, um eine duale berufliche Ausbildung zu beginnen. ## Sentence numbers: 10
+
+And the answer for the inferred statement is:
+
+## Answer: Ein qualifizierender Mittelschulabschluss (Quali) ist nicht notwendig, um eine duale berufliche Ausbildung zu beginnen. ## Sentence numbers: -1
+
+However, it's important to note that the context does not provide enough information to determine if there are any specific requirements for certain dual vocational training programs. It's always best to check with the specific training provider for their specific requirements.

@@ -1,0 +1,5 @@
+[13, 29, 30, 31, 33]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking who can work if they have a residence permit for family reunification.assistant
+
+You're right

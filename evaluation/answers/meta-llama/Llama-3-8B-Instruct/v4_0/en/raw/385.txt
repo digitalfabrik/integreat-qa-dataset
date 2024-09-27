@@ -1,0 +1,6 @@
+[2, 3, 4, 5, 6, 7]assistant
+
+The sentences that answer the question are:
+
+[2] If you arrive in Germany and wish to apply for asylum, you must register with one of the following government agencies immediately after your arrival:
+[3]

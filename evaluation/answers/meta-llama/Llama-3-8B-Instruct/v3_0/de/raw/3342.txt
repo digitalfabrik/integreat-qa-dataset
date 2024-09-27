@@ -1,0 +1,7 @@
+[]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[]assistant
+
+You are correct. The question "Was ist der Unterschied zwischen Bachelor und Master?" is not answered in the provided document. Therefore, the correct output is an empty list, which is represented by "[]

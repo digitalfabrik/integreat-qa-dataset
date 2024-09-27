@@ -1,0 +1,3 @@
+The question asks for information about integration courses offered, but the document does not provide any details on this topic. Therefore, there are no relevant sentences in the document, and the output should be:
+
+[]

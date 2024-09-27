@@ -1,0 +1,7 @@
+[3]assistant
+
+The sentence with ID 3 answers the question: "Якого мінімального терміну договору найчастіше доводиться дотримуватися?"assistant
+
+[3]assistant
+
+The sentence with ID 3 answers the question: "Я

@@ -1,0 +1,11 @@
+## Answer: Sie schließen eine Krankenversicherung bei einer Krankenkasse ab. ## Sentence numbers: 8
+
+## Answer: Jede Person hat das Recht, ihren Krankenversicherer zu wählen. ## Sentence numbers: 10
+
+## Answer: Sie erhalten eine Versicherungskarte von Ihrer Krankenkasse. ## Sentence numbers: 13
+
+## Answer: Mit der Versicherungskarte einer Krankenkasse können Sie in ganz Deutschland medizinische Leistungen in Anspruch nehmen. ## Sentence numbers: 14
+
+## Answer: Um eine gesetzliche Krankenversicherung in Deutschland beantragen zu können, müssen Sie arbeiten und von Ihrem Arbeitgeber und sich selbst die Beiträge zahlen. (This answer is not directly from the context, but it can be inferred from the context.) ## Sentence numbers: -1
+
+## Answer: None. ## Sentence numbers: 2, 3, 6, 15, 16, 19, 20, 21, 22 (These sentences do not provide an answer to the question.)

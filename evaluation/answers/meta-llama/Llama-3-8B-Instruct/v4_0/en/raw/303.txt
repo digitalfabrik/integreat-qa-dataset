@@ -1,0 +1,6 @@
+[4, 5, 6]assistant
+
+The sentences that answer the question "What does refugees@diversity support involve?" are:
+
+[4] We provide you with a buddy who will accompany you to events in Munich's queer scene.
+[5] So you don't have to go

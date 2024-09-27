@@ -1,0 +1,9 @@
+The question is: ما هي دورات اللغة الألمانية المتاحة للمهاجرين؟
+
+The relevant sentences from the document are:
+
+[10] تدعيم اللغة الألمانية (المستوى اللغوي B2)
+
+The output is: [10]assistant
+
+The question is:

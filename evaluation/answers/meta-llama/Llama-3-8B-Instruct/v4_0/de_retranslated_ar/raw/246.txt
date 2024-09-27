@@ -1,0 +1,7 @@
+[8]assistant
+
+The question is "Wo kann ich einen Alphabetisierungskurs in Deutsch finden?" and the relevant sentence is "9 Das Portal bietet einen Deutschkurs zur Alphabetisierung."assistant
+
+[8, 9]assistant
+
+I apologize for the

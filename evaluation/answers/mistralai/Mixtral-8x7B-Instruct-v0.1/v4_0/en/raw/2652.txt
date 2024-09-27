@@ -1,0 +1,5 @@
+The relevant sentences are:
+5 The deadline for employees depends on the duration of the employment relationship.
+6 For example, 5 years --> 2 months notice period
+
+So the output is: "[5, 6]"

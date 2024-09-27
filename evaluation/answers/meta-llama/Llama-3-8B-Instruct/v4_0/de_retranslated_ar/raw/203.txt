@@ -1,0 +1,9 @@
+The question is: Was passiert, wenn das Kindermädchen krank ist?
+
+The relevant sentences are:
+
+[29] Wird die Betreuungsperson krank, gibt es eine Ersatzbetreuung.
+
+The output is: [29]assistant
+
+The question is: Was pass

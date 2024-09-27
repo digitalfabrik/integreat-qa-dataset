@@ -1,0 +1,20 @@
+8 If you have been employed for more than 20 years, the notice period is 7 months.
+9 If you have been employed for more than 15 years, the notice period is 5 months.
+10 If you have been employed for more than 10 years, the notice period is 4 months.
+11 If you have been employed for more than 5 years, the notice period is 3 months.
+12 If you have been employed for more than 2 years, the notice period is 2 months.
+13 If you have been employed for up to 2 years, the notice period is 4 weeks.
+14 If you have been employed for up to 6 months, the notice period is 2 weeks.
+15 The notice period for employees is calculated from the date of receipt of the termination notice.
+16 If you have been dismissed by your employer and want to do something about it, you only have 3 weeks to do so.
+17 The deadline for employees depends on the duration of the employment relationship.
+18 If you have been employed for more than 20 years, the notice period is 7 months.
+19 If you have been employed for more than 15 years, the notice period is 5 months.
+20 If you have been employed for more than 10 years, the notice period is 4 months.
+21 If you have been employed for more than 5 years, the notice period is 3 months.
+22 If you have been employed for more than 2 years, the notice period is 2 months.
+23 If you have been employed for up to 2 years, the notice period is 4 weeks.
+24 If you have been employed for up to 6 months, the notice period is 2 weeks.
+25 The notice period for employees is calculated from the date of receipt of the termination notice.
+
+## Answer: 3 weeks. ## Sentence numbers: 2, 16

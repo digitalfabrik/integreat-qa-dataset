@@ -1,0 +1,6 @@
+[41, 42, 43]assistant
+
+The sentences that answer the question "Was passiert bei einer Zeitumstellung in Deutschland?" are:
+
+[41] Auch in Deutschland gibt es eine Zeitumstellung.
+[42] Das bedeutet, dass die Uhr von der Winter- zur Sommerzeit

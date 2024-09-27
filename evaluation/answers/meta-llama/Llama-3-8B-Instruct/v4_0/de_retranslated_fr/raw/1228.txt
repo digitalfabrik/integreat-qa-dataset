@@ -1,0 +1,5 @@
+[2, 4, 6, 7, 8, 16, 21]assistant
+
+The sentences that answer the question "Welche finanziellen Hilfen können Familien in Anspruch nehmen?" are:
+
+* [2] Familien können finanzielle Unterstützung erhalten.

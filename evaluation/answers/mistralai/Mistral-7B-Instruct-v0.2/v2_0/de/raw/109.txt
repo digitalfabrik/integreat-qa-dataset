@@ -1,0 +1,9 @@
+## Answer: Kinder werden üblicherweise von Kinderärztinnen und Kinderärzten untersucht. ## Sentence numbers: 13
+
+Therefore, the answer is:
+
+Answer: Kinder werden üblicherweise von Kinderärztinnen und Kinderärzten untersucht.
+Sentence numbers: 13.
+
+Explanation:
+The question asks who usually conducts investigations on children. The context provides the answer in sentence 13, stating that "Kinder werden üblicherweise von Kinderärztinnen und Kinderärzten untersucht" (Children are usually examined by pediatricians and pediatricians).

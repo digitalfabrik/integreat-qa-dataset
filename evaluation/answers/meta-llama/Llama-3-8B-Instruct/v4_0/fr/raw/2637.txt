@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Quel est le déroulement d'un cours d'intégration?" and the document does not provide information about the course of integration. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant

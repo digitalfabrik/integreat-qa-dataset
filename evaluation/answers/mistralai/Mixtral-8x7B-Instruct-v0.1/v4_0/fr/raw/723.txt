@@ -1,0 +1,2 @@
+The relevant IDs are: [1, 2, 6]
+These sentences answer the question: "Quelle est la tranche d'âge du groupe de loisirs FrienTS?"

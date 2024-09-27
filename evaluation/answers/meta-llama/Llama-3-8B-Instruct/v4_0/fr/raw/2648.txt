@@ -1,0 +1,10 @@
+The question is: Où puis-je m'inscrire aux cours d'intégration?
+
+The relevant sentences are:
+
+7 integration@backnang.de
+24 Formulaires en ligne
+
+The IDs of the relevant sentences are: [7, 24]assistant
+
+[7,

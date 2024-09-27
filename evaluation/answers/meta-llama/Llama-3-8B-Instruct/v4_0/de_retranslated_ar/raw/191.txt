@@ -1,0 +1,7 @@
+[2]assistant
+
+The question is "Was ist ein Arbeitsunfall?" and the answer is in sentence [2].assistant
+
+You are correct! The sentence [2] answers the question "Was ist ein Arbeitsunfall?"assistant
+
+[2]assistant

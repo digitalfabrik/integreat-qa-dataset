@@ -1,0 +1,6 @@
+[2, 4]assistant
+
+The sentences that answer the question "Who can apply for naturalization?" are:
+
+* 2: If you have been living legally and habitually in Germany for at least eight years, you can apply for naturalization.
+* 4: Young people aged 16

@@ -1,0 +1,5 @@
+[]
+
+Question: Was versteht man unter dem Begriff "Integrationskurs" in Deutschland?
+
+Document: [15] Integrationskurse sind in Deutschland kostenlose Kurse, die Ausländerinnen und Ausländer helfen, die deutsche Sprache

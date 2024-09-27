@@ -1,0 +1,8 @@
+[6, 7]assistant
+
+The sentences that answer the question are:
+
+[6] Du hast Fragen zum Nachholen eines Schulabschlusses?
+[7] Dann hilft Dir die Bildungsberatung im Landratsamt Augsburg:
+
+These sentences provide information on who to contact for

@@ -1,0 +1,7 @@
+[3, 4, 6, 7, 8, 9, 10, 11]assistant
+
+Note: The question is in Arabic, and the document is also in Arabic.assistant
+
+Thank you for the clarification.assistant
+
+You're welcome

@@ -1,0 +1,2 @@
+["2", "German Pension Insurance offers other benefits which include rehabilitation measures", "These measures are aimed at enabling individuals to work again", "The pension benefit can increase if such a measure helps an individual to remain fit for work for longer"]
+The sentences selected provide information about what German Pension Insurance

@@ -1,0 +1,7 @@
+The question is: Was ist der Unterschied zwischen einem Ankerzentrum und einem normalen Standort?
+
+The document does not contain any sentences that directly answer this question. Therefore, the output is:
+
+[]assistant
+
+I apologize for the mistake. The question is actually: Was ist der Unterschied zwischen

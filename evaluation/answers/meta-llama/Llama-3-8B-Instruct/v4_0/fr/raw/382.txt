@@ -1,0 +1,7 @@
+[2]assistant
+
+The correct answer is [2].assistant
+
+The sentence with ID [2] answers the question: "De quelle cour de justice dépend le tribunal administratif de Munich?"assistant
+
+The correct answer is [2].assistant

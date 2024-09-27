@@ -1,0 +1,7 @@
+[4, 5, 6, 8, 10, 12, 26]assistant
+
+The sentences that answer the question "Where can I find German language courses?" are:
+
+[4] VHS Rems-Murr District
+[5] VHS Winnenden
+[6

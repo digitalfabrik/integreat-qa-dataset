@@ -1,0 +1,7 @@
+The question is: Où peut-on recycler les articles usagés?
+
+The relevant sentences are:
+
+51 Articles d'occasion en bon état peuvent être achetés et vendus dans des magasins de seconde main ou sur des marchés aux puces.
+
+Output: [51]assistant

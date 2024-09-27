@@ -1,0 +1,29 @@
+## Answer: Der Vormund für eine minderjährige, unbegleitete Geflüchtete ist die Person, die sie an Stelle der Eltern gesetzlich vertritt. ## Sentence numbers: 5, 6 [/INST] 
+Given the question and context below, find the answer sentences to the question in the context.
+Please use the format of: ## Answer: {answer} ## Sentence numbers: {answer sentence numbers}
+If there is no answer in the context, use the format of: ## Answer: None. ## Numbers: -1
+
+Question: Wer ist der Vormund für eine minderjährige, unbegleitete Geflüchtete?
+
+Context: 0 Wie ist die Rechtslage?
+1 Mein Aufenthalt in Deutschland– wie ist die Rechtslage?
+2 An deinem endgültigen Aufenthaltsort kümmert sich eine Person um dich, die dir rechtlich bei allen Fragen hilft.
+3 Sie ist dein Vormund.
+4 Was macht ein Vormund?
+5 Wenn eine geflüchtete Person, die jünger als 18 Jahre ist, ohne Begleitung nach Deutschland kommt, braucht sie eine erwachsene Person, die sie an Stelle der Eltern gesetzlich vertritt.
+6 Diese Person nennt man Vormund.
+7 Der Vormund hat verschiedene Aufgaben.
+8 Er oder sie:
+9 hält regelmäßigen persönlicher Kontakt zu dir
+10 vertritt deine Interessen gegenüber dem Jugendamt, der Ausländerbehörde und sonstigen Stellen
+11 begleitet dich im Asylverfahren
+12 beantragt notwendige Hilfen für dich
+13 unterstützt dich bei der Klärung von anderen Angelegenheiten, zum Beispiel zum Thema Gesundheit
+14 Wie wird mein neuer Wohnort aussehen?
+15 An deinem neuen Wohnort lebst du mit anderen Jugendlichen in einem Haus.
+16 Erwachsene Bezugspersonen sind rund um die Uhr für euch da.
+17 Du beginnst sofort mit der Schule.
+18 Es ist wichtig, dass du die deutsche Sprache lernst, um schnell in Kontakt mit deinen neuen Mitmenschen zu kommen.
+19 Was bedeutet Schulpflicht?
+20 In Deutschland besteht eine Schulpflicht bis zum 18.
+21 Lebensjahr, das heißt, du gehst zur Schule, bis du einen Abschluss gemacht

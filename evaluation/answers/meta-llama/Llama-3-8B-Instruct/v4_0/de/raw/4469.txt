@@ -1,0 +1,7 @@
+[5]assistant
+
+The sentence that answers the question is:
+
+[5] Lärm: Jeder Bewohner des Gebäudes ist dafür verantwortlich, den Lärmpegel so niedrig wie möglich zu halten.assistant
+
+[5]assistant

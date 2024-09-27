@@ -1,0 +1,10 @@
+Answer: The AVdual (Ausbildungsvorbereitung dual) program is available for refugees in Germany.
+Sentence numbers: 1, 8, 10
+
+Answer: The Jugendberufshilfe provides support, advice, and orientation for young people to secure an apprenticeship and job.
+Sentence numbers: 20, 22
+
+Answer: None.
+Numbers: 13-19
+
+The context does not provide specific information about vocational training programs for refugees in Germany beyond the AVdual program mentioned above. Therefore, there is no answer for questions related to other programs or for those who are not specifically mentioned in the context (schülerinnen, Schüler, Auszubildende, Studenten, Absolventen von Universitäten und Fachhochschulen, and those who are seeking their first job training or reorienting their careers).

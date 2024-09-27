@@ -1,0 +1,5 @@
+Question: Wer kann Unterstützung anbieten, wenn man den Ablehnungsbescheid anfechten möchte?
+
+Document: [20, 23, 24]
+
+Note: Sentences 20, 23, and 24 provide information about who can offer support when challenging the rejection decision.assistant

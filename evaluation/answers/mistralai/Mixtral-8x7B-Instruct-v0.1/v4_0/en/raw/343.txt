@@ -1,0 +1,5 @@
+Based on the document provided, the following sentences answer the question:
+
+[7, 8, 9]
+
+Sentence 7 indicates that TranslAid places interpreters with refugees and migrants. Sentence 8 mentions that the interpreters translate documents in various languages.

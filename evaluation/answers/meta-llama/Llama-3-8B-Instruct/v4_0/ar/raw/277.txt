@@ -1,0 +1,9 @@
+[8]assistant
+
+The question is: كم من الوقت يستغرق التعليم المدرسي عموماً؟
+
+The answer is: [8] يستمر التدريب المدرسي عادةً من سنة إلى 3 سنوات.assistant
+
+[8]assistant
+
+The

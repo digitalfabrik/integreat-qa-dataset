@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Welche Privatschulen gibt es in Deutschland?" and the document does not mention private schools in Germany. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant
+
+I completely agree with you! The

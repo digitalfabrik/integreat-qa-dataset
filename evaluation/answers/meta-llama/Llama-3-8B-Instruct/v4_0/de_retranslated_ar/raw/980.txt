@@ -1,0 +1,6 @@
+[2, 6]assistant
+
+The sentences that answer the question "Für wen sind die Unterkünfte im Frauenhaus gedacht?" are:
+
+[2] Für Frauen, die von Gewalt in ihrer Partnerschaft betroffen sind, gibt es mehrere Frauenhäuser.
+[6

@@ -1,0 +1,6 @@
+[16, 17, 21, 22]assistant
+
+The sentences that answer the question "Comment puis-je faire transcrire mon permis de conduire étranger?" are:
+
+[16] Vous avez déjà un permis de conduire étranger?
+[17] Vous

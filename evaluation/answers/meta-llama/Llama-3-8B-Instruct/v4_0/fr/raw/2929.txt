@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Quel soutien le service de la jeunesse du district offre-t-il aux jeunes nouvellement arrivés?" and the document is a list of sentences about the Office of Youth in the district.
+
+After reviewing the document, I found that none of the sentences directly answer

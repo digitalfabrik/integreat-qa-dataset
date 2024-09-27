@@ -1,0 +1,6 @@
+In order to answer the question, the following sentences from the document may be relevant:
+
+1. "Then apply there!"
+9. "You can find open apprenticeships and job vacancies on their websites."
+
+Therefore, the output should be "[1, 9]". These

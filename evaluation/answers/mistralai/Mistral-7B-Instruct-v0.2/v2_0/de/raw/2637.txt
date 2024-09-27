@@ -1,0 +1,9 @@
+## Answer: In dem Integrationskurs können Sie Themen wie Beantragung von Sozialleistungen, Aufenthaltstitel, Unterstützung im Alltag, persönliche und familiäre Angelegenheiten, Kontakte zu Behörden und sonstige Fragen bearbeiten. ## Sentence numbers: 2, 3, 4, 5, 6, 7
+
+## Answer: Wenn Sie Hilfe oder Unterstützung benötigen, können Sie ein individuelles Treffen mit einem Integrationsmanager oder -managerin vereinbaren. ## Sentence numbers: 9
+
+## Answer: Sie können die Kontaktdaten des Integrationsmanagement in der angegebenen Liste finden. ## Sentence numbers: 10, 12, 13, 14
+
+## Answer: In dem Integrationsmanagement können Sie Ihre Integration in Deutschland durch den Erstellung eines individuellen Plans (Integrationsplan) unterstützt werden. ## Sentence numbers: 8
+
+## Answer: None. ## Numbers: -1 (The context does not provide information about the exact sequence or flow of an Integrationskurs.)

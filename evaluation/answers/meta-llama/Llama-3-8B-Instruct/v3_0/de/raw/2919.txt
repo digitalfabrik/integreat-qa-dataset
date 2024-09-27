@@ -1,0 +1,5 @@
+[17, 18, 21, 22, 23, 31, 34, 37, 39]assistant
+
+[17, 18, 21, 22, 23, 35]assistant
+
+I apologize for the mistake. You are correct

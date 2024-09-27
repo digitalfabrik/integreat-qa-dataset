@@ -1,0 +1,7 @@
+[2] If you are unemployed and receive benefits from the Jobcenter, the Jobcenter pays the rent.
+
+Note: This is the only sentence that directly answers the question about whether the Jobcenter covers the rental costs.assistant
+
+[2]assistant
+
+[2]assistant

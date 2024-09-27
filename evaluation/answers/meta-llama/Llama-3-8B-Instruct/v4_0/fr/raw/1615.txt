@@ -1,0 +1,7 @@
+Question: Quel est le but de la rédaction d'une demande spéculative?
+
+Document: [17, 19, 20]assistant
+
+The correct answer is [17].assistant
+
+I apologize for the mistake. You are correct, the correct answer is indeed [

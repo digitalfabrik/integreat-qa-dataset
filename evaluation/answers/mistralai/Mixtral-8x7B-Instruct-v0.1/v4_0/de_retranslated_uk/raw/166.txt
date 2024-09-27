@@ -1,0 +1,6 @@
+The relevant sentences from the document that answer the question are:
+
+[10, 11, 14]
+
+Sentence 10: "Für wen: für Kinder, Jugendliche, Erwachsene, Senior*innen."
+Sentence 11: "

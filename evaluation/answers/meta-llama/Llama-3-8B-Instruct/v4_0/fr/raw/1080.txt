@@ -1,0 +1,5 @@
+[35, 36]assistant
+
+The sentences that answer the question "Qui peut effectuer un stage volontaire?" are:
+
+35 Toute personne peut effectuer un stage volontaire, qu'il s'agisse d'élèves, d'étudiants ou d'adultes.

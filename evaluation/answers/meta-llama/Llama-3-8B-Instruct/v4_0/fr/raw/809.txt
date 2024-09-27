@@ -1,0 +1,9 @@
+The question is: Quelle est la durée de la Realschule?
+
+The relevant sentences are:
+
+[2] La Realschule va de l'année 5 à l'année 10.
+
+So, the output is: [2]assistant
+
+The question is: Quelle

@@ -1,0 +1,5 @@
+[2, 5]assistant
+
+The sentences that answer the question "An wen kann man sich wenden, wenn man Gefahr läuft, seine Wohnung zu verlieren?" are:
+
+[2] Wenn Ihnen der Verlust der Wohnung durch Kündigung, Räumungsklage oder

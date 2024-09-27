@@ -1,0 +1,8 @@
+25 Wenn Sie Fragen zu weiterführenden Schulen haben, können Sie sich auch an das städtische Referat für Bildung und Sport wenden:
+26 Deutschunterricht für Kinder:
+27 Es gibt öffentliche Schulen, die Deutschunterricht für Kinder anbieten, die nicht Deutsch als Muttersprache haben.
+28 Diese Schulen heißen "Deutsch als Zweitsprache"-Schulen.
+29 Sie bieten speziellen Deutschunterricht für Kinder, die Deutsch nicht als Muttersprache haben.
+30 Die Schulen sind öffentlich und kostenlos.
+
+## Answer: öffentliche "Deutsch als Zweitsprache"-Schulen. ## Sentence numbers: 27-30

@@ -1,0 +1,36 @@
+71 Please make an appointment.
+72 Arrange an appointment online
+73 Kreisverwaltungsreferat (KVR)
+74 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+75 Garmischer Straße 19/21
+76 fuehrerscheine.kvr@muenchen.de
+77 Register or transfer a vehicle
+78 Vehicles (including trailers) can be used on public streets only if they are licensed and have an official numberplate.
+79 In order to licence a vehicle for the first time (register it) or transfer it (if you have bought it from a private individual), you can go to the München Zulassungsbehörde or one of the Bürgerbüros.
+80 Please make an appointment.
+81 Arrange an appointment online
+82 All Bürgerbüros have barrier-free access to the building and premises as well as a disabled toilet.
+83 Kreisverwaltungsreferat (KVR)
+84 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+85 Eichstätter Straße 2
+86 zulassung.kvr@muenchen.de
+87 Monday 07:00 - 12:00
+88 Tuesday 08:30 - 12:00 and 14:00 - 18:00
+89 Wednesday 07:00 - 12:00
+90 Thursday 08:30 - 13:30
+91 Friday 07:00 - 12:00
+92 Registering a vehicle imported from abroad
+93 If you have imported a vehicle or a trailer from abroad and would like to register it here, you have to go directly to the Zulassungsbehörde.
+94 Please make an appointment.
+95 Arrange an appointment online
+96 Kreisverwaltungsreferat (KVR)
+97 Hauptabteilung II Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+98 Eichstätter Straße 2
+99 zulassung.kvr@muenchen.de
+100 Monday 07:00 - 12:00
+101 Tuesday 08:30 - 12:00 and 14:00 - 18:00
+102 Wednesday 07:00 - 12:00
+103 Thursday 08:30 - 13:30
+104 Friday 07:00 - 12:00
+105 Note on the environmental zone
+106

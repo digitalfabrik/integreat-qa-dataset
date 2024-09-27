@@ -1,0 +1,8 @@
+The question is: Ist die Krankenversicherung obligatorisch?
+
+The relevant sentences are:
+
+1. In Deutschland besteht eine Versicherungspflicht.
+2. Das bedeutet, dass man Mitglied einer Krankenkasse sein muss, um einen Arzt aufsuchen zu können.
+
+The IDs of the

@@ -1,0 +1,4 @@
+[2, 8]
+
+Explanation:
+Sentence 2 states that "For children and young people who are in an economic or social emergency, lunch at school or day care centre is free of charge." This answers the question by stating that children and young people in economic or social need can get

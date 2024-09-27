@@ -1,0 +1,8 @@
+30 Der Jugendmigrationsdienst Schorndorf bietet Beratung und Unterstützung für junge Migrantinnen und Migranten.
+31 Er unterstützt sie bei der Integration in den Arbeitsmarkt und bei der beruflichen Orientierung.
+32 Der Jugendmigrationsdienst Schorndorf arbeitet eng mit den Schulen, Unternehmen und der Agentur für Arbeit zusammen.
+33 Er bietet auch spezielle Programme für Flüchtlinge an.
+34 Die Programme umfassen die Vorbereitung auf die Berufsausbildung, die Unterstützung bei der Stellensuche und die Begleitung während der Ausbildung.
+35 Der Jugendmigrationsdienst Schorndorf bietet auch Deutschkurse an.
+
+## Answer: spezielle Programme für Flüchtlinge, die Vorbereitung auf die Berufsausbildung, die Unterstützung bei der Stellensuche und die Begleitung während der Ausbildung. ## Sentence numbers: 33, 34

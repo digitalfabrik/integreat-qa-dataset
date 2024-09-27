@@ -1,0 +1,6 @@
+[5, 8, 10, 11]assistant
+
+The sentences that answer the question "What groups are available at Projekt-Laden International Haidhausen?" are:
+
+* [5] The International Women's Group is an open group.
+* [8] International sewing group: for sewing or

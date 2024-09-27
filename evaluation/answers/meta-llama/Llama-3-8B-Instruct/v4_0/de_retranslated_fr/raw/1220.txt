@@ -1,0 +1,5 @@
+[4]assistant
+
+The question is "Was teilt man in einer Wohngemeinschaft?" which translates to "What is shared in a shared living community?".
+
+The answer is in sentence [4] which states "In einer WG wohnen heißt, dass man sich mit anderen

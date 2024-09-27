@@ -1,0 +1,5 @@
+[2, 5, 7, 15]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking where to register if you arrive in Germany and want to submit an asylum application.assistant
+
+You're right!

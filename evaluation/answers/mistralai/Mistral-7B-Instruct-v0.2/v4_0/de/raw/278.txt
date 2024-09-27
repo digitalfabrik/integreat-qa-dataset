@@ -1,0 +1,4 @@
+[2, 4, 5, 10-14]
+
+Explanation:
+The question asks for the definition of "weibliche Genitalverstümmelung" in German. Sentences 2 and 4 directly answer this question by stating that "weib

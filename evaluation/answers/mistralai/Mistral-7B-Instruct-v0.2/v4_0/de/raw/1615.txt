@@ -1,0 +1,4 @@
+[14, 15, 16, 17]
+
+Explanation:
+The question asks for the purpose of writing an initiative application (Initiativbewerbung). Sentences 14, 15, 16, and 17 discuss the

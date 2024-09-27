@@ -1,0 +1,7 @@
+[]assistant
+
+The question is "ما هي متطلبات بدلات رعاية الأطفال؟" which translates to "What are the requirements for childcare services?".
+
+After reviewing the document, I found that none of the sentences answer this question directly. Therefore, the output is:
+
+[]assistant

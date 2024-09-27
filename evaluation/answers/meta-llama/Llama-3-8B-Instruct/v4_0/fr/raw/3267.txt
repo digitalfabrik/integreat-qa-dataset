@@ -1,0 +1,5 @@
+[]assistant
+
+The question asks about the difference between a permis de séjour and a permis de travail, but the document does not mention these terms. Therefore, there are no relevant sentences in the document, and the output is an empty list: []assistant
+
+I completely agree with

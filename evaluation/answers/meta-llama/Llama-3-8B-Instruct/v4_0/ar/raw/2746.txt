@@ -1,0 +1,7 @@
+[8]assistant
+
+The question is "ما هي المدارس الخاصة الموجودة في ألمانيا؟" and the relevant sentence is [8] "المدارس الخاصة في منطقة ريمس-مورر".assistant
+
+[8]assistant
+
+The question

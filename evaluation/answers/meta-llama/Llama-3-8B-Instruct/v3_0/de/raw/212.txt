@@ -1,0 +1,5 @@
+[23]assistant
+
+Note: The question asks about the languages supported by interpreters in the Förderzentren, and the answer is sentence [23], which lists the languages supported.assistant
+
+You're absolutely right! I apologize for the mistake earlier. The correct output is indeed [

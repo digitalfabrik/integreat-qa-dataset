@@ -1,0 +1,7 @@
+## Answer: Personen, die seit mindestens acht Jahren rechtmäßig und gewöhnlich in Deutschland leben, können einen Antrag auf Einbürgerung stellen. ## Sentence numbers: 2
+
+## Answer: Jugendliche ab 16 Jahren können selbst einen Antrag auf Einbürgerung stellen. ## Sentence numbers: 4
+
+## Answer: Bei bestimmten Personengruppen (beispielsweise Asylberechtigten, Ehegatten von Deutschen) gelten abweichende Voraussetzungen (zum Beispiel kürzere Mindestaufenthaltszeiten). ## Sentence numbers: 5
+
+## Answer: None. ## Sentence numbers: -1 (There is no mention of who "kann einen Antrag auf Einbürgerung stellen?" in the provided context)

@@ -1,0 +1,4 @@
+[9, 11]
+
+Explanation:
+The question asks "Für wen sind die Kurse im HEi?" which translates to "For whom are the courses at HEi?" In sentences 9 and 11, it is stated that the courses are for "alle Münch

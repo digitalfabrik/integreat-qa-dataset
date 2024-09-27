@@ -1,0 +1,7 @@
+Answer: Integrationskurse sind Sprachkursen für Migranten und Flüchtlinge, um die deutsche Sprache und Gesellschaft besser verständigen zu helfen. Normalen Sprachkursen können jeder besuchen, um die deutsche Sprache zu lernen.
+
+Sentences: 1, 2, 4 (for the context providing information about language courses in general), 5 (for the context mentioning a specific integration language course), 11, 12 (for the context mentioning regular language courses)
+
+Answer: Der Unterschied liegt in der Zielgruppe und dem Angebot der Sprachkurse. Integrationskurse sind speziell für Migranten und Flüchtlinge konzipiert, normalen Sprachkursen kann jeder beitreten.
+
+Sentences: 1, 2, 4, 5, 11, 12

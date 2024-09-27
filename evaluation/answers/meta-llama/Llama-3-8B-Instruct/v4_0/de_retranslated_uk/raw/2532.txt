@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wo finde ich Informationen über Integrationskurse im Rathaus Spiegelberg?" and the document is a list of sentences about the Rathaus Spiegelberg. None of the sentences in the document provide information about Integrationskurse, so the answer is an empty list

@@ -1,0 +1,11 @@
+## Answer: The Foreigners' Registration Office at the Augsburg District Office is responsible for issuing medical treatment certificates. ## Sentence numbers: 7
+
+## Answer: Authorities responsible for school registration are the schools themselves. ## Sentence numbers: 15, 16
+
+## Answer: For migration counseling, people can contact Diaconia Augsburg, Caritas Augsburg, and the migration advice service. ## Sentence numbers: 33, 35, 36
+
+## Answer: For interpreting and translating services, people can contact the Augsburg interpreting pools, Babel interpreter pool, and "kunterMund" language and cultural mediators. ## Sentence numbers: 48, 50, 54, 57, 59
+
+## Answer: The help hotline "Violence against women" offers counseling in Ukrainian and can add an interpreter to the conversation within a minute. ## Sentence numbers: 62, 63, 65
+
+## Answer: None. ## Numbers: -1 (There is no mention of the specific authorities responsible for registration in the context other than the Foreigners' Registration Office for medical treatment certificates.)

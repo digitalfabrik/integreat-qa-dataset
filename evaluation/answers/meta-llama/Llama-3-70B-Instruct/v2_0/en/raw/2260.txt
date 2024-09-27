@@ -1,0 +1,24 @@
+39 You will then receive medical treatment.
+40 If you are not an asylum seeker, you have to pay for the treatment yourself.
+41 If you are not registered with a health insurance company, you have to pay for the treatment yourself.
+42 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+43 Important!
+44 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+45 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+46 Important!
+47 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+48 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+49 Important!
+50 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+51 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+52 Important!
+53 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+54 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+55 Important!
+56 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+57 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+58 Important!
+59 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+60 If you are not an asylum seeker and not registered with a health insurance company, you have to pay for the treatment yourself.
+
+## Answer: 112 ## Sentence numbers: 4, 6

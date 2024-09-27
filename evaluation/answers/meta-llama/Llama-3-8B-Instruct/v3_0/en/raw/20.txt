@@ -1,0 +1,5 @@
+[25, 26, 27, 28, 32, 33, 35]assistant
+
+[24, 25, 26, 27, 28, 32, 33, 35]assistant
+
+I apologize for the mistake. The correct output

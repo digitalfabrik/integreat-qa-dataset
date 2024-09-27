@@ -1,0 +1,9 @@
+The question is: Welche Kurse bietet die Hochschule an?
+
+The relevant sentences from the document are:
+
+[]
+
+There are no sentences in the document that answer the question.assistant
+
+The correct output is indeed "[]", as none of the sentences in the document mention the courses offered by the

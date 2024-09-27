@@ -1,0 +1,7 @@
+The question is: What kind of health insurance do I need as a refugee in Germany?
+
+The document does not provide information about the kind of health insurance needed as a refugee in Germany. Therefore, the output is: []assistant
+
+The correct output is indeed: []
+
+The question asks about the type of health

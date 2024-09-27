@@ -1,0 +1,4 @@
+Answer: In case of a medical emergency, you should seek medical help.
+Sentence numbers: 1, 2, 4, 5, 6, 7, 8, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+
+Explanation: The context provides several resources and contact information for finding medical help, psychiatric services, social services, and specialized services for adults. Therefore, the answer sentences suggest seeking medical help and utilizing the provided resources in the context.

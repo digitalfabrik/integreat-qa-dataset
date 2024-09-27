@@ -1,0 +1,5 @@
+[2, 3, 4, 5, 8, 9, 14, 15]assistant
+
+The sentences that answer the question "كيف يمكنني التقدم بطلب للحصول على سكن اجتماعي في ألمانيا؟" are:
+
+* 2: إذا كنت

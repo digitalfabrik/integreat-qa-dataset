@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "هل توجد مراكز استشارية مجانية لهذه العملية؟" which translates to "Are there free advisory centers for this process?".
+
+After reviewing the document, I couldn't find any sentence that directly answers this question. Therefore, the output is an empty

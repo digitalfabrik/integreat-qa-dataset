@@ -1,0 +1,9 @@
+[]assistant
+
+I apologize for the mistake. The correct output is:
+
+[]assistant
+
+You are correct. The question asks about the documents that need to be brought when applying for asylum, but none of the sentences in the document answer this question. Therefore, the correct output is indeed:
+
+[]

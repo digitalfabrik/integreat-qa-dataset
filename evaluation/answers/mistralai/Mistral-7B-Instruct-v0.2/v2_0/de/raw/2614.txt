@@ -1,0 +1,7 @@
+## Answer: Es gibt Einzelfahrkarten, Tagesfahrkarten, Wochenkarten oder Monatskarten, Kinderfahrkarten, Schülerfahrkarten, Studierendefahrkarten, Familien- und Gruppenfahrkarten, Apps und Internetseiten für den öffentlichen Verkehr.
+## Sentence numbers: 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18
+
+## Answer: None.
+## Numbers: 0, 1, 2, 3, 4, 5, 19, 20, 21
+
+The context does not provide an answer to the question about the specific types of public transportation tickets in the Rems-Murr-Kreis, but it does mention that there are various types of tickets available, including those for children, students, families, and groups, as well as apps and internet sites for purchasing tickets.

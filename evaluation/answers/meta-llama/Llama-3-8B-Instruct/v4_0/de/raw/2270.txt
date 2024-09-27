@@ -1,0 +1,5 @@
+[37, 42]assistant
+
+The question is "Wo kann ich mich in Deutschland auf das Coronavirus testen lassen?" which translates to "Where can I get tested for the coronavirus in Germany?"
+
+The document does not provide information on where to get tested for the coronavirus in Germany. Therefore, the output

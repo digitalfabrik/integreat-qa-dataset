@@ -1,0 +1,1 @@
+The answer to the question "Wie heißt das Stadttheater in München?" is contained in the second sentence of the document: "Münchner Kammerspiele". Therefore, the answer is [1].

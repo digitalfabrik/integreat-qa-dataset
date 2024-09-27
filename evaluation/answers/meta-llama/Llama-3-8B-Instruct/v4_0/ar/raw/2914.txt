@@ -1,0 +1,7 @@
+The question is: ما هي مواعيد عمل دار البلدية في شفاخهايم؟
+
+The relevant sentences are:
+
+[13, 14, 15, 16, 17, 18, 19, 20, 21]
+
+These sentences provide the working hours of the municipal office in Sch

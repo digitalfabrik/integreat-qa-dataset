@@ -1,0 +1,7 @@
+[6, 8, 9, 10, 11, 12]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[6, 8, 9, 10, 11]
+
+The sentence with ID [12] is not directly related to finding counseling centers

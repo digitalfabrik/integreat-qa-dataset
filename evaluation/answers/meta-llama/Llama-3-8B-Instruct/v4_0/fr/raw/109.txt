@@ -1,0 +1,11 @@
+The question is: Qui effectue habituellement des examens sur les enfants?
+
+The relevant sentences from the document are:
+
+13 Les enfants sont généralement examinés par des pédiatres.
+
+The ID of the relevant sentence is: [13]
+
+Output: [13]assistant
+
+The question

@@ -1,0 +1,5 @@
+[7]assistant
+
+The correct answer is indeed [7].assistant
+
+The sentence with ID [7] answers the question: "Хто стежить за тим, щоб діти регулярно відвідували школу?" (Who monitors whether children regularly attend school?)assistant

@@ -1,0 +1,5 @@
+[4, 11, 12]assistant
+
+The sentences that answer the question "Wo kann ich eine kostenlose medizinische Beratung in meiner Nähe finden?" are:
+
+[4] Hier erhalten Menschen ohne Krankenversicherung ärztliche Hilfe im Rahmen einer Erstuntersuch

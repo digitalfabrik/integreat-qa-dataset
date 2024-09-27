@@ -1,0 +1,7 @@
+[6]assistant
+
+The sentence with ID 6 answers the question "Які заходи відбуваються на цих зустрічах?"assistant
+
+[6]assistant
+
+The sentence with ID 6 answers the question "Які заходи відбуваються на цих

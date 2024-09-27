@@ -1,0 +1,5 @@
+[2, 3, 4, 7, 8, 9, 10, 11, 20]assistant
+
+The sentences that answer the question "What kind of support does the Career Center offer?" are:
+
+[2] We advise international professionals and students on career planning,

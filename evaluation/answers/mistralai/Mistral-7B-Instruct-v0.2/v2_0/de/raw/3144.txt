@@ -1,0 +1,17 @@
+## Answer: The Fachschule offers various vocational courses. ## Sentence numbers: 5, 18, 21, 26
+
+## Answer: None. ## Numbers: 1, 3, 7, 8, 9, 10, 13, 14, 15, 16, 17, 18, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 40, 41, 44, 45, 46, 47, 48, 49, 50, 51, 52
+
+## Answer: The Fachschule offers vocational courses in various fields such as technology, crafts, commerce, housekeeping, and social care. ## Sentence numbers: 5, 18, 21, 26, 28, 35, 36, 40, 41, 46, 47
+
+## Answer: Technikerfachschulen offer vocational courses in technology fields, Metallbautechnik, Fahrzeugtechnik and Elektromobilität are some examples. ## Sentence numbers: 18, 20, 21, 22, 23, 24
+
+## Answer: Hauswirtschaftliche und sozialpflegerische Fachschulen offer vocational courses in housekeeping and social care. ## Sentence numbers: 18, 40, 41
+
+## Answer: Kaufmännische Fachschulen offer vocational courses in commerce. ## Sentence numbers: 18, 35, 36
+
+## Answer: Blumenkunst offers a vocational course in floristry. ## Sentence numbers: 18, 47, 48
+
+## Answer: Produktdesign offers a vocational course in product design. ## Sentence numbers: 18, 47, 49
+
+## Answer: Produktdesign Glas offers a vocational course in glass product design. ## Sentence numbers:

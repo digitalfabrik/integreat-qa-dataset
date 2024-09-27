@@ -1,0 +1,7 @@
+The question is: Wie lange kann ich nach dem Bundesaufenthaltsgesetz in Deutschland bleiben?
+
+The relevant sentences are not found in the document. Therefore, the output is: []assistant
+
+The correct output is indeed: []
+
+The question asks about the duration of stay in Germany after the Residence

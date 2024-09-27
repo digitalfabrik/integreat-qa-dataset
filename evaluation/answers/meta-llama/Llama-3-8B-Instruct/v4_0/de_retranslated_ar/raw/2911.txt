@@ -1,0 +1,5 @@
+[1, 2]assistant
+
+The sentences that answer the question "Was ist der Unterschied zwischen Gemeinschaftsunterkünften und Anschlussunterkünften?" are:
+
+[1] Sie werden in eine Anschlussunterbringung untergebracht, wenn Sie mehr als

@@ -1,0 +1,5 @@
+Based on the provided document, the following sentences answer the question:
+
+[7, 8, 9]
+
+The question asks "Хто може скористатися послугами усного перекладу від TranslAid?" which translates to "Who can use Transl

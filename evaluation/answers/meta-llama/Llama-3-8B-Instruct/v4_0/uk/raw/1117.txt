@@ -1,0 +1,5 @@
+Question: Які типи дитячих садків існують у Німеччині?
+
+Document: [0, 1, 2, 10, 11, 14, 15]
+
+Note: The question asks about the types of kindergartens in Germany, but the document does not provide

@@ -1,0 +1,7 @@
+The question is: Wie kann ich dem LGBT-Jugendprogramm in meiner Region beitreten?
+
+The document does not provide information on how to join the LGBT youth program in your region. Therefore, the output is:
+
+[]assistant
+
+The correct output is indeed an empty list, as the document does

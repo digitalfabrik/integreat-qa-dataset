@@ -1,0 +1,2 @@
+[1, 4, 5]
+These sentences mention the insurance types that are mandatory in Germany: Krankenversicherung (health insurance), Kfz-Haftpflichtversicherung (car liability insurance), and Gesetzliche Rentenversicherung (statutory pension insurance

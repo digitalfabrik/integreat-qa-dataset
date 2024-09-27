@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Що таке мовний рівень А1?" which translates to "What is the language level A1?".
+
+The document does not mention the language level A1, so there are no relevant sentences. Therefore, the output is an empty list: []assistant

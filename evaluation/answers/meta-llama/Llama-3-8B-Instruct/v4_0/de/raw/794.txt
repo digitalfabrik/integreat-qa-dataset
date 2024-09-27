@@ -1,0 +1,3 @@
+[2]assistant
+
+The question is "Was ist der Zweck von Arbeitsschutzvorschriften?" and the relevant sentence is "6 Diese Arbeitsschutzvorschriften gewährleisten die Sicherheit und Gesundheit aller Arbeitnehmer."assistant

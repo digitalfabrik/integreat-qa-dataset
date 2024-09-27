@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID 2 answers the question "Who can get free lunch at school or daycare?"assistant
+
+[2]assistant
+
+The sentence with ID 2 answers the question "Who can get free lunch at school or daycare?"assistant

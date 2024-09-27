@@ -1,0 +1,7 @@
+The question is: ما هي متطلبات التدريب مع التسامح؟
+
+The relevant sentences from the document are:
+
+[4, 5, 8, 9, 10, 11, 13, 14, 15, 16]
+
+These sentences provide information about the requirements for training

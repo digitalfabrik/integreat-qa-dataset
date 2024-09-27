@@ -1,0 +1,5 @@
+The relevant sentence IDs are:
+[1]
+
+Explanation:
+The question asks "Скільки триває початкова школа?" which translates to "How long does primary school last?". The document contains the answer in ID 1: "Тривалість

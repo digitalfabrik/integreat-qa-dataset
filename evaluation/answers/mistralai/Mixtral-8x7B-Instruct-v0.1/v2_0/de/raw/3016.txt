@@ -1,0 +1,3 @@
+## Answer: Bezahlte Pausen sind, wenn man während der Pause weiterhin vom Arbeitgeber bezahlt wird, während unbezahlte Pausen sind, wenn man während der Pause nicht vom Arbeitgeber bezahlt wird. ## Sentence numbers: -1
+
+Explanation: The context does not provide information about the differences between paid and unpaid breaks.

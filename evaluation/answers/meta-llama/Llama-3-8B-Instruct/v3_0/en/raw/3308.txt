@@ -1,0 +1,5 @@
+[15]assistant
+
+[15, 16, 17, 18]assistant
+
+I apologize for the mistake. The correct answer is indeed [15, 16, 17, 18]. These sentences provide the required documents for the residence permit.assistant

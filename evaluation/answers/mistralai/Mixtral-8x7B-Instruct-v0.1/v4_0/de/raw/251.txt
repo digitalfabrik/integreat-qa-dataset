@@ -1,0 +1,1 @@
+[14, 15] The sentences that answer the question are [14] "Das Jugendamt kann Sie beraten." and [15] "Es hilft Ihnen beim Antrag." as they state that the Jugendamt can provide advice and help with the application for

@@ -1,0 +1,5 @@
+The relevant sentences from the document that answer the question "Welche Vorteile bietet die Stadt München ihren Angestellten?" (What advantages does the city of Munich offer to its employees?) are:
+
+[8, 9, 15]
+
+These sentences mention some of

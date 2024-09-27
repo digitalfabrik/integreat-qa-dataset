@@ -1,0 +1,3 @@
+[3, 4, 12, 13, 14, 15] are the relevant sentences.
+
+These sentences provide information about where to find free medical advice near the person asking the question. Specifically, they mention two options: Malteser Medizin für Menschen ohne

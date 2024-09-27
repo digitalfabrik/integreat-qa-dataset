@@ -1,0 +1,5 @@
+[2]assistant
+
+The question is "Якому суду підпорядковується Адміністративний суд Мюнхена?" which translates to "To which court is the Munich Administrative Court subordinate?"
+
+The sentence that answers this question is [2] Мюнхенський адміністратив

@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wie kann ich im Spiegelberger Rathaus Unterstützung für Flüchtlinge bekommen?" and the document is about the Spiegelberg town hall. None of the sentences in the document directly answer this question, so the output is an empty list: []

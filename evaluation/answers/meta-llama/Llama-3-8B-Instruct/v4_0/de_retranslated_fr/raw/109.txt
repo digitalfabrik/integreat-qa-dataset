@@ -1,0 +1,9 @@
+The question is: Wer führt normalerweise Untersuchungen an Kindern durch?
+
+The relevant sentences from the document are:
+
+13 Kinder werden üblicherweise von Kinderärztinnen und Kinderärzten untersucht.
+
+The ID of the relevant sentence is: [13]
+
+Output: [13]

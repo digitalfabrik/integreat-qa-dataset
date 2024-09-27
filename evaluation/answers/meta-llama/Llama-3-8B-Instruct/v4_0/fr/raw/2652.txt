@@ -1,0 +1,5 @@
+[4, 5, 6, 7]assistant
+
+The sentences that answer the question "Quels sont les délais de préavis en Allemagne?" are:
+
+* 4 Le délai de préavis pour les employeurs est normalement de 4 semaines pour la

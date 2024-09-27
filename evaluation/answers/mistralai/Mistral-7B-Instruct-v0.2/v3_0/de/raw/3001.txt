@@ -1,0 +1,5 @@
+[]
+
+Question: Was versteht man unter "Berufsausbildung" in Deutschland?
+
+Document: [5] Berufsausbildung ist eine Ausbildungsform, bei der man in einem Betrieb oder in einer Werkstatt eine Berufsausbildung absolv

@@ -1,0 +1,14 @@
+## Answer: If you are an EU citizen, your foreign driving license is generally recognized in Germany. However, if you are from a third country, you may need to take the theoretical and practical exam again.
+## Sentences: 10, 11, 12, 13
+
+## Answer: To check whether your foreign driving license can be recognized in Germany, you should contact the driver licensing authority.
+## Sentences: 10, 15, 16, 17, 18
+
+## Answer: None.
+## Numbers: -1
+
+## Answer: If your foreign driving license is not recognized in Germany, you will need to take the theoretical and practical exam again at a driving school.
+## Sentences: 6, 10, 13, 15, 19
+
+## Answer: The theoretical exam for the driving test can be taken in several languages, including English.
+## Sentences: 14

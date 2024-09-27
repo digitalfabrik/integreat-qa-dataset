@@ -1,0 +1,8 @@
+The question is: Wie lautet der Name des Theaters in München?
+
+The relevant sentences are:
+
+1. Münchner Kammerspiele
+2. Die Münchner Kammerspiele sind das Theater der Stadt.
+
+The IDs of the relevant sentences are: [1, 2]assistant

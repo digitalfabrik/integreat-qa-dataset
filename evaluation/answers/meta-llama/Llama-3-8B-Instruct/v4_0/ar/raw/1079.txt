@@ -1,0 +1,9 @@
+The question is: لماذا يعد التدريب الداخلي مفيداً قبل بدء العمل؟
+
+The relevant sentences are:
+
+10 التدريب الداخلي مفيد جداً قبل أن تبدأ الحياة العملية.
+
+The ID of the relevant sentence is: [10]
+
+Note: There is only one sentence that

@@ -1,0 +1,7 @@
+The question is: Was passiert, wenn die Person, die das Kind im Rahmen der Kinderbetreuung betreut, krank wird?
+
+The relevant sentences are:
+
+[29] Wird die Betreuungsperson krank, gibt es eine Ersatzbetreuung.
+
+The output is: [

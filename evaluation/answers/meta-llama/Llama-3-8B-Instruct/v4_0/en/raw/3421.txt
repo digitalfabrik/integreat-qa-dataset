@@ -1,0 +1,7 @@
+[1, 2, 4]assistant
+
+The sentences that answer the question "What does gender equality mean in Germany?" are:
+
+1. Legally, women and men are equal in Germany.
+2. This means that women and men have the same rights in Germany.
+4. Women and men

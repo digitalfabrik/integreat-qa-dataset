@@ -1,0 +1,9 @@
+The question is: Quelle est la différence entre l'hébergement collectif et l'hébergement de suivi?
+
+The relevant sentences from the document are:
+
+[1]
+
+The output is: [1]assistant
+
+The question is: Quelle est la différence entre l'h

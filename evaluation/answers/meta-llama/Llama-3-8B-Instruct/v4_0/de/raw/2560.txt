@@ -1,0 +1,5 @@
+[1, 10, 11, 12, 13, 14, 15, 16, 17, 18]assistant
+
+The sentences that answer the question "Welche Jobvermittlungsstellen gibt es in Deutschland?" are:
+
+[1] Jobbörse

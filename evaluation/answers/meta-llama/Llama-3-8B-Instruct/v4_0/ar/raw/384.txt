@@ -1,0 +1,9 @@
+The question is: ماذا يحدث إذا أكدت المحكمة القرار السلبي؟
+
+The relevant sentences are:
+
+[7] إذا أكد القرار السلبي، سيتم رفض الدعوى.
+
+The output is: [7]assistant
+
+The question is: ما

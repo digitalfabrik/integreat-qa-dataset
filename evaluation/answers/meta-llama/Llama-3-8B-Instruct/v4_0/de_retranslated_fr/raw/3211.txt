@@ -1,0 +1,9 @@
+[3, 4, 5]assistant
+
+The sentences that answer the question "Welche Arten von Ausbildungsförderung gibt es in Deutschland?" are:
+
+[3] Ausbildung
+[4] Studium
+[5] Weiterbildung
+
+So the output is: [3

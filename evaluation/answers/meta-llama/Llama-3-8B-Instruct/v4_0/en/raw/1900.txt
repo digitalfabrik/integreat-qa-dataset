@@ -1,0 +1,7 @@
+[1, 2]assistant
+
+The sentences that answer the question "How many types of universities are there in Germany?" are:
+
+* 2 There are different types of universities in Germany:
+* 3 Universitäten = universities (more academically focused)
+* 4 Pädagogische

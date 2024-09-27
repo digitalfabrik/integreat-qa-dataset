@@ -1,0 +1,3 @@
+Based on the given document, the following sentences answer the question "Was ist ein Job für Studenten?":
+
+[18, 20, 21, 24, 25, 27, 28, 30, 32, 34]

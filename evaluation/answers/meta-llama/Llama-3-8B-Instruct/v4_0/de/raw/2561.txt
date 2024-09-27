@@ -1,0 +1,9 @@
+The question is: Wie kann ich mich für Berufsintegrationskurse anmelden?
+
+The relevant sentences are: [9, 18]
+
+Output: [9, 18]assistant
+
+[9, 18]assistant
+
+[9, 18]assistant

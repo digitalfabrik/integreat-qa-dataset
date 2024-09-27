@@ -1,0 +1,5 @@
+[13]assistant
+
+The question is "Якими мовами я можу отримати допомогу в молодіжних міграційних службах?" which translates to "In what languages can I get help in youth migration services?"
+
+The answer is not explicitly mentioned in the document, so the output is

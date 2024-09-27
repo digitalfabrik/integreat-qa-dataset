@@ -1,0 +1,3 @@
+["11", "12", "13", "14", "15", "16"]
+
+The sentences that answer the question are those that mention the consequences or penalties for misusing freedom of speech. These are sentences 11, 12, 13,

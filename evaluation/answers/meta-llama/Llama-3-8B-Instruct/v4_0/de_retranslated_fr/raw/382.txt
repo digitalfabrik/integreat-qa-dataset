@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "Welchem Gerichtshof untersteht das Verwaltungsgericht München?"assistant
+
+[2]assistant
+
+The sentence with ID 2 answers the question: "Welchem Ger

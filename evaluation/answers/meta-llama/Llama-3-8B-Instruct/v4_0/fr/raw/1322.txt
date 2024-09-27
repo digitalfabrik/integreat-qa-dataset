@@ -1,0 +1,6 @@
+[4, 6]assistant
+
+The sentences that answer the question are:
+
+[4] Tu trouveras des informations précises dans le guide du Landratsamt.
+[6] Tu trouveras un aperçu de ces postes sur www.landkreis-augsburg.de/begleitung-ar

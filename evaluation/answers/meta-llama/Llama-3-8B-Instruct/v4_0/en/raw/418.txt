@@ -1,0 +1,7 @@
+Question: Which means of transport depart from the ZOB?
+
+Document: 0 Munich's train stations / ZOB / airport
+1 Munich's train stations / ZOB / airport
+2 Munich Central Station
+3 The main station is in the middle of the city.
+4 It has 32 above-ground and several underground

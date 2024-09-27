@@ -1,0 +1,7 @@
+Question: На яку вікову групу орієнтована група дозвілля FrienTS?
+
+Document:...
+
+Answer: [2]assistant
+
+The sentence with ID 2 answers the question: "FrienTS - це група дозвілля для молодих транс* людей ві

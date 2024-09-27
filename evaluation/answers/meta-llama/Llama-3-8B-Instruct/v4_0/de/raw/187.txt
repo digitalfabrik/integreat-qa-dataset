@@ -1,0 +1,9 @@
+[8]assistant
+
+The sentence that answers the question "Was wird empfohlen, um Schimmel zu verhindern?" is sentence 8.assistant
+
+[8]assistant
+
+Correct!assistant
+
+There is no more to do.assistant

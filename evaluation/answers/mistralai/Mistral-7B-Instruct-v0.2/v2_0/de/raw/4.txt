@@ -1,0 +1,4 @@
+Answer: Münchner Kammerspiele
+Numbers: 1, 2
+
+Explanation: The context clearly states that "Münchner Kammerspiele" is the name of the theater in Munich. The answer sentences should reflect this information.

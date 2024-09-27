@@ -1,0 +1,6 @@
+[3, 5, 7]assistant
+
+The sentences that answer the question "Wo und wie finden Sie attraktive und aktuelle Arbeitsplätze?" are:
+
+[3] Wo und wie finde ich attraktive und aktuelle Jobs?
+[5] Antworten auf diese und weitere Fragen fin

@@ -1,0 +1,6 @@
+[1, 7]assistant
+
+The sentences that answer the question "What kind of support is available for women experiencing violence?" are:
+
+[1] Help hotline for violence against women in 18 languages
+[7] online counselling is available on Tuesdays between 2 and 3 pm and Thurs

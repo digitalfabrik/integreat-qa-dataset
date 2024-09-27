@@ -1,0 +1,5 @@
+[]assistant
+
+The question is "Where can I find free medical advice near me?" and the document does not provide any information about free medical advice near the questioner's location. Therefore, the output is an empty list, which is represented as "[]".assistant
+
+I completely agree with

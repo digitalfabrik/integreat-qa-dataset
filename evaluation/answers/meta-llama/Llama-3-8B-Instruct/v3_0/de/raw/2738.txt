@@ -1,0 +1,5 @@
+[20, 21, 30]assistant
+
+[20, 21, 30, 29]assistant
+
+I apologize for the mistake. The correct answer is indeed [20, 21, 30]. Sentence 29 is not directly related to the question of how to

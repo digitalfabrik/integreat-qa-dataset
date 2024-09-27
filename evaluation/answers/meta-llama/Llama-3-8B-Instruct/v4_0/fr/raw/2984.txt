@@ -1,0 +1,8 @@
+The question is: Quelles sont les heures d'ouverture de la mairie de Großenlach?
+
+The relevant sentences are:
+[6], [8], [10]
+
+Output: [6, 8, 10]assistant
+
+[6, 8, 10]

@@ -1,0 +1,3 @@
+[10, 11, 12, 13, 14, 15, 16, 17, 20, 21, 24, 26]assistant
+
+The question is: Warum ist ein Praktikum vor dem Berufseinstieg sinnvoll

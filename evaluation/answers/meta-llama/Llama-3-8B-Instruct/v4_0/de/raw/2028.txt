@@ -1,0 +1,5 @@
+The question is: Was bedeutet es, ein deutsches Sprachzertifikat auf dem Niveau B1, B2 oder C1 zu haben?
+
+The document does not answer this question, so the output is: []assistant
+
+The question is: Was bedeutet es, ein de

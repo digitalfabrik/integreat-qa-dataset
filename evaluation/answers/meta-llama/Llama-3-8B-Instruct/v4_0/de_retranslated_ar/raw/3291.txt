@@ -1,0 +1,9 @@
+The question is: Wie viel kostet die Impfung von Kindern in Deutschland?
+
+The document does not provide information on the cost of the vaccination for children in Germany. Therefore, the output is:
+
+[]assistant
+
+The question is: Wie viel kostet die Impfung von Kindern in Deutschland?
+
+The

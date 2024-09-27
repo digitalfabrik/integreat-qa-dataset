@@ -1,0 +1,5 @@
+[2, 3, 10, 11, 12, 13]assistant
+
+The sentences that answer the question "What does an asylum seeker orientation course involve?" are:
+
+[2] In an initial orientation course, you will gain your first knowledge of German for everyday life (work,

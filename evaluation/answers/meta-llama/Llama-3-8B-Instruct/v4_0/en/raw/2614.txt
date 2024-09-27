@@ -1,0 +1,8 @@
+[2, 3, 6-10, 11-14]assistant
+
+The sentences that answer the question "What types of tickets are available for local public transport?" are:
+
+2. These are buses and trains.
+3. Ticket
+6. There are, for example:
+7. One

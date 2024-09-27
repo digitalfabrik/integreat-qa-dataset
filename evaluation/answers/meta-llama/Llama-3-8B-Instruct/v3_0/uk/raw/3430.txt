@@ -1,0 +1,5 @@
+[]assistant
+
+Note: The question is in Ukrainian, and the document is in German. I assume that the question is asking which vaccinations in Germany are free. Since the document is in German, I will translate the question to German: "Welche Impfungen in Deutschland sind kostenlos?".
+
+After reviewing

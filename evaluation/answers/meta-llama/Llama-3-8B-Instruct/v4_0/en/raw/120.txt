@@ -1,0 +1,5 @@
+[2, 4, 13]assistant
+
+The sentences that answer the question "Where can you turn if you are threatened with losing your home?" are:
+
+[2] If you are threatened with losing your home due to termination, eviction proceedings or an eviction order, you can contact the specialist center

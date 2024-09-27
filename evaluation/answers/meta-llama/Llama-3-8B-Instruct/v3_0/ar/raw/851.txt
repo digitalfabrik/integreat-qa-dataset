@@ -1,0 +1,5 @@
+[12, 13]assistant
+
+Note: The question is in Arabic, and the document is in German. The answer IDs provided are based on the assumption that the relevant sentences in the document are those that mention financial assistance for the homeless.assistant
+
+Thank you for the clarification. Yes

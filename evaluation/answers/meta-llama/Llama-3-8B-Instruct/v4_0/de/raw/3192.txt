@@ -1,0 +1,7 @@
+The question is: Welche Strafen drohen bei Verstößen gegen das Masernschutzgesetz?
+
+The relevant sentences from the document are: []
+
+There are no sentences in the document that answer this question.assistant
+
+The correct output is indeed "[]" since none of the sentences in the

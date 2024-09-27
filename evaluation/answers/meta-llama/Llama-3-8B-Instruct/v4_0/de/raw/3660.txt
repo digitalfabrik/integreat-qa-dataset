@@ -1,0 +1,5 @@
+[1, 7, 9, 20, 21, 24]assistant
+
+The sentences that answer the question "Wie kann ich mich für einen Online-Deutschkurs anmelden?" are:
+
+* [1] Vollständiger B1-Kurs: "Nicos Weg"

@@ -1,0 +1,3 @@
+[39, 40, 41, 42, 43, 44, 45, 46, 47]assistant
+
+The sentences that answer the question "ما هي الظروف التي يحق للمتدربين في ظلها الحصول على مدفوعات؟" are

@@ -1,0 +1,5 @@
+[8]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to "What is the age range of the students in the vocational integration school?".
+
+The sentence [8] mentions that the school is for people between 15 and

@@ -1,0 +1,4 @@
+["0", "1", "2", "3", "6", "7"]
+The sentences that answer the question are:
+0. "Dublin-Verfahren" - This is a relevant sentence because it shows that the following sentences are about the Dublin-Verfahren.
+1.

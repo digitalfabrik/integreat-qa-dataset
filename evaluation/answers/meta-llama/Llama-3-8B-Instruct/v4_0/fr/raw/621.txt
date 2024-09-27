@@ -1,0 +1,8 @@
+The question is: Qui est le diversityCafé pour?
+
+The relevant sentences are:
+[2, 3, 9]
+
+These sentences answer the question by stating that the diversityCafé is for young LGBTIQ* people and their friends up to the age of 27.assistant
+
+[

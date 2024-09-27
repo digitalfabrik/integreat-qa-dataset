@@ -1,0 +1,5 @@
+[1, 2]assistant
+
+The sentences that answer the question "Quelles sont les possibilités de formation professionnelle en Allemagne?" are:
+
+[1] En Allemagne, il n'existe pas exclusivement une formation en alternance, mais également une formation dans une é

@@ -1,0 +1,3 @@
+[]assistant
+
+The question is "Wie kann ich Unterstützung für Geflüchtete im Rathaus Spiegelberg bekommen?" and the document does not provide any information about how to get support for refugees at the Rathaus Spiegelberg. Therefore, the output is an empty list.assistant

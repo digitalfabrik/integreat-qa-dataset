@@ -1,0 +1,5 @@
+[]assistant
+
+I apologize for the mistake. Since the question is about the concept of "Integrationskurs" in Germany, and none of the sentences in the document mention this term, the correct output is indeed an empty list: []
+
+If you'd like to rephrase the question or provide more

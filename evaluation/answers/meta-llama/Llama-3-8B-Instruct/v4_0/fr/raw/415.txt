@@ -1,0 +1,6 @@
+[4, 5]assistant
+
+The sentences that answer the question are:
+
+4. Dans le cadre d'un recours, le tribunal administratif de Munich réexamine la décision de l'Office fédéral.
+5. Si le tribunal rend une autre décision, il oblige

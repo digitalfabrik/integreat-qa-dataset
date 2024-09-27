@@ -1,0 +1,5 @@
+[2]assistant
+
+The sentence with ID 2 answers the question: "إلى من يمكنني اللجوء إذا كنت في خطر فقدان منزلي؟"assistant
+
+You are correct. The sentence with ID 2 answers the question: "إلى من يمكنني الل

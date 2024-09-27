@@ -1,0 +1,9 @@
+Answer: The grocery stores that only sell halal food can be found south of the main train station. ## Sentence numbers: 30
+
+Answer: Some of the large supermarket chains now also offer halal food. ## Sentence numbers: 33
+
+Answer: There are grocery stores that only sell halal food near Pasing station. ## Sentence numbers: 32
+
+Answer: None. ## Numbers: -1
+
+(Note: The context does not provide specific information about stores that only sell halal food outside of the areas mentioned.)

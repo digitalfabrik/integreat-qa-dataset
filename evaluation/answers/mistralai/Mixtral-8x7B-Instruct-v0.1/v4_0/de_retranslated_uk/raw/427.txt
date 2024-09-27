@@ -1,0 +1,2 @@
+[4, 8, 16, 31]
+These sentences describe the lowest level of language proficiency, which is Sprachniveau A (language level A) and further divided into A1 (beginner) and A2 (elementary).

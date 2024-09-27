@@ -1,0 +1,9 @@
+[]assistant
+
+I apologize for the mistake. Here is the correct output:
+
+[]assistant
+
+You are correct. The question asks about German courses for immigrants, but the document does not mention any specific German courses for immigrants. Therefore, the output should be an empty list:
+
+[]assistant

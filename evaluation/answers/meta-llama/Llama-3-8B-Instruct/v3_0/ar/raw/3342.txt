@@ -1,0 +1,5 @@
+[10, 18]assistant
+
+Note: The question is in Arabic, and the document is in German. The answer IDs provided are based on the English translation of the question.assistant
+
+Thank you for the clarification. The question is asking about the difference between a Bachelor's degree and

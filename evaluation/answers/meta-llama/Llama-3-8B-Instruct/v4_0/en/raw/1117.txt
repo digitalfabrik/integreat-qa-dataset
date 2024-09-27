@@ -1,0 +1,7 @@
+[2]assistant
+
+The sentence with ID 2 answers the question "What types of child daycare are there in Germany?"assistant
+
+[2]assistant
+
+That's correct! The sentence with ID 2 answers the question "What types of child daycare are there in Germany

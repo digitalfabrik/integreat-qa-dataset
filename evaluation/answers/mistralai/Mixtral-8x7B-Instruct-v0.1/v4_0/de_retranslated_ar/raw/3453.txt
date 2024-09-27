@@ -1,0 +1,1 @@
+[10, 19] as the sentences answer the question "Which documents are required for the asylum procedure?" They mention that bringing evidence for one's claims is important and that failing to do so can lead to the rejection or termination of the asylum application.

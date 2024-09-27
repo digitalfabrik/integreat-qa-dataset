@@ -1,0 +1,8 @@
+The question is: Як працюють перший і другий голоси?
+
+The relevant sentences from the document are:
+
+21 Тоді ви маєте право голосу.
+32 Тоді ви маєте право балотуватися на виборах.
+
+The IDs of the relevant sentences are: [21, 32]

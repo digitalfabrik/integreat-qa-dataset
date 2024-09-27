@@ -1,0 +1,7 @@
+[11, 12]assistant
+
+The question is "Що таке Serlo ABC і як його використовувати?" which translates to "What is Serlo ABC and how to use it?"
+
+The sentences that answer this question are:
+
+[11] За допомогою безкоштовного додатку Ser

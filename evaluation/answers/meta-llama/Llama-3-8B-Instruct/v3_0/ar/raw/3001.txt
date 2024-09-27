@@ -1,0 +1,5 @@
+[1, 3]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is asking about the meaning of "Berufsausbildung" in Germany.assistant
+
+You're correct! I apologize for not noticing the language

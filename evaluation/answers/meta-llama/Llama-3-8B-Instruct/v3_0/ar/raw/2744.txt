@@ -1,0 +1,3 @@
+[2, 4, 6, 11]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "Wo kann ich psychologischen Support finden?" (Where can I find psychological support?). If that's correct

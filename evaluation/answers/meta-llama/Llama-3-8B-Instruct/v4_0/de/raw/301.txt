@@ -1,0 +1,5 @@
+[5, 7, 8, 9, 10, 11, 12, 13]assistant
+
+The sentences that answer the question "Wer kann kostenlose Integrationskurse besuchen?" are:
+
+[5] Die Integrationskurse sind für Geflüchtete sowie für

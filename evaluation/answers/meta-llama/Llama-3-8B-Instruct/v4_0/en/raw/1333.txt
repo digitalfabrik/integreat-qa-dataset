@@ -1,0 +1,10 @@
+The question is: What does "outpatient" mean in the context of the German healthcare system?
+
+The relevant sentences are:
+[4, 5]
+
+These sentences define what "outpatient" means in the context of the German healthcare system.assistant
+
+The correct output is:
+
+[4, 5

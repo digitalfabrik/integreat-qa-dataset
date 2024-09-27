@@ -1,0 +1,9 @@
+[6, 10]assistant
+
+I apologize for the mistake. The correct answer is:
+
+[6, 10, 20]assistant
+
+You are correct, the sentences that answer the question "Wo kann ich mich für Weiterbildungskurse anmelden?" are:
+
+[6]

@@ -1,0 +1,10 @@
+The question is: Was ist das Chancen-Aufenthaltsgesetz?
+
+The relevant sentences are:
+
+0 Chancen-Aufenthaltsgesetz
+1 Seit dem 31.
+
+The IDs of the relevant sentences are: [0,1]assistant
+
+[0,1]

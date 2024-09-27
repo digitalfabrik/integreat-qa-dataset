@@ -1,0 +1,3 @@
+[2]assistant
+
+Note: The question is in Arabic, and the document is in German. I assume that the question is translated to German as "Was sind die erforderlichen ärztlichen Zeugnisse?" (What types of medical certificates are required?). If that's correct, the answer

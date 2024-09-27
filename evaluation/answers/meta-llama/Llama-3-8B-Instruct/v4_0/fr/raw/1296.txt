@@ -1,0 +1,5 @@
+[1, 5, 6, 7]assistant
+
+The sentences that answer the question "Quelle est la différence entre les médicaments avec et sans ordonnance?" are:
+
+[1] Si tu as besoin de médicaments, ton médecin te remet

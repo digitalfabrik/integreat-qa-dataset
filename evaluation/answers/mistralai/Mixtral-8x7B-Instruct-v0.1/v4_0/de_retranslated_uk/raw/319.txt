@@ -1,0 +1,3 @@
+[4, 5, 7, 8] are the relevant sentences.
+
+These sentences describe the two types of study programs (Ausbildungen) in Germany: a school-based education (schulische Ausbildung) and a dual system (duales System), which combines theory and

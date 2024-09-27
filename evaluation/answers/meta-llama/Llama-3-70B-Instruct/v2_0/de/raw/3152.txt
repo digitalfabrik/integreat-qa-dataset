@@ -1,0 +1,17 @@
+16 Die Voraussetzungen für Kinderbetreuungszuschüsse sind:
+17 Die Eltern müssen einen Wohnsitz in Deutschland haben.
+18 Die Eltern müssen einen gültigen Aufenthaltstitel haben.
+19 Die Eltern müssen ein Einkommen haben, das unterhalb der Einkommensgrenze liegt.
+20 Die Eltern müssen ein Kind haben, das noch nicht 14 Jahre alt ist.
+21 Die Eltern müssen ein Antrag auf Kinderbetreuungszuschuss stellen.
+22 Der Antrag muss vor Beginn der Kinderbetreuung gestellt werden.
+23 Der Antrag kann online oder schriftlich gestellt werden.
+24 Der Antrag wird von der zuständigen Behörde geprüft.
+25 Der Antrag wird genehmigt, wenn alle Voraussetzungen erfüllt sind.
+26 Der Kinderbetreuungszuschuss wird dann monatlich gezahlt.
+27 Der Kinderbetreuungszuschuss kann auch für Kinderbetreuung in der Kindertagespflege verwendet werden.
+28 Der Kinderbetreuungszuschuss kann auch für Kinderbetreuung in einer Kindertageseinrichtung verwendet werden.
+29 Der Kinderbetreuungszuschuss kann auch für Kinderbetreuung in einer anderen Einrichtung verwendet werden.
+30 Der Kinderbetreuungszuschuss kann auch für Kinderbetreuung durch eine Tagesmutter verwendet werden.
+
+## Answer: Die Eltern müssen einen Wohnsitz in Deutschland haben, einen gültigen Aufenthaltstitel haben, ein Einkommen haben, das unterhalb der Einkommensgrenze liegt, ein Kind haben, das noch nicht 14 Jahre alt ist und ein Antrag auf Kinderbetreuungszuschuss stellen. ## Sentence numbers: 16-21

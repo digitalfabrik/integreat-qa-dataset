@@ -1,0 +1,4 @@
+## Answer: Die Stadt München bietet ihren Mitarbeitern Karrierechancen, duales Studium oder Ausbildung, Hilfe bei der Wohnungssuche, gute Betreuung, Studienreisen, Auslandspraktika, Seminare und attraktive Ausbildungs- und Entwicklungsmöglichkeiten. ## Sentence numbers: 1, 9, 11, 12, 15
+
+Explanation:
+The context mentions that the City of Munich offers careers, dual studies or apprenticeships, help with finding housing, good childcare, study trips, international internships, seminars, and attractive training and development opportunities. Therefore, the answer sentences are those that explicitly state these benefits for employees of the City of Munich.

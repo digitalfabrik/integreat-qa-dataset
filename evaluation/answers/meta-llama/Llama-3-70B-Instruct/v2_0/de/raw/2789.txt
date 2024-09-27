@@ -1,0 +1,8 @@
+50 Primary Care
+51 Primary Care ist die medizinische Versorgung, die von Hausärzten, Kinderärzten und Fachärzten geleistet wird.
+52 Sie ist die erste Kontaktstelle bei Krankheiten und Gesundheitsfragen.
+53 Primary Care ist wichtig, weil sie die Gesundheit fördert und Krankheiten verhindert.
+
+## Answer: die medizinische Versorgung, die von Hausärzten, Kinderärzten und Fachärzten geleistet wird. ## Sentence numbers: 51
+```
+Please note that the answer is a sentence from the context, and the sentence numbers are the numbers of the sentences in the context.
