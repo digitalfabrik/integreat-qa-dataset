@@ -15,7 +15,7 @@ Furthermore, we evaluate different approaches and models on our dataset.
 
 - [Dataset](#dataset): Our dataset for QA in Integreat
 - [Annotation Tool](#annotation-tool): A web-based annotation tool for answer sentence extraction
-- [Evaluation](#evaluation): Evaluation of LLMs and encoder-only models on the integreat-qa-omos dataset 
+- [Evaluation](evaluation): Evaluation of LLMs and encoder-only models on the integreat-qa-omos dataset 
 
 ## Dataset
 
@@ -62,5 +62,11 @@ Only questions with high inter-annotator agreement are present in our dataset.
 ## Annotation Tool
 
 In order to facilitate the manual answer annotation, we created our own web-based annotation tool which can be found in [annotation-tool](annotation-tool).
+The annotation tools consists of two components:
+- A React [frontend](annotation-tool/frontend) written in TypeScript
+- A Ktor [backend](annotation-tool/backend) written in Kotlin
 
-## Evaluation
+<p float="left">
+<img src="resources/annotation_tool_answerable.png" width="49%" />
+<img src="resources/annotation_tool_unanswerable.png" width="49%" />
+</p>

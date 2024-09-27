@@ -5,7 +5,7 @@
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/annotation-backend" />
+    <file type="web" url="file://$PROJECT_DIR$/annotation-tool/backend" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="thesis (2)" project-jdk-type="Python SDK" />
 </project>
